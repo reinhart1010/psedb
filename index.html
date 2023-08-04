@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>PSEDB Data Checker</title>
+    <style>
+        body {
+            font-family: "Segoe UI Variable Text", -apple-system, BlinkMacSystemFont,
+                Inter, "Segoe UI", Cantarell, "Open Sans", "Noto Sans", Piboto,
+                "HarmonyOS Sans", Ubuntu, "Roboto Flex", Roboto, "Helvetica Neue", FreeSans,
+                Arial, sans-serif;
+                max-width: 850px;
+                margin-bottom: 1rem;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 1rem;
+                padding: 1rem;
+            }
+
+            h1, h2, h3, h4, h5, h6 {
+            font-family: ui-serif, "Aptos Serif", "Constantia", "Charter", "STIX Two Text",
+                "Libertinus Serif", "Linux Libertine O", "Linux Libertine G",
+                "Linux Libertine", "DejaVu Serif", "Bitstream Vera Serif", "Roboto Serif",
+                "Noto Serif", "Times New Roman", serif;
+            font-weight: 600;
+            }
+
+            a {
+                color: #0094d7;
+                color: oklch(63% 0.15 236deg);
+                font-weight: 700;
+                font-weight: bolder;
+            }
+
+            a:active, a:hover {
+                color: #44ade5;
+                color: oklch(71% 0.125 236deg);
+            }
+
+            code, kbd, pre {
+                font-family: Menlo, "DejaVu Sans Mono", Hack, monospace;
+            }
+
+            figure {
+                width: min-content;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            figure figcaption {
+                font-style: italic;
+                text-align: center;
+            }
+
+            p {
+                line-height: 150%;
+            }
+
+            table {
+                border-spacing: 1px;
+            }
+
+            table th {
+                text-align: start;
+            }
+
+            table th, table td {
+                padding: 0.33rem;
+            }
+
+            @media screen and (prefers-color-scheme: dark) {
+                html {
+                    background-color: #000000;
+                    color: #ffffff;
+                }
+                a {
+                    color: #44ade5;
+                    color: oklch(79% 0.1 236deg);
+                }
+            }
+
+    </style>
+</head>
+<body>
+    <h1>PSEDB</h1>
+    <p>Welcome to PSEDB, an unofficial, developer-friendly dataset of Indonesia's registered <a href="https://pse.kominfo.go.id">Private Sector Electronic System Operators (PSE/ESO)</a> and operating sites. This data may also be used for existing PSE/ESO-compliant web services for filtering or moderating external links and content. For example, when showing comments from external sites.</p>
+    <figure>
+        <img alt="Example dataset usage" src="/example-usage.png" height="413" width="421" />
+        <figcaption>Example usage</figcaption>
+    </figure>
+    <p>This API service is static (not dynamic) and must be updated regularly to reflect changes in the official PSE/ESO dataset provided by the Ministry of Telecommunication and Informatics, Republic of Indonesia.</p>
+    <p>If you have just set up your local copy of PSEDB through <a href="https://github.com/reinhart1010/psedb">our Git repository</a>, you can also fetch the latest version by running <kbd>git pull</kbd> regularly. However, those who prefer using Go may simply run <kbd>go run main.go</kbd> on the repository's root directory.</p>
+    <p>Our official version of the dataset, as hosted on <kbd>https://psedb.reinhart1010.id</kbd> and our <a href="https://github.com/reinhart1010/psedb">Git repository</a>, is currently automated using GitHub Actions, GitLab CI, and a homegrown CI service. You may also support us through <a href="https://github.com/sponsors/reinhart1010">GitHub Sponsors</a>, <a href="https://nihbuatjajan.com/reinhart1010">Nih Buat Jajan</a>, and <a href="https://saweria.co/reinhart1010">Saweria</a>.</p>
+    <h2 id="usage">Using the API</h2>
+    <p>To fetch the data, perform a GET request to <kbd>/url/{reversed domain name with slash instead of dot}.json</kbd>, such as <kbd>/url/id/reinhart1010/psedb.json</kbd> for <kbd>psedb.reinhart1010.id</kbd>.</p>
+    <p>Please also beware of sites who are using the <kbd>www</kbd> subdomain, since we treat them explicitly as different site than the root domain. For example, if <kbd>reinhart1010.id</kbd> on <kbd>/url/id/reinhart1010.json</kbd> returns a 404 - Not Found response, try checking <kbd>/url/id/reinhart1010/<u>www</u>.json</kbd> for <kbd><u>www</u>.reinhart1010.id</kbd>.</p>
+    <p>You can check the API here.</p>
+    <form>
+        <input type="url" name="url" placeholder="Site URL" />
+        <button type="submit" id="query-button">Check</button>
+    </form>
+    <div id="query-result"></div>
+    <h2 id="copyright">Copyright and License</h2>
+    <p><strong>Official ESO/PSE Dataset © Ministry of Communication and Informatics of Republic of Indonesia.</strong> All rights reserved.</p>
+    <p>In accordance to Republic of Indonesia copyright laws (<i>Undang-Undang Nomor 28 Tahun 2014 Tentang Hak Cipta</i>), the usage of copyrighted content is exempted from infringement (Fair Use) for legal administrative and security purposes with proper attribution to the source and/or author(s).</p>
+    <p><strong>PSEDB © 2023 Reinhart Previano Koentjoro.</strong> Some rights reserved.</p>
+    <p>Our official version of the dataset, as hosted on <kbd>https://api.psedb.reinhart1010.id</kbd> and our Git repositories, is licensed under <a href="https://opendatacommons.org/licenses/odbl/1-0/">Open Database License (ODbL) 1.0</a>. Our source code are released under <a href="https://github.com/reinhart1010/psedb/">MIT License</a>.</p>
+    <script>
+        document.getElementById('query-button').addEventListener('click', function (event) {
+            event.preventDefault();
+            var urlRaw = document.getElementsByName('url')[0].value;
+            var resultContainer = document.getElementById('query-result');
+            try {
+                var res = "";
+                var url;
+                url = new URL(urlRaw.startsWith('https://' || urlRaw.startsWith('http://')) ? urlRaw : ('http://' + urlRaw));
+                res += urlRaw + ' is a valid URL.<br><br>';
+                var urlSegments = url.hostname.split('.').reverse().join('/');
+                var requestUrl = '/data/' + urlSegments + '.json';
+                res += 'To fetch the data, perform a GET request to <a href="' + requestUrl + '" target="_blank">' + requestUrl + '</a>.';
+                var xhttp = new XMLHttpRequest();
+                xhttp.onreadystatechange = function () {
+                    if (this.readyState == 4) {
+                        if (this.status == 200) {
+                            resultContainer.innerHTML += '<br><br>'
+                            json = JSON.parse(this.responseText);
+                            resultContainer.innerHTML += 'Response:<br><pre><code>' + JSON.stringify(json, null, 2) + '</code></pre>';
+                        } else if (this.status == 404) {
+                            resultContainer.innerHTML += '<br><br>'
+                            resultContainer.innerHTML += 'Response: Not Found'
+                        }
+                    }
+                };
+                xhttp.open('GET', requestUrl, true);
+                xhttp.send();
+                resultContainer.innerHTML = res;
+            } catch (e) {
+                resultContainer.innerHTML = e;
+            }
+        })
+    </script>
+</body>
+</html>
