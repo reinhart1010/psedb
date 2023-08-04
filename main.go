@@ -108,7 +108,7 @@ func stage2() {
 
 		for _, site := range data.Data {
 			// 1. Detect and iterate multiple URLs
-			for _, siteUrl := range urlRegex.FindAllString(site[CSV_SYSTEM_URL].(string), -1) {
+			for _, siteUrl := range append(urlRegex.FindAllString(site[CSV_SYSTEM_NAME].(string), -1), urlRegex.FindAllString(site[CSV_SYSTEM_URL].(string), -1)...) {
 				// 2. Parse URL from list
 				// Eliminate all invalid URLs like "-"
 				// Handle cases like "http(s)://reinhart1010.id" and "reinhart1010.id" (without protocol string)
