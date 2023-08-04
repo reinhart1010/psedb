@@ -104,15 +104,17 @@ func stage2() {
 		}
 
 		urlRegex := regexp.MustCompile(`((http|ftp|https):\/\/){0,1}([\w\-_]+(?:(?:\.[\w\-_]+)+))([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?`)
+		strictUrlRegex := regexp.MustCompile(`(http|ftp|https):\/\/([\w\-_]+(?:(?:\.[\w\-_]+)+))([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?`)
 		portRemovalRegex := regexp.MustCompile(`:\d+`)
 
 		for _, site := range data.Data {
 			// 1. Detect and iterate multiple URLs
-			for _, siteUrl := range append(urlRegex.FindAllString(site[CSV_SYSTEM_NAME].(string), -1), urlRegex.FindAllString(site[CSV_SYSTEM_URL].(string), -1)...) {
+			for _, siteUrl := range append(strictUrlRegex.FindAllString(site[CSV_SYSTEM_NAME].(string), -1), urlRegex.FindAllString(site[CSV_SYSTEM_URL].(string), -1)...) {
 				// 2. Parse URL from list
 				// Eliminate all invalid URLs like "-"
 				// Handle cases like "http(s)://reinhart1010.id" and "reinhart1010.id" (without protocol string)
-				parsedUrl, err := url.Parse(fmt.Sprintf("http://%s", siteUrl))
+				// String replacemenent due to cases like "co,id" instead of "co.id"
+				parsedUrl, err := url.Parse(fmt.Sprintf("http://%s", strings.ReplaceAll(siteUrl, ",", ".")))
 				if err != nil {
 					parsedUrl, err = url.Parse(siteUrl)
 				}
