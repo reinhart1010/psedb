@@ -29,6 +29,10 @@ const CSV_OPERATOR_NAME = 4
 const CSV_REGISTRATION_DATE = 5
 const CSV_REGISTRATION_ID = 6
 
+var PortRemovalRegex = regexp.MustCompile(`:\d+`)
+var StrictUrlRegex = regexp.MustCompile(`(http|ftp|https):\/\/([\w\-_]+(?:(?:\.[\w\-_]+)+))([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?`)
+var UrlRegex = regexp.MustCompile(`^((http|ftp|https):\/\/){0,1}([\w\-_]+(?:(?:\.[\w\-_]+)+))([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?$`)
+
 var SiteLists = [6][2]string{
 	{"domestik-terdaftar", "https://pse.kominfo.go.id/api/v1/retrieve-json-all?status=LOKAL_TERDAFTAR"},
 	{"domestik-dihentikan-sementara", "https://pse.kominfo.go.id/api/v1/retrieve-json-all?status=LOKAL_DIHENTIKAN_SEMENTARA"},
@@ -82,6 +86,91 @@ func stage1() {
 	}
 }
 
+func parseSiteUrl(siteUrl string, site [7]any, listType string) {
+	// 2. Parse URL from list
+	// Eliminate all invalid URLs like "-"
+	// Handle cases like "http(s)://reinhart1010.id" and "reinhart1010.id" (without protocol string)
+	// String replacemenent due to cases like "co,id" instead of "co.id"
+	filtered := strings.ReplaceAll(strings.ReplaceAll(strings.ReplaceAll(strings.ReplaceAll(siteUrl, ",", "."), "(", ""), ")", ""), ";", "")
+	parsedUrl, err := url.Parse(fmt.Sprintf("http://%s", filtered))
+	if err != nil {
+		parsedUrl, err = url.Parse(siteUrl)
+	}
+	if err != nil {
+		fmt.Printf("| (>_ ): Failed to parse url: %s (%s)\n", site[CSV_SYSTEM_NAME].(string), site[CSV_SYSTEM_URL].(string))
+		return
+	}
+
+	// 3. Remove unnecessary information
+	urlDomain := strings.ToLower(strings.ReplaceAll(PortRemovalRegex.ReplaceAllString(parsedUrl.Host, ""), ";", ""))
+	if len(urlDomain) == 0 || urlDomain == "http:" || urlDomain == "https:" {
+		return
+	}
+
+	// 4. Split and reverse array
+	// e.g.: google.com -> ["google", "com"] -> ["com", "google"] -> "com/google"
+	urlParts := strings.Split(urlDomain, ".")
+	for i := 0; i < len(urlParts)/2; i++ {
+		j := len(urlParts) - i - 1
+		urlParts[i], urlParts[j] = urlParts[j], urlParts[i]
+	}
+	reversedUrl := strings.Join(urlParts, "/")
+	reversedUrlPath := strings.Join(urlParts[:len(urlParts)-1], "/")
+
+	// 5. Open or create site info file
+	err = os.MkdirAll(fmt.Sprintf("data/%s", reversedUrlPath), os.ModePerm)
+	siteInfoFile, err := os.OpenFile(fmt.Sprintf("data/%s.json", reversedUrl), os.O_CREATE|os.O_RDWR, 0644)
+	if err != nil {
+		fmt.Printf("| (>_ ): Failed to open site info file: %s (%s): %v\n", site[CSV_SYSTEM_NAME].(string), site[CSV_SYSTEM_URL].(string), err)
+		return
+	}
+
+	// 6. Check data
+	tdpseRegex := regexp.MustCompile(`https:\/\/pse.kominfo.go.id\/tdpse-detail\/(\d+?)($|\D)`)
+	tdpseId := tdpseRegex.FindStringSubmatch(site[CSV_REGISTRATION_ID].(string))
+
+	var siteInfoData map[string]PseEntry
+	siteInfoRaw, err := ioutil.ReadAll(siteInfoFile)
+	err = json.Unmarshal(siteInfoRaw, &siteInfoData)
+	if err != nil {
+		siteInfoData = make(map[string]PseEntry)
+	}
+
+	// 7. Assign data to PseEntry
+	siteInfoData[tdpseId[1]] = PseEntry{
+		RegistrationStatus: strings.ToUpper(listType),
+		SystemName:         site[CSV_SYSTEM_NAME].(string),
+		SystemURL:          site[CSV_SYSTEM_URL].(string),
+		OperatorSector:     site[CSV_OPERATOR_SECTOR].(string),
+		OperatorName:       site[CSV_OPERATOR_NAME].(string),
+		RegistrationDate:   site[CSV_REGISTRATION_DATE].(string),
+		RegistrationID:     site[CSV_REGISTRATION_ID].(string),
+	}
+
+	// 8. Update JSON
+	final, err := json.Marshal(siteInfoData)
+	if err != nil {
+		fmt.Printf("| (>_ ): Failed to create JSON: %s (%s)\n", site[CSV_SYSTEM_NAME], site[CSV_SYSTEM_URL])
+		return
+	}
+
+	// 9. Rewrite JSON to file
+	siteInfoFile.Truncate(0)
+	siteInfoFile.Seek(0, 0)
+	_, err = siteInfoFile.WriteString(string(final))
+	if err != nil {
+		fmt.Printf("| (>_ ): Failed to write JSON string: %s (%s)\n", site[CSV_SYSTEM_NAME], site[CSV_SYSTEM_URL])
+		return
+	}
+
+	// 10. Close JSON
+	err = siteInfoFile.Close()
+	if err != nil {
+		fmt.Printf("| (>_ ): Failed to save file to data/%s.json: %s (%s)\n", reversedUrl, site[CSV_SYSTEM_NAME], site[CSV_SYSTEM_URL])
+		return
+	}
+}
+
 func stage2() {
 	fmt.Println("(>_ ): Starting Parser...")
 	for _, list := range SiteLists {
@@ -103,94 +192,22 @@ func stage2() {
 			continue
 		}
 
-		urlRegex := regexp.MustCompile(`((http|ftp|https):\/\/){0,1}([\w\-_]+(?:(?:\.[\w\-_]+)+))([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?`)
-		strictUrlRegex := regexp.MustCompile(`(http|ftp|https):\/\/([\w\-_]+(?:(?:\.[\w\-_]+)+))([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?`)
-		portRemovalRegex := regexp.MustCompile(`:\d+`)
-
 		for _, site := range data.Data {
 			// 1. Detect and iterate multiple URLs
-			for _, siteUrl := range append(strictUrlRegex.FindAllString(site[CSV_SYSTEM_NAME].(string), -1), urlRegex.FindAllString(site[CSV_SYSTEM_URL].(string), -1)...) {
-				// 2. Parse URL from list
-				// Eliminate all invalid URLs like "-"
-				// Handle cases like "http(s)://reinhart1010.id" and "reinhart1010.id" (without protocol string)
-				// String replacemenent due to cases like "co,id" instead of "co.id"
-				parsedUrl, err := url.Parse(fmt.Sprintf("http://%s", strings.ReplaceAll(siteUrl, ",", ".")))
-				if err != nil {
-					parsedUrl, err = url.Parse(siteUrl)
-				}
-				if err != nil {
-					fmt.Printf("| (>_ ): Failed to parse url: %s (%s)\n", site[CSV_SYSTEM_NAME].(string), site[CSV_SYSTEM_URL].(string))
+			for _, siteUrl := range strings.Split(site[CSV_SYSTEM_NAME].(string), " ") {
+				if !StrictUrlRegex.MatchString(siteUrl) {
 					continue
 				}
-
-				// 3. Remove unnecessary information
-				urlDomain := strings.ToLower(strings.ReplaceAll(portRemovalRegex.ReplaceAllString(parsedUrl.Host, ""), ";", ""))
-				if len(urlDomain) == 0 || urlDomain == "http:" || urlDomain == "https:" {
+				parseSiteUrl(siteUrl, site, list[0])
+			}
+			for _, siteUrl := range strings.Split(site[CSV_SYSTEM_URL].(string), " ") {
+				if !UrlRegex.MatchString(siteUrl) {
 					continue
 				}
-
-				// 4. Split and reverse array
-				// e.g.: google.com -> ["google", "com"] -> ["com", "google"] -> "com/google"
-				urlParts := strings.Split(urlDomain, ".")
-				for i := 0; i < len(urlParts)/2; i++ {
-					j := len(urlParts) - i - 1
-					urlParts[i], urlParts[j] = urlParts[j], urlParts[i]
-				}
-				reversedUrl := strings.Join(urlParts, "/")
-				reversedUrlPath := strings.Join(urlParts[:len(urlParts)-1], "/")
-
-				// 5. Open or create site info file
-				err = os.MkdirAll(fmt.Sprintf("data/%s", reversedUrlPath), os.ModePerm)
-				siteInfoFile, err := os.OpenFile(fmt.Sprintf("data/%s.json", reversedUrl), os.O_CREATE|os.O_RDWR, 0644)
-				if err != nil {
-					fmt.Printf("| (>_ ): Failed to open site info file: %s (%s): %v\n", site[CSV_SYSTEM_NAME].(string), site[CSV_SYSTEM_URL].(string), err)
-					continue
-				}
-
-				// 6. Check data
-				tdpseRegex := regexp.MustCompile(`https:\/\/pse.kominfo.go.id\/tdpse-detail\/(\d+?)($|\D)`)
-				tdpseId := tdpseRegex.FindStringSubmatch(site[CSV_REGISTRATION_ID].(string))
-
-				var siteInfoData map[string]PseEntry
-				siteInfoRaw, err := ioutil.ReadAll(siteInfoFile)
-				err = json.Unmarshal(siteInfoRaw, &siteInfoData)
-				if err != nil {
-					siteInfoData = make(map[string]PseEntry)
-				}
-
-				// 7. Assign data to PseEntry
-				siteInfoData[tdpseId[1]] = PseEntry{
-					RegistrationStatus: strings.ToUpper(list[0]),
-					SystemName:         site[CSV_SYSTEM_NAME].(string),
-					SystemURL:          site[CSV_SYSTEM_URL].(string),
-					OperatorSector:     site[CSV_OPERATOR_SECTOR].(string),
-					OperatorName:       site[CSV_OPERATOR_NAME].(string),
-					RegistrationDate:   site[CSV_REGISTRATION_DATE].(string),
-					RegistrationID:     site[CSV_REGISTRATION_ID].(string),
-				}
-
-				// 8. Update JSON
-				final, err := json.Marshal(siteInfoData)
-				if err != nil {
-					fmt.Printf("| (>_ ): Failed to create JSON: %s (%s)\n", site[CSV_SYSTEM_NAME], site[CSV_SYSTEM_URL])
-					continue
-				}
-
-				// 9. Rewrite JSON to file
-				siteInfoFile.Truncate(0)
-				siteInfoFile.Seek(0, 0)
-				_, err = siteInfoFile.WriteString(string(final))
-				if err != nil {
-					fmt.Printf("| (>_ ): Failed to write JSON string: %s (%s)\n", site[CSV_SYSTEM_NAME], site[CSV_SYSTEM_URL])
-					continue
-				}
-
-				// 10. Close JSON
-				err = siteInfoFile.Close()
-				if err != nil {
-					fmt.Printf("| (>_ ): Failed to save file to data/%s.json: %s (%s)\n", reversedUrl, site[CSV_SYSTEM_NAME], site[CSV_SYSTEM_URL])
-					continue
-				}
+				parseSiteUrl(siteUrl, site, list[0])
+			}
+			for _, siteUrl := range append(StrictUrlRegex.FindAllString(site[CSV_SYSTEM_NAME].(string), -1), UrlRegex.FindAllString(site[CSV_SYSTEM_URL].(string), -1)...) {
+				parseSiteUrl(siteUrl, site, list[0])
 			}
 		}
 	}
