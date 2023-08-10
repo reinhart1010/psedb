@@ -13,13 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: "reinhart1010/psedb"
       - name: Fetch new data
         run: "go run main.go"
       - name: Commit changes
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: ${{secrets.GIT_AUTHOR}}
           author_email: ${{secrets.GIT_EMAIL}}
