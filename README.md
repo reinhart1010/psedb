@@ -2,7 +2,7 @@
 
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/reinhart1010/psedb?authorFilter=1010bots&logo=github&label=Current%20DB%20Version%20(GitHub)&labelColor=%23004B77&color=%230095E1&link=https%3A%2F%2Fgithub.com%2Freinhart1010%2Fpsedb%2Fcommits%2Fmain)
 
-[![PSE Badge](pse-badge-en.png)](https://pse.kominfo.go.id/tdpse-detail/15516)
+[<img alt="PSE Badge" src="/pse-badge-en.png" height="60" width="180">](https://pse.kominfo.go.id/tdpse-detail/15516)
 
 Quick Links:
 
