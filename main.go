@@ -67,6 +67,9 @@ func stage1() int {
 	for _, list := range SiteLists {
 		fmt.Printf("| Downloading %s...\n", list[0])
 
+		// Disable TLS verification
+		http.DefaultTransport.(*http.Transport).TLSClientConfig = &tls.Config{InsecureSkipVerify: true}
+
 		client := &http.Client{}
 		req, err := http.NewRequest("GET", list[1], nil)
 		if err != nil {
