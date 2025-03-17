@@ -70,8 +70,8 @@ func main() {
 }
 
 func stage1() int {
-
 	fmt.Println("(#_ ): Starting Scraper...")
+	os.MkdirAll("raw", os.ModePerm)
 
 	for _, list := range SiteLists {
 		var wg sync.WaitGroup
