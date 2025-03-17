@@ -71,7 +71,6 @@ func main() {
 
 func stage1() int {
 
-	return PSEDBOK
 	fmt.Println("(#_ ): Starting Scraper...")
 
 	for _, list := range SiteLists {
