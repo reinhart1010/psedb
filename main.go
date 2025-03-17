@@ -10,7 +10,9 @@ import (
 	"net/url"
 	"os"
 	"regexp"
+	"strconv"
 	"strings"
+	"sync"
 )
 
 type PseEntry struct {
@@ -49,12 +51,12 @@ var (
 )
 
 var SiteLists = [6][2]string{
-	{"domestik-terdaftar", "https://pse.kominfo.go.id/api/v1/retrieve-json-all?status=LOKAL_TERDAFTAR"},
-	{"domestik-dihentikan-sementara", "https://pse.kominfo.go.id/api/v1/retrieve-json-all?status=LOKAL_DIHENTIKAN_SEMENTARA"},
-	{"domestik-dicabut", "https://pse.kominfo.go.id/api/v1/retrieve-json-all?status=LOKAL_DICABUT"},
-	{"asing-terdaftar", "https://pse.kominfo.go.id/api/v1/retrieve-json-all?status=ASING_TERDAFTAR"},
-	{"asing-dihentikan-sementara", "https://pse.kominfo.go.id/api/v1/retrieve-json-all?status=ASING_DIHENTIKAN_SEMENTARA"},
-	{"asing-dicabut", "https://pse.kominfo.go.id/api/v1/retrieve-json-all?status=ASING_DICABUT"},
+	{"domestik-terdaftar", "https://pse.komdigi.go.id/api-public/tdpse?index=LOKAL_TERDAFTAR&page=@&hit_per_page=50"},
+	{"domestik-dihentikan-sementara", "https://pse.komdigi.go.id/api-public/tdpse?index=LOKAL_DIHENTIKAN_SEMENTARA&page=@&hit_per_page=50"},
+	{"domestik-dicabut", "https://pse.komdigi.go.id/api-public/tdpse?index=LOKAL_DICABUT&page=@&hit_per_page=50"},
+	{"asing-terdaftar", "https://pse.komdigi.go.id/api-public/tdpse?index=ASING_TERDAFTAR&page=@&hit_per_page=50"},
+	{"asing-dihentikan-sementara", "https://pse.komdigi.go.id/api-public/tdpse?index=ASING_DIHENTIKAN_SEMENTARA&page=@&hit_per_page=50"},
+	{"asing-dicabut", "https://pse.komdigi.go.id/api-public/tdpse?index=ASING_DICABUT&page=@&hit_per_page=50"},
 }
 
 func main() {
@@ -65,44 +67,65 @@ func main() {
 
 func stage1() int {
 	fmt.Println("(#_ ): Starting Scraper...")
+
+	var wg sync.WaitGroup
 	for _, list := range SiteLists {
-		fmt.Printf("| Downloading %s...\n", list[0])
+		page := 1
+		outOf := 20 // Temporarily fetch the first 20 resources
 
-		// Disable TLS verification
-		http.DefaultTransport.(*http.Transport).TLSClientConfig = &tls.Config{InsecureSkipVerify: true}
+		for page <= outOf {
+			wg.Add(1)
+			go func() {
+				defer wg.Done()
+				fmt.Printf("| Downloading %s (page %4d/%4d)...\n", list[0], page, outOf)
+			
+				// Disable TLS verification
+				http.DefaultTransport.(*http.Transport).TLSClientConfig = &tls.Config{InsecureSkipVerify: true}
+			
+				client := &http.Client{}
+				req, err := http.NewRequest("GET", strings.Replace(list[1], "@", strconv.itoa(page)), nil)
+				if err != nil {
+					fmt.Printf("| (#_ ): Failed to initiate request: %v\n", err)
+					continue
+				}
+			
+				req.Header.Add("User-Agent", "psedb-bot/1.0 (+https://psedb.reinhart1010.id)")
+				resp, err := client.Do(req)
+				if err != nil {
+					fmt.Printf("| (#_ ): Failed to download: %v\n", err)
+					continue
+				}
+				defer resp.Body.Close()
+			
+				if resp.StatusCode != http.StatusOK {
+					fmt.Printf("| (#_ ): Failed to download: %v\n", err)
+					continue
+				}
+			
+				fmt.Println("| (#_ ): Saving raw data...")
+			
+				out, err := os.Create(fmt.Sprintf("raw/%s.%d.json", list[0], page))
+				defer out.Close()
+			
+				_, err = io.Copy(out, resp.Body)
+				if err != nil {
+					fmt.Printf("| (#_ ): Failed to save file: %v\n", err)
+					continue
+				}
+			
+				fmt.Printf("| (#_ ): Saved file: raw/%s.%d.json\n", list[0], page)
+				
+				// Try to dynamically update the total pages
+				var data struct {
+					TotalPages int `json:"totalPages"`
+				}
 
-		client := &http.Client{}
-		req, err := http.NewRequest("GET", list[1], nil)
-		if err != nil {
-			fmt.Printf("| (#_ ): Failed to initiate request: %v\n", err)
-			continue
+				err = json.Unmarshal(resp.Body, &data)
+				if err != nil && data.TotalPages != outOf {
+					outOf = data.TotalPages
+				}
+			}
 		}
-
-		req.Header.Add("User-Agent", "psedb-bot/1.0 (+https://psedb.reinhart1010.id)")
-		resp, err := client.Do(req)
-		if err != nil {
-			fmt.Printf("| (#_ ): Failed to download: %v\n", err)
-			continue
-		}
-		defer resp.Body.Close()
-
-		if resp.StatusCode != http.StatusOK {
-			fmt.Printf("| (#_ ): Failed to download: %v\n", err)
-			continue
-		}
-
-		fmt.Println("| (#_ ): Saving raw data...")
-
-		out, err := os.Create(fmt.Sprintf("raw/%s.json", list[0]))
-		defer out.Close()
-
-		_, err = io.Copy(out, resp.Body)
-		if err != nil {
-			fmt.Printf("| (#_ ): Failed to save file: %v\n", err)
-			continue
-		}
-
-		fmt.Printf("| (#_ ): Saved file: raw/%s.json\n", list[0])
 	}
 	return PSEDBOK
 }
@@ -147,7 +170,7 @@ func parseSiteUrl(siteUrl string, site [7]any, listType string) int {
 	}
 
 	// 6. Check data
-	tdpseRegex := regexp.MustCompile(`https:\/\/pse.kominfo.go.id\/tdpse-detail\/(\d+?)($|\D)`)
+	tdpseRegex := regexp.MustCompile(`https:\/\/pse.komdigi.go.id\/tdpse-detail\/(\d+?)($|\D)`)
 	tdpseId := tdpseRegex.FindStringSubmatch(site[PSEDBSystemRegistrationIDCSVIndex].(string))
 
 	var siteInfoData map[string]PseEntry
@@ -204,7 +227,7 @@ func stage2() int {
 		}
 
 		var data struct {
-			Data [][7]any `json:"data"`
+			Data [][7]any `json:"hits"`
 		}
 
 		listRaw, err := ioutil.ReadAll(in)
