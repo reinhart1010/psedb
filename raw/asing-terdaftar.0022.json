@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1abe5-5c5c-40a8-9b86-337da36f6b60",
+            "nama_pse": "FACEBOOK SINGAPORE PTE. LTD.",
+            "nama_se": "INSTAGRAM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6800",
+            "website": "apps.apple.com/au/app/instagram/id389801252"
+        },
+        {
+            "id": "9cb1abc1-b827-4f43-937f-459eeeaf1235",
+            "nama_pse": "WE SONG (HONG KONG) LIMITED",
+            "nama_se": "WESING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7008",
+            "website": "wesingapp.com"
+        },
+        {
+            "id": "9cb1abb6-e289-4065-af95-2b04bd511d6d",
+            "nama_pse": "FACEBOOK SINGAPORE PTE. LTD.",
+            "nama_se": "WHATSAPP MESSENGER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7101",
+            "website": "apps.apple.com/au/app/whatsapp-messenger/id310633997"
+        },
+        {
+            "id": "9cb1abb6-e431-4eba-85d0-9a8d96255207",
+            "nama_pse": "FACEBOOK SINGAPORE PTE. LTD.",
+            "nama_se": "WHATSAPP.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7102",
+            "website": "web.whatsapp.com"
+        },
+        {
+            "id": "9cb1abb7-04ec-4aa3-a756-5651f0dfeb21",
+            "nama_pse": "PROXIMA BETA PTE. LIMITED",
+            "nama_se": "PUBG MOBILE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7139",
+            "website": "apps.apple.com/us/app/pubg-mobile/id1330123889"
+        },
+        {
+            "id": "9cb1abb7-074d-4cd6-8a63-b9f02030aa14",
+            "nama_pse": "PROXIMA BETA PTE. LIMITED",
+            "nama_se": "ALCHEMY STARS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7140",
+            "website": "apps.apple.com/id/app/alchemy-stars/id1529088856"
+        },
+        {
+            "id": "9cb1abc2-2a3f-425f-ba71-a3a47d759426",
+            "nama_pse": "PROXIMA BETA PTE. LIMITED",
+            "nama_se": "CHIMERALAND",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7141",
+            "website": "play.google.com/store/apps/details?id=com. levelinfinite.fancyworld"
+        },
+        {
+            "id": "9cb1abcd-6644-4efe-b0af-93d10766fa6b",
+            "nama_pse": "ROBLOX CORPORATION",
+            "nama_se": "ROBLOX CORPORATION",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8928",
+            "website": "roblox.com"
+        },
+        {
+            "id": "9cb1ab9d-b51a-4a1c-b9ac-ea3688cd414f",
+            "nama_pse": "COGNOSPHERE PTE. LTD.",
+            "nama_se": "HALAMAN INFORMASI APLIKASI GAMES (GENSHIN IMPACT, HONKAI IMPACT 3RD, TEARS OF THEMIS, HONKAI: STAR RAIL, ZENLESS ZONE ZERO, N0VA DESKTOP, HOYOLAB)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6123",
+            "website": "hoyoverse.com"
+        },
+        {
+            "id": "9cb1abbf-0b07-41be-b8b5-d22f775fc048",
+            "nama_pse": "MICROSOFT IRELAND OPERATIONS LIMITED",
+            "nama_se": "MICROSOFT CLOUD SERVICES",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6374",
+            "website": "microsoft.com"
+        },
+        {
+            "id": "9cb1abb4-6717-4a42-bb4c-059089841a54",
+            "nama_pse": "PROGATE",
+            "nama_se": "PROGATE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6376",
+            "website": "progate.com"
+        },
+        {
+            "id": "9cb1abbf-0db9-424d-9b5d-88d022621023",
+            "nama_pse": "APOTHEOSIS LIMITED",
+            "nama_se": "ISHOW",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6377",
+            "website": "ishowlive.com"
+        },
+        {
+            "id": "9cb1abbf-0fab-41c6-8a82-c45152c495c1",
+            "nama_pse": "ZINGPLAY INTERNATIONAL PTE. LTD.",
+            "nama_se": "ZINGPLAY INTERNATIONAL PTE. LTD.",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6380",
+            "website": "zingplay.com"
+        },
+        {
+            "id": "9cb1abbf-11a6-4c18-9f90-7bf5432e2bc5",
+            "nama_pse": "Eyou Technology Pte. Ltd.",
+            "nama_se": "EYOUGAME",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6381",
+            "website": "eyougame.com"
+        },
+        {
+            "id": "9cb1abbf-13ab-42df-b0c3-204e8c8eb18d",
+            "nama_pse": "TAPTAP PTE. LTD.",
+            "nama_se": "TAPTAP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6382",
+            "website": "taptap.io"
+        },
+        {
+            "id": "9cb1abb3-45ef-4629-83c8-699de4f1dc66",
+            "nama_pse": "TAPTAP PTE. LTD.",
+            "nama_se": "TAPTAP2-EDIT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6383",
+            "website": "taptap.io"
+        },
+        {
+            "id": "9cb1abb3-4ab1-455f-8288-d6b4cb029fdf",
+            "nama_pse": "XD ENTERTAINMENT PTE. LTD.",
+            "nama_se": "XD ENTERTAINMENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6384",
+            "website": "xd-1.com"
+        },
+        {
+            "id": "9cb1abb3-4c90-43c3-b8d4-2130161a7369",
+            "nama_pse": "HONG KONG CHUANG COOL INTERACTIVE ENTERTAINMENT CO., LIMITED",
+            "nama_se": "BE THE KING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6385",
+            "website": "king.ckhdea.com"
+        },
+        {
+            "id": "9cb1abb4-695f-417e-8dda-31fbc31754f8",
+            "nama_pse": "PI PRODUCTIONS PTE. LTD.",
+            "nama_se": "SUPER SUS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6386",
+            "website": "supersus.io"
+        },
+        {
+            "id": "9cb1abbf-175f-42cf-9e5e-8a24a9a0664b",
+            "nama_pse": "ENUMA INC",
+            "nama_se": "SEKOLAH ENUMA: BAHASA INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6387",
+            "website": "play.google.com/store/apps/details?id=com.enuma.enumaschool.indb2c"
+        },
+        {
+            "id": "9cb1abbf-19bf-4f0c-be60-9178d0dc27a1",
+            "nama_pse": "ENUMA INC",
+            "nama_se": "TODO KOREAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6388",
+            "website": "play.google.com/store/apps/details?id=com.enuma.todohangeul"
+        },
+        {
+            "id": "9cb1abb3-4fee-433f-8434-c8c6597017ab",
+            "nama_pse": "ENUMA INC",
+            "nama_se": "TODO MATH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6389",
+            "website": "play.google.com/store/apps/details?id=com.enuma.todomath"
+        },
+        {
+            "id": "9cb1abb3-52af-46fc-b454-7983bf876332",
+            "nama_pse": "ENUMA INC",
+            "nama_se": "DOORU LIBRARY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6390",
+            "website": "play.google.com/store/apps/details?id=com.enuma.easylibrary"
+        },
+        {
+            "id": "9cb1abb3-5908-46e0-9663-794401e3846b",
+            "nama_pse": "MINOVATE HONG KONG LIMITED",
+            "nama_se": "MINI WORLD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6391",
+            "website": "play.google.com/store/apps/details?id=com.playmini.miniworld https://apps.apple.com/id/app/mini-world-creata/id1540197003 www.miniworldgame.com"
+        },
+        {
+            "id": "9cb1abb4-6bf4-4105-b75b-61bd5dacbf53",
+            "nama_pse": "KINGMI CORPORATION LIMITED",
+            "nama_se": "HTTPS://WWW.KFREEGAME.COM/",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6392",
+            "website": "kfreegame.com"
+        },
+        {
+            "id": "9cb1abb3-5bbd-472b-b5ff-6918c0a58875",
+            "nama_pse": "ALOHA",
+            "nama_se": "ALOHA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6393",
+            "website": "aloha.com"
+        },
+        {
+            "id": "9cb1abb4-6e3f-4f9d-a1ea-d2ff1851e425",
+            "nama_pse": "MOBILE ALPHA LIMITED",
+            "nama_se": "YOHO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6394",
+            "website": "yoho.media"
+        },
+        {
+            "id": "9cb1abb4-7061-4123-9ac7-ab5cb097b41f",
+            "nama_pse": "KINGAME",
+            "nama_se": "KINGAME ACCOUNT SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6397",
+            "website": "thebulletangel.com"
+        },
+        {
+            "id": "9cb1abb1-c7a3-4578-b65b-4f2735f4badd",
+            "nama_pse": "YOUNGJOY TECHNOLOGY LIMITED",
+            "nama_se": "WATCHER OF REALMS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5994",
+            "website": "play.google.com/store/apps/details?id=com.td.watcherofrealms; m.watcherofrealms.com/#/home"
+        },
+        {
+            "id": "9cb1ab9d-25e2-4c8b-8612-1d801b56f86d",
+            "nama_pse": "YOUNGJOY TECHNOLOGY LIMITED",
+            "nama_se": "MOBILE LEGENDS: BANG BANG",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5995",
+            "website": "play.google.com/store/apps/details?id=com.mobile.legends; apps.apple.com/us/app/mobile-legends-bang-bang/id1160056295; play.mobilelegends.com/landing/?lan=en; www.mobilelegends.net/fp/featured?aid=6571\u0026sdk_language=en"
+        },
+        {
+            "id": "9cb1abb1-cad0-4038-b7c4-3e739c25760f",
+            "nama_pse": "YOUNGJOY TECHNOLOGY LIMITED",
+            "nama_se": "MOBILE LEGENDS: ADVENTURE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5996",
+            "website": "play.google.com/store/apps/details?id=com.moonton.mobilehero; apps.apple.com/us/app/mobile-legends-adventure/id1456213261; m.mladventure.net/#home"
+        },
+        {
+            "id": "9cb1ab9d-47ef-4365-99bd-b989b518e1a8",
+            "nama_pse": "TELEGRAM MESSENGER INC",
+            "nama_se": "TELEGRAM MESSENGER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6017",
+            "website": "web.telegram.org"
+        },
+        {
+            "id": "9cb1aba5-c5a3-4b42-8d69-e96d27a93164",
+            "nama_pse": "MICHAT PTE LIMITED",
+            "nama_se": "MICHAT MOBILE APPLICATION SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5280",
+            "website": "michat.sg"
+        },
+        {
+            "id": "9cb1abae-20b2-4d09-9bf1-26de6457c5e6",
+            "nama_pse": "GLANCE INMOBI PTE. LTD.",
+            "nama_se": "GLANCE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4889",
+            "website": "glance.com"
+        },
+        {
+            "id": "9cb1aba4-4b92-4231-8c01-fe59d659f135",
+            "nama_pse": "LEGO SYSTEM A/S",
+            "nama_se": "LEGO.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4890",
+            "website": "lego.com/en-id"
+        },
+        {
+            "id": "9cb1abae-306d-4dfc-90ce-057d62d297fd",
+            "nama_pse": "WeFi International A.G.",
+            "nama_se": "IZZI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4917",
+            "website": "wefitec.com"
+        },
+        {
+            "id": "9cb1abad-e966-457f-bc7e-2c4bd7663565",
+            "nama_pse": "INTERTECH SERVICES AG",
+            "nama_se": "YANDEX PRACTICUM PLATFORM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4720",
+            "website": "practicum.com/id-idn/"
+        },
+        {
+            "id": "9cb1abad-d07f-4f69-a5c3-daf65d1279b3",
+            "nama_pse": "INVOKE SOLUTIONS SDN BHD",
+            "nama_se": "DECORIS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4675",
+            "website": "decoris.io"
+        },
+        {
+            "id": "9cb1ab98-8056-454b-a556-7b06f2814d7f",
+            "nama_pse": "RIMBA COLLECTIVE PTE LTD",
+            "nama_se": "RIMBA COLLECTIVE MRV (MONITOR, REPORTING \u0026 VERIFICATION) PLATFORM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4676",
+            "website": "rimbacollective.com"
+        },
+        {
+            "id": "9cb1aba3-ec2a-41e1-94bb-66076785d34d",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO.., LTD.",
+            "nama_se": "MARIA TIURMA (ICBC WEALTH MANAGEMENT CO., LTD. - THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4679",
+            "website": "qq.com"
+        },
+        {
+            "id": "9cb1ab95-b6d6-4653-8157-3f918c851194",
+            "nama_pse": "NUVERSE PTE. LTD.",
+            "nama_se": "INKED",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4128",
+            "website": "pixmain.com/inked; apps.apple.com/us/app/inked/id1537777979; play.google.com/store/apps/details?id=com.somniumgames.inked"
+        },
+        {
+            "id": "9cb1aba1-d50a-4f74-9787-133369f86754",
+            "nama_pse": "NUVERSE PTE. LTD.",
+            "nama_se": "HUNDRED DAYS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4129",
+            "website": "pixmain.com/hundred-days; apps.apple.com/us/app/hundred-days/id1581549121; play.google.com/store/apps/details?id=com.brokenarmsgames.hundred"
+        },
+        {
+            "id": "9cb1aba1-d75f-41de-94f4-5e238c8f1d52",
+            "nama_pse": "NUVERSE PTE. LTD.",
+            "nama_se": "MY TIME AT PORTIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4130",
+            "website": "pixmain.com/my-time-at-portia; apps.apple.com/us/app/my-time-at-portia/id1555184523; play.google.com/store/apps/details?id=com.pathea.mtap"
+        },
+        {
+            "id": "9cb1aba1-d9f0-4bae-8362-59777d39d406",
+            "nama_pse": "NUVERSE PTE. LTD.",
+            "nama_se": "THE HEROIC LEGEND OF EAGARLNIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4131",
+            "website": "pixmain.com/the-heroic-legend-of-eagarlnia; apps.apple.com/us/app/the-heroic-legend-of-eagarlnia/id1580509302; play.google.com/store/apps/details?id=com.redhand.eagarlnia"
+        },
+        {
+            "id": "9cb1abac-3f5e-487b-9a1c-9a9af43b6790",
+            "nama_pse": "NUVERSE (HONG KONG) LIMITED",
+            "nama_se": "WARHAMMER 40,000 LOST CRUSADE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4132",
+            "website": "lostcrusade.com; apps.apple.com/app/id1532636309; play.google.com/store/apps/details?id=com.orcacorp.wargame"
+        },
+        {
+            "id": "9cb1ab95-b9d4-4e9c-babb-4a45f3f1fc25",
+            "nama_pse": "NUVERSE (HONG KONG) LIMITED",
+            "nama_se": "RAGNAROK X: NEXT GENERATION",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4133",
+            "website": "ragnarokx.com/main; play.google.com/store/apps/details?id=com.play.rosea; apps.apple.com/SG/app/id1545808948?mt=8"
+        },
+        {
+            "id": "9cb1aba1-dc01-44cc-81ff-3791de48f239",
+            "nama_pse": "BYTEPLUS PTE. LTD.",
+            "nama_se": "BYTEPLUS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4134",
+            "website": "byteplus.com"
+        },
+        {
+            "id": "9cb1ab95-beba-4ece-a06a-4a519c8967b4",
+            "nama_pse": "LARK TECHNOLOGIES PTE. LTD.",
+            "nama_se": "LARK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4135",
+            "website": "larksuite.com; https://play.google.com/store/apps/details?id=com.larksuite.suite"
+        },
+        {
+            "id": "9cb1ab95-c9ec-4140-b734-8606c48a9d40",
+            "nama_pse": "GAUTHTECH PTE. LTD.",
+            "nama_se": "GAUTHMATH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4136",
+            "website": "gauthmath.com/en; apps.apple.com/bb/app/gauthmath-students-must-have/id1542571008; play.google.com/store/apps/details?id=com.education.android.h.intelligence\u0026hl=en_SG\u0026gl=US"
+        },
+        {
+            "id": "9cb1aba1-e078-4b71-9216-de6d7bed3a41",
+            "nama_pse": "BYTEDANCE PTE. LTD.",
+            "nama_se": "ULIKE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5485",
+            "website": "play.google.com/store/apps/details?id=com.gorgeous.liteinternational; apps.apple.com/tw/app/ulike-define-trendy-selfie/id1398796436"
+        }
+    ],
+    "processingTimeMs": 3,
+    "query": "",
+    "totalHits": 1139,
+    "hitsPerPage": 50,
+    "page": 22,
+    "totalPages": 23
+}

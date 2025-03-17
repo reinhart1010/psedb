@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ab70-c9df-43e4-bd26-47080a22866d",
+            "nama_pse": "PRINTEROUS GLOBAL",
+            "nama_se": "PRINTEROUS",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2870",
+            "website": "printerous.com"
+        },
+        {
+            "id": "9cb1ab80-f722-4355-ab47-5226c1d1c924",
+            "nama_pse": "MYVENUS NETWORK INDONESIA",
+            "nama_se": "MY VENUS",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2021-12-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2874",
+            "website": "myvenus.co.id"
+        },
+        {
+            "id": "9cb1ab81-36f7-4a6b-94e7-f3ac6326077c",
+            "nama_pse": "SURYA CLOUD TECHNOLOGY",
+            "nama_se": "JOBPEDIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2867",
+            "website": "jobpedia.co.id"
+        },
+        {
+            "id": "9cb1ab81-399d-4de8-a2b5-20796c0a847e",
+            "nama_pse": "SURYA CLOUD TECHNOLOGY",
+            "nama_se": "ADLINK.ID - SHORTEN URLS AND EARN MONEY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2868",
+            "website": "adlink.id"
+        },
+        {
+            "id": "9cb1ab81-5d0b-455a-9c1d-d757f01e9a19",
+            "nama_pse": "VATAR MEDIA RAYA",
+            "nama_se": "MEDIV",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2873",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab79-9ce7-4585-b77c-7519e3b7e416",
+            "nama_pse": "GLOBAL GAME INTERNUSA",
+            "nama_se": "BATGAME",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2871",
+            "website": "batgame.id"
+        },
+        {
+            "id": "9cb1ab7c-c0bd-4e0c-b49c-1a96e45746f1",
+            "nama_pse": "LKP Master Course",
+            "nama_se": "MASTER COURSE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2869",
+            "website": "mastercourse.ac.id"
+        },
+        {
+            "id": "9cb1ab64-7b9b-4db7-8ea5-e2d82b31e79e",
+            "nama_pse": "MITRA EDUKASI NUSANTARA",
+            "nama_se": "TOKOGRAMEDIA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2861",
+            "website": "tokogramedia.com"
+        },
+        {
+            "id": "9cb1ab65-612d-4e1c-96b3-d19aab734a4d",
+            "nama_pse": "PINVA FINANSIAL TEKNOLOGI",
+            "nama_se": "PINVA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2865",
+            "website": "PINVA.ID"
+        },
+        {
+            "id": "9cb1ab74-4f21-4ac1-b559-487908e9220d",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT SURYA YUDHAKENCANA",
+            "nama_se": "ATM ISSUER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2862",
+            "website": "suryayudha.id"
+        },
+        {
+            "id": "9cb1ab77-c8c4-4673-b7b1-623d2d6b87b6",
+            "nama_pse": "AGROBISNIS BANTEN MANDIRI",
+            "nama_se": "PLAZABANTEN",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2864",
+            "website": "plazabanten.com"
+        },
+        {
+            "id": "9cb1ab79-92bc-49a6-8654-639c777d284c",
+            "nama_pse": "TIGA DAYA DIGITAL INDONESIA",
+            "nama_se": "MEDAPP (MEDICAL APPOINTMENT)",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2866",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab89-6668-40bc-9032-7184ce5a94e2",
+            "nama_pse": "JENDELA PRIMA INDONESIA",
+            "nama_se": "MILI",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2863",
+            "website": "mymili.id"
+        },
+        {
+            "id": "9cb1ab6b-626e-45af-8d5d-0e5067ac3a6c",
+            "nama_pse": "BANK CENTRAL ASIA",
+            "nama_se": "APLIKASI KEYBCA (SOFT TOKEN)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2857",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6f-c321-4272-b584-6bc3cdf1e25e",
+            "nama_pse": "KIRIM EMAIL INDONESIA",
+            "nama_se": "UTAS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2849",
+            "website": "utas.co"
+        },
+        {
+            "id": "9cb1ab76-e4c7-4d70-9665-7e8980db3ede",
+            "nama_pse": "PINTARNYA SOLUSI TEKNOLOGI",
+            "nama_se": "PINTAR",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2848",
+            "website": "pintarnya.com"
+        },
+        {
+            "id": "9cb1ab79-27fd-4ecb-870d-dd5aa44f05ac",
+            "nama_pse": "SOLUSI ANDALAN KREASI TEKNOLOGI INDONESIA",
+            "nama_se": "PT SOLUSI ANDALAN KREASI TEKNOLOGI INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2842",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab79-2e9a-4c3d-9957-ff0050b35303",
+            "nama_pse": "BUMI TENGUYUN SEJAHTERA",
+            "nama_se": "BULUNGAN TV",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2855",
+            "website": "bulungantv.id"
+        },
+        {
+            "id": "9cb1ab89-18eb-4d4f-9d6e-cdcf6a0fc1e1",
+            "nama_pse": "HEMA MEDHAJAYA",
+            "nama_se": "WEBSTORE / WEBSITE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2840",
+            "website": "ns1.niagahoster.com"
+        },
+        {
+            "id": "9cb1ab89-4603-4d6e-98a1-65cc1284a303",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "WEBSITE KARTU SUKA SUKA BTN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2836",
+            "website": "kartusukasuka.btn.co.id"
+        },
+        {
+            "id": "9cb1ab89-4a0b-4f16-ad2e-b184a1ef6bc6",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "WEBSITE POIN SPECTA BTN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2837",
+            "website": "poinspekta.btn.co.id"
+        },
+        {
+            "id": "9cb1ab89-4c4b-4996-b6fa-6f5749423096",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "BTN CREDIT CARD MOBILE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2838",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab81-2993-4dc9-9b0e-42545965d601",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "BTN PROPERTI MOBILE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2839",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab89-4ebc-4212-b4b0-e851621c05d9",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "BTN SMART RESIDENCE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2841",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab79-58a0-4bf2-b1a6-3086830af72b",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "BTN MOBILE TOKEN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2850",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab79-5bf4-4601-ae1e-913d9ee86cda",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "BTN VIRTUAL WEB BRANCH",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2852",
+            "website": "virtualbranch.btn.co.id"
+        },
+        {
+            "id": "9cb1ab81-2bda-4254-b7d3-5b348880f039",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "BTN ONLINE OPEN ACCOUNT",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2853",
+            "website": "virtualbranch.btn.co.id/open-account"
+        },
+        {
+            "id": "9cb1ab89-50f6-4209-97ef-0b0d0e127dd3",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "WEBSITE BTN PRIORITAS",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2854",
+            "website": "btnprioritas.btn.co.id"
+        },
+        {
+            "id": "9cb1ab79-7dc9-405c-a08b-87884b5bad2e",
+            "nama_pse": "DATA ANDALAN UTAMA",
+            "nama_se": "DATA UTAMA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2835",
+            "website": "datautama.com"
+        },
+        {
+            "id": "9cb1ab79-8c71-431f-bb81-7b1cfdab6ca1",
+            "nama_pse": "AWADAH AKAR MIMPI",
+            "nama_se": "TOKO AWADAH",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2858",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab89-5dfe-4340-a14d-c6086729b625",
+            "nama_pse": "SAEBO TECH NOLOGY",
+            "nama_se": "SAEBO TECHNOLOGY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2843",
+            "website": "saebo.technology/"
+        },
+        {
+            "id": "9cb1ab81-51ee-4253-a7ff-52508a7e5402",
+            "nama_pse": "APLIKASI TRISNA SEJATI",
+            "nama_se": "MARURAH",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2846",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab81-560c-44d8-9fc8-8e57d4c023b9",
+            "nama_pse": "SIMPATI",
+            "nama_se": "NUSANTARA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2851",
+            "website": "tokokasur.com"
+        },
+        {
+            "id": "9cb1ab89-6053-446a-b5d9-b1b983fca266",
+            "nama_pse": "KONSUMEN MITRA BINA JAYA BERDIKARI",
+            "nama_se": "MBJB MOBILE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2856",
+            "website": "mitrabjb.id"
+        },
+        {
+            "id": "9cb1ab89-6310-4c2b-9403-d26acb791fc0",
+            "nama_pse": "VATAR MEDIA RAYA",
+            "nama_se": "DAV",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2859",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab7b-d7a9-4819-9e6c-d1d2293ad680",
+            "nama_pse": "AVODAH ROYAL MULIA",
+            "nama_se": "MAUBELAJARAPA.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2844",
+            "website": "maubelajarapa.com"
+        },
+        {
+            "id": "9cb1ab8d-54d3-432d-923b-961586b35bb7",
+            "nama_pse": "ARE TEKNOLOGI KREASI",
+            "nama_se": "AR\u0026CO",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2860",
+            "website": "ar-innovation.com"
+        },
+        {
+            "id": "9cb1ab88-722b-4e3f-bc65-f0b457775142",
+            "nama_pse": "TIGA AKAR MIMPI",
+            "nama_se": "MINDSTORES",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2832",
+            "website": "mymindstores.com"
+        },
+        {
+            "id": "9cb1ab88-a94d-4f37-b0af-41d0ed8dfd4f",
+            "nama_pse": "ELITE PERMAI METAL WORKS",
+            "nama_se": "ELITE PERMAI SHOP",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2827",
+            "website": "elitepermaishop.com"
+        },
+        {
+            "id": "9cb1ab80-ef14-4cd3-9ed1-63013e10e08b",
+            "nama_pse": "MITRA ERA TEKNOLOGI",
+            "nama_se": "EMET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2820",
+            "website": "emet.id"
+        },
+        {
+            "id": "9cb1ab81-0b1b-47bb-95fc-25ddb9d609d2",
+            "nama_pse": "SAMUDRA CAPITAL INTERNASIONAL",
+            "nama_se": "RX-1",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2834",
+            "website": "autounitrade.com"
+        },
+        {
+            "id": "9cb1ab81-2006-4a14-b872-4c4020e038b5",
+            "nama_pse": "BUDIDANA INVESTASI NUSANTARA",
+            "nama_se": "BUDIDANA.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2829",
+            "website": "budidana.com"
+        },
+        {
+            "id": "9cb1ab89-3549-4584-96a8-6366dc274420",
+            "nama_pse": "DHANA JAYA PRATAMA",
+            "nama_se": "BRI API",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2830",
+            "website": "omegasoft.co.id"
+        },
+        {
+            "id": "9cb1ab89-3b00-4c88-a9b3-dc9b7c2b91da",
+            "nama_pse": "PROJECT ONE SOLUTION",
+            "nama_se": "PERDAGANGAN FISIK ASET KRIPTO",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2814",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab79-543a-46d6-bc2d-30c6c08ac871",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "BTN CORPORATE WEBSITE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2811",
+            "website": "btn.co.id"
+        },
+        {
+            "id": "9cb1ab81-2381-4f2e-96e1-5b2db30ea5b9",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "WEBSITE E-MITRA BTN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2819",
+            "website": "emitra.btn.co.id"
+        },
+        {
+            "id": "9cb1ab89-3e3f-4e5d-b5da-bb64e728d275",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "INTERNET BANKING BTN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2823",
+            "website": "internetbanking.btn.co.id"
+        },
+        {
+            "id": "9cb1ab89-40ba-42fb-92e5-f9b5865acae8",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "INTERNET BANKING BISNIS BTN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2824",
+            "website": "cashmanagement.btn.co.id"
+        },
+        {
+            "id": "9cb1ab89-432e-432d-afa2-8f14238ef3c3",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "BTN PROPERTI",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2825",
+            "website": "btnproperti.co.id"
+        },
+        {
+            "id": "9cb1ab79-5617-4da6-b4b4-37091d38d2d3",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
+            "nama_se": "MOBILE BANKING BTN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2826",
+            "website": "-"
+        }
+    ],
+    "processingTimeMs": 9,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 329,
+    "totalPages": 383
+}

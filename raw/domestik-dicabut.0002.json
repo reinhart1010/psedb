@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ac26-2885-43c7-87c6-981f4136310b",
+            "nama_pse": "DARMA BUDYA HARJA",
+            "nama_se": "SEKTORPROPERTY",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15436",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac47-d324-40e2-89fe-a69f2c789149",
+            "nama_pse": "BENINGS PRATAMA GRUP",
+            "nama_se": "BENING'S : SKINCARE \u0026 KONSUL",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15347",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac25-3b50-47f9-b1c6-c0240db008f1",
+            "nama_pse": "JOD TEKNOLOGI INDONESIA",
+            "nama_se": "JOD INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-07-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15304",
+            "website": "jodindo.co"
+        },
+        {
+            "id": "9cb1ac47-19a8-476b-aeec-878b12fa50be",
+            "nama_pse": "HYPEFAST DISTRIBUSI NUSANTARA",
+            "nama_se": "EDUCUAN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15254",
+            "website": "educuan.id"
+        },
+        {
+            "id": "9cb1ac1d-8318-446b-ab9f-544ce5382f15",
+            "nama_pse": "IGYOLINI INDONESIA",
+            "nama_se": "NMW CLINIC OFFICIAL WEBSITE",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-06-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15057",
+            "website": "nmwclinic.co.id"
+        },
+        {
+            "id": "9cb1ac45-6262-49db-957a-ea6c378d92e2",
+            "nama_pse": "TEKNOLOGI STRUKTUR BERANTAI",
+            "nama_se": "BITWYRE.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-06-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15020",
+            "website": "Bitwyre.id"
+        },
+        {
+            "id": "9cb1ac23-708a-4b3a-ace0-f948dbe17933",
+            "nama_pse": "MOUNT SCOPUS INDONESIA",
+            "nama_se": "THE FOOD CHAIN (MOBILE APPS)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14967",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac45-41e6-4400-9238-eb7d74c6ff34",
+            "nama_pse": "MOUNT SCOPUS INDONESIA",
+            "nama_se": "THE HARVEST CAKES (MOBILE APPS)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-06-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14964",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac23-6d91-4bac-aae0-525c78c4840c",
+            "nama_pse": "MOUNT SCOPUS INDONESIA",
+            "nama_se": "THE FOOD CHAIN (WEBSITE)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-06-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14965",
+            "website": "thefoodchain.id"
+        },
+        {
+            "id": "9cb1ac22-d592-4797-a2c6-377cd45bfde5",
+            "nama_pse": "MOUNT SCOPUS INDONESIA",
+            "nama_se": "THE HARVEST CAKES",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-05-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14875",
+            "website": "harvestcakes.com"
+        },
+        {
+            "id": "9cb1ac22-936a-4d80-8403-6b1e8d62720d",
+            "nama_pse": "HYPEFAST DISTRIBUSI NUSANTARA",
+            "nama_se": "FABIL NATURAL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-05-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14859",
+            "website": "fabil.co.id"
+        },
+        {
+            "id": "9cb1ac42-2c01-4a45-82af-5245326ab2bd",
+            "nama_pse": "BRICK KEUANGAN INKLUSIF",
+            "nama_se": "BRICK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-04-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14466",
+            "website": "onebrick.io"
+        },
+        {
+            "id": "9cb1ac42-25d9-44f9-af29-331dbb20d415",
+            "nama_pse": "SKINCAREDOC TELEDERMA INDONESIA",
+            "nama_se": "METADERMA.ID",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-04-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14430",
+            "website": "metaderma.id"
+        },
+        {
+            "id": "9cb1ac2e-7161-4289-9ded-76c08e0a18f4",
+            "nama_pse": "POLYFILATEX",
+            "nama_se": "BATIK SAMSARA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-02-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13837",
+            "website": "samsara.id"
+        },
+        {
+            "id": "9cb1ac1c-2767-4cd4-a4c6-d5faec246dd7",
+            "nama_pse": "HUMANSCAPE TECHNOLOGY INDONESIA",
+            "nama_se": "MOMITALK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-02-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13827",
+            "website": "momitalk.id"
+        },
+        {
+            "id": "9cb1ac1c-08c2-4897-99e3-ae2862964651",
+            "nama_pse": "INFO PLAY ONKORNESIA",
+            "nama_se": "INNI-TODAY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13809",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac1b-b699-4bb0-b773-04fa42825dc1",
+            "nama_pse": "JACO NUSANTARA MANDIRI",
+            "nama_se": "JACO TV SHOPPING",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-02-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13713",
+            "website": "jaco.co.id"
+        },
+        {
+            "id": "9cb1ac1a-fcd1-4001-b5f1-15685583f728",
+            "nama_pse": "BINGOBY DIGITAL KREASI",
+            "nama_se": "WWW.JOMBINGOID.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-01-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13587",
+            "website": "jombingo.info"
+        },
+        {
+            "id": "9cb1ac3c-63ad-4fea-ab49-77f1c1c9513d",
+            "nama_pse": "DIGITAL PRIMA SEJAHTERA",
+            "nama_se": "DIMENSY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-01-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13595",
+            "website": "dimensy.id"
+        },
+        {
+            "id": "9cb1ac3c-14fd-4a7e-8c93-88f1227b90ce",
+            "nama_pse": "POLYFILATEX",
+            "nama_se": "FILA INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-01-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13543",
+            "website": "fila.co.id"
+        },
+        {
+            "id": "9cb1ac19-79f2-4121-9a55-2caa0b18d57c",
+            "nama_pse": "ADA ASIA INDONESIA",
+            "nama_se": "ADA-ASIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13327",
+            "website": "ada-asia.co.id"
+        },
+        {
+            "id": "9cb1ac29-f6ec-48c5-932d-7b1286020e53",
+            "nama_pse": "BINGOBY DIGITAL KREASI",
+            "nama_se": "JOMBINGO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-12-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12736",
+            "website": "jombingoid.com"
+        },
+        {
+            "id": "9cb1ac18-e578-4fb6-be42-98c152f3c5e3",
+            "nama_pse": "BRINGIN INTI TEKNOLOGI",
+            "nama_se": "LOCALOKA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-12-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12608",
+            "website": "localoka.co.id"
+        },
+        {
+            "id": "9cb1ac07-6fc0-49ef-a23d-a337cfd7f775",
+            "nama_pse": "CTXG INDONESIA BERKARYA",
+            "nama_se": "MOBEE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12357",
+            "website": "mobee.io"
+        },
+        {
+            "id": "9cb1abe0-d484-4a76-b5ec-b5c16a7ca0b1",
+            "nama_pse": "KURNIA CIPTAKARYA GEMILANG",
+            "nama_se": "E-COMMERCE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11940",
+            "website": "charleskeith.co.id"
+        },
+        {
+            "id": "9cb1ac13-6d3a-4dab-b330-0c2a633406a2",
+            "nama_pse": "UNIVERSE SYNERGY FUTURES",
+            "nama_se": "UVERSE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11923",
+            "website": "uversefx.co.id"
+        },
+        {
+            "id": "9cb1abe0-9207-48e9-a4cf-911f87a653bb",
+            "nama_pse": "KARYAMITRA BUDISENTOSA",
+            "nama_se": "BELLAGIO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11914",
+            "website": "bellagioshoes-fashion.com"
+        },
+        {
+            "id": "9cb1abe0-891e-4331-a235-ce2c793165a4",
+            "nama_pse": "KARYAMITRA BUDISENTOSA",
+            "nama_se": "ROTELLI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11898",
+            "website": "rotellishoes-fashion.com"
+        },
+        {
+            "id": "9cb1ac13-53aa-40a0-8ca9-8620782ec710",
+            "nama_pse": "KARYAMITRA BUDISENTOSA",
+            "nama_se": "GOSH",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11904",
+            "website": "goshshoes-fashion.com"
+        },
+        {
+            "id": "9cb1ac11-750d-4397-8973-717bb023c703",
+            "nama_pse": "SOKKA KREATIF TEKNOLOGI",
+            "nama_se": "MYKLINIK",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11565",
+            "website": "myklinik.id"
+        },
+        {
+            "id": "9cb1ac08-d117-4656-a2ba-f49a5f719399",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+            "nama_se": "ONE PLAY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9802",
+            "website": "oneplay.id"
+        },
+        {
+            "id": "9cb1abd3-8d16-4fa4-b084-b1ef68807cc3",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+            "nama_se": "HUNIANAJA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9800",
+            "website": "hunianaja.id"
+        },
+        {
+            "id": "9cb1ac0f-7149-4e62-89a3-f2c7e719ef0e",
+            "nama_pse": "OEXPRESS LOGISTIK INDONESIA",
+            "nama_se": "OEXPRESS.ID",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-09-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11123",
+            "website": "oexpress.id"
+        },
+        {
+            "id": "9cb1abd3-9c64-47da-bdb1-cbcaf52a7a60",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+            "nama_se": "SOOLTANCAM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9803",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abda-e54d-4009-8754-584fb62e9896",
+            "nama_pse": "KAYA LAUTAN PERMATA",
+            "nama_se": "INVESTASI KAYA",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-09-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11082",
+            "website": "investasikaya.co.id"
+        },
+        {
+            "id": "9cb1abff-5a0c-4ee8-8d90-ca7bf3ac9c4c",
+            "nama_pse": "KHARISMA CATUR MANDALA",
+            "nama_se": "ASPIRE AP/AR MANAGEMENT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-09-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10860",
+            "website": "aspireapp.com.id"
+        },
+        {
+            "id": "9cb1abf9-e640-4714-98f3-3e07a151e39f",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "TVF FOOTWEAR",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9746",
+            "website": "tvffootwear.com"
+        },
+        {
+            "id": "9cb1abd3-3f69-4a82-9233-75345423f01b",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "RECLAYS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9751",
+            "website": "reclays.id"
+        },
+        {
+            "id": "9cb1ac0c-2024-4751-b9ed-9250f9b31240",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "SIDELINE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10401",
+            "website": "sideline.id"
+        },
+        {
+            "id": "9cb1abd7-70a0-43bf-9d8c-9cf21d36598d",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "NOORE SPORT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10408",
+            "website": "nooresport.com"
+        },
+        {
+            "id": "9cb1abd7-773d-46bc-8caa-8cc862058a50",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "BUIBOO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10411",
+            "website": "buiboo.com"
+        },
+        {
+            "id": "9cb1abfe-b375-4004-8959-7ce78334adff",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "BOHOPANNA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10692",
+            "website": "bohopanna.com"
+        },
+        {
+            "id": "9cb1ac0d-886a-4d6e-b467-a2c5131a15d7",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "BOHOPANNA EUROPE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10693",
+            "website": "bohopannaeurope.com"
+        },
+        {
+            "id": "9cb1abd8-fbd7-4eb5-aa60-5aa68430680d",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "BONNELS ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10697",
+            "website": "bonnels.id"
+        },
+        {
+            "id": "9cb1ac0d-8f2b-4894-ac9e-1d515da9490e",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "OWNERSOFFICIAL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10698",
+            "website": "ownersofficial.com"
+        },
+        {
+            "id": "9cb1abd7-740f-462b-b214-6ba4c33a8c12",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "KOZE INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10410",
+            "website": "koze.co.id"
+        },
+        {
+            "id": "9cb1ac0c-1a43-44c2-a630-53a600eb4902",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "NYONYA NURSING WEAR",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10400",
+            "website": "nyonyanursingwear.com"
+        },
+        {
+            "id": "9cb1abfd-5271-4610-b5b6-81aa5f405531",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "WEARSTATUQUO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10406",
+            "website": "wearstatuquo.com"
+        },
+        {
+            "id": "9cb1abfd-4f4b-43dc-bf2f-606ef9aaa343",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "NONA RARA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10405",
+            "website": "nonarara.com"
+        },
+        {
+            "id": "9cb1abf9-e32b-435f-af6c-c7b947d6b449",
+            "nama_pse": "HYPEFAST KARYA NUSANTARA",
+            "nama_se": "LUXCRIME OFFICIAL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9745",
+            "website": "luxcrime.com"
+        }
+    ],
+    "processingTimeMs": 0,
+    "query": "",
+    "totalHits": 247,
+    "hitsPerPage": 50,
+    "page": 2,
+    "totalPages": 5
+}

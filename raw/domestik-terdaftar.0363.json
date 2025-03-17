@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1aba9-a631-4b39-a401-f35395e849ee",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "MANDIRI EFX",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1205",
+            "website": "e-fx.bankmandiri.co.id"
+        },
+        {
+            "id": "9cb1ab92-3811-4ca6-a2c2-abd3260e3649",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "TREASURY PORTAL",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1206",
+            "website": "treasury.bankmandiri.co.id"
+        },
+        {
+            "id": "9cb1aba9-a80f-4a59-919d-1daa294a0450",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "EWORKPLACE - SIMPLE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1207",
+            "website": "eworkplace.bankmandiri.co.id/#"
+        },
+        {
+            "id": "9cb1aba9-aa0b-4e92-b78f-113086acd669",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "MCM (MANDIRI CASH MANAGEMENT)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1208",
+            "website": "mcm2.bankmandiri.co.id/corporate"
+        },
+        {
+            "id": "9cb1ab9f-5035-478d-a876-ab82430d69a3",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "MIB (MANDIRI INTERNET BISNIS)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1209",
+            "website": "mib.bankmandiri.co.id/sme"
+        },
+        {
+            "id": "9cb1aba9-abfc-4ee2-8bd6-b8a5eee9ef45",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "NEW MCM (MANDIRI CASH MANAGEMENT)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1210",
+            "website": "mcm2.bankmandiri.co.id/corporate"
+        },
+        {
+            "id": "9cb1aba9-ae3d-43b9-9eb5-a190dd2a4fac",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "SAMS PORTAL",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1211",
+            "website": "sams.bankmandiri.co.id/corp"
+        },
+        {
+            "id": "9cb1ab92-3aed-4d3c-8a27-98d192b4ba98",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "CANALIS",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1212",
+            "website": "Canalis.corp.bankmandiri.co.id"
+        },
+        {
+            "id": "9cb1ab92-3db7-4a79-85cd-6bcc8deebadf",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "JONFIS - MTF",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1213",
+            "website": "Internal"
+        },
+        {
+            "id": "9cb1ab9f-5f8a-400f-a596-b531183c7fc6",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "JONFIS - MUF",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1214",
+            "website": "Internal"
+        },
+        {
+            "id": "9cb1ab9f-67aa-4625-b973-58c295a818b0",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "DASHBOARD KPK",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1215",
+            "website": "dashboardmonitoring.bankmandiri.co.id"
+        },
+        {
+            "id": "9cb1aba9-b05a-464b-8d26-27bfdb5f554b",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "EFORM",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1224",
+            "website": "eform.bankmandiri.co.id"
+        },
+        {
+            "id": "9cb1ab9f-6a02-4adf-8cec-e882bb7d0536",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "MANDIRI PINTAR",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1225",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab9f-6bd0-45d8-b53d-f6382d1c686a",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "SBN ONLINE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1234",
+            "website": "sbnonline.bankmandiri.co.id"
+        },
+        {
+            "id": "9cb1ab9f-6db7-4b5f-a101-df13d3a06308",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK MANDIRI",
+            "nama_se": "DIGITAL VALUE CHAIN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1235",
+            "website": "digitalvaluechain.bankmandiri.co.id"
+        },
+        {
+            "id": "9cb1ab92-53ab-4b9d-bd14-940b08208475",
+            "nama_pse": "MEKAR INVESTAMA TEKNOLOGI",
+            "nama_se": "MEKAR",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1061",
+            "website": "mekar.id"
+        },
+        {
+            "id": "9cb1ab92-5968-4546-8474-5cc38e054f55",
+            "nama_pse": "JAKMALL DIGITAL NIAGA",
+            "nama_se": "JAKMALL.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1070",
+            "website": "jakmall.com"
+        },
+        {
+            "id": "9cb1ab92-647b-49bf-ba42-08fea5752d47",
+            "nama_pse": "FUTURE MOBILITY SOLUTIONS",
+            "nama_se": "TREVO",
+            "sektor": "Sektor Transportasi, Sektor Transportasi, Sektor Transportasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1076",
+            "website": "trevo.id"
+        },
+        {
+            "id": "9cb1ab9f-76f7-4189-aef7-58b52eaa4d18",
+            "nama_pse": "PESONA AMARANTHINE COSMETIQUES",
+            "nama_se": "WWW.MAZAYA.CO.ID (MAZAYA COSMETICS)",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1362",
+            "website": "mazaya.co.id"
+        },
+        {
+            "id": "9cb1aba0-3d00-4928-91b3-900c01f4bcf1",
+            "nama_pse": "MITRA ADIPERKASA",
+            "nama_se": "ID.TUMI.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1227",
+            "website": "id.tumi.com"
+        },
+        {
+            "id": "9cb1ab93-708f-4f39-83c1-9aa42e1fc04f",
+            "nama_pse": "PAKAR FINANSIAL GLOBAL",
+            "nama_se": "PAPER FINANCE SOLUTION",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1285",
+            "website": "paper.id"
+        },
+        {
+            "id": "9cb1ab93-8178-4576-b2f5-6a5d02302ca2",
+            "nama_pse": "MITRA PINASTHIKA MULIA",
+            "nama_se": "BROMPIT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1386",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba0-3ed8-4027-b237-f90659cf3327",
+            "nama_pse": "MITRA PINASTHIKA MULIA",
+            "nama_se": "CHAT BOT MELISHA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1387",
+            "website": "mpmhondajatim.com"
+        },
+        {
+            "id": "9cb1ab93-97e8-49e7-9ce0-f94b6a4b9819",
+            "nama_pse": "SASUKA ONLINE INDONESIA",
+            "nama_se": "SATUAJA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Transportasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1153",
+            "website": "satuaja.co.id , https://play.google.com/store/apps/details?id=com.satuaja.online\u0026hl=in"
+        },
+        {
+            "id": "9cb1ab94-2a46-4709-9474-3673623cf088",
+            "nama_pse": "MASSULOWALIE DIGITAL GRUP",
+            "nama_se": "TOSULO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1338",
+            "website": "Tosulo.com"
+        },
+        {
+            "id": "9cb1abab-fbd1-4e39-8907-3fec38c4b705",
+            "nama_pse": "SIMPAN PINJAM MITRA DANA SEJATI",
+            "nama_se": "UANG GESIT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1318",
+            "website": "uanggesit.id"
+        },
+        {
+            "id": "9cb1abae-0c28-4400-93c4-42e4b1d1cd7c",
+            "nama_pse": "FERNANDO RUDERI",
+            "nama_se": "RUANG AKUN",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4781",
+            "website": "ruangakun.store"
+        },
+        {
+            "id": "9cb1ab86-8a10-462c-8acc-656f96f51c2c",
+            "nama_pse": "PLUANG MAJU SEKURITAS",
+            "nama_se": "VINTRA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1068",
+            "website": "vintra.co.id"
+        },
+        {
+            "id": "9cb1ab6c-4d91-43db-85dc-c7c3ccf74a9c",
+            "nama_pse": "BANK RESONA PERDANIA",
+            "nama_se": "WEBSITE  BANK RESONA PERDANIA  \u0026 \tPERDANIA DIRECT INTERNET BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1059",
+            "website": "http://www.perdania.co.id/ \u0026 https://pdirect.perdania.co.id/sslvpn/Login/Login"
+        },
+        {
+            "id": "9cb1ab72-8e96-445b-b3b1-e7e83f7f2a81",
+            "nama_pse": "BANK COMMONWEALTH",
+            "nama_se": "INTERNET BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1055",
+            "website": "commaccess.commbank.co.id"
+        },
+        {
+            "id": "9cb1ab6b-ba68-44ed-a13e-30ddbbe58f80",
+            "nama_pse": "BANK COMMONWEALTH",
+            "nama_se": "MOBILE BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1056",
+            "website": "commaccess.commbank.co.id"
+        },
+        {
+            "id": "9cb1ab72-96c7-4553-a1dc-4fa480972d5f",
+            "nama_pse": "DIGIKOP CIPTA INDONESIA",
+            "nama_se": "MITRA KOTESEBHA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1054",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab73-10ce-4884-938b-b169d668a6da",
+            "nama_pse": "IND MOBITECH SERVICE",
+            "nama_se": "INDRIVE",
+            "sektor": "Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1057",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab62-b51b-4d31-8c41-3d2d71a1c731",
+            "nama_pse": "PUSTAKA INSAN MADANI",
+            "nama_se": "SIPLAH.JUALIN.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2021-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1050",
+            "website": "jualin.co.id"
+        },
+        {
+            "id": "9cb1ab6a-fd68-4bf5-9869-6187c1d3c4ef",
+            "nama_pse": "APLIKASI WIRAUSAHA MUSLIM",
+            "nama_se": "WM-UMROH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1053",
+            "website": "wmumroh.co.id"
+        },
+        {
+            "id": "9cb1ab63-871b-46a9-af31-ad8d290506a4",
+            "nama_pse": "SOLUSI KAMPUS INDONESIA",
+            "nama_se": "ECAMPUZ",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1048",
+            "website": "cloud.eCampuz.com"
+        },
+        {
+            "id": "9cb1ab6b-b2ba-426d-ad22-f04e0d23f0a7",
+            "nama_pse": "BANK COMMONWEALTH",
+            "nama_se": "COMMBANK SMARTWEALTH",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1052",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6c-16c6-4eb5-98a2-5818cafd7fee",
+            "nama_pse": "KOPERASI SIMPAN PINJAM BUNGA MATAHARI INDONESIA",
+            "nama_se": "BUNGA MATAHARI",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1049",
+            "website": "kspbungamatahariindonesia.co.id"
+        },
+        {
+            "id": "9cb1ab7d-cf70-415f-9f29-277926152429",
+            "nama_pse": "BANK CIMB NIAGA",
+            "nama_se": "MITRA CIMB NIAGA - OCTO MITRA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1047",
+            "website": "mcn.cimbniaga.co.id"
+        },
+        {
+            "id": "9cb1ab62-e18f-4e45-985a-5e499d1618f7",
+            "nama_pse": "JIWA TRI BOGA",
+            "nama_se": "JIWA+",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1014",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab71-cd8d-45c1-905d-5511aa459705",
+            "nama_pse": "IZI DATA INDONESIA",
+            "nama_se": "IZIDATA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1005",
+            "website": "creditizi.id"
+        },
+        {
+            "id": "9cb1ab63-65dc-4083-ab43-9e5626cf81e1",
+            "nama_pse": "ASURANSI JIWA MANULIFE INDONESIA",
+            "nama_se": "MIINFO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1012",
+            "website": "miinfo.manulife.co.id/idcws/login"
+        },
+        {
+            "id": "9cb1ab63-67c0-4c5e-b792-99377a0d6232",
+            "nama_pse": "HERBA PENAWAR ALWAHIDA INDONESIA",
+            "nama_se": "HNI.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1010",
+            "website": "hni.id"
+        },
+        {
+            "id": "9cb1ab63-6dc5-4827-a35f-72413067fbf8",
+            "nama_pse": "HARMONI NIAGA INFORMATIKA",
+            "nama_se": "HALMALL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1006",
+            "website": "halmall.id"
+        },
+        {
+            "id": "9cb1ab63-9c76-4249-9473-6a266f6c4fe9",
+            "nama_pse": "FWD INSURANCE INDONESIA",
+            "nama_se": "CORPORATE WEB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1029",
+            "website": "fwd.co.id"
+        },
+        {
+            "id": "9cb1ab6b-0867-4aae-8d59-ddb1171d1b9b",
+            "nama_pse": "FWD INSURANCE INDONESIA",
+            "nama_se": "FWD SMART/NEW BUSINESS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1032",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab63-9eb0-430b-9846-7e96f2176600",
+            "nama_pse": "FWD INSURANCE INDONESIA",
+            "nama_se": "FWD MOBILE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1033",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab72-02b8-48bc-84e5-f4d291de078a",
+            "nama_pse": "FWD INSURANCE INDONESIA",
+            "nama_se": "CORPORATE CARE PORTALS",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1034",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6b-0b84-451e-b2f7-cb9e35b9b712",
+            "nama_pse": "FWD INSURANCE INDONESIA",
+            "nama_se": "IFWD",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1036",
+            "website": "ifwd.co.id"
+        },
+        {
+            "id": "9cb1ab63-a11b-4f7f-8f7e-3913782fc948",
+            "nama_pse": "FWD INSURANCE INDONESIA",
+            "nama_se": "FWD MAX",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1038",
+            "website": "-"
+        }
+    ],
+    "processingTimeMs": 13,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 363,
+    "totalPages": 383
+}

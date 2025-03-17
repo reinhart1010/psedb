@@ -1,0 +1,28 @@
+{
+    "hits": [
+        {
+            "id": "9cb1aba1-a8fc-4c8d-9c37-c46c69697a3b",
+            "nama_pse": "BRAWIJAYA CAPITAL INVESTAMA",
+            "nama_se": "SHANTOU MARIA INVESMENT CO., LTD.",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-05-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4079",
+            "website": "gsxt.amr.gd.gov.cn"
+        },
+        {
+            "id": "9cb1ab95-92af-47d2-8513-1f16c757057d",
+            "nama_pse": "SMART MEDIA4U TECHNOLOGY PTE. LTD.",
+            "nama_se": "CLONEIT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4097",
+            "website": "114.119.185.13"
+        }
+    ],
+    "processingTimeMs": 0,
+    "query": "",
+    "totalHits": 352,
+    "hitsPerPage": 50,
+    "page": 8,
+    "totalPages": 8
+}

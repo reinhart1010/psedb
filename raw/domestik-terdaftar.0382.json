@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ab7c-6515-4fb2-991f-202a59603136",
+            "nama_pse": "PANIN DAI-ICHI LIFE",
+            "nama_se": "BEKAL HIDUP",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/59",
+            "website": "bekalhidup.com"
+        },
+        {
+            "id": "9cb1ab7c-6a10-437d-9fe8-98cbcdf49646",
+            "nama_pse": "SIGER SOLUSI TEKNOLOGI",
+            "nama_se": "BOSPREMI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/57",
+            "website": "bospremi.com"
+        },
+        {
+            "id": "9cb1ab8c-1a21-48df-b8e7-251fb6d457d8",
+            "nama_pse": "SIMPAN PINJAM NUSA DUA TIGA",
+            "nama_se": "BETA CASH",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/67",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab84-1b0c-45a2-ac67-a242af79711b",
+            "nama_pse": "SIMPAN PINJAM PERMATA INDAH BERSAMA",
+            "nama_se": "KREDIT NOW",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/61",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab84-22ee-41c9-95bb-35b4f7b52d01",
+            "nama_pse": "LINE PLUS INDONESIA",
+            "nama_se": "LINE BIZ WEBSITE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/70",
+            "website": "linebizid.com"
+        },
+        {
+            "id": "9cb1ab8c-21bf-4b75-8faf-76a47fd2c953",
+            "nama_pse": "SCOREX TEKNOLOGI INDONESIA",
+            "nama_se": "DOLPHEEN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/64",
+            "website": "dolpheen.id"
+        },
+        {
+            "id": "9cb1ab84-456a-40a6-a057-f5bd2ca21b3b",
+            "nama_pse": "SIMPAN PINJAM NUSA RIBU DUA",
+            "nama_se": "BUTUH DANA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/68",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab8c-267e-445b-a8b1-e187cf14a4cd",
+            "nama_pse": "SIMPAN PINJAM DANA SINAR JAYA",
+            "nama_se": "REAL TUNAI",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/72",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab84-5388-4d01-896e-0bff8ee27788",
+            "nama_pse": "MORINGA WAHACARANA PRIMA",
+            "nama_se": "MORINGAKU",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/90",
+            "website": "moringaku.com"
+        },
+        {
+            "id": "9cb1ab8c-2938-462a-8398-750203760148",
+            "nama_pse": "SIMPAN PINJAM DANA SATU NUSA",
+            "nama_se": "DANA MASUK",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/73",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab7c-7c00-4b98-8335-1a99f55c8f97",
+            "nama_pse": "SIMPAN PINJAM BUMI PUTERA MANDIRI",
+            "nama_se": "TOKO UANG",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/75",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab84-5674-4aac-bace-89aa6716178c",
+            "nama_pse": "VAVE GLOBAL MADANI",
+            "nama_se": "VAVE GLOBAL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/81",
+            "website": "vave.co.id"
+        },
+        {
+            "id": "9cb1ab84-6605-4490-a192-c4841143e2a5",
+            "nama_pse": "SIMPAN PINJAM DANA GUNUNG MULIA",
+            "nama_se": "MONEY KAYA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/80",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab84-6ac1-46a9-96ae-194abd6e63c4",
+            "nama_pse": "ANADAV",
+            "nama_se": "E-COMMERCE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/82",
+            "website": "cakravala.com"
+        },
+        {
+            "id": "9cb1ab84-7698-4d1a-a933-715eb04632c7",
+            "nama_pse": "RANTAU DIGITAL NUSANTARA",
+            "nama_se": "RANTAU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/123",
+            "website": "rantau.co.id"
+        },
+        {
+            "id": "9cb1ab84-7931-4aba-9eb2-f7dfa322edda",
+            "nama_pse": "SOLUSI INFORMASI DIGITAL UTAMA",
+            "nama_se": "MYKAS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/103",
+            "website": "mykas.co.id"
+        },
+        {
+            "id": "9cb1ab7c-9add-4353-a494-1692fe03afae",
+            "nama_pse": "PASKOMNAS NIAGA UTAMA",
+            "nama_se": "CARISAYUR TRADING SYSTEM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/126",
+            "website": "carisayur.com"
+        },
+        {
+            "id": "9cb1ab8c-3ea9-4614-a43f-74439d8d0dfa",
+            "nama_pse": "PASKOMNAS NIAGA UTAMA",
+            "nama_se": "PASKOMNAS TRADING SYSTEM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/127",
+            "website": "paskomnas.com"
+        },
+        {
+            "id": "9cb1ab7c-9f8c-4188-a46a-36667801f6c9",
+            "nama_pse": "KAMI SATU KARYA",
+            "nama_se": "APLIKASI KAMISATU",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/95",
+            "website": "kamisatu.id"
+        },
+        {
+            "id": "9cb1ab84-83b0-4074-ba74-1832e109fe2c",
+            "nama_pse": "SIMPAN PINJAM BIMA EKA NUSA",
+            "nama_se": "GOOD DANA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/93",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab84-89c1-480f-a39e-8e8c41336bb0",
+            "nama_pse": "SIMPAN PINJAM BUANA SATU TIGA",
+            "nama_se": "MONEY YOU",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/94",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab84-9049-42df-a154-901d3540a27a",
+            "nama_pse": "SIMPAN PINJAM LANSIR TARO NUSA",
+            "nama_se": "MONEY COME",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/97",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab8c-4cf8-4715-9ea4-db765f1fd27a",
+            "nama_pse": "SIMPAN PINJAM DANA BINTANG LIMA",
+            "nama_se": "DANA RIBU",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/99",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab7c-a370-442c-a2df-b4f0bb286e5b",
+            "nama_pse": "SIMPAN PINJAM DANA SINAR DUNIA",
+            "nama_se": "DANA PLUS",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/100",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab7c-a5ac-4a35-abf3-0b513f8d39a4",
+            "nama_pse": "REGISTRASI NEVA ANGKASA",
+            "nama_se": "RNA REGISTRAR SISTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/102",
+            "website": "rna.id"
+        },
+        {
+            "id": "9cb1ab7c-a853-41af-a4c6-bd7c491a0700",
+            "nama_pse": "SIMPAN PINJAM BINA MAJU BESAR",
+            "nama_se": "DOMPETKU",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/101",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab84-a574-4ed3-a891-3822085e9df6",
+            "nama_pse": "PILAR AKTUAL MEDIA",
+            "nama_se": "PILARAKTUAL.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/120",
+            "website": "pilaraktual.com/"
+        },
+        {
+            "id": "9cb1ab84-a7c9-47b2-b3e1-21c472ac6cc8",
+            "nama_pse": "DUTA BLOK CHAININDO",
+            "nama_se": "BLOB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/106",
+            "website": "blob.id"
+        },
+        {
+            "id": "9cb1ab84-aa3e-487c-83c6-b021582c71e0",
+            "nama_pse": "JAYA MANIS INDONESIA",
+            "nama_se": "E-ORDERING SYSTEM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/114",
+            "website": "horecart.id"
+        },
+        {
+            "id": "9cb1ab8c-5ce7-45ad-a831-c67853dc7161",
+            "nama_pse": "TRISAKA DIGITAL INDONESIA",
+            "nama_se": "TDI HOST \u0026 REGISTRAR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/121",
+            "website": "sentradata.id"
+        },
+        {
+            "id": "9cb1ab8c-6329-4728-83b1-aae8c685d711",
+            "nama_pse": "HYPPE TEKNOLOGI INDONESIA",
+            "nama_se": "SOCIAL MEDIA PLATFORM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/115",
+            "website": "hyppe.id"
+        },
+        {
+            "id": "9cb1ab7c-b5cb-466a-ac86-5f8f156d6906",
+            "nama_pse": "TRANSINDO DATA PERKASA",
+            "nama_se": "TRANSMEDIC TELEMEDICINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/116",
+            "website": "transindodata.com"
+        },
+        {
+            "id": "9cb1ab84-ad15-45eb-89a8-d941ba2fb73e",
+            "nama_pse": "TRANSINDO DATA PERKASA",
+            "nama_se": "TRANSMEDIC SIMRS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/117",
+            "website": "transindodata.com"
+        },
+        {
+            "id": "9cb1ab84-b10d-48dc-8405-e7b141442352",
+            "nama_pse": "CAKRAWALA DATA INTEGRASI",
+            "nama_se": "SISTEM IDENTIFIKASI DAN VERIFIKASI BIOMETRIK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/119",
+            "website": "cdi-systems.com"
+        },
+        {
+            "id": "9cb1ab84-b90f-4784-bc19-8cb92fddb145",
+            "nama_pse": "JUMPA DARING INDONESIA",
+            "nama_se": "PELAYANAN VIDEO KONFERENSI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/122",
+            "website": "Jumpa.id"
+        },
+        {
+            "id": "9cb1ab8c-77b1-454a-a34f-28b92cfff4ab",
+            "nama_pse": "HALAL PEDIA INDONESIA",
+            "nama_se": "HALALPEDIA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/118",
+            "website": "halalpedia.com/"
+        },
+        {
+            "id": "9cb1ab86-5fc8-4838-9785-1005db30a8f5",
+            "nama_pse": "ONECONNECT FINANCIAL TECHNOLOGY INDONESIA",
+            "nama_se": "ONECONNECT FINANCIAL TECHNOLOGY",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/77",
+            "website": "oneconnectft.co.id"
+        },
+        {
+            "id": "9cb1ab7e-4d55-4f4e-bcce-bb97c1574806",
+            "nama_pse": "BIO ORGANIK NUSANTARA",
+            "nama_se": "BIOGREENSCIENCE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/71",
+            "website": "biogreenscience.com"
+        },
+        {
+            "id": "9cb1ab7e-583b-407a-ad9b-99b06dca0acd",
+            "nama_pse": "CHUBB GENERAL INSURANCE INDONESIA",
+            "nama_se": "CHUBB STUDIO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/32",
+            "website": "ap.studio.chubb.com/id/xl-axiata/pweb/mpi/en/home"
+        },
+        {
+            "id": "9cb1ab7e-5df7-4a49-ac39-519b515260c7",
+            "nama_pse": "CHUBB GENERAL INSURANCE INDONESIA",
+            "nama_se": "MCIS (MARINE CERTIFICATE ISSUANCE SYSTEM)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/49",
+            "website": "chubbcargoadvantage.com"
+        },
+        {
+            "id": "9cb1ab86-b244-4ab7-95e4-30e8bf7b10e0",
+            "nama_pse": "BHINNEKA LIFE INDONESIA",
+            "nama_se": "CORPORATE WEBSITE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/44",
+            "website": "bhinnekalife.com"
+        },
+        {
+            "id": "9cb1ab86-babb-4586-9d7c-73e1f57ef5fa",
+            "nama_pse": "BHINNEKA LIFE INDONESIA",
+            "nama_se": "BHINNEKA LIFE AGENCY TOOLS (BLAT)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/45",
+            "website": "blat.bhinnekalife.com"
+        },
+        {
+            "id": "9cb1ab8e-3fa5-4c67-a718-e2a71f350a4c",
+            "nama_pse": "BHINNEKA LIFE INDONESIA",
+            "nama_se": "B-STAR",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/46",
+            "website": "bstar.bhinnekalife.com"
+        },
+        {
+            "id": "9cb1ab8e-42cf-4359-a957-1d45aacd1df3",
+            "nama_pse": "BHINNEKA LIFE INDONESIA",
+            "nama_se": "BFLASH",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/47",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba9-c450-454f-8e77-cf71a086a95a",
+            "nama_pse": "AUSTINDO INFORMATIKA DEWATA",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/55",
+            "website": "geonet.me"
+        },
+        {
+            "id": "9cb1ab8c-7e25-4183-adfc-4bc62dd1b7b0",
+            "nama_pse": "FINTEK ANDALAN SOLUSI TEKNOLOGI",
+            "nama_se": "FULUSME",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/124",
+            "website": "fulusme.id"
+        },
+        {
+            "id": "9cb1ab7e-5230-4772-8e11-e544ecee55c8",
+            "nama_pse": "CHUBB GENERAL INSURANCE INDONESIA",
+            "nama_se": "CHUBB TRAVEL",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/31",
+            "website": "chubbtravelinsurance.co.id"
+        },
+        {
+            "id": "9cb1ab8b-ada5-460a-8629-591e6308964b",
+            "nama_pse": "LEHOLEH RASA NUSANTARA JAYA",
+            "nama_se": "LEHOLEH INDONESIA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/25",
+            "website": "leholeh.co.id"
+        },
+        {
+            "id": "9cb1ab7b-dbf6-4f15-bd59-a8c509653562",
+            "nama_pse": "RUPIAH TOKEN INDONESIA",
+            "nama_se": "RUPIAH TOKEN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/24",
+            "website": "rupiahtoken.com"
+        },
+        {
+            "id": "9cb1ab8b-b857-4ea1-b6da-814559e74a0d",
+            "nama_pse": "PEMASOK MITRA PEMBELI",
+            "nama_se": "APLIKASI PEMPEM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-02-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/27",
+            "website": "pempem.org"
+        }
+    ],
+    "processingTimeMs": 9,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 382,
+    "totalPages": 383
+}

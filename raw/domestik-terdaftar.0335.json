@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ab78-96d1-42a6-a7d8-c115f9f3185b",
+            "nama_pse": "KUSTODIAN SENTRAL EFEK INDONESIA",
+            "nama_se": "C-BEST",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2577",
+            "website": "cbest.ksei.co.id"
+        },
+        {
+            "id": "9cb1ab78-9b6d-4ec9-8af6-a31515b54802",
+            "nama_pse": "KUSTODIAN SENTRAL EFEK INDONESIA",
+            "nama_se": "SISTEM PENDAFTARAN EFEK ELEKTRONIK (SPEK)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2578",
+            "website": "spek.ksei.co.id"
+        },
+        {
+            "id": "9cb1ab88-5c67-437e-8788-fb5c3485bd12",
+            "nama_pse": "KUSTODIAN SENTRAL EFEK INDONESIA",
+            "nama_se": "S-INVEST",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2579",
+            "website": "s-invest.ksei.co.id"
+        },
+        {
+            "id": "9cb1ab8c-c521-476f-ad42-c375d8d00ac2",
+            "nama_pse": "BULLION ECOSYSTEM INTERNATIONAL",
+            "nama_se": "METAL X",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2565",
+            "website": "bullionecosystem.com/metal-x-mdx/"
+        },
+        {
+            "id": "9cb1ab65-1a9c-4ab8-bcef-fbcb906bf766",
+            "nama_pse": "LIHUM",
+            "nama_se": "LIHUM JASA DARING",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2515",
+            "website": "lihum.web.id"
+        },
+        {
+            "id": "9cb1ab73-0596-4c78-9ee2-a03cd27d6c36",
+            "nama_pse": "BANK QNB INDONESIA",
+            "nama_se": "UCAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2510",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab69-8372-40df-82de-9992c54e8c34",
+            "nama_pse": "KIOSON KOMERSIAL INDONESIA",
+            "nama_se": "KIOSON.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2514",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab76-87c7-4ed2-9be1-dc8de8398be5",
+            "nama_pse": "SOULFUL INDO OVERSEAS",
+            "nama_se": "WOOCOMMERCE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2506",
+            "website": "soulfuloverseas.co"
+        },
+        {
+            "id": "9cb1ab78-1711-4468-9684-daf4f1550d1d",
+            "nama_pse": "SARANA DIGITAL RITEL",
+            "nama_se": "DRETAIL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2511",
+            "website": "dretail.id"
+        },
+        {
+            "id": "9cb1ab7f-ea9f-4605-937f-0f03994cac15",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "PEGADAIAN DIGITAL SERVICE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2513",
+            "website": "digital.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab78-2253-40e2-8ea5-7502cdb6e801",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "PEGADAIAN SYARIAH DIGITAL SERVICE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2517",
+            "website": "digital.pegadaiansyariah.co.id"
+        },
+        {
+            "id": "9cb1ab78-2566-45a5-b8da-17ca96b136dd",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "PASSION - KONVENSIONAL",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2518",
+            "website": "passion.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab87-c234-419a-a877-3939076cef95",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "PASSION - SYARIAH",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2519",
+            "website": "syariah.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab87-c58d-4dec-8d65-3f2127ec4fa2",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "DANISA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2520",
+            "website": "danisa.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab78-2842-472c-b954-ce23d6eef0bc",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "KEILA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2521",
+            "website": "keila.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab87-c809-454e-88a7-73824ec2a3c0",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "GALERI 24",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2522",
+            "website": "emas.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab78-2b32-4655-b118-71a3d92150d9",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "PEGADAIAN HELPDESK APP. SYSTEM",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2523",
+            "website": "\"https://ariana.pegadaian.co.id/ atau https://jira.pegadaian.co.id/customer \""
+        },
+        {
+            "id": "9cb1ab87-cba1-4281-81f9-bf66d8faf05e",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "SELENA PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2524",
+            "website": "selena.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab87-cef3-4eac-bf34-eec72727a09d",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "PEGADAIAN TRANSFORMASI DIGITAL (P4D)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2525",
+            "website": "pad.pegadaian.co.id/"
+        },
+        {
+            "id": "9cb1ab78-2d38-46f3-a058-54de1be32f67",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "PEGADAIAN APPLICATION COLLECTING SYSTEM",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2526",
+            "website": "pacs.pegadaian.co.id/pacs/"
+        },
+        {
+            "id": "9cb1ab78-2fe9-4a2a-bd63-3927dbb3a596",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "KIOSMIKRO - PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2527",
+            "website": "kiosmikro.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab87-d622-4b21-83e3-30bb1cf84c3d",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "WEB ADMIN AGEN PEGADAIAN (KONVENSIONAL)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2528",
+            "website": "agen.pegadaian.co.id/"
+        },
+        {
+            "id": "9cb1ab7f-ee0c-4950-9349-337deb14747d",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "WEBSITE LABORATORIUM GEMOLOGI-PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2529",
+            "website": "labgemologi.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab87-e3e6-425e-a688-b38b0e3f17b7",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "APLIKASI PEGADAIAN G-LAB",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2530",
+            "website": "glab.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab78-32cd-4ac3-85ab-d42b1703e62e",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "APLIKASI BMI-PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2531",
+            "website": "bmi.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab87-e63b-4b8b-b5a8-c7976d19c41c",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "APLIKASI PEGADAIAN ORIGINATION MACHINE (PRIME)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2532",
+            "website": "los.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab78-34bc-4f74-9f48-c5511060b94b",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "WEBAPP FLEET",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2533",
+            "website": "pegadaiansyariah.co.id/fleet"
+        },
+        {
+            "id": "9cb1ab78-3750-4135-aceb-c00a27f1d0c5",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "AGEN PEGADAIAN (SYARIAH)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2535",
+            "website": "agen.pegadaiansyariah.co.id"
+        },
+        {
+            "id": "9cb1ab7f-f455-4063-8a0c-510bed5269ba",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "E-PROCUREMENT-PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2536",
+            "website": "eproc.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab7f-f8e5-49f1-bf03-489bda60e9be",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "SAHABAT PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2537",
+            "website": "sahabatpegadaian.com"
+        },
+        {
+            "id": "9cb1ab87-e8e4-4f0b-97a5-3d25184ab87f",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "CEK KUPON UNDIAN-PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2539",
+            "website": "promo.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab87-eb9d-4263-b1aa-b9b9a2b45f43",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "WEBSITE DIGITAL LENDING PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2540",
+            "website": "digilend.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab87-f852-47aa-b0a2-2a15d1173d9f",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "CONTENT MANAGEMENT SYSTEM (CMS) DIGITAL LENDING - PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2541",
+            "website": "digilend.pegadaian.co.id/"
+        },
+        {
+            "id": "9cb1ab7f-fe7c-4b64-a842-96b61a198f44",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "LOAN ORIGINATION SYSTEM DIGITAL LENDING - PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2542",
+            "website": "pad.pegadaian.co.id/directlending"
+        },
+        {
+            "id": "9cb1ab78-3a6f-43d1-8cce-9a202ab44663",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "PORTAL PENGAJUAN KREDIT INSTANSI - PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2543",
+            "website": "simulasi.pegadaian.co.id/LandingInstansi"
+        },
+        {
+            "id": "9cb1ab88-12ff-44e4-8ea1-d0a3e145fca5",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "APLIKASI HBL - PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2544",
+            "website": "aplikasihbl.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab78-42c3-4093-8187-757cdfc4ced8",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "MARKETING EXECUTIVE VIRTUAL (ME VIRTUAL) - PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2545",
+            "website": "hbl.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab78-4706-4085-8899-2369be7fa26a",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "APLIKASI PEGADAIAN FORUM (CTALK)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2546",
+            "website": "ctalk.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab78-53a1-406c-861e-f202cec4bd1d",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "WHISTLE BLOWING SYSTEM - PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2547",
+            "website": "wbs.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab78-565c-4cbc-96b3-be8e319dcdde",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "AGEN PEGADAIAN (KONVENSIONAL)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2548",
+            "website": "agen.pegadaian.co.id/webagen"
+        },
+        {
+            "id": "9cb1ab78-59bf-4b11-95e9-2b9c8c827d47",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "GEOGRAPHIC INFORMATION SYSTEM (GIS) PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2549",
+            "website": "gis.pegadaian.co.id/login.php"
+        },
+        {
+            "id": "9cb1ab88-1f30-4a00-883d-1bf997a285f7",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "MONEV - PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2550",
+            "website": "monev.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab78-6a76-417f-93f9-ec96675d0cbd",
+            "nama_pse": "ENAM KUBUKU INDONESIA",
+            "nama_se": "KUBUKU E-RESOURCES",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2512",
+            "website": "kubuku.co.id"
+        },
+        {
+            "id": "9cb1ab80-31b8-4c27-85ac-b8e9c955a28b",
+            "nama_pse": "ISAN TECHNOLOGY INDONESIA",
+            "nama_se": "AGRION",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2534",
+            "website": "agrion.id"
+        },
+        {
+            "id": "9cb1ab78-832a-49c2-87de-b14573a1405a",
+            "nama_pse": "AMINUDIN",
+            "nama_se": "SAMLAY STORE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2504",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab78-86cc-415d-88d1-ccc3969d4b23",
+            "nama_pse": "UPABOGA MEDIA SINERGI",
+            "nama_se": "UPABOGA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2505",
+            "website": "upaboga.com"
+        },
+        {
+            "id": "9cb1ab80-4b80-487a-a2b9-25ce444984e3",
+            "nama_pse": "NURCHOLIS",
+            "nama_se": "NURCHOLIS DOT COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2509",
+            "website": "nurcholis.com"
+        },
+        {
+            "id": "9cb1ab78-8e44-4449-905c-264b83dfb44b",
+            "nama_pse": "GOOPO INOVASI INDONESIA",
+            "nama_se": "PLATFORM GOOPO",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2516",
+            "website": "goopo.id"
+        },
+        {
+            "id": "9cb1ab80-5eef-4be1-8539-9f0d2e04001c",
+            "nama_pse": "PRIVATE SOLUTIONS SOFTWARE HOUSE",
+            "nama_se": "PRIVATE SOLUTIONS SOFTWARE HOUSE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2538",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab65-1642-47c7-b253-ca535078ec9a",
+            "nama_pse": "TITO PRABOWO",
+            "nama_se": "INTISMAC INTSCHOOL ACADEMY SYSTEM - IIAS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2477",
+            "website": "mobile.intismac.com"
+        }
+    ],
+    "processingTimeMs": 11,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 335,
+    "totalPages": 383
+}

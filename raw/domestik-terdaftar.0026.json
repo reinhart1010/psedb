@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9d77dec2-c8b1-4e24-a2c9-69b217af18f7",
+            "nama_pse": "RIA DIGITAL TEKNOLOGI",
+            "nama_se": "GOTRADE INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21159",
+            "website": "heygotrade.com"
+        },
+        {
+            "id": "9d78620a-3b72-4f58-ae91-39f38c495f17",
+            "nama_pse": "INCRIN INDONESIA KURIR",
+            "nama_se": "BORZO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21175",
+            "website": "borzodelivery.com"
+        },
+        {
+            "id": "9d784447-7422-4eec-88fb-37ae22e835ad",
+            "nama_pse": "ARCHOR TEKNOLOGI DIGITAL",
+            "nama_se": "qoala.com",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21172",
+            "website": "qoala.com"
+        },
+        {
+            "id": "9d7871d9-12dd-4d9b-925d-2d9e78669e98",
+            "nama_pse": "TATA IZIN INDONESIA",
+            "nama_se": "RASABISNIS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21176",
+            "website": "rasabisnis.co.id"
+        },
+        {
+            "id": "9d78c27b-d415-4474-abc5-9befc0a6194b",
+            "nama_pse": "CLASSIO SIBER INDONESIA",
+            "nama_se": "CLASSIOTV.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21179",
+            "website": "classiotv.id"
+        },
+        {
+            "id": "9d78cb07-0abb-47d1-8c20-7ca1df47b428",
+            "nama_pse": "GEBER MEDIA SIBER",
+            "nama_se": "GEBERNEWSDOTCOM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21180",
+            "website": "gebernews.com"
+        },
+        {
+            "id": "9d7848c3-de82-4070-ac1d-80db8d0b81ca",
+            "nama_pse": "ATLANTIS OTOMOTIF NUSANTARA",
+            "nama_se": "TOKORACING.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21173",
+            "website": "-"
+        },
+        {
+            "id": "9d783b36-7805-4a71-b1ae-cedd14ed1f11",
+            "nama_pse": "MEDIA DIGITECH INDONESIA",
+            "nama_se": "VIWONDER.AI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21171",
+            "website": "-"
+        },
+        {
+            "id": "9d75c3b3-ddb2-4776-bc10-e1f8243ad321",
+            "nama_pse": "QUANTA MEDIKA INOVASI",
+            "nama_se": "HEALTHY MIND",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21137",
+            "website": "-"
+        },
+        {
+            "id": "9d75f7d8-97d1-42cd-82ae-9eae49cc6eae",
+            "nama_pse": "ZURICH ASURANSI INDONESIA",
+            "nama_se": "ZURICH EDGE PLATFORM - DIRECT TO CUSTOMER",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21140",
+            "website": "web.digitalnative.zurich.co.id"
+        },
+        {
+            "id": "9d760473-6d30-46ff-8963-16d386de2b16",
+            "nama_pse": "BANK OCBC NISP",
+            "nama_se": "OCBC MERCHANT",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21142",
+            "website": "-"
+        },
+        {
+            "id": "9d75c7f0-5f30-47d1-b7d8-7471d8feedac",
+            "nama_pse": "ADIDAS INDONESIA",
+            "nama_se": "adidas App",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21138",
+            "website": "-"
+        },
+        {
+            "id": "9d7626e3-2ed4-4ffc-9f2d-385bf23900ea",
+            "nama_pse": "NANO MEGA TECHNOLOGY",
+            "nama_se": "MEDISTAR",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21143",
+            "website": "-"
+        },
+        {
+            "id": "9d76278c-6285-41fe-a786-2deb8652e476",
+            "nama_pse": "FAISAL RICKY ADI PURNOMO",
+            "nama_se": "LAYANAN INTERNET LOKAL (RT RW NET)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21144",
+            "website": "-"
+        },
+        {
+            "id": "9d766c82-137e-4348-9db2-be85ffdb5a0a",
+            "nama_pse": "SURYA MAHARDEKA MULTIMEDIA",
+            "nama_se": "mahardeka.com",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21152",
+            "website": "mahardeka.com"
+        },
+        {
+            "id": "9d768177-9dfd-4253-b941-4cb0ec8370d5",
+            "nama_pse": "DYJA BEAUTY INDONESIA",
+            "nama_se": "DYJA ACADEMY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21153",
+            "website": "dyjaacademy.com"
+        },
+        {
+            "id": "9d763fef-ae45-4b0f-9465-dae89ce66ae0",
+            "nama_pse": "QUANTUM BISNIS SOLUSINDO",
+            "nama_se": "PENGURUSAN LEGALITAS USAHA SECARA ONLINE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21147",
+            "website": "-"
+        },
+        {
+            "id": "9d75ca80-0b31-4393-8aed-025223708166",
+            "nama_pse": "HAIRI SYAHRIL",
+            "nama_se": "LAYANAN INTERNET LOKAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21139",
+            "website": "-"
+        },
+        {
+            "id": "9d762c45-7733-4186-bfdd-e65fb8072c36",
+            "nama_pse": "HATI DAMAI LESTARI",
+            "nama_se": "HATI DAMAI LESTARI PLS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21146",
+            "website": "-"
+        },
+        {
+            "id": "9d75fe51-936d-43d4-a890-c9a960515a3e",
+            "nama_pse": "QUANTA MEDIKA INOVASI",
+            "nama_se": "PSIKIATER ONLINE",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21141",
+            "website": "psikiater.online"
+        },
+        {
+            "id": "9d762bf9-897e-48d6-ba5b-8d97f1969ecb",
+            "nama_pse": "PANGERAN MAKMUR SELALU",
+            "nama_se": "PANGERAN MAKMUR SELALU PLS SMRG",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21145",
+            "website": "-"
+        },
+        {
+            "id": "9d76c76f-98c6-4983-98ee-3fad83e697d6",
+            "nama_pse": "WAWAN",
+            "nama_se": "LAYANAN INTERNET LOKAL (RT RW NET)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21154",
+            "website": "-"
+        },
+        {
+            "id": "9d764ee2-7fb7-4f97-ad71-a51e2b15e773",
+            "nama_pse": "MITRA GLOBAL HOLIDAY",
+            "nama_se": "MG HOLIDAY GROUP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21151",
+            "website": "mgholidaygroup.com"
+        },
+        {
+            "id": "9d73b766-b371-4710-ac61-2a22661aee21",
+            "nama_pse": "IZZA NUSA PERSADA",
+            "nama_se": "SIMRS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-11-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21133",
+            "website": "-"
+        },
+        {
+            "id": "9d737652-61d3-4db3-8027-cf6827a8434d",
+            "nama_pse": "TILIKGRAM ADIKARA IDN",
+            "nama_se": "ADIKARA SYNSYS (ENTERPRISE RESOURCE PLANNING SOFTWARE)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21132",
+            "website": "-"
+        },
+        {
+            "id": "9d74c145-7092-4900-a3c5-98e9aa90752d",
+            "nama_pse": "NSC SUWARDANA SARASWATI",
+            "nama_se": "NSC SOBAT UMKM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21135",
+            "website": "nscsobatumkm.com"
+        },
+        {
+            "id": "9d74b925-5f81-4021-ab51-e049bd74eec9",
+            "nama_pse": "JUARA MAJU MANDIRI",
+            "nama_se": "juara net`",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21134",
+            "website": "-"
+        },
+        {
+            "id": "9d74ef6d-9202-4e99-aae8-fc65cfb17f8b",
+            "nama_pse": "QUANTA MEDIKA INOVASI",
+            "nama_se": "QUANTA LEARNING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21136",
+            "website": "-"
+        },
+        {
+            "id": "9d71ca8e-5400-4368-bd14-bedfd0ab380d",
+            "nama_pse": "PANGERAN MAKMUR SELALU",
+            "nama_se": "PANGERAN MAKMUR SELALU SMRG",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21130",
+            "website": "-"
+        },
+        {
+            "id": "9d71b8ae-314f-4c78-9729-32362f18b7a2",
+            "nama_pse": "PANGERAN MAKMUR SELALU",
+            "nama_se": "PANGERAN MAKMUR SELALU",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21126",
+            "website": "-"
+        },
+        {
+            "id": "9d71c515-e18b-4dc2-a825-ae43872c85d3",
+            "nama_pse": "PANGERAN MAKMUR SELALU",
+            "nama_se": "PANGERAN MAKMUR SELALU PT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21129",
+            "website": "-"
+        },
+        {
+            "id": "9d71bc7a-0a4f-4cd1-8419-10b49b8b2d52",
+            "nama_pse": "HATI DAMAI LESTARI",
+            "nama_se": "HATI DAMAI LESTARI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21127",
+            "website": "-"
+        },
+        {
+            "id": "9d71bf80-d9e4-4f8c-9328-3c0bde523086",
+            "nama_pse": "PANGERAN MAKMUR SELALU",
+            "nama_se": "PTPANGERAN MAKMUR SELALU",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21128",
+            "website": "-"
+        },
+        {
+            "id": "9d7210fb-3c7b-48c2-95eb-de2eee888ffb",
+            "nama_pse": "NYAMAN TRANSPORT BALI",
+            "nama_se": "BALI TOURISTIC",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2024-11-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21131",
+            "website": "balitouristic.com"
+        },
+        {
+            "id": "9d70b58e-2d9b-46e7-8ffe-7a70ca8b689e",
+            "nama_pse": "ZONA DIGITAL TEKNOLOGI",
+            "nama_se": "ZONA DIGITAL",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21119",
+            "website": "zonadigitalofficial.com"
+        },
+        {
+            "id": "9d70c8e4-3042-4ea6-add9-4f0d3cf18cb7",
+            "nama_pse": "INTERMEDIA MITRA NUSANTARA",
+            "nama_se": "sekolahkita.sch.id",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21124",
+            "website": "sekolahkita.sch.id"
+        },
+        {
+            "id": "9d701ad3-b1c3-4bb4-af8c-6cca2d62794c",
+            "nama_pse": "SAHABAT DIGITAL TEKNOLOGI",
+            "nama_se": "wonder play",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21110",
+            "website": "ptsahabatdigitalteknologi.com"
+        },
+        {
+            "id": "9d702820-39fe-4db7-bdcf-26ed13b4a59b",
+            "nama_pse": "KSPPS BMT TA'AWUN SUMEDANG",
+            "nama_se": "IBS BRANCHLESS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21113",
+            "website": "-"
+        },
+        {
+            "id": "9d702fb3-67f2-4109-8a8d-1ae9a7c789d3",
+            "nama_pse": "RATNA DEWI SULISTIANI",
+            "nama_se": "BALI PHOTOGRAPHER (BAHASA INDONESIA)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21114",
+            "website": "baliphotographer.id"
+        },
+        {
+            "id": "9d7051a0-7006-4094-b370-2ff39ab8a8e9",
+            "nama_pse": "SHAKILA FIBER NETWORK",
+            "nama_se": "LAYANAN INTERNET LOKAL ( RT RW NET )",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21115",
+            "website": "-"
+        },
+        {
+            "id": "9d6fdea8-0c91-4dc7-bea2-d352723c2069",
+            "nama_pse": "MEDIA JAYA TEKNOLOGI",
+            "nama_se": "MEDIA PAYMENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21103",
+            "website": "mpay.mediapayment.co.id"
+        },
+        {
+            "id": "9d6fce50-947e-42aa-bf0a-253c12c543c7",
+            "nama_pse": "BANGKIT DIGITAL TEKNOLOGI",
+            "nama_se": "smart wave",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21101",
+            "website": "ptbangkitdigitalteknologi.com"
+        },
+        {
+            "id": "9d70b50f-cbeb-49d4-bff5-600d434c9448",
+            "nama_pse": "INTERMEDIA MITRA NUSANTARA",
+            "nama_se": "garut.info",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21118",
+            "website": "-"
+        },
+        {
+            "id": "9d701b7a-afac-4e3e-b83b-ec93d861af12",
+            "nama_pse": "SG DIGITAL SOLUTIONS",
+            "nama_se": "SG5 BOOKING PLATFORM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21111",
+            "website": "sg5.co.id"
+        },
+        {
+            "id": "9d6fcdc7-9406-4ed6-bf80-94accbc65eba",
+            "nama_pse": "DIGITAL MAJU JAYA",
+            "nama_se": "SHOPSENCE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21100",
+            "website": "shopsence.com"
+        },
+        {
+            "id": "9d70b985-bab0-4269-92bd-19efb7ebcd6c",
+            "nama_pse": "INTERMEDIA MITRA NUSANTARA",
+            "nama_se": "simpendapodik",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21120",
+            "website": "-"
+        },
+        {
+            "id": "9d6fc7dd-cd6b-4b6f-a904-6acf1dc73145",
+            "nama_pse": "SOLUSI STRATEGI PRIMA",
+            "nama_se": "LYNX SSP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21098",
+            "website": "portal.lynxssp.com"
+        },
+        {
+            "id": "9d6fb040-17f2-4900-b65f-24769d060273",
+            "nama_pse": "AXA INSURANCE INDONESIA",
+            "nama_se": "AXA MYPAGE MOBILE APLIKASI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21096",
+            "website": "-"
+        },
+        {
+            "id": "9d6fdfa2-0bcb-454d-a5d1-b82847740227",
+            "nama_pse": "DETIK NEWS MEDIA",
+            "nama_se": "portal web tampa tujuan komersil",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21104",
+            "website": "-"
+        },
+        {
+            "id": "9d6fecf3-6795-4a9e-887d-1092cb6b46df",
+            "nama_pse": "PENDEKAR BANGUN PAGI",
+            "nama_se": "PENDEKAR BANGUN PAGI",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21106",
+            "website": "ptpendekarbangunpagi.com"
+        }
+    ],
+    "processingTimeMs": 6,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 26,
+    "totalPages": 383
+}

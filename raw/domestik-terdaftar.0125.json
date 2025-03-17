@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ac3a-3f21-4850-83d3-804fad0f3373",
+            "nama_pse": "KOINMU INTERNATIONAL SOLUTION",
+            "nama_se": "KOINMU",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15674",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abf3-7d25-46fc-bf67-b3e4efd9ec30",
+            "nama_pse": "DAYA DIMENSI INDONESIA",
+            "nama_se": "ENGAUGE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15666",
+            "website": "engauge.odyssey.co.id"
+        },
+        {
+            "id": "9cb1ac47-229f-46e9-902a-1a6e60bd2177",
+            "nama_pse": "ARAH MATA GRAFIKA",
+            "nama_se": "CV ARAH MATA GRAFIKA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15635",
+            "website": "aramata.id"
+        },
+        {
+            "id": "9cb1ac38-9008-450a-9c8f-7831bb2bfaf0",
+            "nama_pse": "SINAR BINTANG MULIA",
+            "nama_se": "E-SBM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15645",
+            "website": "e-sbm.co.id"
+        },
+        {
+            "id": "9cb1ac39-0b1e-401f-91c1-c5d40794ca56",
+            "nama_pse": "HONDA PROSPECT MOTOR",
+            "nama_se": "HONDA CONNECT",
+            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15637",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac48-ab6d-498f-a49e-7a211dce7b3f",
+            "nama_pse": "DOWLAT ALIB INDONESIA",
+            "nama_se": "POCKETYOU ASIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15640",
+            "website": "pocketyouasia.com"
+        },
+        {
+            "id": "9cb1ac48-c6f9-4e04-b6f3-9d85ff5bacd2",
+            "nama_pse": "SABANG DIGITAL INDONESIA",
+            "nama_se": "MAKANBANG",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15636",
+            "website": "makanbang.id"
+        },
+        {
+            "id": "9cb1ac39-4219-4831-ad8e-4c34bf0a8866",
+            "nama_pse": "RAPIER TEKNOLOGI NASIONAL",
+            "nama_se": "SIMKES",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15648",
+            "website": "simkes.kuduskab.go.id"
+        },
+        {
+            "id": "9cb1ac27-20df-41ce-81ff-ccef1b4acb7f",
+            "nama_pse": "AKSELERASI KARYA BANGSA",
+            "nama_se": "PT AKSELERASI KARYA BANGSA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15649",
+            "website": "landingpage.pensiunq.com"
+        },
+        {
+            "id": "9cb1ac39-fa91-48b9-98e2-94e25fcba696",
+            "nama_pse": "GIGA SOLUSI KENCANA",
+            "nama_se": "GIGA EMR",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15634",
+            "website": "gskencana.com"
+        },
+        {
+            "id": "9cb1ac27-74b7-4875-8a27-20b105244b57",
+            "nama_pse": "GOGO TECH CONSULTANCY",
+            "nama_se": "GT2TECH.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15638",
+            "website": "gt2tech.com"
+        },
+        {
+            "id": "9cb1ac27-78bf-4cd7-8571-f3d5c4a6dc1f",
+            "nama_pse": "AKG DREAM FUTURE",
+            "nama_se": "REALME",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15639",
+            "website": "realme.com"
+        },
+        {
+            "id": "9cb1ac49-4f9b-4c70-b348-50943a07ea11",
+            "nama_pse": "MAJU SUKSES PERKASA",
+            "nama_se": "MAJU BAN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15642",
+            "website": "majuban.com"
+        },
+        {
+            "id": "9cb1ac27-7ba7-4c7c-9d46-c04e5c51ab5c",
+            "nama_pse": "SHAFWAH GOLDEN TECHNOLOGY",
+            "nama_se": "USAHAYUK.COM",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15643",
+            "website": "usahayuk.com"
+        },
+        {
+            "id": "9cb1ac3a-0958-478b-838a-d9c31ea6acce",
+            "nama_pse": "WARTA MELAWI GROUP",
+            "nama_se": "WARTAMELAWI.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15644",
+            "website": "wartamelawi.com"
+        },
+        {
+            "id": "9cb1ac49-546a-40fd-84d0-868b3531d7b4",
+            "nama_pse": "FORUM BERITA INDONESIA",
+            "nama_se": "FORUMKEADILAN.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15646",
+            "website": "forumkeadilan.com"
+        },
+        {
+            "id": "9cb1ac3a-0d50-4a0d-91bc-0d61ab96405d",
+            "nama_pse": "BALI HOME GROUP",
+            "nama_se": "BALIHOME.ME",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15647",
+            "website": "balihome.me"
+        },
+        {
+            "id": "9cb1ac3a-11ba-4c07-aff1-10f10c1c87c4",
+            "nama_pse": "ANISA RELOAD INVESTAMA",
+            "nama_se": "ANISA RELOAD INVESTAMA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15650",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac27-7f0b-4837-a6c2-2969d24ff7e0",
+            "nama_pse": "LANGKAH FASTI",
+            "nama_se": "INDOHUB.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15651",
+            "website": "WWW.INDOHUB.CO.ID"
+        },
+        {
+            "id": "9cb1ac27-8259-4d13-884f-04dd9c29ab25",
+            "nama_pse": "PRESTASI RETAIL INNOVATION",
+            "nama_se": "FISIK.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15652",
+            "website": "fisik.id"
+        },
+        {
+            "id": "9cb1ac49-661e-40da-9dd9-285a4b1e0938",
+            "nama_pse": "PRESTASI RETAIL INNOVATION",
+            "nama_se": "SPECS.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15653",
+            "website": "specs.id"
+        },
+        {
+            "id": "9cb1ac48-1ee8-415c-8512-d4652b9bcd79",
+            "nama_pse": "SARI ASIH",
+            "nama_se": "SMART PLUS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15624",
+            "website": "sariasih.com"
+        },
+        {
+            "id": "9cb1ac26-a599-46c3-8dfc-a8fd1fe67719",
+            "nama_pse": "WAJAN PULSA INTERMEDIA",
+            "nama_se": "WAJAN PULSA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15623",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac39-71b6-43ac-9c16-8215c70e1605",
+            "nama_pse": "MANDIRI INVESTINDO FUTURES",
+            "nama_se": "MIF TRADER",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15618",
+            "website": "mandirifx.co.id"
+        },
+        {
+            "id": "9cb1ac49-1ce3-48b5-8167-830741f1f798",
+            "nama_pse": "WEBULL SEKURITAS INDONESIA",
+            "nama_se": "WEBULL INDONESIA ONLINE TRADING",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15619",
+            "website": "webull.co.id"
+        },
+        {
+            "id": "9cb1ac27-0a1c-4541-b408-4bdb5849f0bc",
+            "nama_pse": "MERCK CHEMICALS AND LIFE SCIENCES",
+            "nama_se": "SIGMA ALDRICH",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15627",
+            "website": "sigmaaldrich.com"
+        },
+        {
+            "id": "9cb1ac27-2b6c-4d4c-865e-f24702a12952",
+            "nama_pse": "CERITA RESTOCK TEKNOLOGI AMANNAH",
+            "nama_se": "WWW.RESTOCK.TECH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15621",
+            "website": "restock.tech"
+        },
+        {
+            "id": "9cb1ac39-d789-4344-ac96-507dd5f81620",
+            "nama_pse": "CARI GIGI INDONESIA",
+            "nama_se": "DIGMAN (DIGITAL MANAGEMENT APPS) CARIGI INDONESIA",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15620",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac27-50e6-4657-8afa-649f08cce17e",
+            "nama_pse": "BERKAH JASA",
+            "nama_se": "BERKAH JASA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15622",
+            "website": "jasaperijinanusaha.com"
+        },
+        {
+            "id": "9cb1ac49-411a-408d-ba32-59db0a09c78b",
+            "nama_pse": "K-LINK NUSANTARA",
+            "nama_se": "MULTIVERSE MARKETING",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15625",
+            "website": "k-link.co.id"
+        },
+        {
+            "id": "9cb1ac49-44e5-4381-bf29-ac4958eb289e",
+            "nama_pse": "NUSANTARA KEMBAR GROUP",
+            "nama_se": "OMNICHANNEL \u0026 CRM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15626",
+            "website": "omnichannel.ashento.com"
+        },
+        {
+            "id": "9cb1ac39-f6f4-4a79-ae0e-e14f6e4aa066",
+            "nama_pse": "PRESTASI RETAIL INNOVATION",
+            "nama_se": "OURDAILYDOSE.NET",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15631",
+            "website": "ourdailydose.net"
+        },
+        {
+            "id": "9cb1ac49-4943-460a-8815-4e2498c19677",
+            "nama_pse": "PRIMA SOLUSI COMPUTINDO",
+            "nama_se": "RADSOFT INVESTMENT SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15632",
+            "website": "radsoftsystem.com"
+        },
+        {
+            "id": "9cb1ac27-7045-4af5-a1f7-c0325d115ee3",
+            "nama_pse": "RAL LICENSE SERVICE PROVIDER",
+            "nama_se": "JASA PENDAFTARAN PERIZINAN BADAN USAHA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15633",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac39-efef-4afd-89e4-e295e2b2804b",
+            "nama_pse": "SAWALA INOVASI INDONESIA",
+            "nama_se": "SAWALA TECHNOLOGY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15615",
+            "website": "sawala.tech"
+        },
+        {
+            "id": "9cb1ac27-4a4e-4677-a57f-877cf4c6ba73",
+            "nama_pse": "SILVIANA AZHARI",
+            "nama_se": "GAME VIRTUAL CARD",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15616",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac27-4d42-488b-8727-a4bcbad7b8b5",
+            "nama_pse": "ANDHYMURTI TIMUR HERYANTO",
+            "nama_se": "PEMBUATAN GAME VIRTUAL CARD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15617",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac39-e8d5-4be7-abb5-04df5ff19192",
+            "nama_pse": "ADIKARA SENTOSA",
+            "nama_se": "RW PINTAR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15609",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac27-2fa1-4aff-b3f7-abb4d82ae42d",
+            "nama_pse": "SOROTAN JURNALIS NEWS",
+            "nama_se": "SOROTANJURNALIS.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15610",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac27-39a3-4524-b669-ce7b300d9d3e",
+            "nama_pse": "JURNAL INDONESIA GROUP",
+            "nama_se": "JURNALRIAU.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15611",
+            "website": "jurnalriau.com"
+        },
+        {
+            "id": "9cb1ac39-ec00-47eb-825e-788d8253916a",
+            "nama_pse": "Sorsawo Digital",
+            "nama_se": "SORSAWO DIGITAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15612",
+            "website": "sorsawo.com"
+        },
+        {
+            "id": "9cb1ac27-3d78-41d4-93e8-2398df872a6b",
+            "nama_pse": "JASA JAGO CORP",
+            "nama_se": "JASA JAGO",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15613",
+            "website": "jasajago.my.id"
+        },
+        {
+            "id": "9cb1ac27-4754-42d8-af26-b8f7004ced0c",
+            "nama_pse": "SUARA MASSA MEDIA",
+            "nama_se": "SUARAMASSA.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15614",
+            "website": "suaramassa.co.id"
+        },
+        {
+            "id": "9cb1ac26-b285-4ee6-8e5f-4c11179f4f61",
+            "nama_pse": "BENSAE KREASI INDONESIA",
+            "nama_se": "MEDISAE SIMRS",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15606",
+            "website": "simrs.bensae.id"
+        },
+        {
+            "id": "9cb1ac27-0d01-47c2-a448-6487206b5ed3",
+            "nama_pse": "SATRIA ANTARAN PRIMA",
+            "nama_se": "CORESYS",
+            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15602",
+            "website": "ONLINE.CORESYSSAP.COM"
+        },
+        {
+            "id": "9cb1ac27-0fb5-4783-be82-ac4185b9e50e",
+            "nama_pse": "KUY DIGITAL TECHNOLOGY",
+            "nama_se": "TOPUPKUY.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15601",
+            "website": "topupkuy.id"
+        },
+        {
+            "id": "9cb1ac27-1e05-4a64-a3c4-8a1237ad9b80",
+            "nama_pse": "ORISUL DIGITAL AGENSI",
+            "nama_se": "LIHAI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15603",
+            "website": "lih.ai"
+        },
+        {
+            "id": "9cb1ac39-ce84-478b-9b1a-247ff0720a50",
+            "nama_pse": "PANTI RAPIH",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN \u0026 ARTIFISIAN INTELLIGIENCE PANTI NUGROHO (SIMLENUG)",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15604",
+            "website": "pantinugroho.or.id"
+        },
+        {
+            "id": "9cb1ac27-2529-4a64-bde0-c949d8a9ab07",
+            "nama_pse": "SYSTEM DESIGN CENTER",
+            "nama_se": "XPRESSO WEB APPLIKASI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15605",
+            "website": "sdc-soft.com"
+        },
+        {
+            "id": "9cb1ac39-da29-41b2-9737-59031e7b777e",
+            "nama_pse": "KEAMANAN DATA INDONESIA",
+            "nama_se": "COMPLY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15607",
+            "website": "comply.id"
+        }
+    ],
+    "processingTimeMs": 3,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 125,
+    "totalPages": 383
+}

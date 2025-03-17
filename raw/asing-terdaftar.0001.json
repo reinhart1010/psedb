@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9e674b45-4c34-4d57-aa45-eb315282123f",
+            "nama_pse": "FLYFIREFLY HOLIDAY SDN. BHD.",
+            "nama_se": "FIREFLY AIRLINES",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2025-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22684",
+            "website": "-"
+        },
+        {
+            "id": "9e5b5f88-97b1-4d00-93f0-c0560df887f7",
+            "nama_pse": "MALAYSIA AIRLINES BERHAD",
+            "nama_se": "JOURNIFY: TRAVEL \u0026 LIFESTYLE",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2025-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22622",
+            "website": "-"
+        },
+        {
+            "id": "9e5b5fd0-762f-4fcb-8cab-f4eab58c0dbf",
+            "nama_pse": "MALAYSIA AIRLINES BERHAD",
+            "nama_se": "ENRICHMONEY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22623",
+            "website": "-"
+        },
+        {
+            "id": "9e5b6392-a1bb-4705-9aab-38b06694c9bf",
+            "nama_pse": "MALAYSIA AIRLINES BERHAD",
+            "nama_se": "MALAYSIA AIRLINES",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2025-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22624",
+            "website": "-"
+        },
+        {
+            "id": "9e5981ae-234a-4e9a-9554-ea9b3670e3ae",
+            "nama_pse": "SUMSUB APAC PTE. LTD.",
+            "nama_se": "SUMSUB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22614",
+            "website": "sumsub.com"
+        },
+        {
+            "id": "9e578806-1db8-4ed4-b0eb-9119b5aa6ea1",
+            "nama_pse": "EXPTIONAL PTE LTD",
+            "nama_se": "DEADLY DUDES",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22595",
+            "website": "-"
+        },
+        {
+            "id": "9e511ccd-1b1c-4149-a50c-f962a756d5d8",
+            "nama_pse": "VNG SINGAPORE PTE., LTD.",
+            "nama_se": "REMEMENTO: WHITE SHADOW",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22548",
+            "website": "rwsid.vnggames.com"
+        },
+        {
+            "id": "9e517d61-1a8c-4c1f-b152-ff2cd10805b5",
+            "nama_pse": "SPOTIFY AB",
+            "nama_se": "SPOTIFY (APLIKASI)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22552",
+            "website": "-"
+        },
+        {
+            "id": "9e4f29a2-294d-4ce6-85ec-86e4513dc216",
+            "nama_pse": "NETEASE INFORMATION TECHNOLOGY CORPORATION",
+            "nama_se": "L26 FRAG PUNK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22519",
+            "website": "-"
+        },
+        {
+            "id": "9e4f29a4-b8e9-41a8-b1d6-f877ce15372c",
+            "nama_pse": "NETEASE INFORMATION TECHNOLOGY CORPORATION",
+            "nama_se": "L26 FRAG PUNK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22520",
+            "website": "fragpunk.com"
+        },
+        {
+            "id": "9e4f2f2a-29dc-40a3-96fd-8ac80a0a1ba1",
+            "nama_pse": "NETEASE INFORMATION TECHNOLOGY CORPORATION",
+            "nama_se": "L26 FRAG PUNK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22521",
+            "website": "-"
+        },
+        {
+            "id": "9e4f347f-a111-4d26-8ef3-448a4ae3a19b",
+            "nama_pse": "NETEASE INFORMATION TECHNOLOGY CORPORATION",
+            "nama_se": "L26 FRAG PUNK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22522",
+            "website": "-"
+        },
+        {
+            "id": "9e4f3b6d-8e7a-40c8-9615-46591a62479f",
+            "nama_pse": "NETEASE INFORMATION TECHNOLOGY CORPORATION",
+            "nama_se": "L26 FRAG PUNK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22524",
+            "website": "-"
+        },
+        {
+            "id": "9e4d7e17-ad6b-4b25-9eb5-f4d320659f04",
+            "nama_pse": "ALT CAPITAL PTE. LTD.",
+            "nama_se": "ALT CAPITAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22500",
+            "website": "altcapitalfund.com"
+        },
+        {
+            "id": "9e4f759f-f4ad-49cb-8d15-16fefece3c95",
+            "nama_pse": "Truewatch Technology Inc Pte. Ltd.",
+            "nama_se": "TRUEWATCH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22528",
+            "website": "truewatch.com"
+        },
+        {
+            "id": "9e315716-4d47-4083-a7db-a2b47dd37a1b",
+            "nama_pse": "VNG SINGAPORE PTE., LTD.",
+            "nama_se": "FAST.GAME",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22371",
+            "website": "fast.game"
+        },
+        {
+            "id": "9e315cb9-1e92-43db-9d31-e171c7a93f7b",
+            "nama_pse": "Reveli International Pte Ltd",
+            "nama_se": "REVELI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2025-02-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22372",
+            "website": "reveli.io"
+        },
+        {
+            "id": "9e2d10c9-5845-4c86-8cd6-31bcc9507a31",
+            "nama_pse": "CELESTIAL MOVIE CHANNEL LIMITED",
+            "nama_se": "CMGO OWNED BY CELESTIAL MOVIE CHANNEL LIMITED (“CMC”)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22338",
+            "website": "cmgo.com"
+        },
+        {
+            "id": "9e252fe7-6c29-4408-888a-bebc3504b005",
+            "nama_pse": "TRANSSION ESTAR HK CO.,LIMITED",
+            "nama_se": "BATTLE TEAMS MOBILE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22307",
+            "website": "btm.estarplay.com"
+        },
+        {
+            "id": "9e22cd09-c635-4583-8cee-ec19ed8164ff",
+            "nama_pse": "GUESTPOINT MOTELIER PTY LTD",
+            "nama_se": "GUESTPOINT PMS V9",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22274",
+            "website": "guestpoint.com"
+        },
+        {
+            "id": "9e232a88-4536-44e0-9e4b-9a9fc2096d3d",
+            "nama_pse": "HANGZHOU TADA ZHONGYU NETWORK TECHNOLOGY CO., LTD",
+            "nama_se": "TADALINGO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-02-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22283",
+            "website": "tadalingo.com"
+        },
+        {
+            "id": "9e251b96-419d-440d-8ef3-697231d987ab",
+            "nama_pse": "MARVELSOFT LIMITED",
+            "nama_se": "MARVELSOFT TRADING PLATFORM (MTP)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2025-02-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22302",
+            "website": "marvelsoft.net"
+        },
+        {
+            "id": "9e173b99-6de9-472c-8675-5ea3e5c892b8",
+            "nama_pse": "Truewatch Technology Inc Pte. Ltd.",
+            "nama_se": "TRUEWATCH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22210",
+            "website": "truewatch.com"
+        },
+        {
+            "id": "9e3179ff-04eb-4fba-a036-54fd6424eabd",
+            "nama_pse": "BRIGHTPLAN LLC",
+            "nama_se": "BRIGHTPLAN APPLICATION",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22373",
+            "website": "academy.brightplan.com"
+        },
+        {
+            "id": "9e252fe9-3e34-4ae9-b465-c2bb03a85490",
+            "nama_pse": "TRANSSION ESTAR HK CO.,LIMITED",
+            "nama_se": "BATTLE TEAMS MOBILE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22308",
+            "website": "btm.estarplay.com"
+        },
+        {
+            "id": "9e038cc9-064b-4ec8-a162-cac463b97a45",
+            "nama_pse": "TOOLS FOR HUMANITY CORPORATION",
+            "nama_se": "WORLD APP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22151",
+            "website": "toolsforhumanity.com"
+        },
+        {
+            "id": "9dfd8b12-bc89-4f39-891d-9b4a6ee9d5ab",
+            "nama_pse": "DOCEBO SPA",
+            "nama_se": "pruexpertid.docebosaas.com",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-17",
+            "url_tdpse_detail": "https://pse.kominfo.go.id/tdpse-detail/22134",
+            "website": "docebo.com"
+        },
+        {
+            "id": "9dfd8b5a-1f4a-41e7-aef0-54618975319f",
+            "nama_pse": "DOCEBO SPA",
+            "nama_se": "pruexpertid.docebosaas.com",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-17",
+            "url_tdpse_detail": "https://pse.kominfo.go.id/tdpse-detail/22135",
+            "website": "docebo.com"
+        },
+        {
+            "id": "9df4de33-27a5-4084-ba79-f64e9d3da1f7",
+            "nama_pse": "FLYFIREFLY HOLIDAY SDN. BHD.",
+            "nama_se": "FIREFLY AIRLINES",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22079",
+            "website": "-"
+        },
+        {
+            "id": "9de83adf-bdbb-4c80-900c-b6453c457cf3",
+            "nama_pse": "RED GUAVA PTY LTD",
+            "nama_se": "CLINIKO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22032",
+            "website": "cliniko.com"
+        },
+        {
+            "id": "9de6913d-a08e-4c8c-8b70-5eb384115f84",
+            "nama_pse": "HIGGS TECHNOLOGY CO., LIMITED",
+            "nama_se": "LUDO DREAM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22014",
+            "website": "-"
+        },
+        {
+            "id": "9de0fe9d-d183-4386-8566-094c28527ef1",
+            "nama_pse": "B.I.G TECHNOLOGY CO., LIMITED",
+            "nama_se": "HIGGS GAMES",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21991",
+            "website": "bosbosgames.com"
+        },
+        {
+            "id": "9dd8f3d4-a4d3-440e-9d50-1c52486d80d6",
+            "nama_pse": "TATLER ASIA LIMITED",
+            "nama_se": "TATLER ASIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21951",
+            "website": "tatlerasia.com"
+        },
+        {
+            "id": "9dc2fa71-d165-4e51-876f-2dede613c580",
+            "nama_pse": "MIMECAST SERVICES LIMITED",
+            "nama_se": "MIMECAST CLOUD CYBER RESILIENCE PLATFORM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21859",
+            "website": "mimecast.com"
+        },
+        {
+            "id": "9dc173da-52cc-44c5-88dc-d2d7fd2759a9",
+            "nama_pse": "PROXIMA BETA PTE. LIMITED",
+            "nama_se": "DELTA FORCE (PC VERSION)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21845",
+            "website": "playdeltaforce.com"
+        },
+        {
+            "id": "9dbe91c8-7ac9-4cf2-82cb-028f73fce10f",
+            "nama_pse": "UCWEB SINGAPORE PTE. LTD.",
+            "nama_se": "UC BROWSER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-17",
+            "url_tdpse_detail": "https://pse.kominfo.go.id/tdpse-detail/21812",
+            "website": "ucweb.com"
+        },
+        {
+            "id": "9dbe91f2-92d3-4239-9cfb-2b75de76efb8",
+            "nama_pse": "UCWEB SINGAPORE PTE. LTD.",
+            "nama_se": "UC BROWSER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-17",
+            "url_tdpse_detail": "https://pse.kominfo.go.id/tdpse-detail/21813",
+            "website": "ucweb.com"
+        },
+        {
+            "id": "9db6d7d9-f110-410f-961b-b1ba9201e4eb",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO., LTD.",
+            "nama_se": "PKBM CITA KASIH BANGSA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21783",
+            "website": "-"
+        },
+        {
+            "id": "9db6d7d4-2f57-432d-bff1-68db65629475",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO., LTD.",
+            "nama_se": "MILLTEC INVESTMENT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21780",
+            "website": "-"
+        },
+        {
+            "id": "9db6d7d6-8835-402a-a421-b648f9435fba",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO., LTD.",
+            "nama_se": "PLN RENEWABLES",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21781",
+            "website": "-"
+        },
+        {
+            "id": "9db6d7d8-3b4b-44d6-9417-1eba4636ca21",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO., LTD.",
+            "nama_se": "GUANGDONG ZHONGNAN SWITCH FACTORY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21782",
+            "website": "-"
+        },
+        {
+            "id": "9db63d54-78d4-42ec-9365-1f91e65671b3",
+            "nama_pse": "PLAYBSET LIMITED",
+            "nama_se": "DYNASTY HEROS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21773",
+            "website": "dhsl.playbest.net"
+        },
+        {
+            "id": "9db2eeb0-fbaa-4b05-8e77-1d04c3a0e37b",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "KERTA ANGSANA / PARAGON HOTEL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21731",
+            "website": "-"
+        },
+        {
+            "id": "9db2eeb6-7e26-4dae-8fa8-28466ab14b63",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "TUNAS INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21734",
+            "website": "-"
+        },
+        {
+            "id": "9db2eeb2-c70e-49c3-9df8-6392c9952171",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "TUNAS INDONESIA JAYA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21732",
+            "website": "-"
+        },
+        {
+            "id": "9db2eeae-4483-4001-b93d-21290b163df2",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "GUANGDONG ZHONGNAN SWITCH FACTORY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-12-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21730",
+            "website": "-"
+        },
+        {
+            "id": "9db2eeb4-73d0-487a-8b38-3e42bfdda43b",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "TUNAS INDONESIA JAYA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21733",
+            "website": "-"
+        },
+        {
+            "id": "9db2eeab-2e55-4a9a-9ea1-25621e60c87d",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "www.znswitch.com",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-12-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21729",
+            "website": "-"
+        },
+        {
+            "id": "9dad6bf8-a869-4ad9-b06e-0ead29338733",
+            "nama_pse": "SHANTOU ZHONGFU ELECTRONIC TECHNOLOGY CO., LTD.",
+            "nama_se": "0950041801450093@yspd.or.id",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-12-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21680",
+            "website": "-"
+        },
+        {
+            "id": "9dad6bfc-ad64-4070-a2bd-77a69435fcb2",
+            "nama_pse": "SHANTOU ZHONGFU ELECTRONIC TECHNOLOGY CO., LTD.",
+            "nama_se": "3273120201650003@metra.co.id",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21681",
+            "website": "-"
+        }
+    ],
+    "processingTimeMs": 106,
+    "query": "",
+    "totalHits": 1139,
+    "hitsPerPage": 50,
+    "page": 1,
+    "totalPages": 23
+}

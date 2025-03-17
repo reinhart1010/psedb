@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ab87-7b3b-4008-8f5b-511924952799",
+            "nama_pse": "PT Aplikasi Solusi Anak Bangsa",
+            "nama_se": "TOKOMAID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2208",
+            "website": "tokomaid.com"
+        },
+        {
+            "id": "9cb1ab8f-38fd-4ea6-891b-af51632e5919",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "E-LIBRARY ERLANGGA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2206",
+            "website": "e-library.erlanggaonline.co.id"
+        },
+        {
+            "id": "9cb1ab8f-3e97-43f7-a3e8-9ad3ea631749",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "EBOOK ERLANGGA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2222",
+            "website": "ebook.erlanggaonline.co.id"
+        },
+        {
+            "id": "9cb1ab7f-23e1-47e5-bac4-efbe3ce02d85",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "ERLANGGA EXAM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2223",
+            "website": "erlanggaexam.com"
+        },
+        {
+            "id": "9cb1ab7f-269c-401c-be9e-b2bf94be09ba",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "ERLANGGA EXAM SISWA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2224",
+            "website": "siswa.erlanggaexam.com"
+        },
+        {
+            "id": "9cb1ab90-1fd1-44d3-9ec5-929ccd25023e",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "ERLANGGA ONLINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2225",
+            "website": "erlanggaonline.com"
+        },
+        {
+            "id": "9cb1ab8f-44da-42cc-9a1c-3001980182d1",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "VIDEO MENGAJAR ONLINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2226",
+            "website": "play.erlanggaonline.co.id"
+        },
+        {
+            "id": "9cb1ab8f-481d-4417-8e6a-7d645b27e7de",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "UNBK ERLANGGA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2227",
+            "website": "unbk.erlanggaonline.co.id"
+        },
+        {
+            "id": "9cb1ab8f-4a79-4f31-a368-585b5b381c75",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "BUPENA ERLANGGA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2228",
+            "website": "bupena-play.erlanggaonline.co.id"
+        },
+        {
+            "id": "9cb1ab8f-4d81-406b-a9c2-f09241fdc5f3",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "MANDIRI PLAY ERLANGGA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2229",
+            "website": "mandiri-play.erlanggaonline.co.id"
+        },
+        {
+            "id": "9cb1ab90-219d-4d5f-90e5-c3ef5de65c20",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "KELASKU ERLANGGA ONLINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2230",
+            "website": "kelasku.erlanggaonline.co.id"
+        },
+        {
+            "id": "9cb1ab90-2518-4b82-aa38-db0013d8e8bc",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "BUPETIK ERLANGGA ONLINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2232",
+            "website": "bupetik-play.erlanggaonline.co.id"
+        },
+        {
+            "id": "9cb1ab90-272b-44f6-85fd-a38b9aed6f27",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "SALAM ERLANGGA ONLINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2233",
+            "website": "sallam-play.erlanggaonline.co.id"
+        },
+        {
+            "id": "9cb1ab90-298a-44e7-b340-79fd8c34b907",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "PENERBIT ERLANGGA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2234",
+            "website": "erlangga.co.id"
+        },
+        {
+            "id": "9cb1ab8f-4fb6-4111-b2fe-cbcb756fac70",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "ESENSI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2235",
+            "website": "esensi.co.id"
+        },
+        {
+            "id": "9cb1ab90-3462-40ba-af06-f175af8a3a21",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "EMIR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2236",
+            "website": "emir.co.id"
+        },
+        {
+            "id": "9cb1ab8f-52ba-430c-b9c1-399c74df3772",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "ERLANGGA FOR KIDS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2238",
+            "website": "erlanggaforkids.com"
+        },
+        {
+            "id": "9cb1ab8f-55ff-4b73-8660-997638426d8f",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "ERLANGGA INSPIRASI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2239",
+            "website": "erlanggainspirasi.id"
+        },
+        {
+            "id": "9cb1ab8f-5900-4083-802c-01ba4a3ca51b",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "INDONESIA TALENT WEEK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2240",
+            "website": "indonesiatalentweek.com"
+        },
+        {
+            "id": "9cb1ab8f-5dde-49f9-8307-7da909e363c1",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "GALERI PAMER KARYA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2241",
+            "website": "galeripamerkarya.id"
+        },
+        {
+            "id": "9cb1ab8f-6039-457d-ae02-e8e1a4918815",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "GAP PRINT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2242",
+            "website": "gapprint.com"
+        },
+        {
+            "id": "9cb1ab9d-e286-4422-8155-717d38f679ac",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "BUKUSEKOLAHKU",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2243",
+            "website": "new.bukusekolahku.com"
+        },
+        {
+            "id": "9cb1ab9d-e457-4beb-8dbd-3f32d7fae866",
+            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
+            "nama_se": "TOKOSUMA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2244",
+            "website": "tokosuma.co.id"
+        },
+        {
+            "id": "9cb1ab90-3a63-4806-9b9e-f8b781609c33",
+            "nama_pse": "PT Vinmo Digital Indonesia",
+            "nama_se": "VINMO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2221",
+            "website": "vinmo.co.id"
+        },
+        {
+            "id": "9cb1ab9d-e65f-4f51-9162-af3269064707",
+            "nama_pse": "PT APLIKASI SINERGI ASIA",
+            "nama_se": "BELANJA SAJA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2252",
+            "website": "belanjasaja.com"
+        },
+        {
+            "id": "9cb1ab90-4449-4598-99b1-5ffece1cb54d",
+            "nama_pse": "PT ASTA BUMI CIPTA",
+            "nama_se": "ASTA BUMI CIPTA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Energi dan Sumber Daya Mineral, Sektor Transportasi, Sektor Transportasi, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2184",
+            "website": "astabumi.com"
+        },
+        {
+            "id": "9cb1ab90-4657-43f9-9423-5fb9dacfe320",
+            "nama_pse": "PT Shifthink Digital Creative",
+            "nama_se": "SHIFTHINK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2185",
+            "website": "shifthink.id"
+        },
+        {
+            "id": "9cb1ab8f-65b6-4c44-88b4-4a516643e175",
+            "nama_pse": "Bisabebas Ekosistem Terpercaya",
+            "nama_se": "BISABEBAS",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2187",
+            "website": "bisabebas.com"
+        },
+        {
+            "id": "9cb1ab90-483f-4fda-b14b-e4755a0f5577",
+            "nama_pse": "DESKTOPIP TEKNOLOGI INDONESIA",
+            "nama_se": "JAYBOD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2188",
+            "website": "jaybod.com"
+        },
+        {
+            "id": "9cb1ab9d-ea4f-4801-a2e9-403a874de52b",
+            "nama_pse": "KREASI KOMUNIKASI DIGITAL",
+            "nama_se": "BRIEFER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2195",
+            "website": "briefer.id"
+        },
+        {
+            "id": "9cb1ab90-4a54-47e7-983a-734e29097819",
+            "nama_pse": "PT. Graha Pratama Solusi Internasional",
+            "nama_se": "WEBTRACE",
+            "sektor": "Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2196",
+            "website": "webtrace.co.id"
+        },
+        {
+            "id": "9cb1ab90-4e25-4750-abd3-441f9ed335af",
+            "nama_pse": "PT Ascon Inovasi Data",
+            "nama_se": "OASSE KASIR",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2197",
+            "website": "kasir.oasse.id"
+        },
+        {
+            "id": "9cb1ab8f-6f0e-43c1-a49f-05442a17df78",
+            "nama_pse": "PT Jasa Capital Asset Management",
+            "nama_se": "RADSOFT SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2201",
+            "website": "jasacapital.co.id"
+        },
+        {
+            "id": "9cb1ab9d-ef67-4bf5-9c6c-2649de4e44da",
+            "nama_pse": "PT. Kerjasama Untuk Negeri",
+            "nama_se": "KERJASAMA.COM",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2203",
+            "website": "kerjasama.com"
+        },
+        {
+            "id": "9cb1ab90-5486-49b5-bad0-85c4cd11c3f6",
+            "nama_pse": "PT BANK SHINHAN INDONESIA",
+            "nama_se": "INTERNET BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2205",
+            "website": "Direct Internet Banking"
+        },
+        {
+            "id": "9cb1ab8f-78e3-4b7b-879b-460a0b9de9c2",
+            "nama_pse": "PT BANK SHINHAN INDONESIA",
+            "nama_se": "MOBILE BANKING (SOL INDONESIA)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2207",
+            "website": "Website  Bank Shinhan"
+        },
+        {
+            "id": "9cb1ab9d-f136-4566-b7bf-27488855087b",
+            "nama_pse": "PT BANK SHINHAN INDONESIA",
+            "nama_se": "WEBSITE  BANK SHINHAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2210",
+            "website": "Website  Bank Shinhan"
+        },
+        {
+            "id": "9cb1ab8f-8435-4358-bb06-8ea7aef2e766",
+            "nama_pse": "PT BANK SHINHAN INDONESIA",
+            "nama_se": "MOBILE BANKING (SOL INDONESIA)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2214",
+            "website": "sol.shinhan.co.id"
+        },
+        {
+            "id": "9cb1ab9d-f320-420d-9986-16eb609d3b12",
+            "nama_pse": "PT BANK SHINHAN INDONESIA",
+            "nama_se": "SMAIL ID",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2215",
+            "website": "push.shinhan.co.id"
+        },
+        {
+            "id": "9cb1ab9d-f4f2-4909-845e-6cff2a1a8ee1",
+            "nama_pse": "PT BANK SHINHAN INDONESIA",
+            "nama_se": "HMID API PAGES",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2216",
+            "website": "hmid.shinhan.co.id"
+        },
+        {
+            "id": "9cb1ab90-5765-4e86-b6ef-cafe33b3e18f",
+            "nama_pse": "PT. Indo Supply Chain",
+            "nama_se": "PEMBAYARAN",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2211",
+            "website": "iscglobe.com"
+        },
+        {
+            "id": "9cb1ab9e-027d-4e75-a0fb-730ad4abe6e4",
+            "nama_pse": "PT UOB Asset Management Indonesia",
+            "nama_se": "UOB ASSET MANAGEMENT INDONESIA OFFICIAL  WEBSITE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2217",
+            "website": "uobam.co.id"
+        },
+        {
+            "id": "9cb1ab9e-0599-43be-9492-3b72c41f2390",
+            "nama_pse": "FINTEK DIGITAL NUSANTARA",
+            "nama_se": "PAYUNI / PEMBAYARAN UNIVERSAL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2218",
+            "website": "payuni.co.id"
+        },
+        {
+            "id": "9cb1ab90-5b26-4f24-8b88-244b00588c33",
+            "nama_pse": "BANK JASA JAKARTA",
+            "nama_se": "WEB PT. BANK JASA JAKARTA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2245",
+            "website": "bjj.co.id"
+        },
+        {
+            "id": "9cb1ab8f-962e-4dd3-8be9-7fa5d97d8546",
+            "nama_pse": "PT SIGMA SOLUSI SATU",
+            "nama_se": "SARIGURU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2246",
+            "website": "sariguru.com"
+        },
+        {
+            "id": "9cb1ab90-62f3-4231-83e8-532d503717b0",
+            "nama_pse": "PT. BANGUNAN JAYA PRIMA",
+            "nama_se": "BJHOMEOFFICIAL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2247",
+            "website": "bjhomeofficial.com"
+        },
+        {
+            "id": "9cb1ab8f-9ca6-416a-92e7-a146e55966b6",
+            "nama_pse": "PT AGUNG PRATAMA INDOARTHA",
+            "nama_se": "API",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2249",
+            "website": "apindoartha.com"
+        },
+        {
+            "id": "9cb1ab9e-092a-4b47-8cd6-f06676470244",
+            "nama_pse": "BADA ROCK NUSANTARA",
+            "nama_se": "KIDSLOOP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2251",
+            "website": "kidsloop.co.id"
+        },
+        {
+            "id": "9cb1ab8f-a12b-4917-9148-ddc8d9af8e3a",
+            "nama_pse": "Berjoet Media Sipasna",
+            "nama_se": "STATUSRAKYAT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2254",
+            "website": "Statusrakyat.com"
+        },
+        {
+            "id": "9cb1ab8f-a57d-4685-801b-9a2b47f02e38",
+            "nama_pse": "PT ELANG SEJAHTERA NIAGA",
+            "nama_se": "JURAGANCEMILAN.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2256",
+            "website": "juragancemilan.com"
+        }
+    ],
+    "processingTimeMs": 9,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 341,
+    "totalPages": 383
+}

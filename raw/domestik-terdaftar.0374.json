@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ab62-8bd7-4cac-8553-cf4bad230cd2",
+            "nama_pse": "LOGOL JAKARTA MITRAINDO",
+            "nama_se": "LOGOL",
+            "sektor": "Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/481",
+            "website": "logol.co.id"
+        },
+        {
+            "id": "9cb1ab70-f42f-461d-95c7-d7d468b90249",
+            "nama_pse": "REKSO NASIONAL FOOD",
+            "nama_se": "ONLINE ORDER FOR MCDONALD’S INDONESIA FOOD PRODUCT (WEBSITE)",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/487",
+            "website": "mcdelivery.co.id"
+        },
+        {
+            "id": "9cb1ab70-faf1-41a8-8d06-6571e41cafb6",
+            "nama_pse": "REKSO NASIONAL FOOD",
+            "nama_se": "ONLINE ORDER FOR MCDONALD’S INDONESIA FOOD PRODUCT (APLIKASI)",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/488",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab62-8f2b-4708-b1c0-a9297301c70c",
+            "nama_pse": "MUTIARA BINTANG ABADI",
+            "nama_se": "V-TAX",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/486",
+            "website": "v-tax.id"
+        },
+        {
+            "id": "9cb1ab71-10d8-4fc2-9570-cb43c3418b8d",
+            "nama_pse": "CITRA DATA NUSANTARA",
+            "nama_se": "BISABELI.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/503",
+            "website": "bisabeli.id"
+        },
+        {
+            "id": "9cb1ab62-a8c7-4a28-af33-8876512c7cf4",
+            "nama_pse": "VIRTUAL ONLINE EXCHANGE",
+            "nama_se": "DUITHAPE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/511",
+            "website": "duithape.com"
+        },
+        {
+            "id": "9cb1ab71-1602-44e8-aef8-f5ddd9904166",
+            "nama_pse": "MEDIA MULIA NUSANTARA",
+            "nama_se": "KEEPO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/496",
+            "website": "keepo.me"
+        },
+        {
+            "id": "9cb1ab65-7b5c-4a17-b0c9-d68294587956",
+            "nama_pse": "MEDIA MULIA NUSANTARA",
+            "nama_se": "YUKEPO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/499",
+            "website": "yukepo.com"
+        },
+        {
+            "id": "9cb1ab65-7ea6-42fe-b1a6-9431cfc6db49",
+            "nama_pse": "DNA PRO AKADEMI",
+            "nama_se": "HTTPS://WWW.DNA-KU.COM/",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/518",
+            "website": "dna-ku.com"
+        },
+        {
+            "id": "9cb1ab62-ac13-47a8-b134-e893d7b4db6f",
+            "nama_pse": "HEALTH WEALTH INTERNATIONAL",
+            "nama_se": "WEBSITE / WEB PORTAL HWI",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/516",
+            "website": "healthwealthint.com/"
+        },
+        {
+            "id": "9cb1ab65-83f6-4458-a12a-7f1dfb7138a4",
+            "nama_pse": "HEALTH WEALTH INTERNATIONAL",
+            "nama_se": "HWI MOBILE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/517",
+            "website": "www. healthwealthint.com"
+        },
+        {
+            "id": "9cb1ab62-af3a-4971-ad2f-13debf6b0de6",
+            "nama_pse": "OBATIN SINERGI SEHAT",
+            "nama_se": "OBAT-IN",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/500",
+            "website": "obatin.id"
+        },
+        {
+            "id": "9cb1ab62-b835-41a0-a194-03af9c560e45",
+            "nama_pse": "SUMBER KREATIF INDONESIA",
+            "nama_se": "GREDU TEACHER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/509",
+            "website": "Gredu. Asia"
+        },
+        {
+            "id": "9cb1ab65-b89e-4813-88ac-dd8333cbb835",
+            "nama_pse": "BABA BANGUNAN JAYA",
+            "nama_se": "88BANGUNAN/ BABA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/514",
+            "website": "http://www.88bangunan.co.id; http://indo1688.com"
+        },
+        {
+            "id": "9cb1ab8b-7293-4b1a-a583-0737b73f3e4d",
+            "nama_pse": "USAHA KARYA BINA MANDIRI",
+            "nama_se": "EBPR",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/480",
+            "website": "ebpr.co.id"
+        },
+        {
+            "id": "9cb1ab8c-9949-427b-ac61-34c434586443",
+            "nama_pse": "BALON INDOTEKNOLOGI TELEKOMUNIKASI",
+            "nama_se": "BLUE E-MART",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/477",
+            "website": "id.mart.blue/id"
+        },
+        {
+            "id": "9cb1ab7d-a306-4029-b390-9b312cad5589",
+            "nama_pse": "INTERAKTIF INTERNASIONAL",
+            "nama_se": "INTERACTIVE MYPROFIT",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/519",
+            "website": "interactive.co.id/product/my-profit"
+        },
+        {
+            "id": "9cb1ab7d-e8db-4636-8371-39705e58ea37",
+            "nama_pse": "IONPAY NETWORKS",
+            "nama_se": "NICEPAY PAYMENT API",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/491",
+            "website": "nicepay.co.id"
+        },
+        {
+            "id": "9cb1ab9e-7fd9-427c-bcfe-e645f368b03b",
+            "nama_pse": "INDONESIA PAYMENT INCORPORATED",
+            "nama_se": "COOP ACCESS",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/512",
+            "website": "coopaccess.co.id"
+        },
+        {
+            "id": "9cb1ab92-9087-4587-a95e-c5d8606c17cc",
+            "nama_pse": "SOLID FINTEK INDONESIA",
+            "nama_se": "ADAMODAL",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/483",
+            "website": "adamodal.co.id"
+        },
+        {
+            "id": "9cb1ab9f-bc63-4f69-bbc1-e1a3e1dad612",
+            "nama_pse": "DIGITAL VISION NUSANTARA",
+            "nama_se": "WEBSITE PORTAL K-VISION",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/489",
+            "website": "k-vision.tv"
+        },
+        {
+            "id": "9cb1ab9f-c191-42ba-8510-bc2fa01d58a0",
+            "nama_pse": "DIGITAL VISION NUSANTARA",
+            "nama_se": "APLIKASI KAWAN K-VISION",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/493",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba9-d155-4874-9ea5-99083b1f8a86",
+            "nama_pse": "TRANSAKSI ARTHA GEMILANG",
+            "nama_se": "OTTO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/490",
+            "website": "ottocash.id"
+        },
+        {
+            "id": "9cb1ab9f-c402-4514-8ca7-5edc0ac4968f",
+            "nama_pse": "OTTEN COFFEE INDONESIA",
+            "nama_se": "OTTEN COFFEE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/498",
+            "website": "ottencoffee.co.id"
+        },
+        {
+            "id": "9cb1ab9f-c726-4400-86a5-7f9960493de6",
+            "nama_pse": "ASSEMBLR TEKNOLOGI INDONESIA",
+            "nama_se": "WEBSITE ASSEMBLR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/501",
+            "website": "assemblrworld.co.id"
+        },
+        {
+            "id": "9cb1ab92-93d6-485f-b2f8-819d90ae8960",
+            "nama_pse": "NUSANTARA SEJAHTERA INVESTAMA",
+            "nama_se": "FUNDTASTIC+ (PLUS)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/505",
+            "website": "fundtasticplus.co.id"
+        },
+        {
+            "id": "9cb1ab92-9670-49d3-8be3-131b04ea8d38",
+            "nama_pse": "TEKNOLOGI OPTIMAL PRIMA",
+            "nama_se": "BAMMS",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/508",
+            "website": "bybamms.com"
+        },
+        {
+            "id": "9cb1aba9-d5fd-4b59-bcbd-0c81841a913d",
+            "nama_pse": "VERIHUBS INTELIGENSIA NUSANTARA",
+            "nama_se": "PORTAL VERIFIKASI VERIHUBS",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/522",
+            "website": "verihubs.com"
+        },
+        {
+            "id": "9cb1abac-13a5-4471-b798-1c6f04f7f367",
+            "nama_pse": "SIMPAN PINJAM BINA ANUGERAH PRIMA",
+            "nama_se": "BINAR",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/520",
+            "website": "kspbinar.co.id"
+        },
+        {
+            "id": "9cb1ab98-21ac-4d58-a9ba-6f24869a74a5",
+            "nama_pse": "ESPAY DEBIT INDONESIA KOE",
+            "nama_se": "DANA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4600",
+            "website": "dana.id"
+        },
+        {
+            "id": "9cb1ab7c-c33c-44bb-abcc-1b1f05ae9f71",
+            "nama_pse": "PNM INVESTMENT MANAGEMENT",
+            "nama_se": "SIJAGO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/484",
+            "website": "sijago.pnmim.com"
+        },
+        {
+            "id": "9cb1ab62-9ed6-4fbb-b2a6-b370c265f4eb",
+            "nama_pse": "ERDIKHA ELIT SEKURITAS",
+            "nama_se": "ELIT    ERDIKHA ONLINE TRADING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/495",
+            "website": "erdikha.com"
+        },
+        {
+            "id": "9cb1ab62-1f4e-4fda-b068-73cc90242122",
+            "nama_pse": "TEKNOLOGI RANCANG OLAH NUSANTARA",
+            "nama_se": "TRON",
+            "sektor": "Sektor Transportasi, Sektor Transportasi",
+            "tanggal_terbit": "2021-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/472",
+            "website": "tron.id"
+        },
+        {
+            "id": "9cb1ab7d-f954-4b60-b288-e596402392d7",
+            "nama_pse": "ETOP GLOBAL TECHNOLOGY",
+            "nama_se": "EBUY",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/470",
+            "website": "ebuy.com"
+        },
+        {
+            "id": "9cb1ab86-3d72-4c7e-b97d-84b29ff14d9f",
+            "nama_pse": "LION SUPER INDO",
+            "nama_se": "WEBSITE SUPER INDO",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/468",
+            "website": "superindo.co.id"
+        },
+        {
+            "id": "9cb1ab92-8dd1-4ff4-bc76-466cb48f0a52",
+            "nama_pse": "INKUISIT KARYA ADIWARNA",
+            "nama_se": "INKUISIT",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/471",
+            "website": "inkuisit.com›"
+        },
+        {
+            "id": "9cb1ab61-aebe-4da0-958f-401dd278db83",
+            "nama_pse": "AWAN INTEGRASI SANDIDATA",
+            "nama_se": "VIBICLOUD",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/443",
+            "website": "vibicloud.com"
+        },
+        {
+            "id": "9cb1ab61-b107-4440-bbf1-ec1095753e1e",
+            "nama_pse": "SERBA DIGITAL TEKNOLOGI",
+            "nama_se": "PINJAMINDO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/465",
+            "website": "pinjamindo.co.id"
+        },
+        {
+            "id": "9cb1ab66-2764-4ee2-8b61-a701b42f8b69",
+            "nama_pse": "BAKOEL NUSANTARA",
+            "nama_se": "BAKOEL PULSA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/438",
+            "website": "bakoelpulsa.id"
+        },
+        {
+            "id": "9cb1ab66-32ba-4759-bdd1-cb704350730c",
+            "nama_pse": "CHANDHARWEALTH MANDIRI INDONESIA",
+            "nama_se": "FUNDTASTIC",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/447",
+            "website": "fundtastic.co.id"
+        },
+        {
+            "id": "9cb1ab61-d8a7-4359-9274-8caf6586fe9f",
+            "nama_pse": "SOLUSI TEKNOLOGI FINANSIAL",
+            "nama_se": "MODAL NASIONAL",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/464",
+            "website": "modalnasional.co.id"
+        },
+        {
+            "id": "9cb1ab69-e86d-48b6-b693-09aac12c62df",
+            "nama_pse": "SOLUSI PUNDI INDONESIA",
+            "nama_se": "SIPUNDI.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/453",
+            "website": "sipundi.id"
+        },
+        {
+            "id": "9cb1ab62-2306-4125-9087-92a11d089daf",
+            "nama_pse": "QLUE PERFORMA INDONESIA",
+            "nama_se": "QLUE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/452",
+            "website": "qlue.co.id"
+        },
+        {
+            "id": "9cb1ab70-60ae-4531-be28-fc8a9824ed65",
+            "nama_pse": "HANWHA LIFE INSURANCE INDONESIA",
+            "nama_se": "KOREA VERSI KAMU",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/440",
+            "website": "koreaversikamu.co.id"
+        },
+        {
+            "id": "9cb1ab70-7403-4927-ae65-2f239073b516",
+            "nama_pse": "PELITA MEDIA INDONESIA",
+            "nama_se": "E-COMMERCE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/446",
+            "website": "niagahoster.co.id/"
+        },
+        {
+            "id": "9cb1ab70-7ba8-4969-a275-f39b491095ec",
+            "nama_pse": "SOFCO GRAHA",
+            "nama_se": "GAJI.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/460",
+            "website": "gaji.id"
+        },
+        {
+            "id": "9cb1ab70-883f-4d64-9971-76e2fcd5a898",
+            "nama_pse": "KARYA BINTANG TEKNOLOGI",
+            "nama_se": "STARMAKER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/444",
+            "website": "starmakerstudios.com/"
+        },
+        {
+            "id": "9cb1ab62-60a8-41c7-b3e7-8022df53ae1c",
+            "nama_pse": "BURSADANA INVESTAMA TEKNOLOGI",
+            "nama_se": "BURSADANA.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/462",
+            "website": "bursadana.id"
+        },
+        {
+            "id": "9cb1ab62-6708-4c2a-8675-e0353ef4f3f5",
+            "nama_pse": "DUTA SARANA INFORMATIKA",
+            "nama_se": "DUTA SARANA INFORMATIKA (DSI)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/451",
+            "website": "dutasaranainformatika.com"
+        },
+        {
+            "id": "9cb1ab62-6a9d-40fb-9ad6-6ad25e1fc527",
+            "nama_pse": "MIGO ANUGERAH SINERGI",
+            "nama_se": "MIGO EBIKE",
+            "sektor": "Sektor Transportasi, Sektor Transportasi",
+            "tanggal_terbit": "2021-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/459",
+            "website": "migo-ebike.id"
+        }
+    ],
+    "processingTimeMs": 87,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 374,
+    "totalPages": 383
+}

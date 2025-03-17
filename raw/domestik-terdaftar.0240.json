@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1abea-fc8e-4170-97aa-4c352f7fa981",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH JAWA TENGAH",
+            "nama_se": "BIMA QR BANK JATENG",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7884",
+            "website": "bimaqris.bankjateng.co.id"
+        },
+        {
+            "id": "9cb1abb8-ac1c-41af-8d15-20b6f9c59b03",
+            "nama_pse": "KLINIK KERJA INDONESIA",
+            "nama_se": "WEBSITE PT. KLINIK KERJA INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7657",
+            "website": "klinikkerja.id"
+        },
+        {
+            "id": "9cb1abb8-b0c7-430a-8c8a-a03e5e908eec",
+            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+            "nama_se": "SIBOS BANK BJB",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7658",
+            "website": "sibos.bankbjb.co.id"
+        },
+        {
+            "id": "9cb1abb8-b36b-48f6-9694-174d0e9d5198",
+            "nama_pse": "INFOMEDIA NUSANTARA",
+            "nama_se": "INFOMEDIA NUSANTARA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7846",
+            "website": "infomedia.co.id"
+        },
+        {
+            "id": "9cb1abc4-c751-4f88-8898-9f95fb0954b1",
+            "nama_pse": "HANWHA LIFE INSURANCE INDONESIA",
+            "nama_se": "SUPER HEROES MOBILE APPLICATION (ANDROID \u0026 IOS)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7664",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc4-caf3-4d83-af42-1438062e0281",
+            "nama_pse": "BANK PERKREDITAN RAKYAT KARPANA TASIA",
+            "nama_se": "BPR KARPANA TASIA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7659",
+            "website": "bprkarpanatasia.co.id"
+        },
+        {
+            "id": "9cb1abc4-d08a-4f7b-b3f3-1d66a9205755",
+            "nama_pse": "GRATIS ONGKIR",
+            "nama_se": "APLIKASI BELANJA MADRASAH",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7660",
+            "website": "absah.id"
+        },
+        {
+            "id": "9cb1abeb-0075-4127-8389-84a118fdecfd",
+            "nama_pse": "INVESTO MEDIKA ASIA",
+            "nama_se": "MYHEALTH DIARY",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7666",
+            "website": "medika.ai"
+        },
+        {
+            "id": "9cb1abb8-b5a4-43b4-967e-7c42c9c132a9",
+            "nama_pse": "INKA TOTO KRISMONO",
+            "nama_se": "JASA IMPIAN - INKA TOTO KRISMONO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7669",
+            "website": "jasaimpian.com"
+        },
+        {
+            "id": "9cb1abeb-08b2-497a-800c-0605edeea210",
+            "nama_pse": "VENTURA PRATAMA SEJATI",
+            "nama_se": "VPS (VENTURA PAYMENT SYSTEM)",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7676",
+            "website": "venturapratamasejati.com"
+        },
+        {
+            "id": "9cb1abb8-ba33-4699-85ca-46d84d56ae3c",
+            "nama_pse": "INDONESIA SATU TUJUH",
+            "nama_se": "COMEDS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7734",
+            "website": "comeds.id"
+        },
+        {
+            "id": "9cb1abc4-d400-43bc-8843-2eddb004a89d",
+            "nama_pse": "PANORAMA JTB TOURS INDONESIA",
+            "nama_se": "PANORAMA-JTB.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7880",
+            "website": "panorama-jtb.com"
+        },
+        {
+            "id": "9cb1abc4-d92b-40a3-ac78-0a487dd2bef2",
+            "nama_pse": "NEO BAZAR INDONESIA",
+            "nama_se": "KAKAOPAGE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7843",
+            "website": "kakaopage.co.id"
+        },
+        {
+            "id": "9cb1abb8-bc4f-4196-bf6c-101848e70d41",
+            "nama_pse": "FESTIVAL DIGITAL NUSANTARA",
+            "nama_se": "SUSHIROLL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7685",
+            "website": "sushiroll.co.id"
+        },
+        {
+            "id": "9cb1abb8-beb1-4f8d-a352-b488c275d96d",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BHASKARA PAKTO",
+            "nama_se": "PT. BPR BHASKARA PAKTO",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7668",
+            "website": "bprbhaskarapakto.co.id"
+        },
+        {
+            "id": "9cb1abb8-c10f-4e82-be04-5488cad394c8",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT SWADAYA ANUGERAH UTAMA",
+            "nama_se": "PT BPR SWADAYA ANUGERAH UTAMA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7667",
+            "website": "bankswadaya.co.id"
+        },
+        {
+            "id": "9cb1abb8-c53b-4f15-931d-5631fa690274",
+            "nama_pse": "BANK PERKREDITAN RAKYAT EKA BUMI ARTHA",
+            "nama_se": "SMART EDC BANK EKA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7670",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc4-dd6b-4688-8f6f-02a10727d2e8",
+            "nama_pse": "BANK PERKREDITAN RAKYAT PASAR UMUM",
+            "nama_se": "BANKING SMART SYSTEM (BSS)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7671",
+            "website": "bankbpu.com"
+        },
+        {
+            "id": "9cb1abb8-c7c4-460e-859c-b099aa93c51c",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SWADHANAMAS PAKTO",
+            "nama_se": "PT. BPR SWADHANAMAS PAKTO",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7673",
+            "website": "bprswadhanamaspakto.co.id"
+        },
+        {
+            "id": "9cb1abeb-280f-47ea-96d7-d75bfc148dbe",
+            "nama_pse": "GDE PUTU ADIBAYUSANTIKA",
+            "nama_se": "WASSTW JAYA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7672",
+            "website": "wasstwjaya.com"
+        },
+        {
+            "id": "9cb1abc4-e0ff-4bae-9bac-7ef5b6dd6b00",
+            "nama_pse": "BEON INTERMEDIA",
+            "nama_se": "JAGOAN HOSTING INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7675",
+            "website": "jagoanhosting.com"
+        },
+        {
+            "id": "9cb1abc4-e46d-41b2-9ebd-8edb85f50131",
+            "nama_pse": "BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
+            "nama_se": "WEB BPR MODERN EXPRESS JATENG",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7679",
+            "website": "bprmodex-jateng.com"
+        },
+        {
+            "id": "9cb1abc4-e898-46e5-adc5-8463aa382bef",
+            "nama_pse": "INDONESIA SATU TUJUH",
+            "nama_se": "IOT RCS (CONDITIONING MONITORING SYSTEM)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7730",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb8-cc64-404a-96a9-a4543b46d52d",
+            "nama_pse": "BANK BTPN SYARIAH",
+            "nama_se": "APLIKASI AGENT BTPN SYARIAH",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7677",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc4-ebfe-48af-90b8-27c61a473843",
+            "nama_pse": "APLIKASI TEPAT GUNA",
+            "nama_se": "PH INSTAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7678",
+            "website": "carirute.prahu-hub.com"
+        },
+        {
+            "id": "9cb1abc4-ef16-453f-8407-411ef0f7a7cf",
+            "nama_pse": "MITRANET SOFTWARE ONLINE",
+            "nama_se": "PPOB MOBILE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7697",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb8-cedf-431f-ae2f-453945517867",
+            "nama_pse": "BANK KB BUKOPIN",
+            "nama_se": "VICA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8082",
+            "website": "vica.bukopin.co.id"
+        },
+        {
+            "id": "9cb1abc4-f266-4bdf-8370-7bd99520ff5e",
+            "nama_pse": "CAHAYA WARGA NUSANTARA",
+            "nama_se": "GTERA.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7818",
+            "website": "gtera.id"
+        },
+        {
+            "id": "9cb1abeb-2c37-4fc5-8e55-495371c32bdf",
+            "nama_pse": "BANK PERKREDITAN RAKYAT MITRA MULIA PERSADA",
+            "nama_se": "WWW.BPRMITRAMULIAPERSADA.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7682",
+            "website": "bprmitramuliapersada.com"
+        },
+        {
+            "id": "9cb1abb8-d10e-44b4-b23a-c30c7b47da88",
+            "nama_pse": "GORRY BUGAR ABADI",
+            "nama_se": "GORRYWELL",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7684",
+            "website": "gorrywell.com"
+        },
+        {
+            "id": "9cb1abeb-2fcd-4883-a288-a3c1c06e75a0",
+            "nama_pse": "BINA MEDIA TENGGARA",
+            "nama_se": "WEBSITE THE JAKARTA POST",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7681",
+            "website": "thejakartapost.com"
+        },
+        {
+            "id": "9cb1abb8-d2f4-46ff-bfbd-ee82af2f8b3a",
+            "nama_pse": "MITRANET SOFTWARE ONLINE",
+            "nama_se": "APTIKNAS MALL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7694",
+            "website": "malltik.com"
+        },
+        {
+            "id": "9cb1abc4-f5f1-4b7f-8c6e-0c544d8142df",
+            "nama_pse": "BANK PERKREDITAN RAKYAT HISOBHAN",
+            "nama_se": "KREDIT HISOBHAN",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7683",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc4-fa0d-4810-a8fa-db101c455a0f",
+            "nama_pse": "APPSENSI TIGA RIBU",
+            "nama_se": "APPSENSI",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7696",
+            "website": "appsensi.com"
+        },
+        {
+            "id": "9cb1abc4-fda0-4686-9f29-bb4367d87e5e",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT INTI AMBARAWA SEJAHTERA",
+            "nama_se": "PT BPR INTI AMBARAWA SEJAHTERA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7686",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc5-041f-47ac-9ae0-c3c8091e9140",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SIRAYA KARYA BAKTI",
+            "nama_se": "WEBSITE BPR SIRAYA KARYA BAKTI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7687",
+            "website": "bprsirayakaryabakti.com"
+        },
+        {
+            "id": "9cb1abeb-3340-4d59-99a5-d9ef98cb284c",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT SYARIAH TENGKU CHIEK DIPANTE",
+            "nama_se": "ISLAMIC BANKING APPLICATION",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7691",
+            "website": "banktcdsyariah.co.id"
+        },
+        {
+            "id": "9cb1abc5-06cf-4fbd-8c89-2328831c7655",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT CEMARA ARTHA PRATAMA",
+            "nama_se": "BPR TRISURYA MARGA ARTHA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7690",
+            "website": "bprtma.id"
+        },
+        {
+            "id": "9cb1abc5-15bc-4b98-8a76-31fb3f93687a",
+            "nama_pse": "BANK PERKREDITAN RAKYAT DANAYASA",
+            "nama_se": "SISTEM INFORMASI PERBANKAN TERPADU",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7689",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb8-d53c-4cdb-8771-af39d0bba217",
+            "nama_pse": "-",
+            "nama_se": "LOVIT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7688",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb8-d7f3-426c-8e7c-6e824632f77f",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT BARELANG MANDIRI",
+            "nama_se": "PT BANK PERKREDITAN RAKYAT BARELANG MANDIRI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7693",
+            "website": "bprbm.co.id"
+        },
+        {
+            "id": "9cb1abc5-26ae-466e-9496-15cee4808682",
+            "nama_pse": "GERAK BERSAMA KITA",
+            "nama_se": "GERAK",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7692",
+            "website": "gerak.asia"
+        },
+        {
+            "id": "9cb1abb8-da7b-4bb9-9b56-4f619b0057a1",
+            "nama_pse": "BANK PERKREDITAN RAKYAT MAHKOTA MITRA USAHA",
+            "nama_se": "CBS BPR",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7699",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc5-2dd9-45e8-b882-681b2116293b",
+            "nama_pse": "AXA FINANCIAL INDONESIA",
+            "nama_se": "EMMA CUSTOMER PORTAL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7709",
+            "website": "myportal.axa.co.id"
+        },
+        {
+            "id": "9cb1abc5-30e3-4b44-be34-d1d057a97ed1",
+            "nama_pse": "KODE INOVASI WINATA",
+            "nama_se": "QIWII",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7698",
+            "website": "app.qiwii.id"
+        },
+        {
+            "id": "9cb1abc5-3524-48ac-abe6-70056e078e42",
+            "nama_pse": "ASURANSI JASA INDONESIA",
+            "nama_se": "JASINDO TRAVEL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7704",
+            "website": "jasindotravel.co.id"
+        },
+        {
+            "id": "9cb1abeb-362e-4af9-84d0-1ed431978cae",
+            "nama_pse": "SINTESA INTI PRESTASI",
+            "nama_se": "SINTASI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7700",
+            "website": "sintasi.com"
+        },
+        {
+            "id": "9cb1abeb-3943-40b4-a589-a33de18d5924",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SENTRAL ARTA JAYA",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7702",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abeb-3e71-4c0b-9263-f1b85b906f94",
+            "nama_pse": "PAKAR LAYANAN TANPA BATAS",
+            "nama_se": "HOOKUM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7703",
+            "website": "hookum.id"
+        },
+        {
+            "id": "9cb1abeb-416b-4e24-9092-50c2ae07a724",
+            "nama_pse": "ASURANSI CENTRAL ASIA",
+            "nama_se": "B2BACA.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7701",
+            "website": "b2baca.com"
+        }
+    ],
+    "processingTimeMs": 4,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 240,
+    "totalPages": 383
+}

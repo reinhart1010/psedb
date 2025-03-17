@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1abd7-07a3-40cd-b507-bbc026e76cae",
+            "nama_pse": "LAWANG SEWU TEKNOLOGI",
+            "nama_se": "SIMDA CLOUD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17301",
+            "website": "simdacloud.id"
+        },
+        {
+            "id": "9cb1ac0b-fc03-4620-8134-247b35b69319",
+            "nama_pse": "LAWANG SEWU TEKNOLOGI",
+            "nama_se": "SISALSA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17294",
+            "website": "simcloud.id"
+        },
+        {
+            "id": "9cb1ac66-a0ee-4035-8cd2-cd3f622f956f",
+            "nama_pse": "BIAN DIGITAL INDONESIA",
+            "nama_se": "VIRTUAL KOMISI",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17305",
+            "website": "virtualkomisi.com"
+        },
+        {
+            "id": "9cb1ac66-b2ea-436e-97b1-c3756d20d079",
+            "nama_pse": "SEJAHTERA HARAPAN JAYA",
+            "nama_se": "CV SEJAHTERA HARAPAN JAYA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17293",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac53-3b93-4ddb-99c1-4278b18608e6",
+            "nama_pse": "IDX SOLUSI TEKNOLOGI INFORMASI",
+            "nama_se": "CLOUD SERVICES",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17296",
+            "website": "vpn.idxsti.co.id"
+        },
+        {
+            "id": "9cb1ac66-b5de-4c7d-9675-d1ea9630dbf6",
+            "nama_pse": "INTEGRASI MIGRATES BERSAMA",
+            "nama_se": "MIGRATE",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17295",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac7a-f133-4e25-a20b-8439ec7e629b",
+            "nama_pse": "KIRANA MITRA WISATA",
+            "nama_se": "TRAVEL KIRANA",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17298",
+            "website": "travelkirana.com"
+        },
+        {
+            "id": "9cb1ac53-3e45-42bc-a235-16fb8611ad53",
+            "nama_pse": "RUMAH SAKIT ISLAM KERJASAMA WANITA ISLAM JAWA BARAT",
+            "nama_se": "MEDICALAPP RSIA AL ISLAM",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17299",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac66-bc4d-4b51-b2ba-a6e3d2cf97b1",
+            "nama_pse": "NOOP MITRA BERSAMA",
+            "nama_se": "JOINNOOP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17300",
+            "website": "web.joinnoop.com"
+        },
+        {
+            "id": "9cb1ac53-40cc-4cab-9398-014f6fca5d0d",
+            "nama_pse": "RUMAH SAKIT TINGKAT IV PEKANBARU",
+            "nama_se": "RME RST PEKANBARU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17302",
+            "website": "rstpekanbaru.com"
+        },
+        {
+            "id": "9cb1ac53-4394-4503-8e07-66c388be8b48",
+            "nama_pse": "JANN AZZAM MANDIRI",
+            "nama_se": "SPACEMED",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17303",
+            "website": "jazzman.id"
+        },
+        {
+            "id": "9cb1ac53-4720-4fa5-9bae-fdbe830140cc",
+            "nama_pse": "Media Djabar Pos",
+            "nama_se": "DJABAR POS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17304",
+            "website": "djabarpos.com"
+        },
+        {
+            "id": "9cb1ac7a-f514-441e-b984-143f72863d8c",
+            "nama_pse": "MUHAMMAD FIKRI ARZYAH",
+            "nama_se": "PAYNEARBY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17306",
+            "website": "paynearby.id"
+        },
+        {
+            "id": "9cb1ac79-8aa2-42a7-9634-69c70bdd6796",
+            "nama_pse": "CIPTA KREATIF SOLUSINDO BERSAMA",
+            "nama_se": "MIGASTORE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17292",
+            "website": "migastore.co.id"
+        },
+        {
+            "id": "9cb1ac7a-00bd-467c-9fe2-c9d0043f2612",
+            "nama_pse": "JAYA SAKTI INTERNATIONAL",
+            "nama_se": "FINALSTOCKSCLEAR.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17297",
+            "website": "finalstocksclear.com"
+        },
+        {
+            "id": "9cb1ac66-2951-4eb3-a05b-3155f0a91bd3",
+            "nama_pse": "AGUNG BUDIMAN",
+            "nama_se": "SIKMAL",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17291",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac7a-e60f-4165-8105-648694661c3f",
+            "nama_pse": "KAYA LAUTAN PERMATA",
+            "nama_se": "INVESTASI KAYA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-01-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17282",
+            "website": "investasikaya.co.id"
+        },
+        {
+            "id": "9cb1ac53-2bf2-4d7a-8076-c13d41235138",
+            "nama_pse": "WIDHI SULISTYO",
+            "nama_se": "RME INFOSA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17281",
+            "website": "infosa-media.my.id"
+        },
+        {
+            "id": "9cb1ac66-a3f3-43fe-a66e-7107d19fd6a4",
+            "nama_pse": "JAKARTA KYOAI MEDICAL CENTER",
+            "nama_se": "KYOAI HEALTHCARE SYSTEM",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17284",
+            "website": "kyoai123.co.id"
+        },
+        {
+            "id": "9cb1ac66-a6f5-4fd9-86fa-d72333dd95dc",
+            "nama_pse": "KONTEKS MEDIA GROUP",
+            "nama_se": "KONTEKS BERITA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17283",
+            "website": "konteksberita.com"
+        },
+        {
+            "id": "9cb1ac53-313c-41c5-beaa-941ecdb50ddd",
+            "nama_pse": "INSAN MULIA SEJAHTERA",
+            "nama_se": "YAYASAN INSAN MULIA SEJAHTERA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17285",
+            "website": "Yaimsa.or.id"
+        },
+        {
+            "id": "9cb1ac53-3666-416f-b33f-78dfe6ea481f",
+            "nama_pse": "VIKAR BERJAYA HUSADA",
+            "nama_se": "KARTIKA ESYST",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17287",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac66-accf-47eb-a91b-7917fc5b030b",
+            "nama_pse": "NAZA ILYASA",
+            "nama_se": "ALTHAF E-RELOAD",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17286",
+            "website": "althafereload.com"
+        },
+        {
+            "id": "9cb1ac7a-ec17-46c1-ab9f-15d5f21d337d",
+            "nama_pse": "TEKNOLOGI MANDIRI NUSANTARA",
+            "nama_se": "KLINESIA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17288",
+            "website": "klinesia.odoo.com"
+        },
+        {
+            "id": "9cb1ac66-b03f-4d9a-9435-483a0d97e7ca",
+            "nama_pse": "RUMAH SAKIT UMUM DAERAH DR. R. KOESMA KABUPATEN TUBAN",
+            "nama_se": "SIMRS KOESMA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17289",
+            "website": "rsudkoesma.id"
+        },
+        {
+            "id": "9cb1ac53-38fe-4da8-8b72-8c60e52e3e54",
+            "nama_pse": "ANUGERAH PHARMINDO LESTARI",
+            "nama_se": "EZRX+",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17290",
+            "website": "id.ezrxplus.com"
+        },
+        {
+            "id": "9cb1ac7a-e2b8-4a1f-a6e3-f30ceec83c4d",
+            "nama_pse": "GALLERY NOTEBOOK INDONESIA",
+            "nama_se": "GALLERYNOTEBOOOK.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17275",
+            "website": "WWW.GALLERYNOTEBOOK.COM"
+        },
+        {
+            "id": "9cb1ac53-25d8-433b-9d9a-8a0b67cb112c",
+            "nama_pse": "OGOT INDONESIA TEKNOLOGI",
+            "nama_se": "OGOT INDONEISA TEKNOLOGI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17276",
+            "website": "ogotindonesiateknologi.com"
+        },
+        {
+            "id": "9cb1ac66-9861-45ed-a3f5-0087dcf52aad",
+            "nama_pse": "ALFA NETWORK INTERNATIONAL",
+            "nama_se": "ALFANETWORK.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17277",
+            "website": "alfanetwork.id"
+        },
+        {
+            "id": "9cb1ac66-9b29-4ab8-bbcf-0ff393c4508e",
+            "nama_pse": "PERHIMPUNAN BULAN SABIT MERAH INDONESIA",
+            "nama_se": "SIM KLINIK BSMI KLATEN",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17278",
+            "website": "klinikbsmiklaten.com"
+        },
+        {
+            "id": "9cb1ac53-2913-4d26-9b0b-64680af0a037",
+            "nama_pse": "FIRMAN HIDAYAT",
+            "nama_se": "GIGANET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17279",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac66-9e04-4272-8e20-262dd0cc57e9",
+            "nama_pse": "SUJAK",
+            "nama_se": "ECOMMERS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17280",
+            "website": "jackdigitalstore.my.id"
+        },
+        {
+            "id": "9cb1ac52-dd89-4b76-be4e-36fa07667403",
+            "nama_pse": "SUNDAY INSURANCE INDONESIA",
+            "nama_se": "ASURANSI ONLINE SUNDAY INSURANCE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17254",
+            "website": "retail.sundayinsurance.co.id"
+        },
+        {
+            "id": "9cb1ac66-70cd-4227-be2e-ea0dfb686595",
+            "nama_pse": "INDONESIA TUMBUH INKLUSIF",
+            "nama_se": "UKMINDONESIA.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17266",
+            "website": "ukmindonesia.id"
+        },
+        {
+            "id": "9cb1ac7a-c27a-4bf9-b95f-bf99f121df4c",
+            "nama_pse": "ROKHILA",
+            "nama_se": "SRIMULYA WI-FI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17252",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac7a-c5f2-40e4-8e67-2236ba2aaac6",
+            "nama_pse": "NET TUJUH MULTIMEDIA",
+            "nama_se": "NET7.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17253",
+            "website": "net7.co.id"
+        },
+        {
+            "id": "9cb1ac53-1868-447e-ad65-996cfde87b83",
+            "nama_pse": "MAKASSAR SEHAT SENTOSA",
+            "nama_se": "SIMRS PARAMOUNT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17257",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac7a-cad6-4be2-895e-e66de6388336",
+            "nama_pse": "SARITA INSANI HUSADA",
+            "nama_se": "SIMRS RSIA PERMATA INSANI",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17255",
+            "website": "rsiapi.ngrok.io"
+        },
+        {
+            "id": "9cb1ac53-1afb-474c-ae20-89a6b3e5d922",
+            "nama_pse": "GOZILA FINANSIA INDONESIA",
+            "nama_se": "PT GOZILA FINANSIA INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17256",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac7a-ce29-4fa4-98ba-ded0c9b049f6",
+            "nama_pse": "SWALAYAN SUKSES ABADI",
+            "nama_se": "FOODHALL.MAPCLUB.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17258",
+            "website": "foodhall.mapclub.com"
+        },
+        {
+            "id": "9cb1ac66-8775-4638-b13e-2497ab131014",
+            "nama_pse": "MUHAMMAD ILHAM",
+            "nama_se": "KEDAI PREMIUM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17259",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac7a-d163-4d4e-844b-22c8dba3c270",
+            "nama_pse": "BENDT SISTEM INDONESIA",
+            "nama_se": "HUPERCLOUD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17261",
+            "website": "HUPERCLOUD.COM"
+        },
+        {
+            "id": "9cb1ac7a-d4c3-423e-ab25-81312f826f76",
+            "nama_pse": "SURYASOFT KONSULTAMA",
+            "nama_se": "SIMCLICNIC",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17260",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac66-8a18-4927-9799-cdd5b473f149",
+            "nama_pse": "KUNINGAN EYE CENTER",
+            "nama_se": "SIM KLINIK KUNINGAN EYE CENTER",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17262",
+            "website": "kuninganeyecenter.com"
+        },
+        {
+            "id": "9cb1ac7a-d865-4ca9-b5ce-087eb67823dd",
+            "nama_pse": "ALFA INDOTAMA PERKASA",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17263",
+            "website": "alfaindotama.co.id"
+        },
+        {
+            "id": "9cb1ac7a-dc85-4bd3-8318-928f615e846c",
+            "nama_pse": "BANK OCBC NISP",
+            "nama_se": "HIRA-HR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17264",
+            "website": "hira-hr.com"
+        },
+        {
+            "id": "9cb1ac66-8ca6-4bc6-bc02-32cef34b8ee8",
+            "nama_pse": "MATCH MADE INDONESIA",
+            "nama_se": "MATCHMADE.IO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17265",
+            "website": "matchmade.io"
+        },
+        {
+            "id": "9cb1ac53-1dc5-4063-b881-5a479f1a73f4",
+            "nama_pse": "ZEALS DIGITAL ASIA",
+            "nama_se": "ZEALS AFFILIATE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17268",
+            "website": "zeals.asia"
+        },
+        {
+            "id": "9cb1ac66-8f89-4582-a3a0-66f224ce30a9",
+            "nama_pse": "GRAHA SOLA GRASINDO",
+            "nama_se": "SISTEM INFORMASI KLINIK GRACIA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17269",
+            "website": "managedclinics.com"
+        },
+        {
+            "id": "9cb1ac7a-dfc6-4938-8e8d-bdc75e247f16",
+            "nama_pse": "IRA KONSULTAN INDONESIA",
+            "nama_se": "KONSULTANKU",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17270",
+            "website": "irakonsultan.co.id"
+        }
+    ],
+    "processingTimeMs": 1,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 94,
+    "totalPages": 383
+}

@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1abdf-018b-4027-adca-b8e7d7f32095",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BANK OF CHINA LIMITED",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11644",
+            "website": "bank-of-china.com"
+        },
+        {
+            "id": "9cb1ac03-3c9d-47af-a2fa-fed68d606154",
+            "nama_pse": "MANDIRI SECURITIES PTE LTD",
+            "nama_se": "MANDIRI INVESTASI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11645",
+            "website": "mandiri-investasi.co.id"
+        },
+        {
+            "id": "9cb1ac11-dfc2-469b-8e97-51c04a15ea5b",
+            "nama_pse": "MANDIRI SECURITIES PTE LTD",
+            "nama_se": "MANDIRI TUNAS FINANCE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11646",
+            "website": "mtf.co.id"
+        },
+        {
+            "id": "9cb1abdf-055a-44f3-a11c-303a492d52d3",
+            "nama_pse": "MANDIRI SECURITIES PTE LTD",
+            "nama_se": "MOST",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11647",
+            "website": "most.co.id"
+        },
+        {
+            "id": "9cb1abdf-0a96-4850-95a1-3175e51eb8ee",
+            "nama_pse": "MANDIRI SECURITIES PTE LTD",
+            "nama_se": "BANK MANDIRI SHANGHAI / SHANTOU MARIA INVESTMENT CO., LTD.",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11648",
+            "website": "bankmandirish.com"
+        },
+        {
+            "id": "9cb1ac03-3fbf-40c7-940c-209d9a2bf7b1",
+            "nama_pse": "MANDIRI SECURITIES PTE LTD",
+            "nama_se": "MANDIRI INVESTMENT MANAGEMENT PTE. LTD.",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11649",
+            "website": "mandiri-investment.com.sg"
+        },
+        {
+            "id": "9cb1ac11-ebb0-439e-af2b-2d1f3b208d51",
+            "nama_pse": "MANDIRI SECURITIES PTE LTD",
+            "nama_se": "BANK MANDIRI (PERSERO) TBK / ADR - (MARIA TIURMA \u0026 AVI ENERGI INDONESIA)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11650",
+            "website": "bankmandirihk.com"
+        },
+        {
+            "id": "9cb1abdf-0e09-4668-b442-432ab6ef52e4",
+            "nama_pse": "GOLDEN KNIGHT INTERNATIONAL LIMITED",
+            "nama_se": "INDONESIA BANK MANDIRI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11651",
+            "website": "info@owenpetrobitumen.com"
+        },
+        {
+            "id": "9cb1ac03-429d-480d-a846-9610675d7107",
+            "nama_pse": "GOLDEN KNIGHT INTERNATIONAL LIMITED",
+            "nama_se": "INDONESIA MANDIRI BANK",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11652",
+            "website": "owenstrategikmedia.com"
+        },
+        {
+            "id": "9cb1abdf-158a-4a55-aba3-82a33e5dba2b",
+            "nama_pse": "GOLDEN KNIGHT INTERNATIONAL LIMITED",
+            "nama_se": "INDONESIA MANDIRI BANK",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11653",
+            "website": "info@owenpetrobitumen.com"
+        },
+        {
+            "id": "9cb1abdf-18c6-45ea-9ecd-78fc760316f5",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO., LTD.",
+            "nama_se": "INFO@OWENPETROBITUMEN.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11654",
+            "website": "owenpetrobitumen.com"
+        },
+        {
+            "id": "9cb1ac11-ef35-423d-9dc4-2e1c9b4666a0",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO., LTD.",
+            "nama_se": "INFO@MARGOPP.CO.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11655",
+            "website": "margopp.co.id"
+        },
+        {
+            "id": "9cb1ac11-f2a0-40ea-a2f3-b1aca699ba5b",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO., LTD.",
+            "nama_se": "WWW.AVIENERGI.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11656",
+            "website": "avienergi.com"
+        },
+        {
+            "id": "9cb1ac03-45fc-4378-8e45-9f39758708c2",
+            "nama_pse": "VIER CORPORATION LIMITED",
+            "nama_se": "VIER CORPORATION LIMITED",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11657",
+            "website": "viercorp.com"
+        },
+        {
+            "id": "9cb1abdf-1c21-499c-964b-f85fb31f56d9",
+            "nama_pse": "VIER CORPORATION LIMITED",
+            "nama_se": "VIERLINES ASIA GROUP SDN BHD",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11658",
+            "website": "vierlines.wordpress.com"
+        },
+        {
+            "id": "9cb1ac11-f5bc-4595-a108-2741c0c85151",
+            "nama_pse": "VIER CORPORATION LIMITED",
+            "nama_se": "PELAYARAN TRANSPENINSULAR",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11659",
+            "website": "transpeninsular.wordpress.com"
+        },
+        {
+            "id": "9cb1ac03-4a16-48b9-aff3-2df8201f3bfb",
+            "nama_pse": "VIER CORPORATION LIMITED",
+            "nama_se": "VIER GROUP LIMITED",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11660",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac11-f8f8-439d-a69c-2942cb27a717",
+            "nama_pse": "VIER CORPORATION LIMITED",
+            "nama_se": "VIERSON \u0026 DAUGHTER STRATEGIC INVESTMENT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11661",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac11-fc3b-471b-88ae-92d743ef4983",
+            "nama_pse": "BRAWIJAYA CAPITAL INVESTAMA",
+            "nama_se": "BRAWIJAYA CAPITAL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11662",
+            "website": "caramail.fr"
+        },
+        {
+            "id": "9cb1abdf-24f2-4b21-9f6b-dacf67adeb55",
+            "nama_pse": "BRAWIJAYA CAPITAL INVESTAMA",
+            "nama_se": "RANS ENTERTAINMENT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11663",
+            "website": "ransentertainment.com"
+        },
+        {
+            "id": "9cb1ac03-4d91-4a03-a2d3-1adb32bb4e07",
+            "nama_pse": "BRAWIJAYA CAPITAL INVESTAMA",
+            "nama_se": "RDW GLOBAL INVESTASI D/H PT INDIGO SUPER MEKANI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11664",
+            "website": "caprinusa.com"
+        },
+        {
+            "id": "9cb1ac03-5ba4-414d-8588-6c8a41356092",
+            "nama_pse": "BRAWIJAYA CAPITAL INVESTAMA",
+            "nama_se": "EARVIN LIMITED",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11665",
+            "website": "cowelldev.com"
+        },
+        {
+            "id": "9cb1ac11-ff8f-4888-bbca-a624e001b70e",
+            "nama_pse": "BRAWIJAYA CAPITAL INVESTAMA",
+            "nama_se": "FERAL INVESMENT INC",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11666",
+            "website": "cowelldev.com"
+        },
+        {
+            "id": "9cb1ac12-031d-4644-a447-afe717bbd613",
+            "nama_pse": "BRAWIJAYA CAPITAL INVESTAMA",
+            "nama_se": "CREDIT SUISSE AG SINGAPORE TRUST A/C CLIENTS-2023904000",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11667",
+            "website": "vivagroup.co.id"
+        },
+        {
+            "id": "9cb1ac12-063c-44a2-893b-814b986dafe1",
+            "nama_pse": "BRAWIJAYA CAPITAL INVESTAMA",
+            "nama_se": "RAIFFEISEN BANK INTERNATIONAL AG, SINGAPORE BRANCH S/A PT BAKRIE GLOBAL VENTURA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11668",
+            "website": "vivagroup.co.id"
+        },
+        {
+            "id": "9cb1ac03-626a-4283-8a3f-67136f273b27",
+            "nama_pse": "BRAWIJAYA CAPITAL INVESTAMA",
+            "nama_se": "DB SPORE DCS A/C MDS PACTR LTD OBO PT BAKRIE GV (FA)-864134125",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11669",
+            "website": "vivagroup.co.id"
+        },
+        {
+            "id": "9cb1abdf-2b22-426a-9dff-e5e26f03965c",
+            "nama_pse": "BRAWIJAYA CAPITAL INVESTAMA",
+            "nama_se": "STANDARD CHARTERED BANK SG S/A OL MASTER LIMITED",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11670",
+            "website": "viva.co.id"
+        },
+        {
+            "id": "9cb1ac12-092a-4af3-81b5-a4e6b19107f3",
+            "nama_pse": "BRAWIJAYA CAPITAL INVESTAMA",
+            "nama_se": "RANSENTERTAINMENT.CO.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11671",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac12-0bf7-4d39-b4bb-e14f76d9fc49",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BRINS GENERAL INSURANCE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11672",
+            "website": "brinsaman.com"
+        },
+        {
+            "id": "9cb1ac03-699c-4065-aa13-903e75479aec",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BRI NEW YORK AGENCY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11673",
+            "website": "brinya.com"
+        },
+        {
+            "id": "9cb1ac12-0ef9-4135-a479-d1599a5334da",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BRI REMITTANCE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11674",
+            "website": "brchk.com"
+        },
+        {
+            "id": "9cb1ac03-6d67-429e-bb27-5fa93f9b91ec",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "DANAREKSA INVESTMENT MANAGEMENT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11675",
+            "website": "ir-bri.com"
+        },
+        {
+            "id": "9cb1ac03-706b-4b3a-a834-3132ad706257",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "HTTP://DMIA.DANAREKSAONLINE.COM/",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11676",
+            "website": "dmia.danareksaonline.com"
+        },
+        {
+            "id": "9cb1ac12-124c-48a3-b975-777643d33eb1",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "DANAREKSA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11677",
+            "website": "devex.com"
+        },
+        {
+            "id": "9cb1ac03-740f-4bfe-b64e-e841e03e91be",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "DANAREKSA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11678",
+            "website": "danareksa.co.id"
+        },
+        {
+            "id": "9cb1ac12-155e-4bee-b967-f0e23b62f34f",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BANK BRI CABANG HONG KONG",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11679",
+            "website": "brihongkong.com"
+        },
+        {
+            "id": "9cb1ac12-18b5-43a6-b957-9ce56a12dc33",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "ASURANSI BRINGIN SEJAHTERA ARTAMAKMUR / BRI INSURANCE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11680",
+            "website": "brins.co.id"
+        },
+        {
+            "id": "9cb1ac03-7777-4c5d-9203-7b8e47dc3d6a",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "OWEN HOLDING LIMITED",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11681",
+            "website": "capitalinc-investment.com"
+        },
+        {
+            "id": "9cb1abdf-32e7-4599-ad77-2115ea8258fb",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "JARDINE CYCLE \u0026 CARRIAGE LIMITED",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11682",
+            "website": "tunasgroup.com"
+        },
+        {
+            "id": "9cb1abdf-38cf-4fad-8db0-1da5c7f27a15",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "KOREAN REINSURANCE COMPANY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11683",
+            "website": "ramayanains.com"
+        },
+        {
+            "id": "9cb1ac12-1c70-49de-b10d-b8f3dba4c3f9",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "PONDOK INDAH GROUP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11684",
+            "website": "pondokindahgroup.co.id"
+        },
+        {
+            "id": "9cb1abdf-3cc6-4d7f-96f2-699cc9c6026e",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "MODERN SEVEL INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11685",
+            "website": "moderninternasional.co.id"
+        },
+        {
+            "id": "9cb1ac12-2138-47e1-b21e-018809474beb",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "SYAHRIL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11686",
+            "website": "ramayanains.com"
+        },
+        {
+            "id": "9cb1abdf-3fc6-4553-ac8e-834ddb399b94",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "MAKASSAR PERMATA SULAWESI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11687",
+            "website": "tanjungbunga.com"
+        },
+        {
+            "id": "9cb1ac12-24eb-4a41-a820-ddeeeca1ed47",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "ASIA SURYA PERKASA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11688",
+            "website": "tunasgroup.com"
+        },
+        {
+            "id": "9cb1ac03-7a78-419e-bb0d-efc14ef2ba86",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "ARCHIPELAGO RESORTS AND HOTELS LIMITED",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11689",
+            "website": "buvagroup.com"
+        },
+        {
+            "id": "9cb1ac03-7ed0-41f1-9dac-e58af0dae107",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "A WINOTO DOERIAT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11690",
+            "website": "ramayanains.com"
+        },
+        {
+            "id": "9cb1abdf-433a-4f6b-9e11-84a82966c3cb",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "NV III HOLDINGS LIMITED",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11691",
+            "website": "buvagroup.com"
+        },
+        {
+            "id": "9cb1ac12-292f-4abe-9688-44664c7a4ffc",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "BANTEN GLOBAL DEVELOPMENT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11692",
+            "website": "bankbanten.co.id"
+        },
+        {
+            "id": "9cb1ac12-2d8c-4d00-a53e-62060d1fd143",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "BANK OF CHINA LIMITED",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11693",
+            "website": "bank-of-china,com"
+        }
+    ],
+    "processingTimeMs": 2,
+    "query": "",
+    "totalHits": 352,
+    "hitsPerPage": 50,
+    "page": 4,
+    "totalPages": 8
+}

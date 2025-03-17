@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ab9a-9456-46d5-845b-59bc0ea09e7b",
+            "nama_pse": "LOTTE CAPITAL INDONESIA",
+            "nama_se": "LOTTE CAPITAL INDONESIA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5237",
+            "website": "lottecapital.co.id"
+        },
+        {
+            "id": "9cb1abaf-63c3-44b2-a4ed-cd14ae4dd38e",
+            "nama_pse": "WOOLU AKSARA MAYA",
+            "nama_se": "EDOO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5236",
+            "website": "edoo.id"
+        },
+        {
+            "id": "9cb1abaf-6943-4c29-9c0d-e08d40785deb",
+            "nama_pse": "DOCHECK BAGI INDONESIA",
+            "nama_se": "DOCHECK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5238",
+            "website": "docheck.id"
+        },
+        {
+            "id": "9cb1ab9a-96dc-4a13-9dc5-d35a7e5253b0",
+            "nama_pse": "ORICO BALIMOR FINANCE",
+            "nama_se": "FINTEGRITY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5240",
+            "website": "obf.id"
+        },
+        {
+            "id": "9cb1aba5-a064-409e-9144-687d7ca2f396",
+            "nama_pse": "HIGO FITUR INDONESIA",
+            "nama_se": "HIGO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5239",
+            "website": "higo.id"
+        },
+        {
+            "id": "9cb1abaf-74f7-4efd-b88e-b7b4270f7a08",
+            "nama_pse": "ASYX INDONESIA",
+            "nama_se": "ASYX PLATFORM",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5241",
+            "website": "asyx.com"
+        },
+        {
+            "id": "9cb1aba5-a2c5-4c17-91b2-726f82bdea27",
+            "nama_pse": "MANGUN PERSADA AMANDATA INTERMATIKA",
+            "nama_se": "EPAD",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5242",
+            "website": "amandata.intermatika.id"
+        },
+        {
+            "id": "9cb1ab9a-9894-4455-b27d-072c9771a05e",
+            "nama_pse": "ORICO BALIMOR FINANCE",
+            "nama_se": "MOBILE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5243",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab9a-9a56-4301-b8b4-f41d344c4695",
+            "nama_pse": "ADIWISISTA FINANSIAL TEKNOLOGI",
+            "nama_se": "DANAI.ID",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5244",
+            "website": "danai.id"
+        },
+        {
+            "id": "9cb1aba5-a5ca-4be8-a06f-0cb2fea83149",
+            "nama_pse": "ORICO BALIMOR FINANCE",
+            "nama_se": "COMPANY HOMEPAGE WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5245",
+            "website": "obf.id"
+        },
+        {
+            "id": "9cb1ab9a-9c36-4fbd-b5ae-2d6725103d8f",
+            "nama_pse": "INDONESIA SATU MANAJEMEN",
+            "nama_se": "RUMAH PEKERJA INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5246",
+            "website": "rumahpekerja.id"
+        },
+        {
+            "id": "9cb1ab9a-a247-4157-bb3a-4f3647ed6d8f",
+            "nama_pse": "ALK FILO OPTIMA",
+            "nama_se": "ALK FILO OPTIMA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5249",
+            "website": "alk.co.id"
+        },
+        {
+            "id": "9cb1ab9a-a4c8-42ee-aa05-2a956894c594",
+            "nama_pse": "LABTEK INDIE INDONESIA",
+            "nama_se": "APLIKASI KNODS",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5250",
+            "website": "tenant.knods.app"
+        },
+        {
+            "id": "9cb1abae-326f-4c1f-8764-3d61c8ecfac2",
+            "nama_pse": "BUKU USAHA DIGITAL",
+            "nama_se": "TOKOKO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5194",
+            "website": "tokoko.id"
+        },
+        {
+            "id": "9cb1abaf-2270-4156-aee1-8db8c7379f44",
+            "nama_pse": "NALLA REKAYASA TEKNOLOGI",
+            "nama_se": "NALLASTORE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5156",
+            "website": "nallastore.co.id"
+        },
+        {
+            "id": "9cb1abaf-246f-4867-a052-7c3e6e27f8be",
+            "nama_pse": "INVESTINDO NUSANTARA SEKURITAS",
+            "nama_se": "WEBSITE PT INVESTINDO NUSANTARA SEKURITAS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5157",
+            "website": "investindosekuritas.co.id"
+        },
+        {
+            "id": "9cb1abaf-264a-42f8-ac7f-07515ce4d72d",
+            "nama_pse": "MOCAAS PAKAR TEKNOLOGI",
+            "nama_se": "MOCAAS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5158",
+            "website": "mocaas.tv"
+        },
+        {
+            "id": "9cb1abaf-2876-4ddf-9dc7-9881b5683e5d",
+            "nama_pse": "INVESTINDO NUSANTARA SEKURITAS",
+            "nama_se": "E-FORM PT INVESTINDO NUSANTARA SEKURITAS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5159",
+            "website": "eform.investindosekuritas.co.id"
+        },
+        {
+            "id": "9cb1aba5-3424-4938-8c72-73502246c78a",
+            "nama_pse": "MAYBANK SEKURITAS INDONESIA",
+            "nama_se": "MAYBANK TRADE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5160",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba5-35fa-4b78-8441-d64bcccadd9e",
+            "nama_pse": "INVESTINDO NUSANTARA SEKURITAS",
+            "nama_se": "INVITE - INVESTINDO NUSANTARA SEKURITAS (WEB)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5161",
+            "website": "invite.investindosekuritas.co.id"
+        },
+        {
+            "id": "9cb1abaf-2a7d-4bca-859b-ddc4c21afda3",
+            "nama_pse": "YAKIN BERTUMBUH SEKURITAS",
+            "nama_se": "JOIN DESKTOP",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5162",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abaf-2c5b-45b5-ac25-ef6407f65a56",
+            "nama_pse": "INVESTINDO NUSANTARA SEKURITAS",
+            "nama_se": "INVITE - INVESTINDO TRADING SYSTEM (DESKTOP)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5163",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab9a-3fe7-441a-91f6-318ffa9cf703",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+            "nama_se": "WEB KEAGENAN",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5164",
+            "website": "Agen.bri.co.id"
+        },
+        {
+            "id": "9cb1aba5-3943-4c15-a957-28ae2314563d",
+            "nama_pse": "INVESTINDO NUSANTARA SEKURITAS",
+            "nama_se": "INVITE - INVESTINDO TRADING SYSTEM (MOBILE - IOS \u0026 ANDROID)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5165",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba5-3c50-4ba0-8fa9-4e9816bfe971",
+            "nama_pse": "BCA MULTI FINANCE",
+            "nama_se": "CORPORATE WEBSITE BCAMF",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5166",
+            "website": "bcamf.co.id"
+        },
+        {
+            "id": "9cb1ab9a-430b-408e-9e68-2a1f567a353d",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+            "nama_se": "BRI WHISTLEBLOWING SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5167",
+            "website": "whistleblowing-system.bri.co.id"
+        },
+        {
+            "id": "9cb1abaf-3063-4586-beb7-fbbd6aabb82e",
+            "nama_pse": "TRANSAKSI ARTHA GEMILANG",
+            "nama_se": "OTTOCASH",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5168",
+            "website": "ottocash.id"
+        },
+        {
+            "id": "9cb1aba5-3f93-43d1-8e68-1a46385e7bc7",
+            "nama_pse": "ANILO ADIKARYA SENTOSA",
+            "nama_se": "ANIPAY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5169",
+            "website": "anipay.id"
+        },
+        {
+            "id": "9cb1aba5-48e1-4224-8fbe-3821122e83b4",
+            "nama_pse": "INDOMOBIL FINANCE INDONESIA",
+            "nama_se": "INDOMOBIL FINANCE INDONESIA (IMFI) WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5171",
+            "website": "indomobilfinance.com"
+        },
+        {
+            "id": "9cb1abaf-3256-4f61-bf3e-aa2cf29f52e8",
+            "nama_pse": "VICTORIA INSURANCE",
+            "nama_se": "VICTORIAINSURANCE.CO.ID",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5172",
+            "website": "victoriainsurance.co.id"
+        },
+        {
+            "id": "9cb1ab9a-4606-414a-85e0-5ded7790db7e",
+            "nama_pse": "MAYBANK INDONESIA FINANCE",
+            "nama_se": "MAYBANK FINANCE APP",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5173",
+            "website": "maybankfinance.co.id"
+        },
+        {
+            "id": "9cb1ab9a-48eb-4da7-a0de-ff1a45408bd9",
+            "nama_pse": "CIPTA DIMENSI DIGITAL",
+            "nama_se": "HYPE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5174",
+            "website": "hype-plus.com"
+        },
+        {
+            "id": "9cb1abaf-3430-446b-839a-825b887ef52b",
+            "nama_pse": "REKSA TRANSAKSI SUKSES MAKMUR",
+            "nama_se": "OTTOPAY INDOMARCO",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5175",
+            "website": "ottopay.id"
+        },
+        {
+            "id": "9cb1aba5-4b42-4668-8a67-8082354288d0",
+            "nama_pse": "USAHA PEMBIAYAAN RELIANCEINDONESIA",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5177",
+            "website": "reliance-finance.com"
+        },
+        {
+            "id": "9cb1abaf-360f-4d33-a75d-b741224744b9",
+            "nama_pse": "TIPTIP NETWORK INDONESIA",
+            "nama_se": "TIPTIP.",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5184",
+            "website": "Tiptip.tv"
+        },
+        {
+            "id": "9cb1abaf-3801-413d-851f-ab190161ff76",
+            "nama_pse": "JAVA LIFE NUSANTARA",
+            "nama_se": "JAVA LIFE NUSANTARA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5178",
+            "website": "javalife.id"
+        },
+        {
+            "id": "9cb1aba5-4d72-42bb-a21b-24aee40388c3",
+            "nama_pse": "PRESENTOLOGICS",
+            "nama_se": "DICODING INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5179",
+            "website": "dicoding.com"
+        },
+        {
+            "id": "9cb1ab9a-4b99-4733-ba52-6e1825884d74",
+            "nama_pse": "MDAQ INDONESIA TECHNOLOGIES",
+            "nama_se": "WALLEX INDONESIA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5180",
+            "website": "wallex.id"
+        },
+        {
+            "id": "9cb1ab9a-4f69-4043-a045-bbf4f2e0fb3f",
+            "nama_pse": "USAHA PEMBIAYAAN RELIANCEINDONESIA",
+            "nama_se": "APLIKASI ADMINISTRASI KREDIT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5181",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abaf-3a70-4340-9d4f-886b49a0a939",
+            "nama_pse": "USAHA PEMBIAYAAN RELIANCEINDONESIA",
+            "nama_se": "RELIDANA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5182",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba5-4fde-4b05-b58f-250628eec183",
+            "nama_pse": "USAHA PEMBIAYAAN RELIANCEINDONESIA",
+            "nama_se": "RELI-HOME",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5183",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abaf-3d06-45d9-88c5-51bc0760aeca",
+            "nama_pse": "TAMADUN TEKNOLOGI INTERNASIONAL",
+            "nama_se": "NEUROVI MEDICAL SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5190",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba5-53f3-43d2-9f2a-5dd9dc1d651a",
+            "nama_pse": "MUSLIMINA INDO PERSADA",
+            "nama_se": "MUSLIMPERGI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5189",
+            "website": "muslimpergi.com"
+        },
+        {
+            "id": "9cb1aba5-55f0-476a-bdd6-8dfa66eb7796",
+            "nama_pse": "ANILO ADIKARYA SENTOSA",
+            "nama_se": "AAS1",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5185",
+            "website": "aas1.id"
+        },
+        {
+            "id": "9cb1aba5-59ba-4a2c-9420-3fa706e40e3c",
+            "nama_pse": "MIDAZPAY DIGITAL INDONESIA",
+            "nama_se": "ROCKET POCKET",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5187",
+            "website": "rocketpocket.id"
+        },
+        {
+            "id": "9cb1abaf-43f0-469f-96bd-a12a5fdb286c",
+            "nama_pse": "MEGATAMA ADIKARYA",
+            "nama_se": "WEBSITE RESMI INDO MEDIKA INTERNATIONAL",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5191",
+            "website": "indomedika.co.id"
+        },
+        {
+            "id": "9cb1ab9a-5a5e-445b-b4e8-1615280179ab",
+            "nama_pse": "ISAN TECHNOLOGY INDONESIA",
+            "nama_se": "AGRION FARMER",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5192",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba5-6197-434f-a554-536af42e3b72",
+            "nama_pse": "RAJAWALI INTI SELULAR",
+            "nama_se": "RISE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5193",
+            "website": "corpsolution.riseteknologi.app"
+        },
+        {
+            "id": "9cb1aba5-647b-4d22-8700-4455aaaab57f",
+            "nama_pse": "D \u0026 W INTERNASIONAL",
+            "nama_se": "TERRAMIX.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5195",
+            "website": "terramix.id"
+        },
+        {
+            "id": "9cb1ab9a-62a8-4cec-a709-6f48577eeec7",
+            "nama_pse": "ALFIE RENALDY",
+            "nama_se": "JAGOSELEB.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5196",
+            "website": "jagoseleb.com"
+        }
+    ],
+    "processingTimeMs": 3,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 290,
+    "totalPages": 383
+}

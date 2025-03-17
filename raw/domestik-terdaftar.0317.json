@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ab87-2d81-4804-8bb1-c85587215451",
+            "nama_pse": "BUANA CAPITAL SEKURITAS",
+            "nama_se": "TRE N",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3505",
+            "website": "buanacapital.com"
+        },
+        {
+            "id": "9cb1ab90-118b-4851-bd62-08677c3d3046",
+            "nama_pse": "MULTI PRATAMA ASIA",
+            "nama_se": "MULTI PRATAMA ASIA - (MPA-PAY)",
+            "sektor": "Sektor Transportasi, Sektor Transportasi, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3496",
+            "website": "multijasasolusindo.id"
+        },
+        {
+            "id": "9cb1ab90-e2e7-4057-8b81-eadef6828e91",
+            "nama_pse": "QUARK INTERNATIONAL INDONESIA",
+            "nama_se": "WWW.SOEASY.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3497",
+            "website": "soeasy.id"
+        },
+        {
+            "id": "9cb1ab8e-3b7d-4df6-86ee-cbeee3f0f6aa",
+            "nama_pse": "SARI ICECREAM INDONESIA",
+            "nama_se": "COLDSTONECREAMERY.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3487",
+            "website": "coldstonecreamery.co.id"
+        },
+        {
+            "id": "9cb1ab86-9ec1-444a-9884-467c9c2783a6",
+            "nama_pse": "PREMIER DOUGHNUT INDONESIA",
+            "nama_se": "KRISPYKREME.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3489",
+            "website": "krispykreme.co.id"
+        },
+        {
+            "id": "9cb1ab86-a93e-4a42-ae39-42c70dd231ba",
+            "nama_pse": "AGUNG MANDIRI LESTARI",
+            "nama_se": "GENKISUSHI.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3490",
+            "website": "genkisushi.co.id"
+        },
+        {
+            "id": "9cb1ab86-ac69-4507-9f9e-7a8467b46453",
+            "nama_pse": "SEVANAM TEKNOLOGI SOLUSINDO",
+            "nama_se": "COREKOPERASI.ID",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3494",
+            "website": "corekoperasi.id"
+        },
+        {
+            "id": "9cb1ab86-c1ff-4303-af82-5859548d886b",
+            "nama_pse": "TELE CEXUP INDONESIA",
+            "nama_se": "CEXUP",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3486",
+            "website": "cexup.com"
+        },
+        {
+            "id": "9cb1ab7e-8d1f-4701-9d1e-f1f867c05e1c",
+            "nama_pse": "ARIANDA MITRA SEJAHTERA",
+            "nama_se": "MEDCHECK",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3481",
+            "website": "medcheck.id"
+        },
+        {
+            "id": "9cb1ab7e-969f-4b86-8e41-b0c82b28cd85",
+            "nama_pse": "ALLY LOGISTICS INTEGRATORS",
+            "nama_se": "LUWJISTIK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3479",
+            "website": "luwjistik.com"
+        },
+        {
+            "id": "9cb1ab7e-99c5-4a4f-9a47-dedba642444e",
+            "nama_pse": "INDONESIA COMNETS PLUS",
+            "nama_se": "PLN MOBILE MARKETPLACE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3480",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab8e-8216-412f-87ab-2452dd225361",
+            "nama_pse": "IDE KREATIF ASIA",
+            "nama_se": "TOKOLAPAK.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3482",
+            "website": "tokolapak.com"
+        },
+        {
+            "id": "9cb1ab7e-b753-411a-b05d-d4089c4388cb",
+            "nama_pse": "SARI FOOD LESTARI",
+            "nama_se": "PAUL-INDONESIA.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3492",
+            "website": "paul-indonesia.co.id"
+        },
+        {
+            "id": "9cb1ab8e-a4f7-4aee-98b9-8b5571be5574",
+            "nama_pse": "ALEGO DIGITAL INDONESIA",
+            "nama_se": "SESPRI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3484",
+            "website": "sespri.id"
+        },
+        {
+            "id": "9cb1ab8e-ab49-49fe-9370-40978cafc732",
+            "nama_pse": "NGANTRE INDONESIA PERSADA",
+            "nama_se": "NGANTRE.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3485",
+            "website": "ngantre.com"
+        },
+        {
+            "id": "9cb1ab8e-b4af-4ee8-bf71-46736656ff28",
+            "nama_pse": "MUSTIKA JAYA TEKNOLOGI",
+            "nama_se": "MUSTIKA JAYA TEKNOLOGI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3495",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab90-0ed5-47ec-8dc8-cc6c556a8e1b",
+            "nama_pse": "ICART GROUP INDONESIA",
+            "nama_se": "HAPPYFRESH.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3483",
+            "website": "happyfresh.id"
+        },
+        {
+            "id": "9cb1ab9e-55bf-4cdb-b6d0-2b5cddfdd214",
+            "nama_pse": "BULLION ECOSYSTEM INTERNATIONAL",
+            "nama_se": "TOKOHUB",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3488",
+            "website": "tokohub.bullionecosystem.com/"
+        },
+        {
+            "id": "9cb1ab90-d030-44ce-b2ab-c0e07d693de2",
+            "nama_pse": "SITU PESAN SINI ANTAR",
+            "nama_se": "SITUANSAN",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3491",
+            "website": "Alamat Website: situansan.com, situansan.id, situansan.co.id"
+        },
+        {
+            "id": "9cb1ab90-d679-4e2f-9d64-6f096b45155b",
+            "nama_pse": "CV. DAUN JATI",
+            "nama_se": "DAUNJATI",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3493",
+            "website": "cvdj.business.site"
+        },
+        {
+            "id": "9cb1ab8e-23c3-4052-991b-35fed2a8e5ab",
+            "nama_pse": "ZEST HOTELS INDONESIA",
+            "nama_se": "ONLINE BOOKING HOTEL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3461",
+            "website": "zesthotel.com"
+        },
+        {
+            "id": "9cb1ab86-95f0-4e3c-88a5-276b7fa17178",
+            "nama_pse": "ZAFIYYA UTAMA INDONESIA",
+            "nama_se": "ZAFIYYA UTAMA INDONESIA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan, Sektor Pangan, Sektor Pangan, Sektor Pertahanan dan Keamanan, Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3452",
+            "website": "tokodaring.lkpp.go.id"
+        },
+        {
+            "id": "9cb1ab7e-8528-4883-9044-eaba96ad9481",
+            "nama_pse": "ZAFIYYA UTAMA INDONESIA",
+            "nama_se": "ZAFIYYA - PERDAGANGAN BESAR PIRANTI LUNAK",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan, Sektor Pangan, Sektor Pangan, Sektor Pertahanan dan Keamanan, Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3453",
+            "website": "tokodaring.lkpp.go.id"
+        },
+        {
+            "id": "9cb1ab86-97fb-4ad8-a4b5-27e1ded933d7",
+            "nama_pse": "LITEDEX DIGITAL INDONESIA",
+            "nama_se": "LITEDEX",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3460",
+            "website": "litedex.io"
+        },
+        {
+            "id": "9cb1ab86-9ba0-4d48-b0d5-e73080ce39c2",
+            "nama_pse": "SEBAYA MEDIA KREASI",
+            "nama_se": "SEBAYA MEDIA KREASI",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pangan, Sektor Pertahanan dan Keamanan, Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3471",
+            "website": "tokodaring.lkpp.go.id/"
+        },
+        {
+            "id": "9cb1ab7e-894f-4250-90da-7d3310fb2b1b",
+            "nama_pse": "JARINGAN CITRA MANDIRI",
+            "nama_se": "JARINGAN CITRA MANDIRI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3456",
+            "website": "citratel.co.id"
+        },
+        {
+            "id": "9cb1ab86-e43a-41c1-be60-b30d1e0a86ec",
+            "nama_pse": "PRATAMA MITRA SEJATI",
+            "nama_se": "DIGIBONDS.ID",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3457",
+            "website": "digibonds.id"
+        },
+        {
+            "id": "9cb1ab8e-5e89-4675-a412-d645379a83b4",
+            "nama_pse": "SUKSES INTEGRITAS PERKASA",
+            "nama_se": "SIP INTERNATIONAL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3462",
+            "website": "sipinternational.com"
+        },
+        {
+            "id": "9cb1ab87-05de-4d4a-8aa2-a01d00117fed",
+            "nama_pse": "SWISS-BELHOTEL INTERNATIONAL INDONESIA",
+            "nama_se": "WWW.HOTELCIPUTRA.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3469",
+            "website": "hotelciputra.com"
+        },
+        {
+            "id": "9cb1ab8e-6d23-45a8-96f6-e966222fee3c",
+            "nama_pse": "SWISS-BELHOTEL INTERNATIONAL INDONESIA",
+            "nama_se": "WWW.SWISS-BELHOTELTUBAN.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3472",
+            "website": "swiss-belhoteltuban.com"
+        },
+        {
+            "id": "9cb1ab7e-ab89-49a7-a6b5-d5da2369493e",
+            "nama_pse": "SWISS-BELHOTEL INTERNATIONAL INDONESIA",
+            "nama_se": "WWW.SWISS-BELHOTELRAINFOREST.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3473",
+            "website": "swiss-belhotelrainforest.com"
+        },
+        {
+            "id": "9cb1ab87-0900-407a-8811-cbd5f9cc283d",
+            "nama_pse": "SWISS-BELHOTEL INTERNATIONAL INDONESIA",
+            "nama_se": "WWW.SWISS-BELRESORTWATUJIMBAR.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3474",
+            "website": "swiss-belresortwatujimbar.com"
+        },
+        {
+            "id": "9cb1ab8e-72b0-41ef-acda-b0c16d11c523",
+            "nama_pse": "SWISS-BELHOTEL INTERNATIONAL INDONESIA",
+            "nama_se": "SWISS-BELBOUTIQUEYOGYAKARTA.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3475",
+            "website": "swiss-belboutiqueyogyakarta.com"
+        },
+        {
+            "id": "9cb1ab87-0c5f-4f4b-878b-24bef30eab8c",
+            "nama_pse": "SWISS-BELHOTEL INTERNATIONAL INDONESIA",
+            "nama_se": "WWW.HOTELCIPUTRAWORLD.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3476",
+            "website": "hotelciputraworld.com"
+        },
+        {
+            "id": "9cb1ab8e-7a57-4583-8b7d-0201e148f29b",
+            "nama_pse": "SWISS-BELHOTEL INTERNATIONAL INDONESIA",
+            "nama_se": "WWW.SWISS-BELINNMANYAR.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3477",
+            "website": "swiss-belinnmanyar.com"
+        },
+        {
+            "id": "9cb1ab87-1005-445f-81f2-7e5c2e440536",
+            "nama_pse": "SWISS-BELHOTEL INTERNATIONAL INDONESIA",
+            "nama_se": "WWW.MAUAHOTEL.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3478",
+            "website": "mauahotel.com"
+        },
+        {
+            "id": "9cb1ab7e-af8d-4aac-bb42-d0921958204f",
+            "nama_pse": "FAHRINI JAYA GEMILANG",
+            "nama_se": "CV. FAHRINI JAYA GEMILANG",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3455",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab7e-b203-4be0-a5ac-2e5df1f5a439",
+            "nama_pse": "SARI FOOD LESTARI",
+            "nama_se": "GENKISUSHI.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3459",
+            "website": "genkisushi.co.id"
+        },
+        {
+            "id": "9cb1ab8e-8789-441a-bdb2-0458b84e5b15",
+            "nama_pse": "USAHA PINTAR PRATAMA",
+            "nama_se": "PASARNOW",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Pangan, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3463",
+            "website": "pasarnow.com"
+        },
+        {
+            "id": "9cb1ab8e-9568-4f79-90c5-c91ae0015825",
+            "nama_pse": "USAHA PINTAR PRATAMA",
+            "nama_se": "PASARNOW.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3465",
+            "website": "pasarnow.com"
+        },
+        {
+            "id": "9cb1ab8e-999a-4414-871e-de13bfabc60e",
+            "nama_pse": "SARI PIZZA INDONESIA",
+            "nama_se": "PIZZAMARZANO.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3468",
+            "website": "pizzamarzano.co.id"
+        },
+        {
+            "id": "9cb1ab8e-a044-4615-b404-a36d8ee7b564",
+            "nama_pse": "HATATA ECOMMERCE TECHNOLOGY",
+            "nama_se": "HATATA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3470",
+            "website": "sailors.id"
+        },
+        {
+            "id": "9cb1ab90-05ba-430a-82f1-4276f53d3e17",
+            "nama_pse": "KOLAM DATA INDONESIA",
+            "nama_se": "DATAPOOL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3458",
+            "website": "datapool.ai"
+        },
+        {
+            "id": "9cb1ab90-0bab-4b3f-958c-5bd9bc5b91f2",
+            "nama_pse": "HYUNDAI MOTORS INDONESIA",
+            "nama_se": "HYUNDAI SERVICE POINT SYSTEM REGISTRATION",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3464",
+            "website": "hyundai-bs.com"
+        },
+        {
+            "id": "9cb1ab9e-51ad-47b8-b907-8f01093f013c",
+            "nama_pse": "TREEDOTS GROUP INDONESIA",
+            "nama_se": "TREEDOTS PLATFORM SUITE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pangan, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3466",
+            "website": "thetreedots.com"
+        },
+        {
+            "id": "9cb1ab9e-53ea-4e63-b349-83b22d457def",
+            "nama_pse": "DROOM TECHNOLOGY INDONESIA",
+            "nama_se": "DROOM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3467",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab86-8eb7-4fe8-b182-23ae9f7661ab",
+            "nama_pse": "ARSATYA JAYA MEDIKA",
+            "nama_se": "KAMIRAWAT",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3440",
+            "website": "kamirawat.com"
+        },
+        {
+            "id": "9cb1ab8e-1901-4854-b267-bbcde7013419",
+            "nama_pse": "ZEST HOTELS INDONESIA",
+            "nama_se": "WEBSITE ONLINE BOOKING",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3441",
+            "website": "swiss-belhotel.com"
+        },
+        {
+            "id": "9cb1ab86-92c3-455c-bbfb-cdf56e7172dd",
+            "nama_pse": "ARTHA PERSADA KREATIF",
+            "nama_se": "SATURDAYS LIFESTYLE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3451",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab8e-6187-4bf1-a2ee-ed7e42e2892f",
+            "nama_pse": "DIGITAL TANDATANGAN ASLI",
+            "nama_se": "TANDA TANGAN DIGITAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3449",
+            "website": "xignature.co.id"
+        }
+    ],
+    "processingTimeMs": 8,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 317,
+    "totalPages": 383
+}

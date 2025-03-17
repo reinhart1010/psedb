@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ac22-50cb-44c6-8d84-950545945e0f",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "REPINDO RESOURCES AUSTRALIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14779",
+            "website": "repindoresources.com.au"
+        },
+        {
+            "id": "9cb1ac34-90fb-4157-b2ad-5bd27509e652",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "MARIAKALAIJ BLOCKCHAIN SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14780",
+            "website": "qq.com"
+        },
+        {
+            "id": "9cb1ac22-543b-431e-a21a-2791c5830023",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "MARIAKALAIJ BLOCKCHAIN SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14781",
+            "website": "qq.com"
+        },
+        {
+            "id": "9cb1ac22-3556-4e52-a489-9ca736b496eb",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "MARIAKALAIJ BLOCKCHAIN SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14766",
+            "website": "qq.com"
+        },
+        {
+            "id": "9cb1ac22-3923-4d72-9d06-fa1a9e7ed39d",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "MARIAKALAIJ BLOCKCHAIN SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14767",
+            "website": "qq.com"
+        },
+        {
+            "id": "9cb1ac34-8932-45bd-9167-8bcb42ad8ed5",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "MARIAKALAIJ BLOCKCHAIN SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14768",
+            "website": "qq.com"
+        },
+        {
+            "id": "9cb1ac22-400c-482e-a11e-68fdbdeaab09",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "MARIAKALAIJ BLOCKCHAIN SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14769",
+            "website": "qq.com"
+        },
+        {
+            "id": "9cb1ac34-569b-4971-9c3d-8a5d9a780ed1",
+            "nama_pse": "PTWING",
+            "nama_se": "POKER TIME",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14753",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac34-3276-4a50-be69-c16673928362",
+            "nama_pse": "ADAMASA PTY LTD",
+            "nama_se": "ADAMA SA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14731",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac43-e41f-4c12-a792-1099d37c8509",
+            "nama_pse": "EPIC GAMES COMMERCE GMBH",
+            "nama_se": "EPIC GAMES STORE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14732",
+            "website": "store.epicgames.com"
+        },
+        {
+            "id": "9cb1ac21-e92c-42de-9807-9147657495a0",
+            "nama_pse": "SBIホールディングス株式会社",
+            "nama_se": "BIONS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14715",
+            "website": "ptbni.co.jp"
+        },
+        {
+            "id": "9cb1ac21-f140-4193-93bf-e52573028861",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO., LTD",
+            "nama_se": "BRIGHTS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14718",
+            "website": "qq.com"
+        },
+        {
+            "id": "9cb1ac43-ae6f-4a49-b805-6d968582dfdd",
+            "nama_pse": "MPY GLOBAL SDN BHD",
+            "nama_se": "MICEWORK",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14689",
+            "website": "owenstrategik.com"
+        },
+        {
+            "id": "9cb1ac21-cf3c-40c3-853a-f6b07d6757dc",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO., LTD.",
+            "nama_se": "MARIAKALAIJ BLOCKCHAIN SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14694",
+            "website": "mariakalaij.qq.com"
+        },
+        {
+            "id": "9cb1ac34-0802-4725-8e36-a58f1b7fd043",
+            "nama_pse": "NOW HEALTH INTERNATIONAL (ASIA PACIFIC) LTD",
+            "nama_se": "NOW HEALTH INTERNATIONAL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14707",
+            "website": "now-health.com"
+        },
+        {
+            "id": "9cb1ac21-e2b7-4105-b709-de7330144d73",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO., LTD.",
+            "nama_se": "MARIAKALAIJ BLOCKCHAIN SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14708",
+            "website": "qq.com"
+        },
+        {
+            "id": "9cb1ac43-bffe-407e-8d5c-97053badfc1a",
+            "nama_pse": "Yuanta Securities Korea. Co., Ltd.",
+            "nama_se": "YUANTA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14712",
+            "website": "yuantakorea.com"
+        },
+        {
+            "id": "9cb1ac43-7cdd-42ae-8e63-736eef97ec95",
+            "nama_pse": "EPIC GAMES ENTERTAINMENT INTERNATIONAL GMBH",
+            "nama_se": "FORTNITE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-05-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14644",
+            "website": "fortnite.com"
+        },
+        {
+            "id": "9cb1ac43-6ef5-4205-a03c-6c5d360d91ba",
+            "nama_pse": "TAPPLUS PTE.LTD.",
+            "nama_se": "TAPPLUS PTE.LTD.",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-05-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14640",
+            "website": "tapplus.com"
+        },
+        {
+            "id": "9cb1ac42-ffd7-49aa-b6ca-f5ad020392c1",
+            "nama_pse": "ZENDESK INC",
+            "nama_se": "ZENDESK INC",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-05-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14564",
+            "website": "zendesk.com"
+        },
+        {
+            "id": "9cb1ac33-0d24-4eae-8eb8-bffb2a3d537a",
+            "nama_pse": "KENDEN MANAGEMENT LTD.",
+            "nama_se": "K.M. CHEUNG \u0026 CO",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14565",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac20-d1f2-4614-a566-16b9aaca681c",
+            "nama_pse": "KENDEN MANAGEMENT LTD.",
+            "nama_se": "NIGEL PUGH NOTARY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14566",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac33-10d3-4803-9ccf-12da046ae227",
+            "nama_pse": "KENDEN MANAGEMENT LTD.",
+            "nama_se": "KUSNANDAR \u0026 CO.",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14567",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac20-d511-4006-bb24-0b993b0da863",
+            "nama_pse": "KENDEN MANAGEMENT LTD.",
+            "nama_se": "FAAR CORPORATE ADVISORY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14568",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac33-14a6-4de1-a72b-590519626a86",
+            "nama_pse": "KENDEN MANAGEMENT LTD.",
+            "nama_se": "VIERCORP",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14569",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac20-dbc5-4c89-bc31-e56fb5e54b7c",
+            "nama_pse": "ITIALUS SARL",
+            "nama_se": "TAMIAS POINT OF SALES",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14571",
+            "website": "tamias.com"
+        },
+        {
+            "id": "9cb1ac42-d2ef-49cd-aad3-ea8ee48cbeb0",
+            "nama_pse": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+            "nama_se": "GUANGYI-91370700079673071L",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14541",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac32-ed5f-4dd9-af83-bdbe177b938e",
+            "nama_pse": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+            "nama_se": "GUANGXI-91450100690206910K",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14542",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac42-d751-4d2e-bba1-05c0845b5832",
+            "nama_pse": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+            "nama_se": "GUANGDONG-91440500192844223A",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14543",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac20-bc88-4e79-9323-a6ce4d2b774f",
+            "nama_pse": "GUANGXI XIN WEI HOTEL MANAGEMENT CO. LTD.",
+            "nama_se": "FUJIAN-350521100081493",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14538",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac42-cfdb-4ed7-9acc-e76d1742244e",
+            "nama_pse": "GUANGXI XIN WEI HOTEL MANAGEMENT CO. LTD.",
+            "nama_se": "GUANGXI-91450100690206910K",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14540",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac20-ae30-4062-a8d4-c1552a0be59b",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "SMIC TRADING",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-05-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14526",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac42-6744-444a-8719-a37ac9f5f89c",
+            "nama_pse": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+            "nama_se": "EGGY PARTY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-04-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14474",
+            "website": "Eggyparty.com"
+        },
+        {
+            "id": "9cb1ac20-4710-4751-90bb-844d6de86eb8",
+            "nama_pse": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+            "nama_se": "KNIGHTINGALE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-04-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14464",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac42-56cc-444f-8e89-12428d7a4d8a",
+            "nama_pse": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+            "nama_se": "FROSTPUNK: BEYOND THE ICE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-04-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14465",
+            "website": "frostpunkmobile.com"
+        },
+        {
+            "id": "9cb1ac32-3838-457e-ad15-35bbaca88232",
+            "nama_pse": "GLOBAL VISA CENTER WORLD (HELLAS) PROVISION OF SERVICES SOCIETE ANONYME",
+            "nama_se": "GVAPP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-04-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14443",
+            "website": "ld-gr.gvcword.eu"
+        },
+        {
+            "id": "9cb1ac1f-db6d-4d5b-830b-8450497a97a0",
+            "nama_pse": "RIOT GAMES SERVICES PTE. LTD.",
+            "nama_se": "LEAGUE OF LEGENDS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14435",
+            "website": "universe.leagueoflegends.com"
+        },
+        {
+            "id": "9cb1ac1e-e4af-4bfe-9e6f-7d28617e9370",
+            "nama_pse": "META INTERNATIONAL ESERVICES LLC",
+            "nama_se": "FACEBOOK.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14285",
+            "website": "facebook.com"
+        },
+        {
+            "id": "9cb1ac1e-e978-4401-87e0-3eaf6bd06e9e",
+            "nama_pse": "META INTERNATIONAL ESERVICES LLC",
+            "nama_se": "FACEBOOK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14286",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac41-2bdd-4667-999d-a7538d421e8a",
+            "nama_pse": "META INTERNATIONAL ESERVICES LLC",
+            "nama_se": "INSTAGRAM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14287",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac1e-ed2d-448c-9da0-d51d2ac7475e",
+            "nama_pse": "META INTERNATIONAL ESERVICES LLC",
+            "nama_se": "INSTAGRAM.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14288",
+            "website": "instagram.com"
+        },
+        {
+            "id": "9cb1ac41-35aa-42a2-84e7-9d47d6cb118e",
+            "nama_pse": "META INTERNATIONAL ESERVICES LLC",
+            "nama_se": "WHATSAPP MESSENGER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14289",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac1e-f078-478d-a6c5-d26f704ab677",
+            "nama_pse": "META INTERNATIONAL ESERVICES LLC",
+            "nama_se": "WHATSAPP.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14290",
+            "website": "whatsapp.com"
+        },
+        {
+            "id": "9cb1ac1e-7eba-4ce1-a25e-17a7067554a1",
+            "nama_pse": "HIGLOBE, INC.",
+            "nama_se": "HIGLOBE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-03-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14251",
+            "website": "higlobe.com"
+        },
+        {
+            "id": "9cb1ac30-44f4-4acc-93eb-b517d58ae991",
+            "nama_pse": "METADREAM TECH PTE. LTD.",
+            "nama_se": "BONDEE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14140",
+            "website": "bondee.com"
+        },
+        {
+            "id": "9cb1ac30-0460-4390-9562-af32ace0fe05",
+            "nama_pse": "MHNEXUS SDN BHD",
+            "nama_se": "ECOSYS HEALTH",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-03-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14108",
+            "website": "mhnexus.com"
+        },
+        {
+            "id": "9cb1ac3f-6a77-4cdc-bec6-b4bf68b6b401",
+            "nama_pse": "9SKY VENTURES PTE. LTD.",
+            "nama_se": "MEDIC+",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14053",
+            "website": "medicplus.co.id"
+        },
+        {
+            "id": "9cb1ac1c-8884-4baf-b6ba-d6e5c439dedd",
+            "nama_pse": "GEARUP PORTAL PTE LTD",
+            "nama_se": "GEARUP PORTAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13926",
+            "website": "booster.gearupglobal.com"
+        },
+        {
+            "id": "9cb1ac3e-7e76-4e16-b35d-ab46b0932347",
+            "nama_pse": "GEARUP PORTAL PTE LTD",
+            "nama_se": "GEARUP PORTAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13927",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac2e-ca6c-4772-b5be-9f0f827731b6",
+            "nama_pse": "QOLAQ FOUNDATION",
+            "nama_se": "QOLAQ",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13907",
+            "website": "qolaq.org"
+        }
+    ],
+    "processingTimeMs": 2,
+    "query": "",
+    "totalHits": 1139,
+    "hitsPerPage": 50,
+    "page": 12,
+    "totalPages": 23
+}

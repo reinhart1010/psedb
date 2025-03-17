@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1abdf-46ba-4a22-b63f-2eff96c1770d",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "RAGAM VENTURINDO",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11694",
+            "website": "ramayanains.com"
+        },
+        {
+            "id": "9cb1abdf-4c4d-4930-98bb-ccf31579337d",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "HONG DING PROPERTY LIMITED",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11695",
+            "website": "pollux.com.sg"
+        },
+        {
+            "id": "9cb1ac03-8242-4e5b-9b04-3e519f661b93",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "ASIA LEISURE NETWORK",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11696",
+            "website": "buvagroup.com"
+        },
+        {
+            "id": "9cb1ac03-8638-4b24-ac62-87819cca5dc4",
+            "nama_pse": "WIJAYA KUSUMA RAJAWALI",
+            "nama_se": "DJARUM GROUP",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11697",
+            "website": "djarum.com"
+        },
+        {
+            "id": "9cb1abdf-4fbd-440b-8660-8b1e020b7014",
+            "nama_pse": "KENCANA PUTRA KENDARI",
+            "nama_se": "SEKOLAH TUNAS INDONESIA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11698",
+            "website": "sekolahtunasindonesia.com"
+        },
+        {
+            "id": "9cb1ac03-89cb-4c87-bdb5-bf383883485e",
+            "nama_pse": "KENCANA PUTRA KENDARI",
+            "nama_se": "REPINDO RESOURCES",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11699",
+            "website": "repindoresources.com.au"
+        },
+        {
+            "id": "9cb1ac03-8cd3-4107-82a7-e9e54da8183f",
+            "nama_pse": "KENCANA PUTRA KENDARI",
+            "nama_se": "FORUM BISNIS (FORBIS)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11700",
+            "website": "mediaindonesia.com"
+        },
+        {
+            "id": "9cb1ac12-3376-4d92-b145-9c91818e6b16",
+            "nama_pse": "KENCANA PUTRA KENDARI",
+            "nama_se": "MEDIA TELEVISI INDONESIA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11701",
+            "website": "metrotvnews.com"
+        },
+        {
+            "id": "9cb1ac03-900d-45be-8fb1-44b9230f7b91",
+            "nama_pse": "KENCANA PUTRA KENDARI",
+            "nama_se": "CITIGROUP",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11702",
+            "website": "citi.com"
+        },
+        {
+            "id": "9cb1abdf-540f-48d3-a741-6b974f329e24",
+            "nama_pse": "KENCANA PUTRA KENDARI",
+            "nama_se": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11703",
+            "website": "hsbc.com.hk"
+        },
+        {
+            "id": "9cb1ac12-3784-4ade-91d7-69844c279856",
+            "nama_pse": "KENCANA PUTRA KENDARI",
+            "nama_se": "BANK OF CHINA LIMITED",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11704",
+            "website": "bank-of-china.com"
+        },
+        {
+            "id": "9cb1ac12-3b50-411b-ab38-d43225bea34f",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BNI SEKURITAS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11705",
+            "website": "bnisekuritas.co.id"
+        },
+        {
+            "id": "9cb1abdf-591d-4ab7-8e1a-73a7de14fd31",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BNI SECURITIES PTE LTD",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11706",
+            "website": "bnisecurities.com.sg"
+        },
+        {
+            "id": "9cb1ac12-3f27-48e8-b7fe-e39e9b3d6c32",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BNI LONDON",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11707",
+            "website": "bankbni.co.uk"
+        },
+        {
+            "id": "9cb1ac03-935d-467d-8c37-81a478e5a1d2",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BNI MULTIFINANCE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11708",
+            "website": "bnimultifinance.co.id"
+        },
+        {
+            "id": "9cb1ac03-96b3-421e-ad7c-b0f8ee5a68aa",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BNI HONG KONG",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11709",
+            "website": "bni.hk"
+        },
+        {
+            "id": "9cb1abdf-5c89-42a6-80bc-42a086b88590",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "DANA PENSIUN BANK NEGARA INDOESIA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11710",
+            "website": "bni.co.id"
+        },
+        {
+            "id": "9cb1abdf-60f6-4999-ad6d-8488ff9d8f76",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BNI LIFE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11711",
+            "website": "bni-life.co.id"
+        },
+        {
+            "id": "9cb1ac03-9a0c-445b-9df3-d4dbaa5d0345",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "WILLIAM J KNOWLES (REPINDO RESOURCES PTY LTD) - MARIA TIURMA (OWEN PETRO BITUMEN)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11712",
+            "website": "repindoresources.com.au"
+        },
+        {
+            "id": "9cb1ac12-436f-4230-b04b-f59a613f0bd0",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "PETER JOHN GEORGE TURNER (RUMICORP PTY LTD - BRAWIJAYA CAPITAL INVESTAMA)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11713",
+            "website": "btinternet.com"
+        },
+        {
+            "id": "9cb1ac12-4932-4930-9aa2-df1c2925b1de",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "THE HONGKONG AND SHANGHAI BANKING CORPORATION",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11714",
+            "website": "hsbc.com.hk"
+        },
+        {
+            "id": "9cb1ac12-4d1f-482b-9b71-69a9416604bc",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "UOB GROUP",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11715",
+            "website": "uobgroup.com"
+        },
+        {
+            "id": "9cb1abdf-6417-4b18-9210-cd344737c930",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BAHANA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11716",
+            "website": "bahana.co.id"
+        },
+        {
+            "id": "9cb1ac03-9e30-4f89-b543-f5a65d27cdb9",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BRITAMA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11717",
+            "website": "britama.com"
+        },
+        {
+            "id": "9cb1abdf-678d-4e2a-bb89-b97ee9fdee74",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "PANCA GLOBAL ASSET MANAGEMENT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11718",
+            "website": "pg-am.com"
+        },
+        {
+            "id": "9cb1ac12-514e-42fb-a56b-7bb410e0c153",
+            "nama_pse": "INDAH AGUNG MANDIRI",
+            "nama_se": "BIONS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11719",
+            "website": "bions.id"
+        },
+        {
+            "id": "9cb1ac12-58f9-49ee-a542-52bdf4f2c753",
+            "nama_pse": "GRAHA VENTURA MILENIAL GROUP",
+            "nama_se": "SEKOLAH TUNAS INDONESIA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11720",
+            "website": "sekolahtunasindonesia.com"
+        },
+        {
+            "id": "9cb1ac12-5d08-4aa3-80cc-b78979bab5c0",
+            "nama_pse": "GRAHA VENTURA MILENIAL GROUP",
+            "nama_se": "BRITAMA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11721",
+            "website": "britama.com"
+        },
+        {
+            "id": "9cb1ac12-6ad8-453f-8685-60cfa3255bb3",
+            "nama_pse": "GRAHA VENTURA MILENIAL GROUP",
+            "nama_se": "LEMBANG ASRI HOTEL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11722",
+            "website": "lembangasrihotel.com"
+        },
+        {
+            "id": "9cb1ac12-6edf-4b15-8f36-f69d3786388c",
+            "nama_pse": "GRAHA VENTURA MILENIAL GROUP",
+            "nama_se": "VIER CORPORATION LIMITED",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11723",
+            "website": "viercorp.com"
+        },
+        {
+            "id": "9cb1abdf-6b4c-4763-8e0c-4d1a76772b44",
+            "nama_pse": "GRAHA VENTURA MILENIAL GROUP",
+            "nama_se": "THE ROYAL BEACH SEMINYAK",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11724",
+            "website": "theroyalbeachseminyak.com"
+        },
+        {
+            "id": "9cb1ac12-72f8-4380-ae08-39daafe7d98d",
+            "nama_pse": "MPY GLOBAL (UK) LTD.",
+            "nama_se": "ROYAL BEACH SEMINYAK",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11725",
+            "website": "theroyalbeachseminyak.com"
+        },
+        {
+            "id": "9cb1ac03-a173-4213-a19f-57ab5ca75396",
+            "nama_pse": "MPY GLOBAL (UK) LTD.",
+            "nama_se": "LEMBANG ASRI HOTEL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11726",
+            "website": "lembangasrihotel.com"
+        },
+        {
+            "id": "9cb1ac03-aacd-4564-b562-55478d2b003f",
+            "nama_pse": "MPY GLOBAL (UK) LTD.",
+            "nama_se": "REPINDO RESOURCES",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11727",
+            "website": "repindoresources.com.au"
+        },
+        {
+            "id": "9cb1ac03-18aa-4f28-876a-95538469b206",
+            "nama_pse": "SATRIA BALITAMA",
+            "nama_se": "SATRIA BALITAMA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11617",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac03-1c51-4d0a-bc27-b9fca301dee8",
+            "nama_pse": "SATRIA BALITAMA",
+            "nama_se": "LELANGAGUNAN@BNI.CO.ID",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11618",
+            "website": "bni.co.id"
+        },
+        {
+            "id": "9cb1ac03-1eff-4a8f-8a61-fdff330d9ce6",
+            "nama_pse": "SATRIA BALITAMA",
+            "nama_se": "THE ROYAL BEACH SEMINYAK",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11619",
+            "website": "theroyalbeachseminyakmgallerycollection.com-bali.com"
+        },
+        {
+            "id": "9cb1ac11-ce14-4a1e-8026-c6ecb15a9105",
+            "nama_pse": "SATRIA BALITAMA",
+            "nama_se": "GRAND LIVIO KUTA HOTEL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11620",
+            "website": "grand-livio-kuta.all-balihotels.net"
+        },
+        {
+            "id": "9cb1abde-d8ec-4e10-b7f7-9ad9b5a851e1",
+            "nama_pse": "SATRIA BALITAMA",
+            "nama_se": "AROMADUTA RASAPRIMA (ADRIANTO MULIA)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11621",
+            "website": "aroma.co.id"
+        },
+        {
+            "id": "9cb1abde-dc14-4aa0-8155-15f2b93c27b9",
+            "nama_pse": "SATRIA BALITAMA",
+            "nama_se": "DUTA MANDIRI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11622",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac03-288d-4b39-8386-a3adbc7dba2f",
+            "nama_pse": "COMMERCE KAPITAL",
+            "nama_se": "CAKRA ARTHA NUSANTARA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11626",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abde-e281-44a3-9736-e48779535b90",
+            "nama_pse": "COMMERCE KAPITAL",
+            "nama_se": "SEKAR JAGAD UTAMA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11627",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac03-2b71-47e2-b2da-668af6aae610",
+            "nama_pse": "COMMERCE KAPITAL",
+            "nama_se": "JPMORGAN CHASE BANK",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11628",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abde-e546-4972-bc44-250463e81c5d",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "MANDIRI INVESTASI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11629",
+            "website": "mandiri-investasi.co.id"
+        },
+        {
+            "id": "9cb1abde-e993-400a-80c7-0d5c28a6807f",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "REPINDO RESOURCES",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11631",
+            "website": "repindoresources.com.au"
+        },
+        {
+            "id": "9cb1ac03-317e-49cf-991a-fe464bd43d91",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BAHANA TCW",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11632",
+            "website": "bahana.co.id"
+        },
+        {
+            "id": "9cb1ac03-3442-413b-b0a6-6e6b5488e429",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "ROYAL BEACH SEMINYAK",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11633",
+            "website": "theroyalbeachseminyak.com"
+        },
+        {
+            "id": "9cb1ac03-2ea7-4ffc-85bf-f56704d7cecc",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "BANK MANDIRI HONG KONG",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11630",
+            "website": "bankmandirihk.com"
+        },
+        {
+            "id": "9cb1abde-c36e-45cd-87d1-aaf61b4edc33",
+            "nama_pse": "MPY GLOBAL SDN BHD",
+            "nama_se": "MPY GLOBAL FINANCIAL LINK",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11599",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac11-bf41-41ec-8048-1b97bea4919d",
+            "nama_pse": "SHANTOU JINJIA TRADING CO., LTD.",
+            "nama_se": "SHANTOU JINJIA TRADING",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11605",
+            "website": "-"
+        }
+    ],
+    "processingTimeMs": 0,
+    "query": "",
+    "totalHits": 352,
+    "hitsPerPage": 50,
+    "page": 5,
+    "totalPages": 8
+}

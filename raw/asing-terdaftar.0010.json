@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ac64-919b-48b1-802b-786b4d712242",
+            "nama_pse": "CHINA OVERSEA TEC CO., LIMITED",
+            "nama_se": "SINBADFISHING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16845",
+            "website": "sinbadfishing.com"
+        },
+        {
+            "id": "9cb1ac64-956f-4551-96f2-9a9588eb0a57",
+            "nama_pse": "DeepL SE",
+            "nama_se": "DEEPL SE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16847",
+            "website": "deepl.com"
+        },
+        {
+            "id": "9cb1ac51-0024-4446-869b-9ce0bc33c465",
+            "nama_pse": "IBIS INC.",
+            "nama_se": "IBISPAINT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16822",
+            "website": "ibispaint.com"
+        },
+        {
+            "id": "9cb1ac77-f8bc-4b27-a3fa-0ac1803c4550",
+            "nama_pse": "SAMSUNG SDS CO., LTD.",
+            "nama_se": "SAMSUNG CLOUD PLATFORM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16824",
+            "website": "scloud.samsungsds.com"
+        },
+        {
+            "id": "9cb1ac77-9101-47f4-b498-caa667aa97b7",
+            "nama_pse": "MHN CONSOLIDATED SDN BHD",
+            "nama_se": "VEINS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-12-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16716",
+            "website": "mhnexus.com"
+        },
+        {
+            "id": "9cb1ac63-10b1-4cbc-bed9-ae72ef0fb6c3",
+            "nama_pse": "BENTLEY SYSTEMS INTERNATIONAL LIMITED",
+            "nama_se": "ASSETWISE ASSET LIFECYCLE INFORMATION MANAGEMENT (ALIM)",
+            "sektor": "Sektor Energi dan Sumber Daya Mineral",
+            "tanggal_terbit": "2023-11-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16571",
+            "website": "bentley.com"
+        },
+        {
+            "id": "9cb1ac76-913e-4c10-a3ba-c2eebdc67b5e",
+            "nama_pse": "TECH IN ASIA PTE. LTD",
+            "nama_se": "TECH IN ASIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16512",
+            "website": "techinasia.com"
+        },
+        {
+            "id": "9cb1ac62-8421-4ab5-9ecc-8fd8d8d1a1a5",
+            "nama_pse": "LITIFER TECHNOLOGIES INC.",
+            "nama_se": "LITIFER TECHNOLOGIES INC.",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16516",
+            "website": "playgpl.com"
+        },
+        {
+            "id": "9cb1ac62-1003-4442-8c6b-378511646580",
+            "nama_pse": "CINTOO SAS",
+            "nama_se": "CINTOO",
+            "sektor": "Sektor Energi dan Sumber Daya Mineral",
+            "tanggal_terbit": "2023-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16449",
+            "website": "cintoo.com"
+        },
+        {
+            "id": "9cb1ac61-f9dc-4695-a95b-a5a33b842c81",
+            "nama_pse": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+            "nama_se": "OCTOPATH TRAVELER: CHAMPIONS OF THE CONTINENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16428",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac61-fcfa-407a-bb47-e5be06e88f32",
+            "nama_pse": "EXPTIONAL PTE LTD",
+            "nama_se": "OCTOPATH TRAVELER: CHAMPIONS OF THE CONTINENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16429",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac62-0049-4090-bd7f-8ce5aed7c2b1",
+            "nama_pse": "PULSE ECOSYSTEMS PTE. LTD.",
+            "nama_se": "DEEN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-11-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16433",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac61-d54a-4d6f-8df9-5ce7ee1caa76",
+            "nama_pse": "SINGULAR LAND PTE. LTD.",
+            "nama_se": "FANTOPIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-10-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16405",
+            "website": "fantopia.io"
+        },
+        {
+            "id": "9cb1ac4e-d4f7-4e32-a316-1a37e3d4ae4a",
+            "nama_pse": "NEXON KOREA CORPORATION",
+            "nama_se": "DYNASTY WARRIORS M",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16379",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac61-5f5d-40ee-941c-806cb2e33855",
+            "nama_pse": "GUPSHUP.INC",
+            "nama_se": "GUPSHUP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16280",
+            "website": "gupshup.io"
+        },
+        {
+            "id": "9cb1ac75-5f22-48b0-89ac-0bcea645a991",
+            "nama_pse": "TAULIA LLC",
+            "nama_se": "TAULIA.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16250",
+            "website": "taulia.com"
+        },
+        {
+            "id": "9cb1ac61-0ab6-4cc9-9d4a-daeb1b0e654f",
+            "nama_pse": "COMMS GROUP (INTERNATIONAL) PTE. LTD.",
+            "nama_se": "COMMS GROUP GLOBAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16226",
+            "website": "Comms Group Global"
+        },
+        {
+            "id": "9cb1ac4d-ffb5-4b0f-a0cc-5744b03b3a41",
+            "nama_pse": "CNHI INTERNATIONAL SA",
+            "nama_se": "NEW HOLLAND FLEETFORCE",
+            "sektor": "Sektor Pangan",
+            "tanggal_terbit": "2023-10-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16235",
+            "website": "newhollandfleetforce.com"
+        },
+        {
+            "id": "9cb1ac61-303f-4139-9849-64aa0820b0ed",
+            "nama_pse": "CNHI INTERNATIONAL SA",
+            "nama_se": "CASE SITEWATCH",
+            "sektor": "Sektor Pangan",
+            "tanggal_terbit": "2023-10-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16236",
+            "website": "casesitewatch.com"
+        },
+        {
+            "id": "9cb1ac4e-04a3-40c0-b5ab-fa90f83962e9",
+            "nama_pse": "CNHI INTERNATIONAL SA",
+            "nama_se": "AFS CONNECT",
+            "sektor": "Sektor Pangan",
+            "tanggal_terbit": "2023-10-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16237",
+            "website": "caseih.afsconnect.com"
+        },
+        {
+            "id": "9cb1ac4e-0989-472d-ab8a-f1005e7eebad",
+            "nama_pse": "CNHI INTERNATIONAL SA",
+            "nama_se": "MYPLMCONNECT",
+            "sektor": "Sektor Pangan",
+            "tanggal_terbit": "2023-10-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16238",
+            "website": "newholland.myplmconnect.com"
+        },
+        {
+            "id": "9cb1ac75-3edf-4a65-893a-6224832a0e86",
+            "nama_pse": "DMI CONSUMER CREDIT PVT LTD",
+            "nama_se": "DMI CONSUMER CREDIT PVT LTD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16217",
+            "website": "dmiconsumercredit.com"
+        },
+        {
+            "id": "9cb1ac61-0429-4a76-85b4-ab4dfdbd1767",
+            "nama_pse": "DMI CONSUMER CREDIT PVT LTD",
+            "nama_se": "DMI CONSUMER CREDIT PVT LTD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16218",
+            "website": "dmiconsumercredit.com"
+        },
+        {
+            "id": "9cb1ac4d-e13d-407f-b89a-665bcd33e712",
+            "nama_pse": "DMI CONSUMER CREDIT PVT LTD",
+            "nama_se": "DMI CONSUMER CREDIT PVT LTD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16219",
+            "website": "dmiconsumercredit.com"
+        },
+        {
+            "id": "9cb1ac4d-e3cf-41dc-8c09-ff395910cee7",
+            "nama_pse": "DMI CONSUMER CREDIT PVT LTD",
+            "nama_se": "DMI CONSUMER CREDIT PVT LTD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16220",
+            "website": "dmiconsumercredit.com"
+        },
+        {
+            "id": "9cb1ac61-06bb-4190-87d6-fed460338959",
+            "nama_pse": "DMI CONSUMER CREDIT PVT LTD",
+            "nama_se": "DMI CONSUMER CREDIT PVT LTD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16221",
+            "website": "dmiconsumercredit.com"
+        },
+        {
+            "id": "9cb1ac75-4172-4e1c-aa35-9eab9dede6e0",
+            "nama_pse": "TEXAS INSTRUMENTS INCORPORATED",
+            "nama_se": "TEXAS INSTRUMENTS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-10-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16222",
+            "website": "TI.com"
+        },
+        {
+            "id": "9cb1ac4d-e78e-478d-82d0-fbdc639142b1",
+            "nama_pse": "TEXAS INSTRUMENTS INCORPORATED",
+            "nama_se": "TEXAS INSTRUMENTS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-10-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16223",
+            "website": "TI.com"
+        },
+        {
+            "id": "9cb1ac4c-0940-4368-9131-9e9b2c830ce4",
+            "nama_pse": "SNK INTERACTIVE",
+            "nama_se": "SAMURAI SHODOWN: R",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-09-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16052",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4c-0c26-43df-bb63-7352341566f2",
+            "nama_pse": "SENDBIRD, INC",
+            "nama_se": "SENDBIRD, INC",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16066",
+            "website": "sendbird.com"
+        },
+        {
+            "id": "9cb1ac4c-e7b5-4dc4-875c-7e5f781625e5",
+            "nama_pse": "CARGO FLASH INFOTECH PRIVATE LIMITED",
+            "nama_se": "OCTOLOOP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-09-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16025",
+            "website": "octoloop.net"
+        },
+        {
+            "id": "9cb1ac4c-bfbf-4ab2-a069-09acdf938939",
+            "nama_pse": "SHARECAT SOLUTIONS",
+            "nama_se": "SHARECAT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15992",
+            "website": "sharecat.com"
+        },
+        {
+            "id": "9cb1ac4b-aa1a-438f-8158-1dc475bdca49",
+            "nama_pse": "SPRING (SG) PTE. LTD.",
+            "nama_se": "CICI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15981",
+            "website": "ciciai.com"
+        },
+        {
+            "id": "9cb1ac4b-5e16-49c7-98d1-7838b40e010e",
+            "nama_pse": "SEASUN GAMES PTE. LTD.",
+            "nama_se": "DAWNLANDS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15959",
+            "website": "dawnlands.amazingseasun.com"
+        },
+        {
+            "id": "9cb1ac5f-e92e-4775-8505-b5bf6dfb7188",
+            "nama_pse": "POLIGON PTE. LTD.",
+            "nama_se": "CHITCHOP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15970",
+            "website": "chitchop.com"
+        },
+        {
+            "id": "9cb1ac4b-50f6-4893-bb67-0fee69e7d1c0",
+            "nama_pse": "OKTA, INC.",
+            "nama_se": "OKTA IDENTITY PLATFORM: WORKFORCE IDENTITY CLOUD (WIC)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15938",
+            "website": "okta.com"
+        },
+        {
+            "id": "9cb1ac4b-41be-4591-b229-ac80a9cdd81f",
+            "nama_pse": "OKTA, INC.",
+            "nama_se": "OKTA IDENTITY PLATFORM: CUSTOMER IDENTITY CLOUD (CIC)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15927",
+            "website": "okta.com"
+        },
+        {
+            "id": "9cb1ac5f-96bc-47d5-a582-168a607a1c9b",
+            "nama_pse": "INSIDER PTE LTD.",
+            "nama_se": "INSIDER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15903",
+            "website": "useinsider.com"
+        },
+        {
+            "id": "9cb1ac4b-0ac8-4a0a-b246-5dcaf042fb21",
+            "nama_pse": "IGG SINGAPORE PTE. LTD.",
+            "nama_se": "IGG HUB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15888",
+            "website": "community.igg.com"
+        },
+        {
+            "id": "9cb1ac3b-63f4-48b9-824d-9dcaad8e35a8",
+            "nama_pse": "IGG SINGAPORE PTE. LTD.",
+            "nama_se": "VIKING RISE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15868",
+            "website": "vr.igg.com"
+        },
+        {
+            "id": "9cb1ac3b-3591-4913-aab1-2ef071f1d9ab",
+            "nama_pse": "EXPTIONAL PTE LTD",
+            "nama_se": "FANCYU: TURN PHOTOS INTO ANIME",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15830",
+            "website": "magic-static-pages.webapp.easebar.com"
+        },
+        {
+            "id": "9cb1ac28-421b-405d-ad7b-4405b96cdb80",
+            "nama_pse": "IGG SINGAPORE PTE. LTD.",
+            "nama_se": "CLASH OF LORDS 2",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15779",
+            "website": "col2.igg.com"
+        },
+        {
+            "id": "9cb1ac27-c2e8-4d24-9261-3b97062247eb",
+            "nama_pse": "EM2AI PTE LTD",
+            "nama_se": "EM2AISCAN",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15709",
+            "website": "em2.ai"
+        },
+        {
+            "id": "9cb1ac3a-55d2-41ac-ae7c-472cab765405",
+            "nama_pse": "EM2AI PTE LTD",
+            "nama_se": "EM2CLINIC",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15710",
+            "website": "em2.ai"
+        },
+        {
+            "id": "9cb1ac39-fd7f-463d-b7be-a790514bbd98",
+            "nama_pse": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+            "nama_se": "LOVEBRUSH CHRONICLES",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15641",
+            "website": "foralltime.jp"
+        },
+        {
+            "id": "9cb1ac27-59d4-422a-af17-9168db7f7da0",
+            "nama_pse": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+            "nama_se": "TANK COMPANY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15628",
+            "website": "Tankcompany.game"
+        },
+        {
+            "id": "9cb1ac27-6493-4d01-9179-81fc33ddf369",
+            "nama_pse": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+            "nama_se": "HARRY POTTER: MAGIC AWAKENED",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15629",
+            "website": "harrypottermagicawakened.com"
+        },
+        {
+            "id": "9cb1ac39-f3cc-456f-95f4-de397028ca2f",
+            "nama_pse": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+            "nama_se": "HARRY POTTER: MAGIC AWAKENED",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15630",
+            "website": "harrypottermagicawakened.com"
+        },
+        {
+            "id": "9cb1ac38-1fd9-4150-b7e6-f331d2540cac",
+            "nama_pse": "EXPTIONAL PTE LTD",
+            "nama_se": "WHO IS THE LUCKY HERO?",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15368",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac47-f609-4511-a101-0d42f7e10c5a",
+            "nama_pse": "EXPTIONAL PTE LTD",
+            "nama_se": "FROSTPUNK: BEYOND THE ICE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15369",
+            "website": "frostpunkmobile.com"
+        }
+    ],
+    "processingTimeMs": 1,
+    "query": "",
+    "totalHits": 1139,
+    "hitsPerPage": 50,
+    "page": 10,
+    "totalPages": 23
+}

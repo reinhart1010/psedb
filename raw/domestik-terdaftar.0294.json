@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ab99-beb9-4bf6-96f8-abcf282bbeb8",
+            "nama_pse": "BORNEO INTECH",
+            "nama_se": "BORNEOJEK",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5027",
+            "website": "borneojekindonesia.com"
+        },
+        {
+            "id": "9cb1aba4-d0a6-48ba-b820-f17890a046c2",
+            "nama_pse": "BIMA SURYA JAYA",
+            "nama_se": "BLINSTORE.MY.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5028",
+            "website": "blinstore.my.id"
+        },
+        {
+            "id": "9cb1abae-a172-4889-ad81-41748d8dddee",
+            "nama_pse": "CASTELLUM DIGITAL INDONESIA",
+            "nama_se": "JUMPADOKTER",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5029",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abae-0dd0-4e34-8f4d-4808fe7de619",
+            "nama_pse": "TETANGGA SALING BANTU",
+            "nama_se": "PT TETANGGA SALING BANTU (TETANGGAKU)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4784",
+            "website": "tetanggaku.co.id"
+        },
+        {
+            "id": "9cb1ab99-4cb9-4ba2-90bd-30534c498ed3",
+            "nama_pse": "SAH DIGITAL TEKNOLOGI",
+            "nama_se": "PASTISAH",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4963",
+            "website": "pastisah.id"
+        },
+        {
+            "id": "9cb1abae-4374-48ec-bb2a-d87d05f886ad",
+            "nama_pse": "QUYAN TECHNOLOGY INDONESIA",
+            "nama_se": "TTCHAT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4973",
+            "website": "ttchat.com"
+        },
+        {
+            "id": "9cb1aba4-a14e-401e-87fb-d23ad32f4cbb",
+            "nama_pse": "BANK KB BUKOPIN",
+            "nama_se": "KB BUKOPIN CASH MANAGEMENT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4964",
+            "website": "newbcm.bukopin.co.id"
+        },
+        {
+            "id": "9cb1abae-4dd5-41e2-9dd6-68ddc5876fc2",
+            "nama_pse": "ASURANSI JIWA IFG",
+            "nama_se": "LIFESPACE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4965",
+            "website": "space.life.id"
+        },
+        {
+            "id": "9cb1aba4-a425-4fbe-8afd-095b58b004c7",
+            "nama_pse": "TEKNOLOGI LAYANAN NUSANTARA",
+            "nama_se": "TANYA OBAT",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4966",
+            "website": "tanyaobat.com"
+        },
+        {
+            "id": "9cb1abae-4fc7-4200-bd1a-f498024185b5",
+            "nama_pse": "ASURANSI BRI LIFE",
+            "nama_se": "MOKLAIM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4968",
+            "website": "moklaim.brilife.co.id"
+        },
+        {
+            "id": "9cb1abae-52b6-41e3-b41f-03c3fd102b37",
+            "nama_pse": "ASURANSI BRI LIFE",
+            "nama_se": "DIGIFORM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4969",
+            "website": "digiform.brilife.co.id"
+        },
+        {
+            "id": "9cb1abae-5560-469c-bcdc-59c5f270582c",
+            "nama_pse": "ASURANSI BRI LIFE",
+            "nama_se": "MYACCESS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4970",
+            "website": "myaccess.brilife.co.id"
+        },
+        {
+            "id": "9cb1abae-57f1-4c9b-b7a9-54fb8b518cba",
+            "nama_pse": "NAWA CARCIEGE INDONESIA",
+            "nama_se": "BLIMOBIL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4971",
+            "website": "blimobil.id"
+        },
+        {
+            "id": "9cb1ab99-7729-49d9-b420-541bdb73822d",
+            "nama_pse": "BULLION ECOSYSTEM INTERNATIONAL",
+            "nama_se": "METALGO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4972",
+            "website": "metalgo.co"
+        },
+        {
+            "id": "9cb1abae-5af6-434f-8295-545ea362fe2e",
+            "nama_pse": "ASURANSI JIWA IFG",
+            "nama_se": "LIFEUP",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4974",
+            "website": "up.life.id"
+        },
+        {
+            "id": "9cb1aba4-a78c-4f18-b3ff-157aeffb9df7",
+            "nama_pse": "BANK KB BUKOPIN",
+            "nama_se": "KB BUKOPIN SMS BANKING",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4975",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abae-5dd2-40ef-9d2a-9f3fcf86e8d0",
+            "nama_pse": "ASURANSI JIWA IFG",
+            "nama_se": "LIFEGOAL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4976",
+            "website": "goal.life.id"
+        },
+        {
+            "id": "9cb1ab99-7aa7-4f32-979a-e057df89758b",
+            "nama_pse": "GERIN MITRA HUSADA",
+            "nama_se": "DOKTERHUB",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4977",
+            "website": "dokterhub.com"
+        },
+        {
+            "id": "9cb1abae-6065-4495-869d-d1e9f5f1e52c",
+            "nama_pse": "SURYA ARTHA NUSANTARA FINANCE",
+            "nama_se": "SANFIND",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4978",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab99-7e07-415e-8e89-8dc7e2496ec9",
+            "nama_pse": "PENDIDIKAN NUSANTARA DIGITAL",
+            "nama_se": "LINGOTALK LEARNING MANAGEMENT SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4979",
+            "website": "lingotalk.co"
+        },
+        {
+            "id": "9cb1abae-63a1-4651-8b6e-35e5057ceacb",
+            "nama_pse": "BANK KB BUKOPIN",
+            "nama_se": "B-TUNAI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4980",
+            "website": "btunai.bukopin.co.id"
+        },
+        {
+            "id": "9cb1abae-662d-4026-a801-7307747e2cf0",
+            "nama_pse": "BANK KB BUKOPIN",
+            "nama_se": "WOKEE+",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4981",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab99-80cb-4381-86dc-8ef1833f1329",
+            "nama_pse": "BANK KB BUKOPIN",
+            "nama_se": "KB BUKOPIN MOBILE BANKING",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4982",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab99-88fb-4ac0-a076-8c6fee2cb9f1",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+            "nama_se": "LOGEE CARGOWNER",
+            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4986",
+            "website": "logeetrans.com"
+        },
+        {
+            "id": "9cb1aba4-ad35-4405-8acf-63025d5c2a79",
+            "nama_pse": "BANK JABAR BANTEN SYARIAH",
+            "nama_se": "WEBSITE BANK BJB SYARIAH",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4984",
+            "website": "bjbsyariah.co.id"
+        },
+        {
+            "id": "9cb1aba4-afde-4346-bb35-8d87a0e60c07",
+            "nama_pse": "EMI PURWANTI",
+            "nama_se": "ENDONESIA DOTCOM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4985",
+            "website": "endonesia.com"
+        },
+        {
+            "id": "9cb1aba4-b27a-4f6c-aa72-1ebfdbbbd9cf",
+            "nama_pse": "EMI PURWANTI",
+            "nama_se": "OFFICIALWEBHOSTING DOTNET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4987",
+            "website": "officialwebhosting.net"
+        },
+        {
+            "id": "9cb1ab99-8ce4-4738-8ea3-ecc1b75848a5",
+            "nama_pse": "INOVASI DIGITAL INKLUSI",
+            "nama_se": "SILANG",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4988",
+            "website": "silang.id"
+        },
+        {
+            "id": "9cb1aba4-4e0f-4e71-b88e-b79330e43361",
+            "nama_pse": "GLIM MEDIA INDONESIA",
+            "nama_se": "APLIKASI GLIM CHAT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4936",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab99-1aa2-43c8-a005-623f204387c0",
+            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+            "nama_se": "DIGI BY BANK BJB",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4927",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba4-7f78-42fd-a2a9-416942725234",
+            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+            "nama_se": "TAMMI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4928",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab99-1d32-4d99-a08b-6ea884fee4e6",
+            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+            "nama_se": "DIGICASH BY BANK BJB",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4929",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba4-81bc-4f63-97e1-0487de98e92e",
+            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+            "nama_se": "DIGICASH MERCHANT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4930",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba4-8537-48a1-94bf-e89dd16f6428",
+            "nama_pse": "INTERCHANGE",
+            "nama_se": "INTERCHANGE",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4926",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab99-1f86-430b-9f22-c62cbb023b0f",
+            "nama_pse": "PERUMDA TIRTA PAKUAN KOTA BOGOR",
+            "nama_se": "PERUMDA TIRTA PAKUAN KOTA BOGOR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4931",
+            "website": "tirtapakuan.co.id"
+        },
+        {
+            "id": "9cb1abae-3b4a-49dc-b444-38d627ef5313",
+            "nama_pse": "SARANA YUKTI BANDHANA",
+            "nama_se": "TRAVEL EXPENSES MANAGEMENT SYSTEM (TEMS)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4932",
+            "website": "syb-online.com"
+        },
+        {
+            "id": "9cb1ab99-21fd-421f-b6be-d7f8af5f24ef",
+            "nama_pse": "SARANA JATENG VENTURA",
+            "nama_se": "WWW.SARANAJATENGVENTURA.CO.ID",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4933",
+            "website": "saranajatengventura.co.id"
+        },
+        {
+            "id": "9cb1aba4-8818-417c-ad30-ad1667d7003d",
+            "nama_pse": "ERA GAYA AKTIF",
+            "nama_se": "JDSPORTS.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4934",
+            "website": "jdsports.id"
+        },
+        {
+            "id": "9cb1abae-3fee-4c32-bb7a-b2d7527e4252",
+            "nama_pse": "MAISAL FITRI",
+            "nama_se": "UKASYAH OLSHOP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4935",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab99-24e8-4c30-ac3d-0238f58d2fe2",
+            "nama_pse": "PRISMA SOLUSINDO",
+            "nama_se": "PRISMAKLIK",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4942",
+            "website": "prismaklik.com"
+        },
+        {
+            "id": "9cb1ab99-2816-4b82-9460-c5ac691d5c17",
+            "nama_pse": "INDRA FITRIADI",
+            "nama_se": "PORTAL BUANA NEWS GROUP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4937",
+            "website": "portalbuana.asia"
+        },
+        {
+            "id": "9cb1ab99-2ba3-433b-ad62-21c708758bcc",
+            "nama_pse": "CRIF LEMBAGA INFORMASI KEUANGAN",
+            "nama_se": "CBS NUSANTARA",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4938",
+            "website": "cbclik.com"
+        },
+        {
+            "id": "9cb1ab99-3000-4608-9b1d-c001db430ffb",
+            "nama_pse": "RTI INFOKOM",
+            "nama_se": "RTI MARKET INFO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4939",
+            "website": "rti.co.id"
+        },
+        {
+            "id": "9cb1ab99-3271-4f5e-a333-7d10bb4bf6b7",
+            "nama_pse": "RTI INFOKOM",
+            "nama_se": "RTI FINANCE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4940",
+            "website": "rti.co.id"
+        },
+        {
+            "id": "9cb1aba4-8a8c-440a-8f2e-3b7b00f84f93",
+            "nama_pse": "RTI INFOKOM",
+            "nama_se": "RTI TRADER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4941",
+            "website": "rti.co.id"
+        },
+        {
+            "id": "9cb1aba4-8d4a-43d6-99fd-a669924db7b5",
+            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+            "nama_se": "DIGINET",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4943",
+            "website": "ib.bankbjb.co.id"
+        },
+        {
+            "id": "9cb1ab99-34d1-41da-89c3-6699371fa98c",
+            "nama_pse": "RTI INFOKOM",
+            "nama_se": "RTI MOBILE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4944",
+            "website": "Mobile.rti.co.id"
+        },
+        {
+            "id": "9cb1ab99-3847-438c-b2e1-ccb869ebe197",
+            "nama_pse": "SUPER EKA FAJAR",
+            "nama_se": "SUPER EKA FAJAR",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4946",
+            "website": "supertrack.my.id"
+        },
+        {
+            "id": "9cb1ab99-3b17-4b84-b43d-917f2c2c1d8a",
+            "nama_pse": "RTI INFOKOM",
+            "nama_se": "RTI RESEARCH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4945",
+            "website": "rti.co.id"
+        },
+        {
+            "id": "9cb1ab99-3ea8-4f9c-9a1b-eb5912b3422a",
+            "nama_pse": "SINTESA PERSADA TEKNOLOGI",
+            "nama_se": "MEDISIN",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-06-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4947",
+            "website": "medisin.id"
+        }
+    ],
+    "processingTimeMs": 17,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 294,
+    "totalPages": 383
+}

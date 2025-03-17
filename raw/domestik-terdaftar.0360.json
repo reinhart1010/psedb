@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ab66-70a8-46b8-a9ca-e5a4237c1bb2",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "WEBSITE PENGAJUAN KARTU KREDIT BNI",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1320",
+            "website": "applykartukredit.bni.co.id"
+        },
+        {
+            "id": "9cb1ab73-2f26-4236-ad4a-4f50aed836da",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "PORTAL BNI API MANAGEMENT",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1321",
+            "website": "digitalservices.bni.co.id"
+        },
+        {
+            "id": "9cb1ab6c-dbf1-4cdd-aa83-5e1c7e90c442",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "WEBSITE BNI SIMPONI",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1322",
+            "website": "dplk.bni.co.id"
+        },
+        {
+            "id": "9cb1ab73-5be2-4f03-8684-e581a00d51e8",
+            "nama_pse": "BANK OKE INDONESIA TBK",
+            "nama_se": "INTERNET BANKING DAN MOBILE BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1231",
+            "website": "okbank.co.id"
+        },
+        {
+            "id": "9cb1ab73-660a-4415-a520-c633a511d57a",
+            "nama_pse": "BANK BCA SYARIAH",
+            "nama_se": "BCA SYARIAH MOBILE; KLIK BCA SYARIAH; KLIK BCA SYARIAH BISNIS; WEBSITE BCA SYARIAH",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1254",
+            "website": "bcasyariah.co.id"
+        },
+        {
+            "id": "9cb1ab66-a076-4c16-b073-e286655ca712",
+            "nama_pse": "BANK HIBANK INDONESIA",
+            "nama_se": "MOBILE BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1242",
+            "website": "clickmayora.com/"
+        },
+        {
+            "id": "9cb1ab66-a51b-428c-94b1-2169132e06a6",
+            "nama_pse": "BANK HIBANK INDONESIA",
+            "nama_se": "INTERNET BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1244",
+            "website": "clickmayora.com/"
+        },
+        {
+            "id": "9cb1ab66-a9c5-4e49-9525-9adba8d1199a",
+            "nama_pse": "BANK HIBANK INDONESIA",
+            "nama_se": "BANK MAYORA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1246",
+            "website": "bankmayora.com"
+        },
+        {
+            "id": "9cb1ab73-68f4-4593-8cff-8bed3dbf6fe6",
+            "nama_pse": "BANK MANDIRI TASPEN",
+            "nama_se": "MANTAP ONLINE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1238",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab66-adb6-448b-b599-f334216a45e2",
+            "nama_pse": "BANK MANDIRI TASPEN",
+            "nama_se": "WEBSITE BANK MANDIRI TASPEN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1239",
+            "website": "bankmantap.co.id"
+        },
+        {
+            "id": "9cb1ab6d-1613-49bf-907f-be533fe2398a",
+            "nama_pse": "MODAL RAKYAT INDONESIA",
+            "nama_se": "APLIKASI DAN SISTEM ELEKTRONIK MODAL RAKYAT",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/897",
+            "website": "modalrakyat.id"
+        },
+        {
+            "id": "9cb1ab73-6c23-474a-b2f2-f88770a3bbe8",
+            "nama_pse": "BANK SYARIAH INDONESIA",
+            "nama_se": "WEBSITE BANK SYARIAH INDONESIA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1267",
+            "website": "bankbsi.co.id"
+        },
+        {
+            "id": "9cb1ab73-6f24-4173-8455-e687fd9c8cf3",
+            "nama_pse": "BANK SYARIAH INDONESIA",
+            "nama_se": "BSI NET BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1268",
+            "website": "bsinet.bankbsi.co.id"
+        },
+        {
+            "id": "9cb1ab73-7179-4d4d-9069-ddaf1ac2fe32",
+            "nama_pse": "BANK SYARIAH INDONESIA",
+            "nama_se": "BSI MOBILE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1269",
+            "website": "bsimobile.co.id"
+        },
+        {
+            "id": "9cb1ab73-7470-4fc7-9da6-782f38e714c4",
+            "nama_pse": "BANK SYARIAH INDONESIA",
+            "nama_se": "API BISNIS BSI",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1279",
+            "website": "developer.bankbsi.co.id"
+        },
+        {
+            "id": "9cb1ab66-bbf6-4ab9-a25f-31b7e5d5e464",
+            "nama_pse": "BANK SYARIAH INDONESIA",
+            "nama_se": "API CARDLESS WITHDRAWAL",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1280",
+            "website": "apisandbox.bsm.co.id:7776/gateway/CashOut/1.0"
+        },
+        {
+            "id": "9cb1ab66-be7a-45bc-bc3b-122bdb35deb5",
+            "nama_pse": "BANK SYARIAH INDONESIA",
+            "nama_se": "QRIS BSI",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1281",
+            "website": "bsimobile.co.id"
+        },
+        {
+            "id": "9cb1ab66-c475-44d9-bbf2-cd73e62a9d97",
+            "nama_pse": "BANK SYARIAH INDONESIA",
+            "nama_se": "CHATBOT AISYAH",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Pangan, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1282",
+            "website": "bankbsi.co.id"
+        },
+        {
+            "id": "9cb1ab6d-2399-4f85-b1be-721947e164ea",
+            "nama_pse": "SEMANGAT DIGITAL BANGSA",
+            "nama_se": "SDBINSIGHT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1237",
+            "website": "sdbinsight.com"
+        },
+        {
+            "id": "9cb1ab66-c6bf-451d-9d78-a53362807f82",
+            "nama_pse": "PASAR DANA PINJAMAN",
+            "nama_se": "DANAMAS",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1241",
+            "website": "danamas.co.id"
+        },
+        {
+            "id": "9cb1ab6d-261b-4ad9-a4bc-29fd76b125e5",
+            "nama_pse": "BANK DANAMON INDONESIA",
+            "nama_se": "DANAMON CORPORATE WEBSITE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1264",
+            "website": "danamon.co.id"
+        },
+        {
+            "id": "9cb1ab6d-288d-4c4b-9497-319632d9e5d2",
+            "nama_pse": "BANK DANAMON INDONESIA",
+            "nama_se": "D-BANK PRO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1266",
+            "website": "dbank.co.id"
+        },
+        {
+            "id": "9cb1ab6d-2c26-42a1-a14d-3222be7a86e3",
+            "nama_pse": "BANK DANAMON INDONESIA",
+            "nama_se": "D-BANK PRO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1270",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab73-7d15-410a-a5a1-e98cee4a2034",
+            "nama_pse": "BANK DANAMON INDONESIA",
+            "nama_se": "DANAMON CASH CONNECT",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1271",
+            "website": "https://cashconnect.danamon.co.id https://h2h.cashconnect.danamon.co.id"
+        },
+        {
+            "id": "9cb1ab66-c9d6-4ac2-bd4f-07f1c199e2ce",
+            "nama_pse": "BANK DANAMON INDONESIA",
+            "nama_se": "DBISMART",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1274",
+            "website": "outsys.danamon.co.id/DBisMart_Web/"
+        },
+        {
+            "id": "9cb1ab66-cc57-4c9c-9bdd-dd8b54fe009a",
+            "nama_pse": "BANK DANAMON INDONESIA",
+            "nama_se": "TRADE CONNECT",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1276",
+            "website": "tradeconnect.danamon.co.id/BDICT/ClientTrade"
+        },
+        {
+            "id": "9cb1ab66-cefc-450d-a6ad-f4a6795d9d3c",
+            "nama_pse": "BANK DANAMON INDONESIA",
+            "nama_se": "APLIKASI JAMINAN ONLINE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1277",
+            "website": "outsys.danamon.co.id/BDIAJO/"
+        },
+        {
+            "id": "9cb1ab66-d2ec-404f-bbbf-602d63dc8702",
+            "nama_pse": "BANK DANAMON INDONESIA",
+            "nama_se": "API CENTRAL",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1278",
+            "website": "https://developer.danamon.co.id  https://api.danamon.co.id  https://sandbox.danamon.co.id"
+        },
+        {
+            "id": "9cb1ab73-8000-4454-974a-d4e1fd813f78",
+            "nama_pse": "FINFLEET TEKNOLOGI INDONESIA",
+            "nama_se": "FINFLEET",
+            "sektor": "Sektor Transportasi, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1303",
+            "website": "finfleet.id"
+        },
+        {
+            "id": "9cb1ab6d-2e78-4397-a264-b066e6442986",
+            "nama_pse": "SEPATU BATA ONLINE",
+            "nama_se": "BATA.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1337",
+            "website": "bata.id"
+        },
+        {
+            "id": "9cb1ab66-d590-4b0d-95a6-5ddfa670b707",
+            "nama_pse": "MANDIRI UTAMA FINANCE",
+            "nama_se": "WEBSITE CORPORATE MANDIRI UTAMA FINANCE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1247",
+            "website": "muf.co.id"
+        },
+        {
+            "id": "9cb1ab66-d7c2-4d3a-bfcf-739e486950b9",
+            "nama_pse": "MANDIRI UTAMA FINANCE",
+            "nama_se": "WEBSITE MUF ONLINE AUTO SHOW",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1249",
+            "website": "moas.muf.co.id"
+        },
+        {
+            "id": "9cb1ab6d-3330-44b9-8888-704d1d4a6cae",
+            "nama_pse": "MANDIRI UTAMA FINANCE",
+            "nama_se": "WEBSITE MUF DANANOW",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1251",
+            "website": "dananow.muf.co.id"
+        },
+        {
+            "id": "9cb1ab66-da3f-4eb1-9b97-df79538d29e6",
+            "nama_pse": "MANDIRI UTAMA FINANCE",
+            "nama_se": "WEBSITE MUF ONLINE SYARIAH",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1252",
+            "website": "bsioto.muf.co.id"
+        },
+        {
+            "id": "9cb1ab66-dc95-4aa1-95a3-bc742e502255",
+            "nama_pse": "MANDIRI UTAMA FINANCE",
+            "nama_se": "PORTAL MUF DAN DEALER REKANAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1253",
+            "website": "mufportal.muf.co.id"
+        },
+        {
+            "id": "9cb1ab73-8543-4d95-ad7f-e42d7393276f",
+            "nama_pse": "MANDIRI UTAMA FINANCE",
+            "nama_se": "APLIKASI MUFON",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1255",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab73-872e-4fa4-b8c8-40cd660afc18",
+            "nama_pse": "BANK INA PERDANA",
+            "nama_se": "WEBSITE PT BANK INA PERDANA TBK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1258",
+            "website": "bankina.co.id"
+        },
+        {
+            "id": "9cb1ab66-de9a-43d3-807e-9611b088ed3e",
+            "nama_pse": "BANK INA PERDANA",
+            "nama_se": "INTERNET BANKING DAN MOBILE BANKING BANK INA PERDANA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1260",
+            "website": "ibi.bankina.co.id"
+        },
+        {
+            "id": "9cb1ab73-8a2d-4301-9411-742bd7d30156",
+            "nama_pse": "BANK INA PERDANA",
+            "nama_se": "INTERNET BANKING BISNIS BANK INA PERDANA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1263",
+            "website": "ibb.bankina.co.id"
+        },
+        {
+            "id": "9cb1ab73-8d08-44b5-b83f-a455e57cfb1e",
+            "nama_pse": "KREASI ANAK INDONESIA",
+            "nama_se": "GANDENGTANGAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1273",
+            "website": "gandengtangan.co.id"
+        },
+        {
+            "id": "9cb1ab66-e08b-462a-9681-0dee3183437f",
+            "nama_pse": "BANK JAGO",
+            "nama_se": "JAGO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1328",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab66-e276-4c74-b553-f519a05f7e3e",
+            "nama_pse": "EZEE TUNTAS SEJAHTERA",
+            "nama_se": "EZEEPASAR",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1243",
+            "website": "ezeepasar.com"
+        },
+        {
+            "id": "9cb1ab66-e5fa-404f-a9ad-3c524e85ffa6",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "BEST DESKTOP",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1304",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6d-3950-4d8e-9459-b63b9621bd20",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "BEST MOBILE 1 (WEB BASED)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1305",
+            "website": "mobile.bcasekuritas.co.id"
+        },
+        {
+            "id": "9cb1ab73-94e8-470d-8974-83030c96cc26",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "BEST MOBILE 2 (IOS\u0026ANDROID)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1306",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab66-e930-4cad-8419-8b405862e0f5",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "FPRE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1307",
+            "website": "fpre.bcasekuritas.co.id"
+        },
+        {
+            "id": "9cb1ab6d-3d76-4a49-ab74-b7cc930cafe6",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "EFORMBBCA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1308",
+            "website": "eformbbca.bcasekuritas.co.id"
+        },
+        {
+            "id": "9cb1ab6d-40f0-4496-934a-52c65ab08151",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "BCA SEKURITAS COMPANY WEB",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1309",
+            "website": "bcasekuritas.co.id"
+        },
+        {
+            "id": "9cb1ab73-9b76-4f90-9ad4-97dc1a82a10b",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "ESOP TIKET",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1332",
+            "website": "tiket.bcasekuritas.co.id"
+        },
+        {
+            "id": "9cb1ab66-ece2-42d7-8075-105a001621fd",
+            "nama_pse": "BANK VICTORIA INTERNATIONAL",
+            "nama_se": "INTERNET BANKING PERORANGAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1256",
+            "website": "ib.victoriabank.co.id"
+        }
+    ],
+    "processingTimeMs": 9,
+    "query": "",
+    "totalHits": 19121,
+    "hitsPerPage": 50,
+    "page": 360,
+    "totalPages": 383
+}

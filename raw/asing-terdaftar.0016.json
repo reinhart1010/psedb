@@ -1,0 +1,460 @@
+{
+    "hits": [
+        {
+            "id": "9cb1ac11-403f-496a-8c7f-96be8f3d7511",
+            "nama_pse": "SUPERCELL OY",
+            "nama_se": "BRAWL STARS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11480",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abdd-e4f9-4b70-a169-885b1410fb1a",
+            "nama_pse": "SUPERCELL OY",
+            "nama_se": "BOOM BEACH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11481",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac11-43a3-4c48-9144-c42f967dcaa7",
+            "nama_pse": "SUPERCELL OY",
+            "nama_se": "CLASH ROYALE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11482",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac11-46d4-410f-a4e6-3d25f9421a81",
+            "nama_pse": "SUPERCELL OY",
+            "nama_se": "CLASH OF CLANS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11483",
+            "website": "apps.apple.com/us/app/clash-of-clans/id529479190"
+        },
+        {
+            "id": "9cb1ac11-4a68-4b3f-8e98-707863f6965b",
+            "nama_pse": "SUPERCELL OY",
+            "nama_se": "HAY DAY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11484",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac02-6f34-4e99-9eb2-c447b7a46590",
+            "nama_pse": "WEJOY PTE. LTD.",
+            "nama_se": "WEPLAY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11485",
+            "website": "weplayapp.com"
+        },
+        {
+            "id": "9cb1ac02-75d5-4c26-872a-6c50c4d80d20",
+            "nama_pse": "REALITY, INC.",
+            "nama_se": "REALITY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11487",
+            "website": "reality.inc"
+        },
+        {
+            "id": "9cb1abdd-d7a1-4e8d-b5c2-bac34a9caa78",
+            "nama_pse": "AKURA PTE. LTD.",
+            "nama_se": "INOVELS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11467",
+            "website": "inovelsapp.com"
+        },
+        {
+            "id": "9cb1ac02-6bd9-46ad-9b8a-c99c0a17e7dc",
+            "nama_pse": "PARKWAY GROUP HEALTHCARE PTE LTD",
+            "nama_se": "MYHEALTH360",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-10-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11478",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abdd-c300-49e9-8dd1-e9e61712f6af",
+            "nama_pse": "BIRDIE_WU",
+            "nama_se": "PALMSTORE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11453",
+            "website": "dev-pre.transsion.com"
+        },
+        {
+            "id": "9cb1abdd-c70e-4d0e-90f7-194b12defada",
+            "nama_pse": "LINUXCAT",
+            "nama_se": "GIT.LINUXCAT.TECH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11454",
+            "website": "git.linuxcat.tech"
+        },
+        {
+            "id": "9cb1ac11-1563-4656-8b75-b0dcf2558208",
+            "nama_pse": "BROMPTON BICYCLE LIMITED",
+            "nama_se": "BROMPTON INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11457",
+            "website": "id.brompton.com"
+        },
+        {
+            "id": "9cb1ac11-1836-4469-9c06-ad6f2cdb1a6a",
+            "nama_pse": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+            "nama_se": "WESTWARD ADVENTURE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11458",
+            "website": "westward-adventure.com"
+        },
+        {
+            "id": "9cb1ac02-3632-4d73-8d47-804adbaeedba",
+            "nama_pse": "VNG SINGAPORE PTE., LTD.",
+            "nama_se": "METAL SLUG: AWAKENING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11421",
+            "website": "metalslug.vnggames.net"
+        },
+        {
+            "id": "9cb1ac02-3d72-4570-bf3a-edb851df303a",
+            "nama_pse": "PI-XCELS PTE LTD",
+            "nama_se": "PI-XCELS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11430",
+            "website": "piperks.com"
+        },
+        {
+            "id": "9cb1ac10-f446-4618-90a3-8add147b0fa6",
+            "nama_pse": "GRAVITY GAME HUB PTE LTD",
+            "nama_se": "RAGNAROK ONLINE ARENA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11431",
+            "website": "gnjoy.asia"
+        },
+        {
+            "id": "9cb1ac10-b656-4895-b85e-ab49816fb7e1",
+            "nama_pse": "PROXIMA BETA PTE. LIMITED",
+            "nama_se": "TOWER OF FANTASY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11393",
+            "website": "toweroffantasy-global.com"
+        },
+        {
+            "id": "9cb1abdd-6ddb-4da5-8d2b-ae5dba56f6f4",
+            "nama_pse": "CHANEL PTE LIMITED",
+            "nama_se": "CHANEL.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11403",
+            "website": "Chanel.com;Chanel.co.id;id-eshop.chanel.com"
+        },
+        {
+            "id": "9cb1abdd-82b6-4673-b3b7-8d9d2cfc06af",
+            "nama_pse": "YULORE LIMITED",
+            "nama_se": "DATA USAGE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11412",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac10-9e2e-4c36-bef8-84390749bea6",
+            "nama_pse": "EAGLLWIN",
+            "nama_se": "EAGLLWIN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11370",
+            "website": "ads.eagllwin.com"
+        },
+        {
+            "id": "9cb1ac10-a198-401f-9404-8eadbec90caf",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO., LTD.",
+            "nama_se": "SMIC FINANCIAL LINK",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-09-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11375",
+            "website": "bankbsi.co.id"
+        },
+        {
+            "id": "9cb1ac10-afb8-4061-b72d-07adf735d13b",
+            "nama_pse": "HONG KONG NETEASE INTERACTIVE ENTERTAINMENT LIMITED",
+            "nama_se": "PROJECT: BLOODSTRIKE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11384",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac0f-8cc4-4597-96af-2326caadee92",
+            "nama_pse": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+            "nama_se": "LOST BLADE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11133",
+            "website": "thelostblade.com"
+        },
+        {
+            "id": "9cb1ac00-c3ea-4104-b1b7-42b08d4ae185",
+            "nama_pse": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
+            "nama_se": "GATE OF AGES: EON STRIFE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11134",
+            "website": "gateofages.com"
+        },
+        {
+            "id": "9cb1abdb-72d1-4d0c-a864-d016bccd379c",
+            "nama_pse": "TENNET TECHNOLOGIES INC.",
+            "nama_se": "TOKENOMY DASHBOARD",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11143",
+            "website": "dashboard.tokenomy.com"
+        },
+        {
+            "id": "9cb1abdb-766d-4059-8255-6aa48cd4d9b0",
+            "nama_pse": "TENNET TECHNOLOGIES INC.",
+            "nama_se": "TOKENOMY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11144",
+            "website": "tokenomy.com"
+        },
+        {
+            "id": "9cb1ac0f-9940-4563-9ea8-4cccf750c6bd",
+            "nama_pse": "TENNET TECHNOLOGIES INC.",
+            "nama_se": "TOKENOMY SPOT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11145",
+            "website": "spot.tokenomy.com"
+        },
+        {
+            "id": "9cb1ac00-5f9c-4314-945e-4320d6a627b5",
+            "nama_pse": "LINUXCAT",
+            "nama_se": "LINUXCAT.TECH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11053",
+            "website": "linuxcat.tech"
+        },
+        {
+            "id": "9cb1ac0e-ea05-4dbc-a8b4-fc1493dad2ab",
+            "nama_pse": "SHANTOU MARIA INVESTMENT CO.., LTD.",
+            "nama_se": "440500000138099",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-09-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11017",
+            "website": "english.shantou.gov.cn"
+        },
+        {
+            "id": "9cb1abda-b14f-4d65-bcd3-53bc4ec3d85e",
+            "nama_pse": "SHANGHAI XIAOCHUAN",
+            "nama_se": "AHA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11036",
+            "website": "ahagamecenter.com"
+        },
+        {
+            "id": "9cb1abda-92c0-4464-9eab-fedf8eca1a80",
+            "nama_pse": "FREEPIK COMPANY, SLU",
+            "nama_se": "SLIDESGO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10996",
+            "website": "slidesgo.com"
+        },
+        {
+            "id": "9cb1ac00-12e0-461e-a127-b8f79ae26212",
+            "nama_pse": "FREEPIK COMPANY, SLU",
+            "nama_se": "FLATICON",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10997",
+            "website": "flaticon.com"
+        },
+        {
+            "id": "9cb1ac0e-cae4-4ccb-ba52-62d90aa6a2c2",
+            "nama_pse": "FREEPIK COMPANY, SLU",
+            "nama_se": "FREEPIK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10998",
+            "website": "Freepik.com"
+        },
+        {
+            "id": "9cb1ac0e-86c4-4022-aa73-4cf8b2e7ee02",
+            "nama_pse": "SHANGHAI XIAOCHUAN",
+            "nama_se": "HIOS LAUNCHER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10927",
+            "website": "shalltry.com"
+        },
+        {
+            "id": "9cb1abff-b9d7-4208-b67b-aebb25481570",
+            "nama_pse": "SHANGHAI XIAOCHUAN",
+            "nama_se": "ITEL LAUNCHER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10928",
+            "website": "shalltry.com"
+        },
+        {
+            "id": "9cb1abda-338f-4b2b-b528-4231cb603320",
+            "nama_pse": "SHANGHAI XIAOCHUAN",
+            "nama_se": "QUICK LAUNCHER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10932",
+            "website": "shalltry.com"
+        },
+        {
+            "id": "9cb1ac0e-8a44-4143-b656-6430fc387d7a",
+            "nama_pse": "SHANGHAI XIAOCHUAN",
+            "nama_se": "SHARPNEWS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10933",
+            "website": "shalltry.com"
+        },
+        {
+            "id": "9cb1abda-4473-45d4-bd2a-74930298899d",
+            "nama_pse": "TECNO MOBILE LIMITED",
+            "nama_se": "CARLCARE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10938",
+            "website": "carlcare.com"
+        },
+        {
+            "id": "9cb1ac0e-9101-4b6f-a141-16f6c12a363e",
+            "nama_pse": "4399 NET LIMITED",
+            "nama_se": "4399EN GAMES",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10941",
+            "website": "4399en.com"
+        },
+        {
+            "id": "9cb1abff-813f-4a34-9411-bb30bcc9fbf4",
+            "nama_pse": "Eagle Eye Solutions Australasia",
+            "nama_se": "EAGLE EYE AIR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10884",
+            "website": "eagleeye.com"
+        },
+        {
+            "id": "9cb1ac0e-6abd-46c5-99f1-79abcebf6eec",
+            "nama_pse": "SHANGHAI YUAN QU YU LE CO., LTD.",
+            "nama_se": "HEROES OF MYTHIC MIGHT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10894",
+            "website": "play.google.com/store/apps/details?id=com.onefun.gp.oh"
+        },
+        {
+            "id": "9cb1abda-18f9-4de6-8d9d-7e3ba7bc4bbd",
+            "nama_pse": "SHANGHAI XIAOCHUAN",
+            "nama_se": "XOS LAUNCHER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10917",
+            "website": "toolgroup.shalltry.com"
+        },
+        {
+            "id": "9cb1abff-b42d-4d3c-ae52-ed80ab4657b3",
+            "nama_pse": "GOAMA PTE. LTD.",
+            "nama_se": "GOAMA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10921",
+            "website": "goama.com"
+        },
+        {
+            "id": "9cb1abda-260a-44a7-b297-bcd4475fe4d6",
+            "nama_pse": "NEW RETAIL INTERNATIONAL PTE. LTD.",
+            "nama_se": "WEBUY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10923",
+            "website": "webuyid.com"
+        },
+        {
+            "id": "9cb1abd9-ceb9-46a9-ac57-3af990f92bdd",
+            "nama_pse": "GRIP PRINCIPLE PTE LTD",
+            "nama_se": "GRIP LEARNING PLATFORM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10852",
+            "website": "grip-learning.com"
+        },
+        {
+            "id": "9cb1ac0e-3281-48a4-966b-53191e1a04fa",
+            "nama_pse": "LITT GLOBAL",
+            "nama_se": "THE LITT APP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10854",
+            "website": "home.thelittapp.com"
+        },
+        {
+            "id": "9cb1ac0e-28c5-4eea-9de3-3d40e349ed83",
+            "nama_pse": "AQALB PTE. LTD.",
+            "nama_se": "QALBOX",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10848",
+            "website": "app.muslimpro.com"
+        },
+        {
+            "id": "9cb1ac0e-2c72-4837-b8a9-c732380acb28",
+            "nama_pse": "BITSMEDIA PTE. LTD.",
+            "nama_se": "MUSLIM PRO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10849",
+            "website": "muslimpro.com"
+        },
+        {
+            "id": "9cb1ac0e-1a24-4e29-b470-a7777707a365",
+            "nama_pse": "ATQM LEARNING SOLUTIONS PRIVATE LIMITED",
+            "nama_se": "QUIZIZZ.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10841",
+            "website": "quizizz.com"
+        },
+        {
+            "id": "9cb1abd9-c63a-411d-a7b9-263a49c11f00",
+            "nama_pse": "ATQM LEARNING SOLUTIONS PRIVATE LIMITED",
+            "nama_se": "ATQM LEARNING SOLUTIONS PRIVATE LIMITED",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10842",
+            "website": "QUIZIZZ.COM"
+        }
+    ],
+    "processingTimeMs": 2,
+    "query": "",
+    "totalHits": 1139,
+    "hitsPerPage": 50,
+    "page": 16,
+    "totalPages": 23
+}
