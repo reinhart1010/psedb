@@ -5,7 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
-	"io/ioutil"
+	"math"
+	"math/rand"
 	"net/http"
 	"net/url"
 	"os"
@@ -13,26 +14,29 @@ import (
 	"strconv"
 	"strings"
 	"sync"
+	"time"
 )
 
-type PseEntry struct {
-	RegistrationStatus string `json:"registrationStatus"`
-	SystemName         string `json:"systemName"`
-	SystemURL          string `json:"systemUrl"`
-	OperatorSector     string `json:"operatorSector"`
-	OperatorName       string `json:"operatorName"`
-	RegistrationDate   string `json:"registrationDate"`
-	RegistrationID     string `json:"registrationID"`
+type PSEEntry struct {
+	RegistrationStatus string      `json:"registrationStatus"`
+	SystemName         string      `json:"systemName"`
+	SystemURL          string      `json:"systemUrl"`
+	OperatorSector     string      `json:"operatorSector"`
+	OperatorName       string      `json:"operatorName"`
+	RegistrationDate   string      `json:"registrationDate"`
+	RegistrationID     string      `json:"registrationID"`
+	Raw                PSERawEntry `json:"raw"`
 }
 
-const (
-	PSEDBSystemNameCSVIndex             = 1
-	PSEDBSystemURLCSVIndex              = 2
-	PSEDBSystemOperatorSectorCSVIndex   = 3
-	PSEDBSystemOperatorNameCSVIndex     = 4
-	PSEDBSystemRegistrationDateCSVIndex = 5
-	PSEDBSystemRegistrationIDCSVIndex   = 6
-)
+type PSERawEntry struct {
+	Id             string `json:"id"`
+	NamaPSE        string `json:"nama_pse"`
+	NamaSE         string `json:"nama_se"`
+	Sektor         string `json:"sektor"`
+	TanggalTerbit  string `json:"tanggal_terbit"`
+	UrlTDPSEDetail string `json:"url_tdpse_detail"`
+	Website        string `json:"website"`
+}
 
 const (
 	PSEDBOK                   = 0b00000000
@@ -66,71 +70,88 @@ func main() {
 }
 
 func stage1() int {
+
+	return PSEDBOK
 	fmt.Println("(#_ ): Starting Scraper...")
 
-	var wg sync.WaitGroup
 	for _, list := range SiteLists {
-		page := 1
-		outOf := 20 // Temporarily fetch the first 20 resources
+		var wg sync.WaitGroup
+		i := 1
+		outOf := 1
 
-		for page <= outOf {
+		for i <= outOf {
 			wg.Add(1)
+			page := i
+			randomNumber := time.Duration(rand.Float64() * 15 * math.Log2(float64(outOf)))
 			go func() {
 				defer wg.Done()
-				fmt.Printf("| Downloading %s (page %4d/%4d)...\n", list[0], page, outOf)
-			
+				time.Sleep(randomNumber * time.Second)
+				fmt.Printf("| Downloading %s (page %04d/%04d)...\n", list[0], page, outOf)
+
 				// Disable TLS verification
 				http.DefaultTransport.(*http.Transport).TLSClientConfig = &tls.Config{InsecureSkipVerify: true}
-			
+
 				client := &http.Client{}
-				req, err := http.NewRequest("GET", strings.Replace(list[1], "@", strconv.itoa(page)), nil)
+				req, err := http.NewRequest("GET", strings.Replace(list[1], "@", strconv.Itoa(page), 1), nil)
 				if err != nil {
 					fmt.Printf("| (#_ ): Failed to initiate request: %v\n", err)
-					continue
+					return
 				}
-			
+
 				req.Header.Add("User-Agent", "psedb-bot/1.0 (+https://psedb.reinhart1010.id)")
 				resp, err := client.Do(req)
 				if err != nil {
 					fmt.Printf("| (#_ ): Failed to download: %v\n", err)
-					continue
+					return
 				}
 				defer resp.Body.Close()
-			
+
 				if resp.StatusCode != http.StatusOK {
 					fmt.Printf("| (#_ ): Failed to download: %v\n", err)
-					continue
+					return
 				}
-			
+
 				fmt.Println("| (#_ ): Saving raw data...")
-			
-				out, err := os.Create(fmt.Sprintf("raw/%s.%d.json", list[0], page))
+
+				out, err := os.Create(fmt.Sprintf("raw/%s.%04d.json", list[0], page))
+				if err != nil {
+					fmt.Printf("| (>_ ): Failed to create new file: %v", err)
+					return
+				}
 				defer out.Close()
-			
+
 				_, err = io.Copy(out, resp.Body)
 				if err != nil {
 					fmt.Printf("| (#_ ): Failed to save file: %v\n", err)
-					continue
+					return
 				}
-			
-				fmt.Printf("| (#_ ): Saved file: raw/%s.%d.json\n", list[0], page)
-				
+
+				fmt.Printf("| (#_ ): Saved file: raw/%s.%04d.json\n", list[0], page)
+
 				// Try to dynamically update the total pages
 				var data struct {
 					TotalPages int `json:"totalPages"`
 				}
 
-				err = json.Unmarshal(resp.Body, &data)
-				if err != nil && data.TotalPages != outOf {
+				out.Seek(0, 0)
+				siteInfoRaw, _ := io.ReadAll(out)
+				err = json.Unmarshal(siteInfoRaw, &data)
+				if err == nil && data.TotalPages != outOf {
 					outOf = data.TotalPages
 				}
+			}()
+
+			if i == outOf {
+				wg.Wait()
 			}
+			i++
 		}
 	}
+
 	return PSEDBOK
 }
 
-func parseSiteUrl(siteUrl string, site [7]any, listType string) int {
+func parseSiteUrl(siteUrl string, site PSERawEntry, listType string) int {
 	// 2. Parse URL from list
 	// Eliminate all invalid URLs like "-"
 	// Handle cases like "http(s)://reinhart1010.id" and "reinhart1010.id" (without protocol string)
@@ -141,7 +162,7 @@ func parseSiteUrl(siteUrl string, site [7]any, listType string) int {
 		parsedUrl, err = url.Parse(siteUrl)
 	}
 	if err != nil {
-		fmt.Printf("| (>_ ): Failed to parse url: %s (%s)\n", site[PSEDBSystemNameCSVIndex].(string), site[PSEDBSystemURLCSVIndex].(string))
+		fmt.Printf("| (>_ ): Failed to parse url: %s (%s)\n", site.NamaSE, site.Website)
 		return PSEDBParserError
 	}
 
@@ -163,38 +184,44 @@ func parseSiteUrl(siteUrl string, site [7]any, listType string) int {
 
 	// 5. Open or create site info file
 	err = os.MkdirAll(fmt.Sprintf("data/%s", reversedUrlPath), os.ModePerm)
+	if err != nil {
+		fmt.Printf("| (>_ ): Failed to open site info file: %s (%s): %v\n", site.NamaSE, site.Website, err)
+		return PSEDBInputError
+	}
+
 	siteInfoFile, err := os.OpenFile(fmt.Sprintf("data/%s.json", reversedUrl), os.O_CREATE|os.O_RDWR, 0644)
 	if err != nil {
-		fmt.Printf("| (>_ ): Failed to open site info file: %s (%s): %v\n", site[PSEDBSystemNameCSVIndex].(string), site[PSEDBSystemURLCSVIndex].(string), err)
+		fmt.Printf("| (>_ ): Failed to open site info file: %s (%s): %v\n", site.NamaSE, site.Website, err)
 		return PSEDBInputError
 	}
 
 	// 6. Check data
 	tdpseRegex := regexp.MustCompile(`https:\/\/pse.komdigi.go.id\/tdpse-detail\/(\d+?)($|\D)`)
-	tdpseId := tdpseRegex.FindStringSubmatch(site[PSEDBSystemRegistrationIDCSVIndex].(string))
+	tdpseId := tdpseRegex.FindStringSubmatch(site.UrlTDPSEDetail)
 
-	var siteInfoData map[string]PseEntry
-	siteInfoRaw, err := ioutil.ReadAll(siteInfoFile)
+	var siteInfoData map[string]PSEEntry
+	siteInfoRaw, _ := io.ReadAll(siteInfoFile)
 	err = json.Unmarshal(siteInfoRaw, &siteInfoData)
 	if err != nil {
-		siteInfoData = make(map[string]PseEntry)
+		siteInfoData = make(map[string]PSEEntry)
 	}
 
-	// 7. Assign data to PseEntry
-	siteInfoData[tdpseId[1]] = PseEntry{
+	// 7. Assign data to PSEEntry
+	siteInfoData[tdpseId[1]] = PSEEntry{
 		RegistrationStatus: strings.ToUpper(listType),
-		SystemName:         site[PSEDBSystemNameCSVIndex].(string),
-		SystemURL:          site[PSEDBSystemURLCSVIndex].(string),
-		OperatorSector:     site[PSEDBSystemOperatorSectorCSVIndex].(string),
-		OperatorName:       site[PSEDBSystemOperatorNameCSVIndex].(string),
-		RegistrationDate:   site[PSEDBSystemRegistrationDateCSVIndex].(string),
-		RegistrationID:     site[PSEDBSystemRegistrationIDCSVIndex].(string),
+		SystemName:         site.NamaSE,
+		SystemURL:          site.Website,
+		OperatorSector:     site.Sektor,
+		OperatorName:       site.NamaPSE,
+		RegistrationDate:   site.TanggalTerbit,
+		RegistrationID:     site.UrlTDPSEDetail,
+		Raw:                site,
 	}
 
 	// 8. Update JSON
 	final, err := json.Marshal(siteInfoData)
 	if err != nil {
-		fmt.Printf("| (>_ ): Failed to create JSON: %s (%s)\n", site[PSEDBSystemNameCSVIndex], site[PSEDBSystemURLCSVIndex])
+		fmt.Printf("| (>_ ): Failed to create JSON: %s (%s)\n", site.NamaSE, site.Website)
 		return PSEDBOutputError
 	}
 
@@ -203,14 +230,14 @@ func parseSiteUrl(siteUrl string, site [7]any, listType string) int {
 	siteInfoFile.Seek(0, 0)
 	_, err = siteInfoFile.WriteString(string(final))
 	if err != nil {
-		fmt.Printf("| (>_ ): Failed to write JSON string: %s (%s)\n", site[PSEDBSystemNameCSVIndex], site[PSEDBSystemURLCSVIndex])
+		fmt.Printf("| (>_ ): Failed to write JSON string: %s (%s)\n", site.NamaSE, site.Website)
 		return PSEDBOutputError
 	}
 
 	// 10. Close JSON
 	err = siteInfoFile.Close()
 	if err != nil {
-		fmt.Printf("| (>_ ): Failed to save file to data/%s.json: %s (%s)\n", reversedUrl, site[PSEDBSystemNameCSVIndex], site[PSEDBSystemURLCSVIndex])
+		fmt.Printf("| (>_ ): Failed to save file to data/%s.json: %s (%s)\n", reversedUrl, site.NamaSE, site.Website)
 		return PSEDBOutputError
 	}
 	return PSEDBOK
@@ -219,40 +246,61 @@ func parseSiteUrl(siteUrl string, site [7]any, listType string) int {
 func stage2() int {
 	fmt.Println("(>_ ): Starting PSEDB...")
 	for _, list := range SiteLists {
-		fmt.Printf("| Opening raw/%s.json...\n", list[0])
-		in, err := os.OpenFile(fmt.Sprintf("raw/%s.json", list[0]), os.O_RDONLY, 0644)
-		if err != nil {
-			fmt.Printf("| (>_ ): Failed to open file: %v\n", err)
-			continue
-		}
+		file_count := 0
+		error_count := 0
 
-		var data struct {
-			Data [][7]any `json:"hits"`
-		}
+		for {
+			file_count++
+			fmt.Printf("| Opening raw/%s.%04d.json...\n", list[0], file_count)
+			in, err := os.OpenFile(fmt.Sprintf("raw/%s.%04d.json", list[0], file_count), os.O_RDONLY, 0644)
+			if err != nil {
+				error_count++
 
-		listRaw, err := ioutil.ReadAll(in)
-		err = json.Unmarshal(listRaw, &data)
-		if err != nil {
-			fmt.Printf("| (>_ ): Failed to parse file: %v\n", err)
-			continue
-		}
-
-		for _, site := range data.Data {
-			// 1. Detect and iterate multiple URLs
-			for _, siteUrl := range strings.Split(site[PSEDBSystemNameCSVIndex].(string), " ") {
-				if !StrictUrlRegex.MatchString(siteUrl) {
-					continue
+				if error_count >= 3 {
+					file_count++
+					break
 				}
-				parseSiteUrl(siteUrl, site, list[0])
+				// fmt.Printf("| (>_ ): Failed to open file: %v\n", err)
+				continue
+			} else {
+				// We only stop if there are 3 consecutive errors
+				error_count = 0
 			}
-			for _, siteUrl := range strings.Split(site[PSEDBSystemURLCSVIndex].(string), " ") {
-				if !UrlRegex.MatchString(siteUrl) {
-					continue
+
+			var data struct {
+				Data []PSERawEntry `json:"hits"`
+			}
+
+			listRaw, err := io.ReadAll(in)
+			if err != nil {
+				fmt.Printf("| (>_ ): Failed to read file: %v\n", err)
+				continue
+			}
+
+			// print(len(listRaw))
+			err = json.Unmarshal(listRaw, &data)
+			if err != nil {
+				fmt.Printf("| (>_ ): Failed to parse file: %v\n", err)
+				continue
+			}
+
+			for _, site := range data.Data {
+				// 1. Detect and iterate multiple URLs
+				for _, siteUrl := range strings.Split(site.NamaSE, " ") {
+					if !StrictUrlRegex.MatchString(siteUrl) {
+						continue
+					}
+					parseSiteUrl(siteUrl, site, list[0])
 				}
-				parseSiteUrl(siteUrl, site, list[0])
-			}
-			for _, siteUrl := range append(StrictUrlRegex.FindAllString(site[PSEDBSystemNameCSVIndex].(string), -1), UrlRegex.FindAllString(site[PSEDBSystemURLCSVIndex].(string), -1)...) {
-				parseSiteUrl(siteUrl, site, list[0])
+				for _, siteUrl := range strings.Split(site.Website, " ") {
+					if !UrlRegex.MatchString(siteUrl) {
+						continue
+					}
+					parseSiteUrl(siteUrl, site, list[0])
+				}
+				for _, siteUrl := range append(StrictUrlRegex.FindAllString(site.NamaSE, -1), UrlRegex.FindAllString(site.Website, -1)...) {
+					parseSiteUrl(siteUrl, site, list[0])
+				}
 			}
 		}
 	}
