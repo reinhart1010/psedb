@@ -284,6 +284,11 @@ func stage2() int {
 			}
 
 			for _, site := range data.Data {
+				// Completely skip if the URL is "-"
+				if site.Website == "-" {
+					continue
+				}
+
 				// 1. Detect and iterate multiple URLs
 				for _, siteUrl := range strings.Split(site.NamaSE, " ") {
 					if !StrictUrlRegex.MatchString(siteUrl) {
