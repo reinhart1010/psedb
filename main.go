@@ -196,7 +196,7 @@ func parseSiteUrl(siteUrl string, site PSERawEntry, listType string) int {
 
 	// 6. Check data
 	tdpseRegex := regexp.MustCompile(`https:\/\/pse.komdigi.go.id\/tdpse-detail\/(\d+?)($|\D)`)
-	tdpseId := tdpseRegex.FindStringSubmatch(site.UrlTDPSEDetail)
+	tdpseId := tdpseRegex.FindStringSubmatch(strings.Replace(site.UrlTDPSEDetail, "kominfo.go.id", "komdigi.go.id", -1))
 
 	var siteInfoData map[string]PSEEntry
 	siteInfoRaw, _ := io.ReadAll(siteInfoFile)
