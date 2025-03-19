@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1abd8-f274-4da3-8b00-c71cc421cf41",
+            "nama_pse": "BPR BKK LASEM PERSERODA",
+            "nama_se": "BPRBKKLASEM@YAHOO.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10690",
+            "website": "bprbkklasem.co.id"
+        },
+        {
+            "id": "9cb1abd8-f8a4-47c7-9c6a-fb5f84d413d0",
+            "nama_pse": "TUMBUH TINGGI INDONESIA",
+            "nama_se": "LMS SEKOLAH GARUDA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10694",
+            "website": "Sertifikatkompetensi.com"
+        },
+        {
+            "id": "9cb1abfe-b8fa-40f8-af1a-5210ad2928e2",
+            "nama_pse": "RANARA CREATIVE STUDIO",
+            "nama_se": "WEPOS.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10696",
+            "website": "wepos.id"
+        },
+        {
+            "id": "9cb1abfe-bbdc-4316-b395-04f7598e58fc",
+            "nama_pse": "PILARMAS INVESTINDO SEKURITAS",
+            "nama_se": "PILARMAS ONLINE TRADING",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10699",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac0d-92ba-49ec-af15-a73722c5e821",
+            "nama_pse": "BANK PERKREDITAN RAKYAT HAMINDO NATAMAKMUR",
+            "nama_se": "PT BANK PERKREDITAN RAKYAT HAMINDO  NATAMAKMUR",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10700",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abd8-ff2d-41e0-aedc-1472af0846a5",
+            "nama_pse": "PILARMAS INVESTINDO SEKURITAS",
+            "nama_se": "POT.PILARMAS-INVESTINDO.CO.ID",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10702",
+            "website": "pot.pilarmas-investindo.co.id"
+        },
+        {
+            "id": "9cb1ac0d-960e-47ef-967c-bd45f857f20d",
+            "nama_pse": "SEJAHTERA BERSAMA UNDRA",
+            "nama_se": "SEJAHTERA BERSAMA UNDRA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10701",
+            "website": "sejahterabersamaundra.com"
+        },
+        {
+            "id": "9cb1ac0d-9909-4d13-a2d8-ea519dccfdea",
+            "nama_pse": "CITRANUSA BANGUNPERSADA",
+            "nama_se": "RESERVANCY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10703",
+            "website": "reservancy.com"
+        },
+        {
+            "id": "9cb1ac0d-9d3a-4bb4-ba9a-be068b4a64fd",
+            "nama_pse": "E2PAY GLOBAL UTAMA",
+            "nama_se": "PT E2PAY GLOBAL UTAMA",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10704",
+            "website": "e2pay.co.id"
+        },
+        {
+            "id": "9cb1ac0d-a05a-438d-97da-dbbeca079064",
+            "nama_pse": "BPR BKK LASEM PERSERODA",
+            "nama_se": "WEBSITE PT BPR BKK LASEM (PERSERODA)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10705",
+            "website": "bprbkklasem.co.id"
+        },
+        {
+            "id": "9cb1abd9-06a9-4a10-b5af-12c319c465c0",
+            "nama_pse": "GERBANG INOVASI DIGITAL",
+            "nama_se": "INOVASIHUB",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10709",
+            "website": "inovasihub.com"
+        },
+        {
             "id": "9cb1abd9-0b24-4a95-897a-0f8ee0ce3747",
             "nama_pse": "EXPERT DATA VOICE SOLUTION",
             "nama_se": "EDAVOS.COM",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-08-22",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10648",
             "website": "mitrasyariahbank.com"
-        },
-        {
-            "id": "9cb1abfe-74f7-4c03-80b6-b4d53a8a426e",
-            "nama_pse": "TRIBUN DIGITAL JATIM",
-            "nama_se": "SURYAMALANG.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10650",
-            "website": "suryamalang.com"
-        },
-        {
-            "id": "9cb1abd8-c2cf-4aaf-9720-bf6669cccd5d",
-            "nama_pse": "TRIBUN DIGITAL MALUKU",
-            "nama_se": "TRIBUNAMBON.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10651",
-            "website": "tribunambon.com"
-        },
-        {
-            "id": "9cb1abfe-782a-4c19-b5f7-b1bb949c91aa",
-            "nama_pse": "TRANSNUSA AVIATION MANDIRI",
-            "nama_se": "INTERNET BOOKING ENGINE (IBE) TRANSNUSA",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2022-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10652",
-            "website": "transnusa.co.id"
-        },
-        {
-            "id": "9cb1abfe-7b7a-4cb7-90f6-fb09a8251bb5",
-            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH ANNISA MUKTI",
-            "nama_se": "AM CBS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10655",
-            "website": "annisamukti.co.id"
-        },
-        {
-            "id": "9cb1abfe-7eb6-4e61-b798-7ce10d773af1",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT SYARIAH ARTHA MAS ABADI",
-            "nama_se": "IBA BPRS ARTHA MAS ABADI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10656",
-            "website": "bprsarthamasabadi.co.id"
-        },
-        {
-            "id": "9cb1ac0d-6942-40d8-a4b7-9ff1cda43bbe",
-            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH RAHMAH HIJRAH AGUNG",
-            "nama_se": "ALTERNATE APPS SYARIAH",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10657",
-            "website": "bprsrahmah.com"
-        },
-        {
-            "id": "9cb1abd8-c5d5-4f81-9251-307fdad6db46",
-            "nama_pse": "BANK PERKREDITAN RAKYAT MURIA HARTA NUSANTARA",
-            "nama_se": "WEB SITE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10659",
-            "website": "bprmhn.com"
-        },
-        {
-            "id": "9cb1abfe-81f3-40bc-9aed-c5956ad2595e",
-            "nama_pse": "DELIMA PANDU BERJAYA",
-            "nama_se": "ECOMMERCE PERFECT HEALTH",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10662",
-            "website": "perfecthealth.co.id"
-        },
-        {
-            "id": "9cb1abd8-c8bf-44d8-9f6f-164ed971f15a",
-            "nama_pse": "INTIMAP",
-            "nama_se": "INTELLITRAC GPS",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10660",
-            "website": "intellitrac.co.id"
-        },
-        {
-            "id": "9cb1ac0d-6c53-425d-9141-1ef7fe8af698",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT BALONGPANGGANG SENTOSA",
-            "nama_se": "HTTPS://WWW.BPRBALONGPANGGANGSENTOSA.CO.ID/",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10661",
-            "website": "bprbalongpanggangsentosa.co.id"
-        },
-        {
-            "id": "9cb1abd8-cc7d-46ee-89fa-fc8e591152f7",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT SYARIAH ASAD ALIF",
-            "nama_se": "BPRS ASAD ALIF",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10663",
-            "website": "bprsasadalif.com"
         }
     ],
-    "processingTimeMs": 58,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 193,
     "totalPages": 383

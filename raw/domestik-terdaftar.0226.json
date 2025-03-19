@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abbc-f4e7-49ae-bdfa-6693bd2741b2",
+            "nama_pse": "ASURANSI RAMAYANA",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8862",
+            "website": "asuransiramayana.co.id"
+        },
+        {
+            "id": "9cb1abcc-f240-43fe-aeb7-a4d3964a2a26",
+            "nama_pse": "INDAH KARGO MANDIRI",
+            "nama_se": "INDAHEXPRES",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8863",
+            "website": "indahexpres.com"
+        },
+        {
+            "id": "9cb1abcc-f557-471b-8284-ac5a9028c93e",
+            "nama_pse": "BLI TERUS INDONESIA",
+            "nama_se": "BLITERUS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8864",
+            "website": "bliterus.com"
+        },
+        {
+            "id": "9cb1abbc-f7ba-4302-ada1-1710ef06b3ee",
+            "nama_pse": "ANAKJURAGAN AURA DIGITAL",
+            "nama_se": "BADAN PERIZINAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8865",
+            "website": "badanperizinan.co.id"
+        },
+        {
+            "id": "9cb1abbc-fa4d-47c3-a965-1f4efcb8ae74",
+            "nama_pse": "INDAH KARGO MANDIRI",
+            "nama_se": "IBUK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8866",
+            "website": "ibuk.co.id"
+        },
+        {
+            "id": "9cb1abcc-f95e-4d62-b4f5-794992a98b14",
+            "nama_pse": "BANK PERKREDITAN RAKYAT MUKOMUKO",
+            "nama_se": "PERUM BANK PERKREDITAN RAKYAT MUKOMUKO",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8870",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abbc-fd4b-46e8-80f6-d86215e89fd8",
+            "nama_pse": "PD BPR BAHTERAMAS BUTON ",
+            "nama_se": "PD BPR BAHTERAMAS BUTON",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8868",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abbd-01e7-46bf-b304-d119514a0333",
+            "nama_pse": "INDAH KARGO MANDIRI",
+            "nama_se": "INDAHTRUCKINGONLINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8869",
+            "website": "indahtruckingonline.com"
+        },
+        {
+            "id": "9cb1abcc-feb2-4c79-ab56-5793224a11b2",
+            "nama_pse": "INDAH KARGO MANDIRI",
+            "nama_se": "INDEXS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8872",
+            "website": "indexs.co.id"
+        },
+        {
+            "id": "9cb1abf2-fe02-4565-8ad2-c7e6aa5e1221",
+            "nama_pse": "INDAH KARGO MANDIRI",
+            "nama_se": "PADATIONLINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8873",
+            "website": "padationline.com"
+        },
+        {
             "id": "9cb1abcd-04d6-4166-ada5-5952edae4190",
             "nama_pse": "BANK SYARIAH INDONESIA",
             "nama_se": "BSI TABUNGAN HAJI INDONESIA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-21",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8386",
             "website": "ussi.co.id"
-        },
-        {
-            "id": "9cb1abc9-b328-472a-8332-e55b6274c7d9",
-            "nama_pse": "BOSOWA ASURANSI",
-            "nama_se": "WEBSITE BOSOWA ASURANSI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8387",
-            "website": "bosowaasuransi.com"
-        },
-        {
-            "id": "9cb1abbb-71dc-4152-8a59-fa36f199c1f5",
-            "nama_pse": "CAHAYA PRESTASI INDONESIA",
-            "nama_se": "TUPPERKLIK.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8406",
-            "website": "tupperklik.com"
-        },
-        {
-            "id": "9cb1abef-b479-423b-9c17-d6a4bfe1781c",
-            "nama_pse": "INCORE SYSTEMS SOLUTIONS",
-            "nama_se": "RUANGAJAR",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8389",
-            "website": "ruangajar.com"
-        },
-        {
-            "id": "9cb1abef-b7bd-486f-928f-730a491cfe65",
-            "nama_pse": "BANK PERKREDITAN RAKYAT METRO ASIA MANDIRI",
-            "nama_se": "BPRMAM.COM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8392",
-            "website": "bprmetroasiamandiri.com"
-        },
-        {
-            "id": "9cb1abbb-73d5-4ec7-860c-47e38be31291",
-            "nama_pse": "USSI",
-            "nama_se": "DRC (DISASTER RECOVERY CENTER)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8390",
-            "website": "ussi.co.id"
-        },
-        {
-            "id": "9cb1abc9-b646-4fec-bffb-d7ed0c051277",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SENTRAL MITRA SEJAHTERA",
-            "nama_se": "WEBSITE BPT SENTRAL MITRA SEJAHTERA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8391",
-            "website": "bprsentralmitrasejahtera.com"
-        },
-        {
-            "id": "9cb1abef-bbad-49b0-b12b-a889b0388d86",
-            "nama_pse": "BANK PERKREDITAN RAKYAT GERBANG SERASAN KABUPATEN MUARA ENIM",
-            "nama_se": "WEBSITE BPR GERBANG SERASAN",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8393",
-            "website": "gerbangserasan.com"
-        },
-        {
-            "id": "9cb1abef-bede-429a-998a-764f5a5cf9b4",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
-            "nama_se": "PORTAL DPLK BRI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8394",
-            "website": "Dplk.bri.co.id"
-        },
-        {
-            "id": "9cb1abc9-ba4e-4e1b-9358-c99c106c4f98",
-            "nama_pse": "INCORE SYSTEMS SOLUTIONS",
-            "nama_se": "RAJAMISI",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8395",
-            "website": "rajamisi.com"
-        },
-        {
-            "id": "9cb1abbb-75c0-4fa3-a68b-9214d28643c6",
-            "nama_pse": "BANK PERKREDITAN RAKYAT POLLUX",
-            "nama_se": "WEBSITE, INSTAGRAM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8397",
-            "website": "polluxbank.co.id"
         }
     ],
     "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 226,
     "totalPages": 383

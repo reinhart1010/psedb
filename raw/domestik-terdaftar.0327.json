@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab83-7370-41e1-b8db-b2bc8ed3f70b",
+            "nama_pse": "MNC ASURANSI INDONESIA",
+            "nama_se": "MOTION SURE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2991",
+            "website": "motion-sure.id"
+        },
+        {
+            "id": "9cb1ab92-116d-49e9-8dff-ba0ce0000639",
+            "nama_pse": "GLOBAL INOVASI STRATEGIS",
+            "nama_se": "OFFICIAL.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2994",
+            "website": "official.id"
+        },
+        {
+            "id": "9cb1ab6a-902c-41b9-b33d-4a0cebf205ac",
+            "nama_pse": "MID SOLUSI NUSANTARA",
+            "nama_se": "TALENTA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-01-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2976",
+            "website": "hr.talenta.co"
+        },
+        {
+            "id": "9cb1ab6b-1fdf-4937-b40c-2a2a980f65c1",
+            "nama_pse": "KREDIBEL TEKNOLOGI INDONESIA",
+            "nama_se": "KREDIBEL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-01-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2964",
+            "website": "kredibel.com"
+        },
+        {
+            "id": "9cb1ab66-90e8-4b9a-9b0b-99891284ed46",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "SPAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-01-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2970",
+            "website": "spancms.bni.co.id"
+        },
+        {
+            "id": "9cb1ab66-938f-48a7-b060-aea5b0570754",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "ONE PORTAL FOR ALL",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-01-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2971",
+            "website": "bnitbs.id"
+        },
+        {
+            "id": "9cb1ab66-9632-40af-bf60-d0495222506e",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "EFORM BNI",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-01-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2972",
+            "website": "eform.bni.co.id"
+        },
+        {
+            "id": "9cb1ab73-499e-43e4-8526-5b382719551b",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "EFORM KARTU KREDIT BNI",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-01-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2973",
+            "website": "applykartukredit.bni.co.id"
+        },
+        {
+            "id": "9cb1ab6d-06f0-4478-8daf-7abdebe12601",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "POIN PLUS (BNI POIN+)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-01-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2974",
+            "website": "poinplus.bni.co.id"
+        },
+        {
+            "id": "9cb1ab66-988a-4411-ab8c-51d994ec5abe",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "AGEN 46",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-01-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2975",
+            "website": "agenbni46.bni.co.id"
+        },
+        {
             "id": "9cb1ab73-4e3f-44b8-a5b1-b44d25719dfb",
             "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
             "nama_se": "BNI ZONA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-12-31",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2933",
             "website": "bjbsyariah.co.id"
-        },
-        {
-            "id": "9cb1ab8d-f653-4f92-a26f-4a478d0e57a6",
-            "nama_pse": "MANDIRI MANAJEMEN INVESTASI",
-            "nama_se": "MOINVES",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-12-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2936",
-            "website": "moinves.co.id"
-        },
-        {
-            "id": "9cb1ab88-f188-4b3f-83db-2ce82311a34a",
-            "nama_pse": "NGALI BUSTHOMI",
-            "nama_se": "DIGITESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2929",
-            "website": "digitesia.com"
-        },
-        {
-            "id": "9cb1ab89-3162-4394-abf5-31d3ec663fb9",
-            "nama_pse": "INTEGRASI SINAPTIQ",
-            "nama_se": "EASY BILLS 2C2P",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2927",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab79-72d5-445b-87fb-ea76abac739b",
-            "nama_pse": "DUA PULUH EMPAT JAM ONLINE",
-            "nama_se": "SJLV2",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2926",
-            "website": "unipin.com"
-        },
-        {
-            "id": "9cb1ab89-8036-4657-9f6f-8ab61c2a8a15",
-            "nama_pse": "LIPPO GENERAL INSURANCE",
-            "nama_se": "MYPROTECTION",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-12-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2922",
-            "website": "myprotection.id"
-        },
-        {
-            "id": "9cb1ab89-839b-4087-970e-fb993c12131c",
-            "nama_pse": "LIPPO GENERAL INSURANCE",
-            "nama_se": "AGENCY.LIPPOINSURANCE.COM",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-12-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2924",
-            "website": "agency.lippoinsurance.com"
-        },
-        {
-            "id": "9cb1ab81-7940-4436-b69c-05ce6a1e6775",
-            "nama_pse": "KITA KELUARGA INDONESIA",
-            "nama_se": "KITA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan",
-            "tanggal_terbit": "2021-12-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2925",
-            "website": "keluargakita.id"
-        },
-        {
-            "id": "9cb1ab89-8f5c-4591-8135-2d9ec9923cb6",
-            "nama_pse": "Asriadi Karim Maulana",
-            "nama_se": "ZONA MULTIMEDIA MAKASSAR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2920",
-            "website": "lontaraph.wordpress.com"
-        },
-        {
-            "id": "9cb1ab81-8a9a-4b1e-8805-3089c8aede38",
-            "nama_pse": "BIRO HERIYANTO JAYA",
-            "nama_se": "BIRO HERIYANTO JAYA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2921",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab79-cc23-4f35-93c6-4e17403357ee",
-            "nama_pse": "CIPTA DAYA JAYA",
-            "nama_se": "CIPTA DAYA SYSTEM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2923",
-            "website": "ahlikomputer.com"
         }
     ],
-    "processingTimeMs": 8,
+    "processingTimeMs": 40,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 327,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb1-2007-4044-818d-452f704f950f",
+            "nama_pse": "BANK PERKREDITAN RAKYAT GENTENG",
+            "nama_se": "BPR GENTENG",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5795",
+            "website": "bprgenteng.co.id"
+        },
+        {
+            "id": "9cb1abb1-22dc-47ca-9327-7b369c9ad8b9",
+            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+            "nama_se": "BJB GIFT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5796",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba7-47ae-41a0-8dba-b2ba768af60d",
+            "nama_pse": "SOL MITRA FINTEC",
+            "nama_se": "INVOILA",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5799",
+            "website": "invoila.co.id"
+        },
+        {
+            "id": "9cb1abb1-2519-4b0e-aa6b-66a8a62116f9",
+            "nama_pse": "BANK NATIONALNOBU",
+            "nama_se": "NEOBIZ",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5800",
+            "website": "neobiz.nobubank.com"
+        },
+        {
+            "id": "9cb1ab9c-992d-4d7f-ab80-8ecd04e5ab47",
+            "nama_pse": "SEQUIS ASET MANAJEMEN",
+            "nama_se": "WEBSITE PT SEQUIS ASET MANAJEMEN",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5801",
+            "website": "sequisam.co.id"
+        },
+        {
+            "id": "9cb1abb1-28ef-4e31-8ddb-19d1f1afed5e",
+            "nama_pse": "BANK PERKREDITAN RAKYAT PALU LOKADANA UTAMA",
+            "nama_se": "WEBSITE PENGADUAN NASABAH BPR PALU LOKADANA UTAMA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5802",
+            "website": "atm.bprpalu.com"
+        },
+        {
+            "id": "9cb1abb1-2b12-4b59-b400-64cabb584083",
+            "nama_pse": "MNC ASURANSI INDONESIA",
+            "nama_se": "SALVAGE AUCTION",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5803",
+            "website": "mnc-insurance.com"
+        },
+        {
+            "id": "9cb1aba7-4a96-4791-943d-dc34ce765fae",
+            "nama_pse": "ASURANSI JIWA SEQUIS LIFE",
+            "nama_se": "SEQUISFRIEND",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5804",
+            "website": "sequisfriend.com"
+        },
+        {
+            "id": "9cb1aba7-4de0-4ad4-b494-1c9ec7b65d1d",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT MODERN EXPRESS",
+            "nama_se": "WEBSITE PENGADUAN NASABAH BPR MODERN EXPRESS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5807",
+            "website": "atm.bprmodex.com"
+        },
+        {
+            "id": "9cb1aba7-50d1-4cd4-ac1a-6012f54c062d",
+            "nama_pse": "VIVA MEDIKA",
+            "nama_se": "ISO APP",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5805",
+            "website": "isomedik.com"
+        },
+        {
             "id": "9cb1aba7-5358-43d1-b343-707ba47f3323",
             "nama_pse": "BANK PERKREDITAN RAKYAT LUMBUNG PITIH NAGARI PADANG MAGEK",
             "nama_se": "PT BANK PERKREDITAN RAKYAT LUMBUNG PITIH NAGARI PADANG MAGEK",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-15",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5852",
             "website": "bprmodernternate.com"
-        },
-        {
-            "id": "9cb1abb1-4ec6-4085-8310-5e77fc040be6",
-            "nama_pse": "BANK PERKREDITAN RAKYAT KARTIKA MATUARI",
-            "nama_se": "BPR KARTIKA MATUARI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5853",
-            "website": "bprkartikamatuari.com"
-        },
-        {
-            "id": "9cb1abb1-5080-4cd0-98df-4621815be760",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
-            "nama_se": "SPAN BANK JAMBI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5854",
-            "website": "span.bankjambi.co.id"
-        },
-        {
-            "id": "9cb1ab9c-bd33-44af-8deb-fc53977a13eb",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH JAMBI DISEBUT BANK JAMBI",
-            "nama_se": "E-MAIL BANK JAMBI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5855",
-            "website": "mail.bankjambi.co.id"
-        },
-        {
-            "id": "9cb1abb1-5246-47eb-8797-3fc822a7ac11",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SUPRA ARTAPERSADA",
-            "nama_se": "WEBSITE BPR SUPRA (COM)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5857",
-            "website": "bprsupra.com"
-        },
-        {
-            "id": "9cb1abb1-547a-4c89-b3c9-0af3f385e42a",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT KARYAJATNIKA SADAYA",
-            "nama_se": "MBB BPRKS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5858",
-            "website": "mbb.bprks.com"
-        },
-        {
-            "id": "9cb1aba7-7d64-42b1-88b7-338642388dc1",
-            "nama_pse": "KARYA BINTANG TEKNOLOGI",
-            "nama_se": "STARFM",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5884",
-            "website": "starfm.app"
-        },
-        {
-            "id": "9cb1abb1-5660-4dd9-bab1-47a6bb1a5105",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT KARYAJATNIKA SADAYA",
-            "nama_se": "WEBSITE BPRKS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5859",
-            "website": "bprks.co.id"
-        },
-        {
-            "id": "9cb1abb1-5828-4df2-9fb5-eb16f19d908b",
-            "nama_pse": "BANK PERKREDITAN RAKYAT MODERN EXPRESS MALUKU UTARA",
-            "nama_se": "DIGITAL MODERN (DIGIMOD) E-LOAN -BPR MODERN EXPRESS MALUKU UTARA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5860",
-            "website": "bprmodernternate.com"
-        },
-        {
-            "id": "9cb1aba7-8584-4f7f-99b0-6870e84b3b4a",
-            "nama_pse": "KONSUMEN PEDAMI",
-            "nama_se": "SASIRANGAN - SISTEM APLIKASI SIMPAN PINJAM, PENGADAAN DAN PERDAGANGAN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5861",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab9c-c0e2-4b1d-b8ec-abe694571bc2",
-            "nama_pse": "MARKET CHIP MULTIGUNA",
-            "nama_se": "MARKET PULSA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5862",
-            "website": "market-pulsa.net"
         }
     ],
     "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 280,
     "totalPages": 383

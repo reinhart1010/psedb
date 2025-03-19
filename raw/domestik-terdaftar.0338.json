@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab7f-a9a6-46ec-85e6-a33c84f8cc2d",
+            "nama_pse": "KODINGLAB INTEGRASI INDONESIA",
+            "nama_se": "CODINGLAB",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2415",
+            "website": "codinglab.id"
+        },
+        {
+            "id": "9cb1ab8d-b834-4c09-aae1-a2389265b841",
+            "nama_pse": "TRUSTING SOCIAL INDONESIA",
+            "nama_se": "TELCO CREDIT SCORE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2409",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab9f-004c-4163-b3ad-49b205eb6ecb",
+            "nama_pse": "BANGUN PERCAYA SOSIAL",
+            "nama_se": "BPS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2373",
+            "website": "bpsdata.com"
+        },
+        {
+            "id": "9cb1ab91-e4d2-4cd0-bd42-78b271b2c31a",
+            "nama_pse": "MITRA TELINDO NUSANTARA",
+            "nama_se": "HAPPYDIGITAL.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2406",
+            "website": "happydigital.id"
+        },
+        {
+            "id": "9cb1ab65-fb35-4a10-af9f-701ec88122e3",
+            "nama_pse": "SHARP TRADING INDONESIA",
+            "nama_se": "COCORO LIFE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2401",
+            "website": "cocorolife.id"
+        },
+        {
+            "id": "9cb1ab76-fa78-4217-84ba-2f91e277af6d",
+            "nama_pse": "DATAMAX TEKNOLOGI INTERNASIONAL",
+            "nama_se": "DATAMAX TEKNOLOGI INTERNASIONAL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2403",
+            "website": "pasarin.id"
+        },
+        {
+            "id": "9cb1ab77-cc94-47f4-a0e9-54a82578cb3f",
+            "nama_pse": "SOLUSI PROPERTI HALAL",
+            "nama_se": "DEGRIYA APPS",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2400",
+            "website": "degriya.com"
+        },
+        {
+            "id": "9cb1ab77-d073-47af-803c-c452cf61e90b",
+            "nama_pse": "ULTIMATE GENIUS TECHNOLOGY",
+            "nama_se": "WWW.GENITECH.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2402",
+            "website": "genitech.co.id"
+        },
+        {
+            "id": "9cb1ab77-d44a-4af4-a21d-303d66faa31a",
+            "nama_pse": "SUKU CADANG OTO SEJAHTERA",
+            "nama_se": "TOKOPARTS.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2404",
+            "website": "tokoparts.com"
+        },
+        {
+            "id": "9cb1ab63-0848-4f7d-85d0-99ea9e73da47",
+            "nama_pse": "CIRCLEKA INDONESIA UTAMA",
+            "nama_se": "CIRCLE K SHOPPING",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2394",
+            "website": "-"
+        },
+        {
             "id": "9cb1ab63-18de-4719-93dd-4e5e906e6245",
             "nama_pse": "INTER KREASI ADHITAMA",
             "nama_se": "INTER KREASI ADHITAMA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-11-08",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2355",
             "website": "havaianas.co.id"
-        },
-        {
-            "id": "9cb1ab7f-4682-42a3-9916-f32fc73573f9",
-            "nama_pse": "ASURANSI JIWA INHEALTH INDONESIA",
-            "nama_se": "WEBSITE",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2296",
-            "website": "MANDIRIINHEALTH.CO.ID"
-        },
-        {
-            "id": "9cb1ab7f-510a-4c6e-9949-a73f3d034668",
-            "nama_pse": "LIMA SATU TIGA GLOBAL TEL-ACCESS",
-            "nama_se": "LAYANAN CLOUD COMMUNICATION - VOXNET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2276",
-            "website": "voxnet.id"
-        },
-        {
-            "id": "9cb1ab77-751d-484b-b810-b7afe32d346d",
-            "nama_pse": "EZLINK SYSTEM SOLUTIONS",
-            "nama_se": "DINEIN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2360",
-            "website": "hostingceria.com"
-        },
-        {
-            "id": "9cb1ab7f-6044-4492-9c65-c70d059593c4",
-            "nama_pse": "EZLINK SYSTEM SOLUTIONS",
-            "nama_se": "KTRIP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2361",
-            "website": "hostingceria.com"
-        },
-        {
-            "id": "9cb1ab76-b995-4041-aec6-6d031509cd36",
-            "nama_pse": "EZLINK SYSTEM SOLUTIONS",
-            "nama_se": "TOKOPO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2362",
-            "website": "hostingceria.com"
-        },
-        {
-            "id": "9cb1ab7f-64f4-42c4-b18b-0c59e7b66cc1",
-            "nama_pse": "OMAH TEKNOLOGI INDONESIA",
-            "nama_se": "BELANJA24",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2344",
-            "website": "omah-ti.com"
-        },
-        {
-            "id": "9cb1ab7f-6adf-4eb0-abb6-e528489c7d8c",
-            "nama_pse": "ADAM TEKNOLOGI INDONESIA",
-            "nama_se": "GAJIANONDEMAND",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2322",
-            "website": "jojonomic.com"
-        },
-        {
-            "id": "9cb1ab76-c742-453a-8a46-785df6c31fb5",
-            "nama_pse": "SINAR12 BUKIT BARISAN",
-            "nama_se": "SINAR12",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2271",
-            "website": "sinar12.co.id"
-        },
-        {
-            "id": "9cb1ab7f-72ad-402e-83a8-8b5ef2c8efb4",
-            "nama_pse": "INDO SEUNGLI MAKMUR",
-            "nama_se": "ISTYLE.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2305",
-            "website": "iStyle.id"
-        },
-        {
-            "id": "9cb1ab76-cb97-4062-9933-fcb4cf5e5b27",
-            "nama_pse": "COINBIT DIGITAL INDONESIA",
-            "nama_se": "COINBIT",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2310",
-            "website": "coinbit.id/"
         }
     ],
-    "processingTimeMs": 8,
+    "processingTimeMs": 34,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 338,
     "totalPages": 383

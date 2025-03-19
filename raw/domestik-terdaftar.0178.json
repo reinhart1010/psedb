@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac03-f804-4f3d-97ff-0281230125fa",
+            "nama_pse": "SOLUSI TEKNOLOGI JAYA",
+            "nama_se": "PT SOLUSI TEKNOLOGI JAYA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11785",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac03-faeb-46ac-abe3-c9df726ab5c3",
+            "nama_pse": "KARGO BERSAMA TEKNOLOGI",
+            "nama_se": "CARGOSHARE",
+            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11786",
+            "website": "Cargoshare.id"
+        },
+        {
+            "id": "9cb1ac04-01c3-46f1-9f63-d9c1653372d4",
+            "nama_pse": "MULAI WEB INDONESIA",
+            "nama_se": "MULAI WEB INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11787",
+            "website": "mulaiweb.com"
+        },
+        {
+            "id": "9cb1ac04-056a-43e7-814c-9de0c64467f0",
+            "nama_pse": "MITRA ISWARA \u0026 RORIMPANDEY",
+            "nama_se": "MIR WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11788",
+            "website": "mirbrokers.com"
+        },
+        {
+            "id": "9cb1abdf-ef8d-4e61-a44e-2fa8828f1638",
+            "nama_pse": "MITRA ISWARA \u0026 RORIMPANDEY",
+            "nama_se": "MIR BPM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11789",
+            "website": "mirbpmprod.mir.co.id"
+        },
+        {
+            "id": "9cb1ac04-0d4a-456d-8918-cf625e3d654f",
+            "nama_pse": "BURSA DIGITAL DERIVATIF INDONESIA",
+            "nama_se": "BURSA DIGITAL DERIVATIF INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11792",
+            "website": "iddx.co.id"
+        },
+        {
+            "id": "9cb1ac12-b70a-4c18-bdf8-769a69200c4a",
+            "nama_pse": "GETLOOP MEDIA INDONESIA",
+            "nama_se": "WWW.GETLOOP.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11793",
+            "website": "getloop.id"
+        },
+        {
+            "id": "9cb1abdf-f2bf-47eb-aab1-de4885411f8e",
+            "nama_pse": "PT LAWU INFORMATION TECHNOLOGY",
+            "nama_se": "ERM ELEKTRONIK MEDICAL RECORDS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-10-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11794",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abdf-f600-4bd0-9032-a0ba907bd387",
+            "nama_pse": "NIAT MAJU BERSAMA",
+            "nama_se": "TOLONGMEREKA.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11795",
+            "website": "tolongmereka.com"
+        },
+        {
+            "id": "9cb1ac12-a476-4934-bbb5-5c687cd6d50d",
+            "nama_pse": "HOME CREDIT INDONESIA",
+            "nama_se": "GLOBAL MOBILE APPLICATION",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11771",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abdf-c9f7-4f2f-8d73-bdd42aed136e",
+            "nama_pse": "JAVA TEKNIK MANDIRI",
+            "nama_se": "CV. JAVA TEKNIK MANDIRI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11774",
+            "website": "javateknikmandiri.co.id"
+        },
+        {
             "id": "9cb1ac12-a808-4314-9de6-62075047ded2",
             "nama_pse": "HOME CENTER INDONESIA RETAIL",
             "nama_se": "WEBSITE EYESOUL (WWW.EYESOULEYEWEAR.CO.ID)",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-10-07",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11603",
             "website": "gapura.id"
-        },
-        {
-            "id": "9cb1ac11-c299-45ff-a782-85a410437d5e",
-            "nama_pse": "BAKOOL NUSANTARA JAYA",
-            "nama_se": "BAKOOL FRESH",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-10-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11615",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac03-09c9-45cc-9bbe-9f12e44d1cde",
-            "nama_pse": "HEMATECH NUSANTARA",
-            "nama_se": "LABORATORIUM PEMBELAJARAN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-10-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11606",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abde-cb03-4a81-b51c-fc58144bb325",
-            "nama_pse": "WIDEA DAGANG NUSANTARA",
-            "nama_se": "ADALOKA",
-            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-10-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11608",
-            "website": "adaloka.com"
-        },
-        {
-            "id": "9cb1abde-cf02-4115-a532-64358303777a",
-            "nama_pse": "ARSA WORK INDONESIA",
-            "nama_se": "ARSA WORK",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-10-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11609",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac00-b1a3-4701-9e92-cfec01e656ed",
-            "nama_pse": "USAHA KREATIF INDONESIA",
-            "nama_se": "UEX",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-10-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11580",
-            "website": "uex.co.id"
-        },
-        {
-            "id": "9cb1ac00-e6bd-4985-8271-d07991cf9601",
-            "nama_pse": "CEKAJA MERDEKA KEUANGAN",
-            "nama_se": "CEKAJA.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-10-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11576",
-            "website": "cekaja.com"
-        },
-        {
-            "id": "9cb1abde-9ea1-4d99-a747-b066b261a97b",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT AMANAT KESEJAHTERAAN INDONESIA",
-            "nama_se": "ASSIST",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-10-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11574",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abde-a42b-407c-b7e6-938575a6f095",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT AMANAT KESEJAHTERAAN INDONESIA",
-            "nama_se": "BPR ASSIST",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-10-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11575",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abde-a9be-45d2-9e36-269b252d05cb",
-            "nama_pse": "LANCAR REKA SAMPURNA",
-            "nama_se": "PDGIMALL",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-10-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11577",
-            "website": "pdgimall.co.id"
-        },
-        {
-            "id": "9cb1ac02-cd50-4f29-9636-391085bafa01",
-            "nama_pse": "SOLUSI TRANSFORMA TEKNOLOGI",
-            "nama_se": "PT. SOLUSI TRANSFOMA TEKNOLOGI WEBSITE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-10-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11579",
-            "website": "solusitransformateknologi.com"
-        },
-        {
-            "id": "9cb1ac11-7eb2-4374-8618-a8c6cb629721",
-            "nama_pse": "KARYA JENTERA INDONESIA",
-            "nama_se": "JENTERA NEWS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-10-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11578",
-            "website": "jenteranews.com"
         }
     ],
-    "processingTimeMs": 10,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 178,
     "totalPages": 383

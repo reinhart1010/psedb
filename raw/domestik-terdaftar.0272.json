@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abbe-bdc6-4192-a95f-811362b37813",
+            "nama_pse": "ADICIPTA INOVASI TEKNOLOGI",
+            "nama_se": "PROFIND",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6297",
+            "website": "profind.confins.co"
+        },
+        {
+            "id": "9cb1abb4-242a-4005-8082-8190d799eb63",
+            "nama_pse": "PT TOPINDO SOLUSI KOMUNIKA",
+            "nama_se": "TOPINDOKU",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6311",
+            "website": "topindoku.co.id"
+        },
+        {
+            "id": "9cb1abb2-fa56-4380-94f9-af6d080d99cc",
+            "nama_pse": "KARYA BINTANG TEKNOLOGI",
+            "nama_se": "STARME",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6369",
+            "website": "starmakerstudios.com"
+        },
+        {
+            "id": "9cb1abb2-fc9d-4b60-b16d-15ee7c0ddbca",
+            "nama_pse": "BANK RAYA INDONESIA",
+            "nama_se": "PORTAL JAGAT RAYA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6298",
+            "website": "jagatraya.bankraya.co.id"
+        },
+        {
+            "id": "9cb1abb4-289e-48f3-a90c-f3e7e0d90c7b",
+            "nama_pse": "BANK PERKREDITAN RAKYAT YASPIS DANA PRIMA",
+            "nama_se": "SIAB",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6299",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb2-fe6c-4cc0-990b-aacbfbe9a959",
+            "nama_pse": "ANDI ASRIZAL NINGRAWAN",
+            "nama_se": "AGEN OAC",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6300",
+            "website": "agenoacindonesia.bukaolshop.site"
+        },
+        {
+            "id": "9cb1abb4-2a62-46b0-99a0-72a477871e85",
+            "nama_pse": "MANGA TOON GROUP",
+            "nama_se": "MANGATOON",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6301",
+            "website": "mangatoon.mobi"
+        },
+        {
+            "id": "9cb1abb3-0077-4db8-a389-f7c4fa900ea3",
+            "nama_pse": "MANGA TOON GROUP",
+            "nama_se": "AUDIOTOON",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6302",
+            "website": "audiotoon.mobi"
+        },
+        {
+            "id": "9cb1abbe-c4ba-4af6-a822-252a5d0dd953",
+            "nama_pse": "TOURINDO GUIDE INDONESIA",
+            "nama_se": "WWW.PIGIJO.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6303",
+            "website": "pigijo.com"
+        },
+        {
+            "id": "9cb1abb3-024e-45fc-a81d-52cec3e788ee",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+            "nama_se": "SMS BANKING",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6304",
+            "website": "-"
+        },
+        {
             "id": "9cb1abb4-2c4a-4868-9ef8-c75635a259b7",
             "nama_pse": "BANK PEREKONOMIAN RAKYAT URBAN BALI",
             "nama_se": "USSI PINBUK PRIMA SOFTWARE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-18",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6349",
             "website": "sinta.bankjatim.co.id"
-        },
-        {
-            "id": "9cb1abb4-5cef-462d-a3ec-99575ffdf435",
-            "nama_pse": "DANA KINI INDONESIA",
-            "nama_se": "DASHBOARD LENDER",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6354",
-            "website": "danaku.danakini.co.id"
-        },
-        {
-            "id": "9cb1abb4-5f81-44c6-a15e-9770e20fb355",
-            "nama_pse": "BANK RAYA INDONESIA",
-            "nama_se": "API E-LEARNING BANK RAYA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6351",
-            "website": "api-elearning.bankraya.co.id"
-        },
-        {
-            "id": "9cb1abbe-f5ba-4294-be00-d8db91c46441",
-            "nama_pse": "DANA KINI INDONESIA",
-            "nama_se": "MANAGEMENT INFORMATION SYSTEM DANAKINI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6357",
-            "website": "mis.danakini.co.id"
-        },
-        {
-            "id": "9cb1abbe-f971-4423-b8f2-3a682e07b35b",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-            "nama_se": "ELEKTRONIK HUMAN CAPITAL",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6350",
-            "website": "ehc.bankjatim.co.id"
-        },
-        {
-            "id": "9cb1abb3-2469-4266-8c08-484bdbecabb7",
-            "nama_pse": "BANK MANDIRI TASPEN",
-            "nama_se": "WEBSITE PENSIUN BERKARYA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6358",
-            "website": "pensiunberkarya.com"
-        },
-        {
-            "id": "9cb1abb4-621e-4b83-b886-2812fcdcc46c",
-            "nama_pse": "SCHRODER INVESTMENT MANAGEMENT INDONESIA",
-            "nama_se": "WEBSITE PT. SCHRODER INVESTMENT MANAGEMENT INDONESIA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6352",
-            "website": "schroders.co.id"
-        },
-        {
-            "id": "9cb1abbe-fce1-4aec-9721-4767af9f3902",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-            "nama_se": "JATIM PRESENCE",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6353",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb3-2661-4465-9d65-80433702ebfc",
-            "nama_pse": "CARTRACK TECHNOLOGIES INDONESIA",
-            "nama_se": "FLEETWEB-ID",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6355",
-            "website": "cartrack.id"
-        },
-        {
-            "id": "9cb1abbe-fedd-4d37-be2b-a845dbdcd916",
-            "nama_pse": "BANK PERKREDITAN RAKYAT MODERN EXPRESS JATENG",
-            "nama_se": "DIGITAL MODERN (DIGIMOD) E-LOAN - BPR MODERN EXPRESS JATENG",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6360",
-            "website": "digimod.bprmodernsemarang.com"
-        },
-        {
-            "id": "9cb1abb3-2884-48b6-b626-06d8135a2690",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT ARTHAGUNA MANDIRI",
-            "nama_se": "EMAIL BPRAGM.COM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6359",
-            "website": "BPRAGM.COM"
         }
     ],
     "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 272,
     "totalPages": 383

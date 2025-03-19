@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac10-ea7f-4aac-849b-9b0409668b9a",
+            "nama_pse": "DEUTSCHE BANK AG",
+            "nama_se": "DEUTSCHE BANK  INDONESIA COUNTRY WEBSITE",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11426",
+            "website": "country.db.com"
+        },
+        {
+            "id": "9cb1abdd-8928-499f-8f6a-2d1790cbb610",
+            "nama_pse": "BINTANG INTI MEDIA AGUNG",
+            "nama_se": "BINTANG.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11427",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abdd-8c35-48b5-9936-d87849a95b95",
+            "nama_pse": "REDBY MEDIA GROUP",
+            "nama_se": "REDBY JEK",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11428",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac10-eda4-4e28-a5cf-a339bd3e6e8d",
+            "nama_pse": "ARAH QIBLA NUSANTARA",
+            "nama_se": "ARAH MUSLIM",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11429",
+            "website": "arahmuslim.id"
+        },
+        {
+            "id": "9cb1ac10-f76e-4af4-92cb-071e59c32fe4",
+            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH SINDANGLAYA KOTANOPAN",
+            "nama_se": "PT BANK PEMBIAYAAN RAKYAT SYARIAH SINDANGLAYA KOTANOPAN",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11432",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac10-fa2f-4132-8ab1-865e071532f9",
+            "nama_pse": "DESA TECH NUSANTARA",
+            "nama_se": "SISTEM MANAJEMEN INFORMASI KOPERASI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11433",
+            "website": "smik.id"
+        },
+        {
+            "id": "9cb1abdd-61ab-4ae7-b4aa-c0f7b63e86df",
+            "nama_pse": "FASTRATA BUANA",
+            "nama_se": "WWW.KAPALAPISTORE.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11398",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abdd-4011-4849-973b-66ef88d1e716",
+            "nama_pse": "SAMUDERA MANGKUPALAS INDONESIA",
+            "nama_se": "TRACE REPORT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11400",
+            "website": "tracereport.id"
+        },
+        {
+            "id": "9cb1ac10-b942-45a4-b4d2-daa806781541",
+            "nama_pse": "ANNYEONG SOFTWARE INTERNATIONAL",
+            "nama_se": "ANSIM HOSPITAL SYSTEM",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-09-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11397",
+            "website": "simrs.kr"
+        },
+        {
+            "id": "9cb1ac10-bbcb-45b2-9d17-9c5c1403a3d8",
+            "nama_pse": "BULLION ECOSYSTEM INTERNATIONAL",
+            "nama_se": "SISTEM LIKUIDITAS PERDAGANGAN FISIK EMAS DIGITAL DALAM BURSA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11399",
+            "website": "kinesis.money"
+        },
+        {
+            "id": "9cb1ac10-becb-49b9-bc8e-9d424da0b7d4",
+            "nama_pse": "FAMINDO DIGITAL INDONESIA",
+            "nama_se": "DOYANREBAHAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11401",
+            "website": "doyanrebahan.com"
+        },
+        {
             "id": "9cb1ac02-235e-4401-9704-78b3a4745d03",
             "nama_pse": "KOLABORASI SEHAT INDONESIA",
             "nama_se": "TWEAK",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-09-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11353",
             "website": "cantas.id"
-        },
-        {
-            "id": "9cb1ac01-df91-46b9-95d9-1eedffc4c9c0",
-            "nama_pse": "AMMANA FINTEK SYARIAH",
-            "nama_se": "AMMANA MOBILE IOS APPLICATION",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11351",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac10-8945-4370-a33d-1048aaf891a1",
-            "nama_pse": "AMMANA FINTEK SYARIAH",
-            "nama_se": "AMMANA LENDER",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11352",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac01-e31e-4d04-9716-3e5cd666e0ab",
-            "nama_pse": "HASJRAT ABADI",
-            "nama_se": "HASJRAT TOYOTA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11354",
-            "website": "hasjrat-toyota.co.id"
-        },
-        {
-            "id": "9cb1abdd-204a-4172-9454-7242eb89a4e7",
-            "nama_pse": "QUANTUM INFRA SOLUSINDO",
-            "nama_se": "MEDINFRAS",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11355",
-            "website": "medinfras.com"
-        },
-        {
-            "id": "9cb1ac10-8c25-426e-8752-0501cdde94d9",
-            "nama_pse": "VIVA MEDIKA KONSULTAN",
-            "nama_se": "SIMRS VMK",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11356",
-            "website": "ptvmk.com"
-        },
-        {
-            "id": "9cb1ac10-8f32-42c4-a49e-0dd88dd6c96e",
-            "nama_pse": "INFO CRYPTO MEDIA",
-            "nama_se": "PT. INFO CRYPTO MEDIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11357",
-            "website": "infocrypto.id"
-        },
-        {
-            "id": "9cb1aba5-257b-4f69-910c-2d66fee03d15",
-            "nama_pse": "KITA SIAP SEJAHTERA",
-            "nama_se": "INPINJAMAN",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5140",
-            "website": "inpinjaman.com"
-        },
-        {
-            "id": "9cb1aba5-2e6b-4cb2-aed8-b8d65c1c7b4f",
-            "nama_pse": "MEDIPLUS KARYA INDONESIA",
-            "nama_se": "MEDIPLUS",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5150",
-            "website": "mediplusindonesia.co.id"
-        },
-        {
-            "id": "9cb1aba5-5f4c-4ddc-a2e4-3ba047224123",
-            "nama_pse": "BANGKIT BINA JAYA",
-            "nama_se": "NGEKLIK.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5419",
-            "website": "ngeklik.id"
-        },
-        {
-            "id": "9cb1abdd-0ab4-42ea-a5bb-e36a4cec3220",
-            "nama_pse": "SUKACITA TEKNOLOGI INDONESIA",
-            "nama_se": "COSMART",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11343",
-            "website": "cosmart.id"
-        },
-        {
-            "id": "9cb1abb2-c6a2-4bfb-9612-078307f62e91",
-            "nama_pse": "ASURANSI ARTARINDO",
-            "nama_se": "WEBSITE ARTARINDO",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6217",
-            "website": "artarindo.co.id"
         }
     ],
-    "processingTimeMs": 2,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 181,
     "totalPages": 383

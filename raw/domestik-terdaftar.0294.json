@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1aba4-ca6b-4db0-ab0a-36aacc246e28",
+            "nama_pse": "CARTENZ TECHNOLOGY INDONESIA",
+            "nama_se": "CITI GOV",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5014",
+            "website": "demo.smartgov.teknolab.id"
+        },
+        {
+            "id": "9cb1abae-8cf7-49dd-a1af-72625411f320",
+            "nama_pse": "BANK PAN INDONESIA",
+            "nama_se": "WEBSITE PANIN BANK",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5019",
+            "website": "panin.co.id"
+        },
+        {
+            "id": "9cb1aba4-cc47-49f6-8c74-b19347eed206",
+            "nama_pse": "KANMO RETAILINDO",
+            "nama_se": "WEB COLE HAAN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5018",
+            "website": "colehaan.co.id"
+        },
+        {
+            "id": "9cb1abae-8fbe-44a9-bdb6-11f269f2e41d",
+            "nama_pse": "DATACENTER INDONESIA SUKSES MAKMUR",
+            "nama_se": "DATACENTER INDONESIA SUKSES MAKMUR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5017",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abae-92e2-4846-8cf2-2c8262d8a939",
+            "nama_pse": "MULTITREND INDO",
+            "nama_se": "WEB MOMAMI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5021",
+            "website": "momami.co.id"
+        },
+        {
+            "id": "9cb1ab99-ab5b-46a6-8639-a579d6ad83f8",
+            "nama_pse": "JUSTIKA SIAR PUBLIKA",
+            "nama_se": "HOL",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5020",
+            "website": "hukumonline.com"
+        },
+        {
+            "id": "9cb1abae-9a91-4dc9-823b-2738dafcd9ec",
+            "nama_pse": "MULTITREND INDO",
+            "nama_se": "WEB EVERSINCE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5022",
+            "website": "eversince.co.id"
+        },
+        {
+            "id": "9cb1ab99-ad96-423f-9f05-fc7b0421d4be",
+            "nama_pse": "UNIVERSAL KARYA DIGITAL",
+            "nama_se": "HYPE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5023",
+            "website": "hype.co.id"
+        },
+        {
+            "id": "9cb1ab99-b823-4185-a471-1c65b0c77c79",
+            "nama_pse": "ALAMI FINTEK SHARIA",
+            "nama_se": "ALAMI SHARIA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5025",
+            "website": "p2p.alamisharia.co.id"
+        },
+        {
+            "id": "9cb1aba4-ceb2-4f21-8464-5a09d61678a0",
+            "nama_pse": "HAMIDUL UMAR",
+            "nama_se": "PERMID TEKNIK - SERVIS ELEKTRONIK JAMBI",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5026",
+            "website": "permidteknik.com"
+        },
+        {
             "id": "9cb1ab99-beb9-4bf6-96f8-abcf282bbeb8",
             "nama_pse": "BORNEO INTECH",
             "nama_se": "BORNEOJEK",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-06-29",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4942",
             "website": "prismaklik.com"
-        },
-        {
-            "id": "9cb1ab99-2816-4b82-9460-c5ac691d5c17",
-            "nama_pse": "INDRA FITRIADI",
-            "nama_se": "PORTAL BUANA NEWS GROUP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4937",
-            "website": "portalbuana.asia"
-        },
-        {
-            "id": "9cb1ab99-2ba3-433b-ad62-21c708758bcc",
-            "nama_pse": "CRIF LEMBAGA INFORMASI KEUANGAN",
-            "nama_se": "CBS NUSANTARA",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4938",
-            "website": "cbclik.com"
-        },
-        {
-            "id": "9cb1ab99-3000-4608-9b1d-c001db430ffb",
-            "nama_pse": "RTI INFOKOM",
-            "nama_se": "RTI MARKET INFO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4939",
-            "website": "rti.co.id"
-        },
-        {
-            "id": "9cb1ab99-3271-4f5e-a333-7d10bb4bf6b7",
-            "nama_pse": "RTI INFOKOM",
-            "nama_se": "RTI FINANCE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4940",
-            "website": "rti.co.id"
-        },
-        {
-            "id": "9cb1aba4-8a8c-440a-8f2e-3b7b00f84f93",
-            "nama_pse": "RTI INFOKOM",
-            "nama_se": "RTI TRADER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4941",
-            "website": "rti.co.id"
-        },
-        {
-            "id": "9cb1aba4-8d4a-43d6-99fd-a669924db7b5",
-            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
-            "nama_se": "DIGINET",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-06-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4943",
-            "website": "ib.bankbjb.co.id"
-        },
-        {
-            "id": "9cb1ab99-34d1-41da-89c3-6699371fa98c",
-            "nama_pse": "RTI INFOKOM",
-            "nama_se": "RTI MOBILE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4944",
-            "website": "Mobile.rti.co.id"
-        },
-        {
-            "id": "9cb1ab99-3847-438c-b2e1-ccb869ebe197",
-            "nama_pse": "SUPER EKA FAJAR",
-            "nama_se": "SUPER EKA FAJAR",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4946",
-            "website": "supertrack.my.id"
-        },
-        {
-            "id": "9cb1ab99-3b17-4b84-b43d-917f2c2c1d8a",
-            "nama_pse": "RTI INFOKOM",
-            "nama_se": "RTI RESEARCH",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4945",
-            "website": "rti.co.id"
-        },
-        {
-            "id": "9cb1ab99-3ea8-4f9c-9a1b-eb5912b3422a",
-            "nama_pse": "SINTESA PERSADA TEKNOLOGI",
-            "nama_se": "MEDISIN",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-06-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4947",
-            "website": "medisin.id"
         }
     ],
-    "processingTimeMs": 17,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 294,
     "totalPages": 383

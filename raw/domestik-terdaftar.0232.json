@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abf1-c3e1-424c-b9ae-47acd78a5df1",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BANK DAERAH KARANGANYAR PERSERODA",
+            "nama_se": "WEBSITE COMPANY PT. BPR BANK DAERAH KARANGANYAR (PERSERODA)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8673",
+            "website": "bankdaerah.co.id"
+        },
+        {
+            "id": "9cb1abf1-c748-47a7-9063-c0c77a489811",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BANK GIRI SUKA DANA WONOGIRI PERSERODA",
+            "nama_se": "VA BANK GIRI SUKA DANA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8675",
+            "website": "girisukadana.co.id"
+        },
+        {
+            "id": "9cb1abf1-cd39-4c8e-8f53-362ed08b4d29",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT DUTA PARAMARTA",
+            "nama_se": "PT BANK PERKREDITAN RAKYAT DUTA PARAMARTA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8674",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abcb-d3d4-4d63-9a6e-e87ae6c96bbc",
+            "nama_pse": "WAHANA MEDITEK INDONESIA",
+            "nama_se": "BACKOFFICE.PERIKSAIN.ID",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8677",
+            "website": "backoffice.periksain.id"
+        },
+        {
+            "id": "9cb1abcb-dcc9-4739-a7dd-5731c682406a",
+            "nama_pse": "MEDIA MATA WAKTU",
+            "nama_se": "MATAWAKTU.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8679",
+            "website": "matawaktu.co.id"
+        },
+        {
+            "id": "9cb1abcb-e140-4742-8e1b-4d3373a827aa",
+            "nama_pse": "WAHANA MEDITEK INDONESIA",
+            "nama_se": "PARTNER.PERIKSAIN.ID",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8680",
+            "website": "partner.periksain.id"
+        },
+        {
+            "id": "9cb1abf1-d61b-419a-a1d1-78bb6fc7b273",
+            "nama_pse": "WAHANA MEDITEK INDONESIA",
+            "nama_se": "SERVICE.DEV.PERIKSAIN.ID",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8681",
+            "website": "service.dev.periksain.id"
+        },
+        {
+            "id": "9cb1abf1-e28b-44a2-8b77-94c114cff1f4",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BANK DAERAH KARANGANYAR PERSERODA",
+            "nama_se": "BDK MOBILE PT. BPR BANK DAERAH KARANGANYAR (PERSERODA)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8682",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abcb-e659-43bc-acd7-dff22a99fedb",
+            "nama_pse": "WAHANA MEDITEK INDONESIA",
+            "nama_se": "SERVICE.PERIKSAIN.ID",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8683",
+            "website": "service.periksain.id"
+        },
+        {
+            "id": "9cb1abbc-5202-4050-b17d-6eea92e6e525",
+            "nama_pse": "PUNCAK AKSES FINANSIAL",
+            "nama_se": "ISCORE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8685",
+            "website": "-"
+        },
+        {
             "id": "9cb1abf1-e5be-4c8f-afb5-0b8df1999fc5",
             "nama_pse": "YOKULAK KREASI INDONESIA",
             "nama_se": "YO-KULAK",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7420",
             "website": "app.officely.id"
-        },
-        {
-            "id": "9cb1abe7-0c9f-4d7d-ac61-983de6c05f1d",
-            "nama_pse": "SOLUSI IDENTITAS GLOBAL NET",
-            "nama_se": "ESIGN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7295",
-            "website": "esign.id"
-        },
-        {
-            "id": "9cb1abb6-ef75-4f6d-8b1e-f78d4a5116ca",
-            "nama_pse": "CIMB NIAGA AUTO FINANCE",
-            "nama_se": "PORTAL PERUSAHAAN",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7317",
-            "website": "cnaf.co.id"
-        },
-        {
-            "id": "9cb1abb7-445d-442c-899a-abb6de7d832b",
-            "nama_pse": "WEB MEDIA TECHNOLOGY INDONESIA",
-            "nama_se": "WWW.NIAGAHOSTER.OC.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7288",
-            "website": "niagahoster.co.id"
-        },
-        {
-            "id": "9cb1abe8-252b-4fea-bab6-879c65d3294a",
-            "nama_pse": "BANK PERKREDITAN RAKYAT BAYUDHANA",
-            "nama_se": "BANKING SMART SYSTEM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7289",
-            "website": "BPRBAYUDHANA.COM"
-        },
-        {
-            "id": "9cb1abb7-5218-4710-8ebd-12ba942054e1",
-            "nama_pse": "GARENA INDONESIA",
-            "nama_se": "LEAGUE OF LEGENDS PC",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7388",
-            "website": "lol.garena.co.id"
-        },
-        {
-            "id": "9cb1abe8-4c9c-423a-a558-d409ea2b92f5",
-            "nama_pse": "GARENA INDONESIA",
-            "nama_se": "ARENA OF VALOR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7389",
-            "website": "aov.garena.co.id"
-        },
-        {
-            "id": "9cb1abc2-abf2-416d-9f69-47aa72f3e9d7",
-            "nama_pse": "INTERSOLUSI CIPTA SOFTINDO",
-            "nama_se": "HIDOK DAN MYHOSPITAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7548",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abe8-ba80-4e2f-a82f-e31aa8a05526",
-            "nama_pse": "AXA MANDIRI FINANCIAL SERVICES",
-            "nama_se": "AMFS AGEN LAKU PANDAI",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7482",
-            "website": "lakupandai.axa-mandiri.co.id"
-        },
-        {
-            "id": "9cb1abe8-be91-4c57-926c-b3fc5fca887e",
-            "nama_pse": "AXA MANDIRI FINANCIAL SERVICES",
-            "nama_se": "ASMIK",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7492",
-            "website": "layanan.axa-mandiri.co.id"
-        },
-        {
-            "id": "9cb1abc2-cfcc-41da-bebe-94241a41c5ff",
-            "nama_pse": "BANK SMBC INDONESIA",
-            "nama_se": "TOUCHBIZ",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7290",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 7,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 232,
     "totalPages": 383

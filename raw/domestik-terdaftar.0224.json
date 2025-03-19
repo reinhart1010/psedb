@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abcc-5820-4696-a64c-faf2677bb52b",
+            "nama_pse": "RADITYA ALKADEMI DIGITAL",
+            "nama_se": "ALKADEMI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8737",
+            "website": "alkademi.id"
+        },
+        {
+            "id": "9cb1abcc-5e2d-495f-9d3a-7c21a7a88b7d",
+            "nama_pse": "HASANAH JARIYAH APLIKANUSA",
+            "nama_se": "PASIFAMAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8738",
+            "website": "pasifamal.id"
+        },
+        {
+            "id": "9cb1abf2-30cd-4070-97b8-a5db4afc28c2",
+            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH AMANAHSEJAHTERA",
+            "nama_se": "AMANAH MOBILE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8739",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abcc-61f5-4eb7-b80a-39b7fda1bcd5",
+            "nama_pse": "BANK PERKREDITAN RAKYAT DEWATA CANDRADANA",
+            "nama_se": "PT BANK PERKREDITAN RAKYAT DEWATA CANDRADANA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8740",
+            "website": "bprcandra.com"
+        },
+        {
+            "id": "9cb1abbc-9472-44ae-9712-7b19d1a1ce2d",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT BADAN KREDIT KECAMATAN TASIKMADU PERSERODA KABUPATEN KARANGANYAR",
+            "nama_se": "PEMBAYARAN PBB",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8742",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abf2-3503-4d0b-8c69-1926ce155836",
+            "nama_pse": "PLN INDONESIA POWER SERVICES",
+            "nama_se": "MROLINE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8743",
+            "website": "MROline.cogindo.co.id"
+        },
+        {
+            "id": "9cb1abcc-6604-4eaa-a13a-706ab062e7fa",
+            "nama_pse": "MAKARA MAS",
+            "nama_se": "MAJA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8744",
+            "website": "dashboard.maja.id"
+        },
+        {
+            "id": "9cb1abcc-6969-4c82-9c13-a00b0d77a63e",
+            "nama_pse": "DARMAWATI",
+            "nama_se": "NOVAPAY",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8746",
+            "website": "novapay.bukaolshop.site"
+        },
+        {
+            "id": "9cb1abf2-39c3-47f5-bb65-b569566c45e2",
+            "nama_pse": "REAL ESTATE TEKNOLOGI",
+            "nama_se": "RENTFIX.COM",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8747",
+            "website": "rentfix.com"
+        },
+        {
+            "id": "9cb1abbc-97e1-4c3c-8555-6764566c53fb",
+            "nama_pse": "HASANAH JARIYAH APLIKANUSA",
+            "nama_se": "DUTAWAKAF",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8748",
+            "website": "pasifamal.id"
+        },
+        {
             "id": "9cb1abcc-6e4a-495d-b341-0e8fe3881b6f",
             "nama_pse": "STORIAL INDONESIA JAYA",
             "nama_se": "STORIAL.CO",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-22",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8799",
             "website": "bprbahteramasraha.com"
-        },
-        {
-            "id": "9cb1abbc-b64e-4303-af65-36dae7f3a295",
-            "nama_pse": "BANK PERKREDITAN RAKYAT CARUBAN INDAH",
-            "nama_se": "BPR CARUBAN INDAH",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8800",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abf2-8fa9-46e9-8dab-e12b2eb26437",
-            "nama_pse": "ASURANSI EKA LLOYD JAYA",
-            "nama_se": "WEBSITE EKALLOYD.COM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8827",
-            "website": "ekalloyd.com"
-        },
-        {
-            "id": "9cb1abbc-b863-4e2d-9795-aeaff5bce4f7",
-            "nama_pse": "OKWI NUSANTARA SOLUSINDO",
-            "nama_se": "OKWI NUSANTARA SOLUSINDO",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8801",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abcc-c198-4f96-bc4b-9acc1ef3634d",
-            "nama_pse": "BANK PERKREDITAN RAKYAT ARTA PUNDI MEKAR",
-            "nama_se": "PT BPR ARTA PUNDI MEKAR",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8802",
-            "website": "artapundimekar.co.id"
-        },
-        {
-            "id": "9cb1abf2-9415-4358-a389-8eb6ef2add01",
-            "nama_pse": "KMO INDONESIA",
-            "nama_se": "BUKULAKU",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8804",
-            "website": "bukulaku.id"
-        },
-        {
-            "id": "9cb1abf2-9ab7-4813-8847-6f95a794aae1",
-            "nama_pse": "WAHANA ANUGERAH ENERGI",
-            "nama_se": "RAPEL INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8805",
-            "website": "rapel.id"
-        },
-        {
-            "id": "9cb1abf2-9f5c-47e4-85d6-216d773153f4",
-            "nama_pse": "EDEM CAPITAL SERVICE",
-            "nama_se": "WWW.TAVOLOGROUP.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8808",
-            "website": "tavologroup.com"
-        },
-        {
-            "id": "9cb1abf2-a322-4fcc-a0b1-a212fe3dac39",
-            "nama_pse": "SUPRA PRIMATAMA NUSANTARA",
-            "nama_se": "BIZNET HOTSPOT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8807",
-            "website": "biznethotspot.com"
-        },
-        {
-            "id": "9cb1abbc-ba35-4dc1-8326-ad2c528182b4",
-            "nama_pse": "GLOBAL ONKOLAB FARMA",
-            "nama_se": "HTTPS://WWW.ICCC.ID/",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8806",
-            "website": "iccc.id"
-        },
-        {
-            "id": "9cb1abf2-a6ec-43b2-a78e-1a34982e8d12",
-            "nama_pse": "GLOBAL CIPTA LINEA",
-            "nama_se": "DREAM WAIST",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8826",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 224,
     "totalPages": 383

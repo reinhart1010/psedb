@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abd0-cc0e-4c6d-b03c-ea558ac7665e",
+            "nama_pse": "APLIKANUSA LINTASARTA",
+            "nama_se": "LINTASARTA E-COMMERCE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9348",
+            "website": "lintasarta.net"
+        },
+        {
+            "id": "9cb1abd0-d66b-4a47-bd60-2d284c98d12a",
+            "nama_pse": "BPR JWALITA TRENGGALEK PERSERODA",
+            "nama_se": "HEXACORE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9350",
+            "website": "bprjwalita.com"
+        },
+        {
+            "id": "9cb1abcf-dbfd-4bb8-a51a-5de07867836b",
+            "nama_pse": "BANK PERKREDITAN RAKYAT ANGGA PERKASA",
+            "nama_se": "ANGGAPERKASA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9351",
+            "website": "anggaperkasa.co.id"
+        },
+        {
+            "id": "9cb1abcf-e390-49ad-a4ad-c3584f69005a",
+            "nama_pse": "SWABINA GATRA",
+            "nama_se": "PENGGUNAAN SPEKTRUM FREKUENSI RADIO HT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9361",
+            "website": "swabina.id"
+        },
+        {
+            "id": "9cb1abcf-e8aa-4f59-b18b-2ad82bb17c9f",
+            "nama_pse": "MEGA CEMERLANG INDONESIA",
+            "nama_se": "MEGAKAMERA.CO.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9352",
+            "website": "megakamera.co.id"
+        },
+        {
+            "id": "9cb1abcf-efee-49cf-8430-f9074a57fd9c",
+            "nama_pse": "IZAUNET BERKAH MANDIRI",
+            "nama_se": "HTTPS://IZAUNET.COM/",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9353",
+            "website": "izaunet.com"
+        },
+        {
+            "id": "9cb1abf6-57fd-451a-948c-d48138646c47",
+            "nama_pse": "BANK PERKREDITAN RAKYAT NUSAMBA SINGAPARNA",
+            "nama_se": "BPR NUSAMBA SINGAPARNA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9355",
+            "website": "bprnusamba-singaparna.com"
+        },
+        {
+            "id": "9cb1abd0-dc35-4846-8625-0982346068f9",
+            "nama_pse": "MULTIFINANCE ANAK BANGSA",
+            "nama_se": "MULTIFINANCE ANAK BANGSA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9364",
+            "website": "mab.co.id"
+        },
+        {
+            "id": "9cb1abf6-5af9-4c12-84dc-054024c55374",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT NUSANTARA BONA PASOGIT EMPAT BELAS",
+            "nama_se": "WEBSITE PT BPR NBP 14",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9357",
+            "website": "bprnbp14.com"
+        },
+        {
+            "id": "9cb1abd0-dfda-4153-b593-9c128b945ce6",
+            "nama_pse": "NATANETWORK SOLUTION",
+            "nama_se": "NATANETWORK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9359",
+            "website": "natanetwork.com"
+        },
+        {
             "id": "9cb1abf6-5df5-4ccb-87cc-9c941c9ddf3f",
             "nama_pse": "BANK PEREKONOMIAN RAKYAT LESTARI JABAR",
             "nama_se": "WEBSITE BPR LESTARI JABAR",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-28",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9223",
             "website": "datautama.com"
-        },
-        {
-            "id": "9cb1abf5-7f0e-4bcc-82ea-7092697a9c2d",
-            "nama_pse": "SONY INDONESIA",
-            "nama_se": "OFFICIAL WEBSITE SONY INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9232",
-            "website": "sony.co.id"
-        },
-        {
-            "id": "9cb1abf5-82f0-40dd-a4a3-64ef2ad5ada9",
-            "nama_pse": "BIG DATA NUSANTARA",
-            "nama_se": "BERICHINDONESIA.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9224",
-            "website": "Berichindonesia.com"
-        },
-        {
-            "id": "9cb1abbe-a72d-4357-a8ee-162cc0c68e7b",
-            "nama_pse": "WAHANA TRANSFORMASI DIGITAL INDONESIA",
-            "nama_se": "SISEGI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9225",
-            "website": "sisegi.id"
-        },
-        {
-            "id": "9cb1abf5-8e9e-4607-b1f2-44a66c6c4ee7",
-            "nama_pse": "DIGITAL MULTI INOVASI",
-            "nama_se": "OPAYKLIK.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9226",
-            "website": "opayklik.id"
-        },
-        {
-            "id": "9cb1abcf-3bf6-48f5-851e-d8dd7cdac980",
-            "nama_pse": "PHILLIP FUTURES",
-            "nama_se": "NOVA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9227",
-            "website": "888.mobpts.com"
-        },
-        {
-            "id": "9cb1abbe-aa9f-40a5-8987-4c9360a40583",
-            "nama_pse": "SISTEM SEKOLAH SUKSES",
-            "nama_se": "SOFTWARE SEKOLAH",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9228",
-            "website": "softwaresekolah.id"
-        },
-        {
-            "id": "9cb1abbe-ae2b-45f3-a485-1b72927f9438",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT DANAMAS PRATAMA",
-            "nama_se": "PT BPR DANAMAS PRATAMA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9229",
-            "website": "bprdanamas.co.id"
-        },
-        {
-            "id": "9cb1abf5-9234-4966-b075-7b0d6a48b22c",
-            "nama_pse": "ANS SOLUSI BERKAH",
-            "nama_se": "ANSKLIK.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9230",
-            "website": "ansklik.id"
-        },
-        {
-            "id": "9cb1abbe-b258-4b53-a460-cb66074fc358",
-            "nama_pse": "BFI FINANCE INDONESIA",
-            "nama_se": "BFI CONNECT (BFI FINANCE)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9231",
-            "website": "connect.bfi.co.id"
-        },
-        {
-            "id": "9cb1abcf-454b-4f2a-92f4-cefaeb7478e9",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT ARTA TAMAN DAYU",
-            "nama_se": "PT BANK PERKREDITAN RAKYAT ARTA TAMAN DAYU",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9234",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 215,
     "totalPages": 383

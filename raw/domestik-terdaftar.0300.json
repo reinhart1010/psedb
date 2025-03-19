@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1aba3-7f34-4044-8fd8-9e7ad38098fa",
+            "nama_pse": "RULLY SIREY",
+            "nama_se": "ZAHSY ALESHA DIGITAL \u0026 TECH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4570",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba3-8424-46b8-838b-4d81db813b4d",
+            "nama_pse": "WILKA ENERGI SOLUSI",
+            "nama_se": "WILKA STORE",
+            "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
+            "tanggal_terbit": "2022-06-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4571",
+            "website": "wilkastore.co.id"
+        },
+        {
+            "id": "9cb1aba3-4b05-46ea-b33d-c765c7fe3896",
+            "nama_pse": "EMA NUR LUTHFIYANI",
+            "nama_se": "ALESHAPUTRISHOP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4514",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abad-6359-4c20-bdfd-a45e419338d2",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+            "nama_se": "BRISTORE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4515",
+            "website": "bristore.id"
+        },
+        {
+            "id": "9cb1abad-65ec-4885-81fc-d6d36d1fb5de",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+            "nama_se": "BRISPOT EKSTERNAL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4516",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba3-4d02-42f3-8f5a-610ed1bf760d",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+            "nama_se": "BRISPOT KONSUMER",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4517",
+            "website": "Brispotkonsumer.bri.co.id"
+        },
+        {
+            "id": "9cb1abad-688d-4522-8de5-88673230931a",
+            "nama_pse": "PABRIK SARI SENI",
+            "nama_se": "SHOPIFY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4518",
+            "website": "atelierpadmala.com"
+        },
+        {
+            "id": "9cb1ab97-c30f-4993-a2dd-9f53cc1533ee",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+            "nama_se": "BRI LOYALTY POIN (BRIPOIN)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4519",
+            "website": "bripoin.bri.co.id"
+        },
+        {
+            "id": "9cb1aba3-4ed4-4e55-b0ac-e9b08865d34d",
+            "nama_pse": "MENN TEKNOLOGI INDONESIA",
+            "nama_se": "GPS TRACKER",
+            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4520",
+            "website": "menngroup.id"
+        },
+        {
+            "id": "9cb1aba3-511d-4d85-8700-aa2c5da02610",
+            "nama_pse": "KERETA COMMUTER INDONESIA",
+            "nama_se": "COMMUTER.ID",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-06-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4521",
+            "website": "krl.co.id"
+        },
+        {
             "id": "9cb1aba3-5304-41e3-91a1-b380a672ef89",
             "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
             "nama_se": "SISTEM CHATBOT SABRINA BRI",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-06-09",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4301",
             "website": "hdk-solution.id"
-        },
-        {
-            "id": "9cb1ab96-8048-444e-8d17-189a9be9bb7c",
-            "nama_pse": "HADEKA MULTISOLUTION",
-            "nama_se": "HADEKAMULTISOLUTION",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4302",
-            "website": "hdk-solution.id"
-        },
-        {
-            "id": "9cb1ab96-82b9-4a28-9441-bc99b0a413f9",
-            "nama_pse": "HADEKA MULTISOLUTION",
-            "nama_se": "HDK MULTISOLUTION",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4303",
-            "website": "hdk-solution.id"
-        },
-        {
-            "id": "9cb1aba2-69e8-42e9-b113-a7d305dcdafa",
-            "nama_pse": "ARASH DIGITAL REKADANA",
-            "nama_se": "SISTEM INTEGRATOR PEMBAYARAN LINTAS BATAS (CROSS BORDER PAYMENT) MENGGUNAKAN QRIS (QUICK RESPONSE INDONESIA STANDARD)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4304",
-            "website": "arashdigital.id"
-        },
-        {
-            "id": "9cb1abac-c891-44ce-9a76-6577a702e300",
-            "nama_pse": "PATIMURA MEDIA SIBER",
-            "nama_se": "TRILOGIS.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4305",
-            "website": "trilogis.id"
-        },
-        {
-            "id": "9cb1abac-ca77-48ce-b942-cc4e86ecad74",
-            "nama_pse": "SOMA KARYA GEMILANG",
-            "nama_se": "KASKU",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4306",
-            "website": "kasku.id"
-        },
-        {
-            "id": "9cb1aba2-6d14-4039-a78b-76bd0106da2c",
-            "nama_pse": "SOFIN TEKNOLOGI UTAMA",
-            "nama_se": "NYMBI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4307",
-            "website": "copytrade.nymbi.id"
-        },
-        {
-            "id": "9cb1abac-ce5a-408f-b1ff-5995ce313ce2",
-            "nama_pse": "DIGITAL KREATIF MILENIAL",
-            "nama_se": "WETALK",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4308",
-            "website": "wetalk.id"
-        },
-        {
-            "id": "9cb1aba2-6ff8-495d-80c0-bd39659c97db",
-            "nama_pse": "MANDRAKARTA",
-            "nama_se": "MANDRAKARTA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4309",
-            "website": "mandrakarta.id"
-        },
-        {
-            "id": "9cb1aba2-7674-4224-a89a-925138ad93e4",
-            "nama_pse": "MANDRAKARTA",
-            "nama_se": "CV.MANDRAKARTA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4310",
-            "website": "mandrakarta.id"
-        },
-        {
-            "id": "9cb1ab96-85c8-4335-aaf7-5d305a21e292",
-            "nama_pse": "BALAI LELANG SINARMAS",
-            "nama_se": "SIMASBID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4311",
-            "website": "balailelangsimas.id"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 300,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9ce5ef80-14b3-457e-ac94-02825bee2127",
+            "nama_pse": "PUTRI YASNI GROUP",
+            "nama_se": "SIMRS KHANZA KLINIK PUTRU YASNI MEDIKA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-08-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20196",
+            "website": "-"
+        },
+        {
+            "id": "9ce33c5d-13ac-4148-8b72-b26655907365",
+            "nama_pse": "DUTA SOLUSI MEDIATEK",
+            "nama_se": "DUTA SOLUSI MEDIATEK",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20184",
+            "website": "dutasolusimediatek.com"
+        },
+        {
+            "id": "9ce2eeb6-476d-4287-9869-8277c01e358e",
+            "nama_pse": "SQUARE LANE TRADING",
+            "nama_se": "SQUARE LANE TRADING",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20181",
+            "website": "squarelanetrd.com"
+        },
+        {
+            "id": "9ce416b1-c395-4e16-a92f-f54c88fd886f",
+            "nama_pse": "INDO TECH CONSULTING",
+            "nama_se": "SIMRS AZURA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20192",
+            "website": "-"
+        },
+        {
+            "id": "9ce2dae7-9626-47c9-a34c-81b8dd9672d2",
+            "nama_pse": "EATIKI",
+            "nama_se": "YOBO",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan",
+            "tanggal_terbit": "2024-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20180",
+            "website": "yobo.id"
+        },
+        {
+            "id": "9ce2ca54-cd4f-49d6-a30e-c3f4211b599a",
+            "nama_pse": "NEGERI SEJUTA PESONA",
+            "nama_se": "rc drive",
+            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20179",
+            "website": "-"
+        },
+        {
+            "id": "9ce29f15-a676-433a-a557-39f7b74f9f92",
+            "nama_pse": "SOLUSI TEKNOLOGI UNGGUL",
+            "nama_se": "solusipbx.com",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20177",
+            "website": "solusipbx.com"
+        },
+        {
+            "id": "9ce35d7b-c995-446c-98be-b8a56a37b702",
+            "nama_pse": "BMT AL IKHWAN",
+            "nama_se": "AL IKHWAN ANGGOTA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20186",
+            "website": "bmtalikhwan.com"
+        },
+        {
+            "id": "9ce2f815-e0ce-4a64-aae7-02e10c6771e6",
+            "nama_pse": "RED LINFEN",
+            "nama_se": "RED LINFEN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20182",
+            "website": "redlinfen.online"
+        },
+        {
+            "id": "9ce3503c-ce56-4e93-9b45-ed7104226f97",
+            "nama_pse": "APLIKASI PLATFORM NOMADEN",
+            "nama_se": "NOMADEN TV",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20185",
+            "website": "nomaden.tv"
+        },
+        {
             "id": "9ce2c198-8461-4127-814c-0710b960daab",
             "nama_pse": "KOLEGA JASA LEGAL",
             "nama_se": "kolegajasa legal",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-08-27",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20134",
             "website": "-"
-        },
-        {
-            "id": "9cdd21d6-b167-4fe5-8bd2-3c46303bc5ad",
-            "nama_pse": "MNC ASURANSI INDONESIA",
-            "nama_se": "MOTION SAFE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-08-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20136",
-            "website": "-"
-        },
-        {
-            "id": "9cdcde24-796d-47b1-935f-d325e432d563",
-            "nama_pse": "MARADEKATECH",
-            "nama_se": "simkemas",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20128",
-            "website": "simkemas.maradekatech.com"
-        },
-        {
-            "id": "9cdd00a3-5448-4ff7-b8de-c75e0d8d30c2",
-            "nama_pse": "ARIEL",
-            "nama_se": "GRAPHIE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20131",
-            "website": "graphie.co.id"
-        },
-        {
-            "id": "9cdce93b-9279-4d03-88f6-9f9ceb09f9ba",
-            "nama_pse": "ASTRA HONDA MOTOR",
-            "nama_se": "HONDA ROADSYNC",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi",
-            "tanggal_terbit": "2024-08-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20130",
-            "website": "-"
-        },
-        {
-            "id": "9cdd06aa-2118-4b1f-ae2e-0d9ccef7979d",
-            "nama_pse": "MAJELIS PENDIDIKAN TINGGI KAHMI",
-            "nama_se": "AICLASS (LEARNING MANAGEMENT SYSTEM – FEATURING ARTIFICIAL INTELLIGENCE)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20132",
-            "website": "uici.ac.id"
-        },
-        {
-            "id": "9cdd219c-9ba3-4959-a65c-e7af23d00453",
-            "nama_pse": "ASURANSI JIWA SYARIAH KITABISA",
-            "nama_se": "asuransikitabisa.com",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-08-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20135",
-            "website": "asuransikitabisa.com"
-        },
-        {
-            "id": "9cdd3a47-4c3b-4292-bf1e-012d0c5e63d2",
-            "nama_pse": "TYMY TEH INDONESIA",
-            "nama_se": "TYMYS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20137",
-            "website": "ctid.tymys.com"
-        },
-        {
-            "id": "9cdd7490-8219-4763-ab10-5f30f8a2f12d",
-            "nama_pse": "TIGA PUTRA BANGKA BERSATU",
-            "nama_se": "3Putra Hotel Tour",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2024-08-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20143",
-            "website": "3putrahoteltour.com"
-        },
-        {
-            "id": "9cdd4c17-7536-4153-af1b-ec8f1d735b21",
-            "nama_pse": "SOLUSI KEUANGAN BERSAMA",
-            "nama_se": "BISALUNAS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20138",
-            "website": "bisalunas.id"
-        },
-        {
-            "id": "9cdd67f8-56c7-4be7-a3c7-081de6b117f0",
-            "nama_pse": "BESARINDO JAYA SUKSES",
-            "nama_se": "BESA IINDO JAYA SUKSES",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20140",
-            "website": "besarindojayasukses.web.id"
         }
     ],
     "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 44,
     "totalPages": 383

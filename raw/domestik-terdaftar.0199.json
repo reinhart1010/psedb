@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1abfd-2aa2-4041-afef-ea6c57211cbd",
+            "nama_pse": "TOBANG TEKNOLOGI INDONESIA",
+            "nama_se": "TOBANG MARKETPLACE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10374",
+            "website": "tobang.co.id"
+        },
+        {
+            "id": "9cb1abd7-3062-4108-b9dc-98d7be164777",
+            "nama_pse": "INDONESIA COMNETS PLUS",
+            "nama_se": "CHARGE.IN",
+            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10375",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac0b-f887-4b3c-9792-abaa75f5eb79",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT SYARIAH IHSANUL AMAL",
+            "nama_se": "BANK PEMBIAYAAN RAKYAT SYARIAH",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10376",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abfd-2dfc-4b7d-a141-578a2ee62a43",
+            "nama_pse": "MUTIARA SAMUDERA PASAI",
+            "nama_se": "SHINE-INDONESIA.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10377",
+            "website": "shine-indonesia.com"
+        },
+        {
+            "id": "9cb1abfd-344c-4248-9cdc-f223cabddf4e",
+            "nama_pse": "LANGIT DATA NUSANTARA",
+            "nama_se": "TWINMIRROR.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10379",
+            "website": "twinmirror.id"
+        },
+        {
+            "id": "9cb1abfd-3717-4075-bf42-631a85cc67aa",
+            "nama_pse": "SOCIOLLA RITEL INDONESIA",
+            "nama_se": "SOCIOLLA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10380",
+            "website": "sociolla.com"
+        },
+        {
+            "id": "9cb1abfc-bf9b-481f-be42-a8bf5f62f40f",
+            "nama_pse": "ACCESS DIGITAL FRONTIER",
+            "nama_se": "AMBON ACCESS",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10302",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abfc-c2d4-41c1-ad7c-4aa66fc45d03",
+            "nama_pse": "BERANTASTIPIKOR MEDIA PERSADA",
+            "nama_se": "BERANTASTIPIKOR.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10301",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac0b-be21-4001-b89e-9efd802e1cef",
+            "nama_pse": "TRESIA EKA WAHYUNI",
+            "nama_se": "EMINAT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10303",
+            "website": "eminat.store"
+        },
+        {
+            "id": "9cb1abfc-c6f9-44e9-83c3-c57555cf1c9c",
+            "nama_pse": "MUHAMMAD AJI PANGESTU",
+            "nama_se": "UNIT P2S",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10335",
+            "website": "unitp2s.catpesut.online"
+        },
+        {
+            "id": "9cb1ac0b-c158-42b4-8f8c-3ec138dc293b",
+            "nama_pse": "TRESIA EKA WAHYUNI",
+            "nama_se": "EMINAT (MAMI DONAT IBU RERE)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10336",
+            "website": "eminat.store"
+        },
+        {
             "id": "9cb1abfc-cc65-4bf8-a38a-ba48344cbaf6",
             "nama_pse": "MUHAMMAD AJI PANGESTU",
             "nama_se": "WEB KELURAHAN HANDIL BAKTI",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-08-12",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10286",
             "website": "-"
-        },
-        {
-            "id": "9cb1abfc-b36f-45eb-be2b-5ea955b5d37f",
-            "nama_pse": "FENIX HAVEN MULTINDO",
-            "nama_se": "BIDAJA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10287",
-            "website": "bidaja.co.id"
-        },
-        {
-            "id": "9cb1abd6-dfce-4257-9d13-1d5719b13447",
-            "nama_pse": "GARAPAN TEKNOLOGI INDONESIA",
-            "nama_se": "BOONDA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10288",
-            "website": "boonda.id"
-        },
-        {
-            "id": "9cb1abd6-e303-468e-a4ba-2810459ecee4",
-            "nama_pse": "FENIX HAVEN MULTINDO",
-            "nama_se": "BIDAJA 46491",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10297",
-            "website": "bidaja.co.id"
-        },
-        {
-            "id": "9cb1abd6-e62c-4ea5-9239-eca0dc38413b",
-            "nama_pse": "FENIX HAVEN MULTINDO",
-            "nama_se": "BIDAJA 46511",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10296",
-            "website": "bidaja.co.id"
-        },
-        {
-            "id": "9cb1abd6-ea09-499c-a8cf-401ddf04d2a2",
-            "nama_pse": "FENIX HAVEN MULTINDO",
-            "nama_se": "BIDAJA 46523",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10295",
-            "website": "bidaja.co.id"
-        },
-        {
-            "id": "9cb1ac0b-b5b9-473e-af06-15126b6ca2e0",
-            "nama_pse": "FENIX HAVEN MULTINDO",
-            "nama_se": "BIDAJA 46512",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10294",
-            "website": "bidaja.co.id"
-        },
-        {
-            "id": "9cb1abd6-ee2f-4efe-8987-c1915205494a",
-            "nama_pse": "FENIX HAVEN MULTINDO",
-            "nama_se": "BIDAJA 47911",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10293",
-            "website": "bidaja.co.id"
-        },
-        {
-            "id": "9cb1abd6-f23c-4c24-b8e4-af8509bc6015",
-            "nama_pse": "FENIX HAVEN MULTINDO",
-            "nama_se": "BIDAJA 70209",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10292",
-            "website": "bidaja.co.id"
-        },
-        {
-            "id": "9cb1abd6-f5c2-446f-8f2b-c0fa3a1a7b23",
-            "nama_pse": "FENIX HAVEN MULTINDO",
-            "nama_se": "BIDAJA 73100",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10290",
-            "website": "bidaja.co.id"
-        },
-        {
-            "id": "9cb1abd6-f9ec-4f17-9ba5-b23d31cd4d31",
-            "nama_pse": "FENIX HAVEN MULTINDO",
-            "nama_se": "BIDAJA 74902",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10289",
-            "website": "bidaja.co.id"
-        },
-        {
-            "id": "9cb1abfc-b665-4d27-af37-4d1f228a3801",
-            "nama_pse": "GARAPAN TEKNOLOGI INDONESIA",
-            "nama_se": "BOONDA APP",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10291",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 6,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 199,
     "totalPages": 383

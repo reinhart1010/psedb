@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb0-01dc-4dec-8a7e-3c14f2eb504f",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+            "nama_se": "BRICARD",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5435",
+            "website": "bricard.bri.co.id"
+        },
+        {
+            "id": "9cb1abb0-0453-4ffb-85e6-cf085297a6d0",
+            "nama_pse": "HALO BELANJA DOTCOM",
+            "nama_se": "HALO BELANJA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5436",
+            "website": "halobelanja.com"
+        },
+        {
+            "id": "9cb1abb0-0699-45c3-9ae5-9825fa4a292d",
+            "nama_pse": "ALIRAN SUMBER BERKAT",
+            "nama_se": "WAHYOO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5439",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb0-0925-47bf-85b6-a32e94dec310",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+            "nama_se": "NELAYAN SEJAHTERA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5438",
+            "website": "nelayansejahtera.bri.co.id"
+        },
+        {
+            "id": "9cb1ab9b-6887-48fa-907e-b0872c8fb353",
+            "nama_pse": "HALO BELANJA DOTCOM",
+            "nama_se": "HALOBELANJADOTCOM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5441",
+            "website": "halobelanja.com"
+        },
+        {
+            "id": "9cb1aba6-3a91-4e4e-bf0a-36e54614d8ad",
+            "nama_pse": "ASURANSI JIWA INHEALTH INDONESIA",
+            "nama_se": "SIMO",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5442",
+            "website": "simo.inhealth.co.id"
+        },
+        {
+            "id": "9cb1aba6-3c4d-4d4d-9a61-f97b8fd875c2",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+            "nama_se": "SINPI (SISTEM INFORMASI PERTANIAN INDONESIA)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5443",
+            "website": "sinpi.bri.co.id"
+        },
+        {
+            "id": "9cb1abb0-0b78-4d82-a4ab-59ba3dadb988",
+            "nama_pse": "HALO BELANJA DOTCOM",
+            "nama_se": "HALOBELANJA DOTCOM",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5444",
+            "website": "halobelanja.com"
+        },
+        {
+            "id": "9cb1ab9b-6ab8-4c87-a6fd-63ae108db03a",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+            "nama_se": "DASHBOARD BPUM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5445",
+            "website": "dashboard.bri.co.id"
+        },
+        {
+            "id": "9cb1aba6-3eb5-45a9-bda6-4b3b99032c4e",
+            "nama_pse": "SARANA SANTOSA SEJATI",
+            "nama_se": "PLUANGGROW.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5446",
+            "website": "pluanggrow.com"
+        },
+        {
             "id": "9cb1abb0-0e0c-4cd5-9179-e5fc209ae8bd",
             "nama_pse": "LOLC VENTURA INDONESIA",
             "nama_se": "OFFICIAL WEBSITE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-13",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5504",
             "website": "cuanae.com"
-        },
-        {
-            "id": "9cb1abb0-40d5-4f6c-9ceb-d4ff1b115d21",
-            "nama_pse": "TERA KREASI SEMESTA",
-            "nama_se": "BATUSTORE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5506",
-            "website": "batustore.com"
-        },
-        {
-            "id": "9cb1aba6-6e70-4fc1-a523-76c8c749da3b",
-            "nama_pse": "ADIRA DINAMIKA MULTI FINANCE",
-            "nama_se": "MOMOBIL.ID",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5507",
-            "website": "momobil.id"
-        },
-        {
-            "id": "9cb1abb0-4455-4a94-8a52-9fb6d7234461",
-            "nama_pse": "ISAN TECHNOLOGY INDONESIA",
-            "nama_se": "AGRION TRADER",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5508",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba6-70ee-4ce2-aa24-0a62e8a8f1fa",
-            "nama_pse": "VIVA MEDIKA",
-            "nama_se": "VIVA MEDIKA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5509",
-            "website": "Vivamedika.id"
-        },
-        {
-            "id": "9cb1abb0-466b-4b99-ae44-edf6d05da262",
-            "nama_pse": "TERA KREASI SEMESTA",
-            "nama_se": "SAHABATBAYAR",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5511",
-            "website": "sahabatbayar.com"
-        },
-        {
-            "id": "9cb1aba6-7367-415e-98a9-e9c47b3ced60",
-            "nama_pse": "VIVA MEDIKA",
-            "nama_se": "VIVA MEDIKA APPS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5512",
-            "website": "vivamedika.id"
-        },
-        {
-            "id": "9cb1aba6-75fd-4440-853a-c6430a8c70d1",
-            "nama_pse": "TERA KREASI SEMESTA",
-            "nama_se": "BAKULAN ELEKTRIK",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5513",
-            "website": "bakulanelektrik.com"
-        },
-        {
-            "id": "9cb1abb0-485f-47b0-85c0-bb0321b4fd7e",
-            "nama_pse": "BANK MEGA SYARIAH",
-            "nama_se": "M-SYARIAH",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5514",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb0-4af3-4868-a04f-b720eb88b637",
-            "nama_pse": "ASURANSI UMUM BCA",
-            "nama_se": "WEBSITE BCAINSURANCE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5515",
-            "website": "bcainsurance.co.id"
-        },
-        {
-            "id": "9cb1abb0-4d14-4368-8198-6b7b1688f769",
-            "nama_pse": "ASURANSI UMUM BCA",
-            "nama_se": "BCAINSURANCE MOBILE APPS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5516",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 285,
     "totalPages": 383

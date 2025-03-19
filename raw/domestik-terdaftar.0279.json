@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1aba7-1f3c-4700-9bd5-16ed6b7d0a54",
+            "nama_pse": "GEMINTANG KARYA DIGITAL",
+            "nama_se": "DEALDEAL.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5740",
+            "website": "dealdeal.id"
+        },
+        {
+            "id": "9cb1abb0-dd55-4bae-a93a-2abae1fdb905",
+            "nama_pse": "BERLIAN SEJATI INDONESIA",
+            "nama_se": "BSI NETWORK",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5738",
+            "website": "bsisukses.com"
+        },
+        {
+            "id": "9cb1aba7-213e-41e9-bc09-b0a2699eef1d",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SOLOK SAKATO",
+            "nama_se": "PT. BPR SOLOK SAKATOA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5739",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb0-e4db-4e02-a568-9275f5df9347",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SARANTAU SASURAMBI",
+            "nama_se": "PT BANK PERKREDTAN RAKYAT SARANTAU SASURAMBI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5743",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba7-2324-477c-a00a-240e4b45bfe6",
+            "nama_pse": "SHOPEE INTERNATIONAL INDONESIA",
+            "nama_se": "WEBSITE DAN APLIKASI MITRA SHOPEE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5741",
+            "website": "mitra.shopee.co.id"
+        },
+        {
+            "id": "9cb1abb0-ee17-4180-bd22-c33e5c09db5e",
+            "nama_pse": "ASURANSI DAYIN MITRA",
+            "nama_se": "DAYIN CARE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5742",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb0-f0e7-431f-8c11-39b68f23a978",
+            "nama_pse": "ASURANSI JIWA GENERALI INDONESIA",
+            "nama_se": "IPROPOSE YOU",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5744",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb0-f384-4574-b8c6-bf90806af67d",
+            "nama_pse": "INCLUSIVE FINANCE GROUP",
+            "nama_se": "WEBSITE DANACITA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5746",
+            "website": "danacita.co.id"
+        },
+        {
+            "id": "9cb1ab9c-7a5c-481c-9017-b8e59f39460a",
+            "nama_pse": "SHOPEE INTERNATIONAL INDONESIA",
+            "nama_se": "WEBSITE DAN APLIKASI SHOPEEFOOD DRIVER",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5747",
+            "website": "shopeefood.co.id"
+        },
+        {
+            "id": "9cb1aba7-26c0-4dc9-a89f-feba82a06234",
+            "nama_pse": "MITRA PAJAKKU",
+            "nama_se": "MITRA PAJAKKU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5749",
+            "website": "pajakku.com"
+        },
+        {
             "id": "9cb1ab9c-7c5a-4d4f-84bc-8ac7d897feee",
             "nama_pse": "BANK PERKREDITAN RAKYAT KOTA ARANG SEJAHTERA",
             "nama_se": "PT BPR KOTA ARANG SEJAHTERA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-15",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5797",
             "website": "motion-sure.id"
-        },
-        {
-            "id": "9cb1abb1-2007-4044-818d-452f704f950f",
-            "nama_pse": "BANK PERKREDITAN RAKYAT GENTENG",
-            "nama_se": "BPR GENTENG",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5795",
-            "website": "bprgenteng.co.id"
-        },
-        {
-            "id": "9cb1abb1-22dc-47ca-9327-7b369c9ad8b9",
-            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
-            "nama_se": "BJB GIFT",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5796",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba7-47ae-41a0-8dba-b2ba768af60d",
-            "nama_pse": "SOL MITRA FINTEC",
-            "nama_se": "INVOILA",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5799",
-            "website": "invoila.co.id"
-        },
-        {
-            "id": "9cb1abb1-2519-4b0e-aa6b-66a8a62116f9",
-            "nama_pse": "BANK NATIONALNOBU",
-            "nama_se": "NEOBIZ",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5800",
-            "website": "neobiz.nobubank.com"
-        },
-        {
-            "id": "9cb1ab9c-992d-4d7f-ab80-8ecd04e5ab47",
-            "nama_pse": "SEQUIS ASET MANAJEMEN",
-            "nama_se": "WEBSITE PT SEQUIS ASET MANAJEMEN",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5801",
-            "website": "sequisam.co.id"
-        },
-        {
-            "id": "9cb1abb1-28ef-4e31-8ddb-19d1f1afed5e",
-            "nama_pse": "BANK PERKREDITAN RAKYAT PALU LOKADANA UTAMA",
-            "nama_se": "WEBSITE PENGADUAN NASABAH BPR PALU LOKADANA UTAMA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5802",
-            "website": "atm.bprpalu.com"
-        },
-        {
-            "id": "9cb1abb1-2b12-4b59-b400-64cabb584083",
-            "nama_pse": "MNC ASURANSI INDONESIA",
-            "nama_se": "SALVAGE AUCTION",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5803",
-            "website": "mnc-insurance.com"
-        },
-        {
-            "id": "9cb1aba7-4a96-4791-943d-dc34ce765fae",
-            "nama_pse": "ASURANSI JIWA SEQUIS LIFE",
-            "nama_se": "SEQUISFRIEND",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5804",
-            "website": "sequisfriend.com"
-        },
-        {
-            "id": "9cb1aba7-4de0-4ad4-b494-1c9ec7b65d1d",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT MODERN EXPRESS",
-            "nama_se": "WEBSITE PENGADUAN NASABAH BPR MODERN EXPRESS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5807",
-            "website": "atm.bprmodex.com"
-        },
-        {
-            "id": "9cb1aba7-50d1-4cd4-ac1a-6012f54c062d",
-            "nama_pse": "VIVA MEDIKA",
-            "nama_se": "ISO APP",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5805",
-            "website": "isomedik.com"
         }
     ],
-    "processingTimeMs": 16,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 279,
     "totalPages": 383

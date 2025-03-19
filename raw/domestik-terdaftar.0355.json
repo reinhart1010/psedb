@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab9e-f280-4c99-9272-743fffd93e65",
+            "nama_pse": "CUMA UNTUK ANAK NEGERI",
+            "nama_se": "CFUND",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1562",
+            "website": "cfund.id"
+        },
+        {
+            "id": "9cb1aba9-83cf-4876-b2f2-191afe2b4367",
+            "nama_pse": "CGS International Sekuritas Indonesia",
+            "nama_se": "WWW.CGS-CIMB.CO.ID",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1572",
+            "website": "cgs-cimb.co.id"
+        },
+        {
+            "id": "9cb1ab9f-7d17-4e1f-8cae-4fe630914cce",
+            "nama_pse": "INFO PENA INDONESIA",
+            "nama_se": "JITUNEWS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1588",
+            "website": "jitunews.com"
+        },
+        {
+            "id": "9cb1aba9-d33c-4427-9a7c-d4e4d7b9d346",
+            "nama_pse": "TT TECHNO PARK INDONESIA",
+            "nama_se": "GS-EDI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1503",
+            "website": "gsedi.com"
+        },
+        {
+            "id": "9cb1ab74-7342-4f1a-afe2-f66d0b9a5d61",
+            "nama_pse": "URUN BANGUN NEGERI",
+            "nama_se": "URUN-RI",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1573",
+            "website": "urun-ri.id"
+        },
+        {
+            "id": "9cb1ab74-56bc-4526-ad73-5b8580e67e9a",
+            "nama_pse": "SURYA BUMI RETAILINDO",
+            "nama_se": "CYCLOPEDIA.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1495",
+            "website": "cyclopedia.id"
+        },
+        {
+            "id": "9cb1ab64-d7ea-4a04-8431-6e59bdba4cd2",
+            "nama_pse": "K-LINK NUSANTARA",
+            "nama_se": "K-MART",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1492",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab65-eca6-4094-b0bb-bc8bb5921de7",
+            "nama_pse": "RAJA SOLUSI KREATIF",
+            "nama_se": "BOSONDERDIL.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1473",
+            "website": "bosonderdil.com"
+        },
+        {
+            "id": "9cb1ab6c-5aaf-44cf-a70d-e2df9b9fdbca",
+            "nama_pse": "EUREKA BOOKHOUSE",
+            "nama_se": "RAJA CEPAT",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi",
+            "tanggal_terbit": "2021-06-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1462",
+            "website": "rajacepat.com"
+        },
+        {
+            "id": "9cb1ab72-e8d4-42cd-983b-e0f9ad1d92ad",
+            "nama_pse": "EUREKA BOOKHOUSE",
+            "nama_se": "MASTER DISKON",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1463",
+            "website": "masterdiskon.com"
+        },
+        {
             "id": "9cb1ab6c-5cb1-4892-8466-4cabfd85ed21",
             "nama_pse": "EUREKA BOOKHOUSE",
             "nama_se": "KATA \u0026 RASA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-06-09",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1439",
             "website": "landing.ula.app/id/index.html"
-        },
-        {
-            "id": "9cb1ab71-1f9e-4cda-b3e2-435842af7bf4",
-            "nama_pse": "SUMBER KREATIF INDONESIA",
-            "nama_se": "GREDU SCHOOL MANAGEMENT SYSTEM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1424",
-            "website": "Gredu.Asia"
-        },
-        {
-            "id": "9cb1ab62-bacb-4591-aa8f-2cc60a539436",
-            "nama_pse": "SUMBER KREATIF INDONESIA",
-            "nama_se": "GREDU STUDENT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1451",
-            "website": "Gredu.Asia"
-        },
-        {
-            "id": "9cb1ab65-a002-46af-aeab-dc6d2ae5e9eb",
-            "nama_pse": "SUMBER KREATIF INDONESIA",
-            "nama_se": "GREDU PARENT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1452",
-            "website": "Gredu.Asia"
-        },
-        {
-            "id": "9cb1ab71-285a-4cb0-a1ac-7453bc254f7c",
-            "nama_pse": "TUV SUD INDONESIA",
-            "nama_se": "TÜV SÜD INDONESIA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1431",
-            "website": "tuvsud.com/id/"
-        },
-        {
-            "id": "9cb1ab65-b5db-478c-9711-b0399b59ed55",
-            "nama_pse": "VARA TECHNOLOGIES CORP",
-            "nama_se": "GAJIKUAPP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1438",
-            "website": "gajikuapp.com"
-        },
-        {
-            "id": "9cb1ab71-fabc-40a1-8d6e-eaca18be4183",
-            "nama_pse": "ASTRA HONDA MOTOR",
-            "nama_se": "INFORMASI RESMI MENGENAI PRODUK AHM",
-            "sektor": "Sektor Transportasi, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1432",
-            "website": "astra-honda.com"
-        },
-        {
-            "id": "9cb1ab63-abf3-4587-898a-8d8258409ab1",
-            "nama_pse": "FIVE JACK",
-            "nama_se": "ITEMKU",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1392",
-            "website": "itemku.com"
-        },
-        {
-            "id": "9cb1ab64-1f81-481e-8825-c705280f46e2",
-            "nama_pse": "FANTASTIS ANAK BANGSA INDONESIA",
-            "nama_se": "TLUSURE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1400",
-            "website": "tlusure.com"
-        },
-        {
-            "id": "9cb1ab6c-9d3d-41cd-b681-d454f6ee9d5a",
-            "nama_pse": "SAH INDONESIA JAYA",
-            "nama_se": "SAH! YA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1414",
-            "website": "sahya.co.id"
-        },
-        {
-            "id": "9cb1ab66-7298-4a94-92b8-089616270313",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-            "nama_se": "BNI MOBILE BANKING",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1453",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 13,
+    "processingTimeMs": 23,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 355,
     "totalPages": 383

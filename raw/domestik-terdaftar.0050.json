@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cbda9b3-6f80-4a82-b1e3-e2a901fd14fd",
+            "nama_pse": "HENRI DANIEL PANGEMANAN",
+            "nama_se": "medkes.net",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19872",
+            "website": "-"
+        },
+        {
+            "id": "9cba137d-fa47-4259-b1bf-42def55d07f5",
+            "nama_pse": "INDONESIA CREATIVITY SOLUTION",
+            "nama_se": "my creativity",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19857",
+            "website": "my-creativity.biz.id"
+        },
+        {
+            "id": "9cbb49cb-987e-423a-ba8d-03f74d34b8f5",
+            "nama_pse": "GLUVIA KREATIF TEKNOLOGI",
+            "nama_se": "GLUVIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19861",
+            "website": "gluvia.com"
+        },
+        {
+            "id": "9cbb0f6f-190a-4b5a-9d37-7f934ca96ab8",
+            "nama_pse": "SEHAT BARU UTAMA",
+            "nama_se": "SYSTEM APOTEK BARU",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19860",
+            "website": "-"
+        },
+        {
+            "id": "9cbae8ca-a3f2-46db-8ecb-f9dc00224762",
+            "nama_pse": "MUHAMAD",
+            "nama_se": "LAYANAN INTERNET LOKAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19859",
+            "website": "-"
+        },
+        {
+            "id": "9cbbe55f-9840-4679-9316-2c4c8d83f089",
+            "nama_pse": "DILAN TEKNOLOGI INDONESIA",
+            "nama_se": "dilan.cloud",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19862",
+            "website": "dilan.cloud"
+        },
+        {
+            "id": "9cbbe7fd-4de1-4fa4-b457-abc43f8416bc",
+            "nama_pse": "DILAN TEKNOLOGI INDONESIA",
+            "nama_se": "dilan.tech",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19863",
+            "website": "dilan.tech"
+        },
+        {
+            "id": "9cbaa5f8-86d7-42fb-b11e-295967a80b94",
+            "nama_pse": "LEGALYN BISNIS INDONESIA",
+            "nama_se": "LEGALYN.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19858",
+            "website": "legalyn.id"
+        },
+        {
+            "id": "9cb885f5-1ba7-4f05-bf82-2e2c35439ea6",
+            "nama_pse": "MEDIA AVEZES NURATJAYA",
+            "nama_se": "POTRETTERKINI.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19838",
+            "website": "potretterkini.com"
+        },
+        {
+            "id": "9cb90498-451d-446f-9c94-c506e7dbcf83",
+            "nama_pse": "APLIKASI KREASI ASIA",
+            "nama_se": "AUTO CONVERT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19849",
+            "website": "autoconvert.id"
+        },
+        {
             "id": "9cb8ae73-ffbf-4177-9236-4404bc6efb21",
             "nama_pse": "MERAIH ILMU SEMESTA",
             "nama_se": "PT MERAIH ILMU SEMESTA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-08-08",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19829",
             "website": "portalkampus.co.id"
-        },
-        {
-            "id": "9cb7545d-671d-48a6-a9f0-411bbe23bc6c",
-            "nama_pse": "BAIHAQI KARYA SEJAHTERA",
-            "nama_se": "PT BAIHAQI KARYA SEJAHTERA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19830",
-            "website": "-"
-        },
-        {
-            "id": "9cb763c2-6ca9-4378-9c7d-3e54c8ab4081",
-            "nama_pse": "RIZKI SULTAN CIREBON",
-            "nama_se": "SIMKLINIKLMC",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19831",
-            "website": "luthfimedicalcenter.com"
-        },
-        {
-            "id": "9cb766a9-c8c2-4b78-80b5-dffacccd212d",
-            "nama_pse": "HARYANDI",
-            "nama_se": "PENYEDIA LAYANAN JASA INTERNET RT/RW NET \"HSEVEN.NET\"",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19832",
-            "website": "haryandi.com"
-        },
-        {
-            "id": "9cb7949b-121b-4377-9c8f-991e4baa156f",
-            "nama_pse": "ANUGERAH JASA OTORITA",
-            "nama_se": "AJPAR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19833",
-            "website": "-"
-        },
-        {
-            "id": "9cb7989d-1743-4f5b-957e-c6821875ad8d",
-            "nama_pse": "APLIKASI KRIYA PRATAMA",
-            "nama_se": "APPSKEP INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19834",
-            "website": "appskep.id"
-        },
-        {
-            "id": "9cb7c745-3d05-4382-b54a-3f987ed375b9",
-            "nama_pse": "MUMASA GRUP DIGITAL",
-            "nama_se": "ZONAKERJA.ONLINE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19837",
-            "website": "zonakerja.online"
-        },
-        {
-            "id": "9cb1ac5e-b9b9-4577-9f83-7228ce4bef38",
-            "nama_pse": "RYAN MAJID",
-            "nama_se": "MUTIARARECORD.APP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19797",
-            "website": "mutiararecord.app"
-        },
-        {
-            "id": "9cb3bdde-978e-4464-9ac4-022eaab2568e",
-            "nama_pse": "GASS MARKETING TEKNOLOGI",
-            "nama_se": "GASS",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19787",
-            "website": "gass.co.id"
-        },
-        {
-            "id": "9cb3bdde-bd91-4301-8c3f-4fd7e855ffda",
-            "nama_pse": "BALI DEV ACCESS",
-            "nama_se": "LOKETIN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19789",
-            "website": "loketin.com"
-        },
-        {
-            "id": "9cb3bdde-c968-4fd7-838b-d000733fca87",
-            "nama_pse": "BALAI LELANG TRIBIK",
-            "nama_se": "BALAI LELANG TRIBIK",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19784",
-            "website": "tribikauction.co.id"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 50,
     "totalPages": 383

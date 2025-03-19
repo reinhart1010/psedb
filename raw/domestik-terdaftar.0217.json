@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abd0-9d1c-403f-9040-1aa87f160436",
+            "nama_pse": "OPTICAL PARTNERS INDONESIA",
+            "nama_se": "ESSILORPRO | YOUR DIGITAL PLATFORM",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9312",
+            "website": "essilor-order.com"
+        },
+        {
+            "id": "9cb1abf5-f510-43d5-a3c2-de280cd777c0",
+            "nama_pse": "UNIO INDONESIA MAJU",
+            "nama_se": "UNIO INDONESIA MAJU",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9327",
+            "website": "unio.id"
+        },
+        {
+            "id": "9cb1abd0-abe4-4722-83f3-222cd1148229",
+            "nama_pse": "EKA AKAR JATI",
+            "nama_se": "2\tNAMA SISTEM ELEKTRONIK (NAME OF ELECTRONIC SYSTEM)\tLANDING PAGE COMPROF PT EKA AKAR JATI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9313",
+            "website": "Ekaakarjati.id"
+        },
+        {
+            "id": "9cb1abd0-af39-4615-80fd-0dcc42be6047",
+            "nama_pse": "EKA AKAR JATI",
+            "nama_se": "ELEARNING PT EKA AKAR JATI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9314",
+            "website": "Elearning.ekaakarjati.id"
+        },
+        {
+            "id": "9cb1abf5-fc5b-474b-b334-75f04a5a46f7",
+            "nama_pse": "KREASI GEMILANG PERKASA",
+            "nama_se": "STYLES",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9315",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abcf-b940-46e2-8ecb-76f18d078224",
+            "nama_pse": "KITA MONSTER DIGITAL",
+            "nama_se": "D’KAPSTER",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9316",
+            "website": "dkapster.com"
+        },
+        {
+            "id": "9cb1abf5-ffcd-4223-9b99-d7254f410a35",
+            "nama_pse": "EKA AKAR JATI",
+            "nama_se": "REKRUTMEN PT EKA AKAR JATI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9317",
+            "website": "Karir.ekaakarjati.id"
+        },
+        {
+            "id": "9cb1abcf-bcae-44ce-a1c6-cdcea94267b2",
+            "nama_pse": "HASJRAT MULTIFINANCE",
+            "nama_se": "WEBSITE HMF",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9318",
+            "website": "hmf.co.id"
+        },
+        {
+            "id": "9cb1abf6-0347-4c2a-9dd5-18e7b67c0134",
+            "nama_pse": "PRODIA WIDYAHUSADA",
+            "nama_se": "PRODIA CHATBOT (TANIA)",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9321",
+            "website": "prodia.co.id"
+        },
+        {
+            "id": "9cb1abcf-c1dd-44c7-8fa6-838f12e5901b",
+            "nama_pse": "KITA MONSTER DIGITAL",
+            "nama_se": "LAKUGAN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9322",
+            "website": "lakugan.com"
+        },
+        {
             "id": "9cb1abcf-c6ce-4490-b53c-b474e8a355d4",
             "nama_pse": "EKA AKAR JATI",
             "nama_se": "LANDING PAGE COMPROF PT EKA AKAR JATI",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-27",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9123",
             "website": "displaystore.id"
-        },
-        {
-            "id": "9cb1abf4-b400-46ff-a21b-09e0c4a675e9",
-            "nama_pse": "ASKARA SOLUSI LEGAL",
-            "nama_se": "WEBSITE LEXGORITMA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9124",
-            "website": "lexgoritma.com"
-        },
-        {
-            "id": "9cb1abf4-bb61-490b-b18d-90b564e90c58",
-            "nama_pse": "MOBIL MOTOR NIAGA INDONESIA",
-            "nama_se": "MM ONLINE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9125",
-            "website": "mmonline.id"
-        },
-        {
-            "id": "9cb1abf4-cb36-4648-8eb7-083c1bd5200d",
-            "nama_pse": "LOYAL MEMBER INDONESIA",
-            "nama_se": "LOYAL.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9126",
-            "website": "loyal.id"
-        },
-        {
-            "id": "9cb1abf4-d195-4db1-b277-52785cce4dde",
-            "nama_pse": "BANK PERKREDITAN RAKYAT NUSAMBA NGUNUT",
-            "nama_se": "WEBSITE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9127",
-            "website": "bprnusamba-ngunut.com"
-        },
-        {
-            "id": "9cb1abbe-32d1-437b-815b-26b8fdd163db",
-            "nama_pse": "PRIMA MEDIX NUSANTARA",
-            "nama_se": "VIRTU DIGILAB",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9128",
-            "website": "virtudigilab.com"
-        },
-        {
-            "id": "9cb1abbe-34e1-4916-a8ac-1ee6aa2f77e6",
-            "nama_pse": "PRIMA MEDIX NUSANTARA",
-            "nama_se": "VIRTU HEALTH",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9135",
-            "website": "virtuhealth.id"
-        },
-        {
-            "id": "9cb1abf4-d4b8-4db4-aeb9-40f1b889e18a",
-            "nama_pse": "BIOSKOP DIGITAL INDONESIA",
-            "nama_se": "BIOSKOP ONLINE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9130",
-            "website": "bioskoponline.com"
-        },
-        {
-            "id": "9cb1abf4-dab6-4af2-8108-96a24d6d5e0e",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT HANEDA MITRA USAHA",
-            "nama_se": "WWW.BPRHANEDA.CO.ID",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9132",
-            "website": "bprhaneda.co.id"
-        },
-        {
-            "id": "9cb1abce-a1f3-4ae9-9d73-43c6d0e12836",
-            "nama_pse": "BILLION TECHNOLOGY",
-            "nama_se": "KANTOR KITA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9131",
-            "website": "kantorkita.co.id"
-        },
-        {
-            "id": "9cb1abf4-e042-412d-aa72-ecb517aea6e8",
-            "nama_pse": "DIGITAL HASANAH INDONESIA",
-            "nama_se": "HASAN DIGITAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9133",
-            "website": "hasandigital.id"
         }
     ],
-    "processingTimeMs": 6,
+    "processingTimeMs": 7,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 217,
     "totalPages": 383

@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac76-4d12-4fb4-88f4-c559f7949ad5",
+            "nama_pse": "ARIF HIDAYAT",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN KLINIK MONICA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16467",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac62-46f9-4408-ab00-b02fcd6da560",
+            "nama_pse": "KHANA AINUR UTAMA",
+            "nama_se": "KAHAN EXPOR",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-11-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16471",
+            "website": "khanaexpor.online"
+        },
+        {
+            "id": "9cb1ac62-49ab-4fbc-acac-06a872fb6be0",
+            "nama_pse": "TELMARK INTEGRASI INDONESIA",
+            "nama_se": "QONTACT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16472",
+            "website": "qontact-cloud.telmark.co.id"
+        },
+        {
+            "id": "9cb1ac76-50ec-4e7f-9d75-dc8c2bbaec98",
+            "nama_pse": "ADIKARA TECHNO PERKASA",
+            "nama_se": "SINGLE IDENTITY MANAGAMENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16511",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4f-304b-4e18-afd8-dd3a1dc79415",
+            "nama_pse": "HUKUM ABDURRAHMAN",
+            "nama_se": "ABDURRAHMANLAWFIRM.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-11-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16466",
+            "website": "abdurrahmanlawfirm.com"
+        },
+        {
+            "id": "9cb1ac4f-2d5d-41a8-941b-90efd855cc69",
+            "nama_pse": "CUTBOY INOVASI DIGITAL GROUP",
+            "nama_se": "PT. CUTBOY INOVASI DIGITAL GROUP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18663",
+            "website": "cutboy.id"
+        },
+        {
+            "id": "9cb1ac62-4302-4986-922a-8d63c6c65e1e",
+            "nama_pse": "RS MUHAMMADIYAH JOMBANG",
+            "nama_se": "SIMRS KHANZA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16465",
+            "website": "rsmjombang.id"
+        },
+        {
+            "id": "9cb1ac4e-ca8c-4b45-9048-fa1dbc358fab",
+            "nama_pse": "AL - IKHLAS MADINAH",
+            "nama_se": "SIRUS RSI MADINAH",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16459",
+            "website": "rsimadinah.com"
+        },
+        {
+            "id": "9cb1ac4f-29f3-4f53-b343-c3d2483a25b9",
+            "nama_pse": "WILMAR CONSULTANCY SERVICES",
+            "nama_se": "E-RECRUITMENT WILMAR GROUP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16460",
+            "website": "e-recruitment.wilmar.co.id"
+        },
+        {
+            "id": "9cb1ac62-2e90-414b-bc48-d82812556142",
+            "nama_pse": "KRAKATAU MITRA HARMONI",
+            "nama_se": "MHDC MNET",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16461",
+            "website": "dashboard.mnet.web.id"
+        },
+        {
+            "id": "9cb1ac62-37cf-45c4-9fb7-f0ab3037487a",
+            "nama_pse": "GREENSOFT PUTRA SEJAHTERA",
+            "nama_se": "SIMRS GREENSOFT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16462",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac62-3ac3-462b-9808-8a1edabe3af1",
             "nama_pse": "CHICKIN SAHABAT PETERNAK",
             "nama_se": "CI-TOUCH",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-10-31",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16409",
             "website": "bisnis.jago.com"
-        },
-        {
-            "id": "9cb1ac61-d9df-4b62-9649-a3e5ab56494f",
-            "nama_pse": "HARTANTO WORLD PROJECT",
-            "nama_se": "PEGGY HARTANTO",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16406",
-            "website": "peggyhartanto.com"
-        },
-        {
-            "id": "9cb1ac61-dcee-4f86-95d7-b0dc0c57216c",
-            "nama_pse": "IRON ASSET INDONESIA",
-            "nama_se": "INNER CIRCLE APP SERVICE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16410",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4e-f845-4c03-836b-28fc1d84ee11",
-            "nama_pse": "RSU PKU MUHAMMADIYAH GUBUG",
-            "nama_se": "HOSMIS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16411",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac61-dfd5-4b87-942f-731b9d7bee32",
-            "nama_pse": "OPENBIT LELANG INDONESIA",
-            "nama_se": "OPENBIT",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2023-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16513",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac61-e2b3-4eb0-a1c6-05701c5cdd34",
-            "nama_pse": "ERA MEDIKA TULUNGAGUNG",
-            "nama_se": "SIMERA",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16414",
-            "website": "rseramedika.com"
-        },
-        {
-            "id": "9cb1ac4e-fe37-4904-b8d0-5db44d89878e",
-            "nama_pse": "DINDA MEDISTRA",
-            "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16413",
-            "website": "rsudinda.co.id"
-        },
-        {
-            "id": "9cb1ac4f-0160-4056-be85-e853d4baac4c",
-            "nama_pse": "PS GLOBAL MEDIA",
-            "nama_se": "GOTUKU.COM",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16412",
-            "website": "gotuku.com"
-        },
-        {
-            "id": "9cb1ac4f-0430-4e44-bfb8-b88cfe5d497f",
-            "nama_pse": "ANANG FATCHURRACHMAN",
-            "nama_se": "SIM-KLINIKDREKOMANUKAN",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16415",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac61-e7ab-4ed8-8d20-3edc2d0af943",
-            "nama_pse": "TELOGOREJO MEDIKA FARMA",
-            "nama_se": "SIM PURI",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16418",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4f-072e-42c6-ae1d-949199c7df23",
-            "nama_pse": "PRODIA OCCUPATIONAL HEALTH INDONESIA",
-            "nama_se": "ECLINSYST AVERIN OHCC",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16416",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac61-ea1a-4672-b1d4-70ef5f95be90",
-            "nama_pse": "PRODIA OCCUPATIONAL HEALTH INDONESIA",
-            "nama_se": "ECLINSYST AVERIN OHC CIKARANG",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16417",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 110,
     "totalPages": 383

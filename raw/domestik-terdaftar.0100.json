@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac65-6521-4025-9a08-d44fc3a95d88",
+            "nama_pse": "RUMAH SAKIT SOERYA",
+            "nama_se": "SIMRS SOERYA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17012",
+            "website": "rsiasoerya.co.id"
+        },
+        {
+            "id": "9cb1ac79-61a1-4773-b249-e9c579f08786",
+            "nama_pse": "QLOK TEKNOLOGI INDONESIA",
+            "nama_se": "QLOK APPS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17013",
+            "website": "qlok.app"
+        },
+        {
+            "id": "9cb1ac79-67b1-40f6-8524-dd42d14a5506",
+            "nama_pse": "RUMAH SAKIT TK IV 01.07.03 PADANGSIDIMPUAN",
+            "nama_se": "SIMRS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17014",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac79-6b05-4fcc-b12a-7b2fb41a8ad7",
+            "nama_pse": "JARINGAN LINTAS MULTIMEDIA",
+            "nama_se": "BERITAJAR.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17015",
+            "website": "beritajar.com"
+        },
+        {
+            "id": "9cb1ac65-67f3-46f3-8b55-e48da5a2a5a5",
+            "nama_pse": "SAMASTA CIPTA PERSADA",
+            "nama_se": "NEOMR",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17016",
+            "website": "neomr.id"
+        },
+        {
+            "id": "9cb1ac65-6a5a-457e-8d7e-c0030ea95e43",
+            "nama_pse": "HADI KARYA NUSANTARA",
+            "nama_se": "IMS",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17017",
+            "website": "hkn.co.id"
+        },
+        {
+            "id": "9cb1ac65-6d33-4180-a546-dc2f66fd01aa",
+            "nama_pse": "JOGIIA DIGITAL INDOTECH",
+            "nama_se": "KURIRGO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17018",
+            "website": "kurirgo.id"
+        },
+        {
+            "id": "9cb1ac51-da84-406e-ad6c-b0168b992ef7",
+            "nama_pse": "JARINGAN LINTAS MULTIMEDIA",
+            "nama_se": "WWW.BERITAJAR.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17019",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac51-dd96-45ab-9877-da65ce69be99",
+            "nama_pse": "KESEHATAN  JIWA BINA KARSA",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT (SIMRS)",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17020",
+            "website": "rsjbinakarsamedan.co.id"
+        },
+        {
+            "id": "9cb1ac51-e034-438b-ab92-94d8a5759825",
+            "nama_pse": "REJO HARTONO",
+            "nama_se": "GILANG.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17021",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac64-98f2-4bce-bef9-f0679bd2dd8f",
+            "nama_pse": "TARUDIN",
+            "nama_se": "HILALTECHNO",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16989",
+            "website": "hilaltechno.my.id"
+        },
+        {
             "id": "9cb1ac79-3f30-466f-b388-791bbc8dc0fb",
             "nama_pse": "PROVENIR DATA INDONESIA",
             "nama_se": "1DATAPIPE",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-12-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16963",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac65-22b3-4adc-acc2-9bd835ded7cf",
-            "nama_pse": "YAYASAN KI AGENG TRITIS",
-            "nama_se": "SIMRS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16968",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac79-3604-4c17-a56e-1e652154ce3c",
-            "nama_pse": "TALENTVIS CONSULTING INDONESIA",
-            "nama_se": "TALENTVIS ACADEMY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16969",
-            "website": "talentvisacademy.com"
-        },
-        {
-            "id": "9cb1ac65-25c6-4f94-86bd-a782b2f768c9",
-            "nama_pse": "RAHMAT FAJAR BERSAUDARA",
-            "nama_se": "GAYATRIPUTRINEWS.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16971",
-            "website": "gayatriputrinews.com"
-        },
-        {
-            "id": "9cb1ac79-3920-4bc6-8737-f6e232ddfa7a",
-            "nama_pse": "SHINJI PEDIA INDONESIA",
-            "nama_se": "SHINJIPEDIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16972",
-            "website": "shinjipedia.com"
-        },
-        {
-            "id": "9cb1ac51-9f8c-408f-b6f2-1391a567b2ae",
-            "nama_pse": "KARISMA ARADI HEALTH CARE",
-            "nama_se": "SIMRS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16974",
-            "website": "karismahospital.com"
-        },
-        {
-            "id": "9cb1ac51-a298-4bec-9225-72fd2f42b1aa",
-            "nama_pse": "SIMPUL REKA SARANA",
-            "nama_se": "SIMPUL RME",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16975",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac65-2858-47a0-a04e-64d72d11a9d8",
-            "nama_pse": "RUMKIT TK III 13 06 01 DR SINDHU TRISNO",
-            "nama_se": "SIMKES KHANZA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16976",
-            "website": "rumkitsindhutrisno.com"
-        },
-        {
-            "id": "9cb1ac51-a609-4e73-826d-594f24288f50",
-            "nama_pse": "CEVE ALITA MEDIKA",
-            "nama_se": "E-HOS SYSTEM KLINIK ALITA MEDIKA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16977",
-            "website": "alita.rsanwarmedika.com"
-        },
-        {
-            "id": "9cb1ac51-a995-4b3b-a882-3b5abe88954a",
-            "nama_pse": "EDY RAKHMAN",
-            "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16978",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac65-2b50-4575-a4cf-b97534a78149",
-            "nama_pse": "MEDEVA MULTI TALENTA",
-            "nama_se": "MEDEVA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16979",
-            "website": "medeva.tech"
-        },
-        {
-            "id": "9cb1ac65-2eb6-4436-a61a-30c109592381",
-            "nama_pse": "YUDI RAMDHANI",
-            "nama_se": "SIMKLINIK IMT",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16980",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 100,
     "totalPages": 383

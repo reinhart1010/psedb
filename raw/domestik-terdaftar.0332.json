@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab88-e715-49e7-8d47-c3a5e081e077",
+            "nama_pse": "NEX TEKNOLOGI DIGITAL",
+            "nama_se": "XENDIT APP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2726",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab62-1771-4610-8a92-478ec736c1d3",
+            "nama_pse": "SRC INDONESIA SEMBILAN",
+            "nama_se": "PERMAINAN",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2714",
+            "website": "permainan.src.id"
+        },
+        {
+            "id": "9cb1ab70-554d-4af7-8ba0-b582a4aa2518",
+            "nama_pse": "SRC INDONESIA SEMBILAN",
+            "nama_se": "AYO KASIR BY SRC",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2715",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6b-8d4e-4cb5-b97d-f80b16bad6ba",
+            "nama_pse": "PERSADA MAKMUR INDONESIA",
+            "nama_se": "IQOS",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2719",
+            "website": "IQOS.COM"
+        },
+        {
+            "id": "9cb1ab76-c120-4cbf-9a5f-f94854f1a5ba",
+            "nama_pse": "ZOOMCAR INDONESIA MOBILITY SERVICES",
+            "nama_se": "ZOOMCAR.COM",
+            "sektor": "Sektor Transportasi, Sektor Transportasi",
+            "tanggal_terbit": "2021-12-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2710",
+            "website": "ZOOMCAR.COM"
+        },
+        {
+            "id": "9cb1ab7f-8d6f-42e9-b595-b38e6f8a090b",
+            "nama_pse": "EKAGRATA DATA GEMILANG",
+            "nama_se": "EDGE DC",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2713",
+            "website": "edge.id"
+        },
+        {
+            "id": "9cb1ab77-dd02-425e-b7a2-ba9b7763764a",
+            "nama_pse": "RUANG RAYA INDONESIA",
+            "nama_se": "RUANGGURU",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2706",
+            "website": "ruangguru.com"
+        },
+        {
+            "id": "9cb1ab78-eb3b-47af-b023-bdc2423da130",
+            "nama_pse": "DASA TEKNOLOGI BERSAMA",
+            "nama_se": "BURSAREIT",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2722",
+            "website": "bursareit.id"
+        },
+        {
+            "id": "9cb1ab78-f519-4e49-b704-7f7a6709a5fe",
+            "nama_pse": "ASURANSI JIWA IFG",
+            "nama_se": "AGENCY INFORMATION MANAGEMENT SYSTEM",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2708",
+            "website": "aims.ifg-life.id"
+        },
+        {
+            "id": "9cb1ab88-d782-4f54-9e89-08c53a7624c0",
+            "nama_pse": "ASURANSI JIWA IFG",
+            "nama_se": "CORPORATE WEBSITE IFG LIFE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2711",
+            "website": "ifg-life.id"
+        },
+        {
             "id": "9cb1ab80-c790-4fca-8a08-9843e75ecd88",
             "nama_pse": "ASURANSI JIWA IFG",
             "nama_se": "PORTAL PENJUALAN  ASURANSI MIKRO IFG LIFE(MICROSITE IFG LIFE)",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-12-08",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2679",
             "website": "bigbox.co.id"
-        },
-        {
-            "id": "9cb1ab75-b098-4dfc-82b8-2f509efcf5cf",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-            "nama_se": "SMART VILLAGE​ NUSANTARA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2681",
-            "website": "smartvillagenusantara.id"
-        },
-        {
-            "id": "9cb1ab69-02aa-4fd3-acc5-a6c6ffee9237",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-            "nama_se": "SPRINTHINK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2682",
-            "website": "sprinthink.id"
-        },
-        {
-            "id": "9cb1ab75-b44c-46a9-8590-f7d4a47ab68a",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-            "nama_se": "SMARTEYE.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2683",
-            "website": "smarteye.id"
-        },
-        {
-            "id": "9cb1ab76-e824-4e91-8919-a9b6727b64b5",
-            "nama_pse": "STYLEDOUBLER SOLUSI INDONESIA",
-            "nama_se": "STYLEDOUBLER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2661",
-            "website": "styledoubler.com"
-        },
-        {
-            "id": "9cb1ab78-197d-4698-bfa0-5fcf3f408ef3",
-            "nama_pse": "ANUGERAH WIJAYA RAGA",
-            "nama_se": "GGL",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2684",
-            "website": "ggl.life"
-        },
-        {
-            "id": "9cb1ab87-b8a0-4bb0-b27d-4319746bc3a2",
-            "nama_pse": "ANUGERAH WIJAYA RAGA",
-            "nama_se": "APLIKASI GGL",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-12-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2686",
-            "website": "app.ggl.life"
-        },
-        {
-            "id": "9cb1ab88-3dd6-4f6f-86c2-b693aefde3a3",
-            "nama_pse": "SENTRA KRIYA EDUKASI",
-            "nama_se": "PT SENTRA KRIYA EDUKASI",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-12-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2672",
-            "website": "skelaboratory.co.id"
-        },
-        {
-            "id": "9cb1ab80-75d8-4a13-83b6-28b4051f9984",
-            "nama_pse": "PLUANG ASET DIGITAL",
-            "nama_se": "PLUANG CRYPTO",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-12-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2658",
-            "website": "pluang-crypto.com"
-        },
-        {
-            "id": "9cb1ab80-b09d-4ac6-bedc-1ef319d262b8",
-            "nama_pse": "AMAL KASIH SEJAHTERA",
-            "nama_se": "BAGIAMAL",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-12-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2659",
-            "website": "bagiamal.com"
-        },
-        {
-            "id": "9cb1ab80-b332-4ab0-8176-14b6c188107a",
-            "nama_pse": "MIKASUGI",
-            "nama_se": "PERDAGANGAN DAN INSTALASI PERANGKAT LUNAK DAN KERAS KOMPUTER",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-12-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2664",
-            "website": "-"
         }
     ],
     "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 332,
     "totalPages": 383

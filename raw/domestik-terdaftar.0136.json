@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac45-ea52-42b5-a3d4-ce8fdbb0a30d",
+            "nama_pse": "RAPISASI NUANSA GEMILANG",
+            "nama_se": "RAPISASI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-06-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15058",
+            "website": "rapisasi.com"
+        },
+        {
+            "id": "9cb1ac45-edf0-4a9f-85b1-c92c65220df2",
+            "nama_pse": "INFORMASI DIGITAL MANDIRI",
+            "nama_se": "HEADLINE MESSAGE SERVICE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-06-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15060",
+            "website": "hms272.id"
+        },
+        {
+            "id": "9cb1ac45-f10d-48a3-ab76-a31f82dc1d02",
+            "nama_pse": "NETMEDIA DIGITAL INDONESIA",
+            "nama_se": "BALOT INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-06-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15059",
+            "website": "balot.id"
+        },
+        {
+            "id": "9cb1ac45-f44b-4a25-ba6f-5758e3c10ee0",
+            "nama_pse": "SABIN SOLUSI SEJAHTERA",
+            "nama_se": "INTEGRATED HOSPITAL SYSTEM (INTHOS) SIMRS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-06-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15061",
+            "website": "sabinsolusi.com"
+        },
+        {
+            "id": "9cb1ac36-4a92-4b88-82f0-dd4b1bc38682",
+            "nama_pse": "SILOK DIGITAL MEDIA",
+            "nama_se": "SILOK.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-06-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15068",
+            "website": "silok.id"
+        },
+        {
+            "id": "9cb1ac23-ea4d-48ba-b0c8-f446ee2a3f0c",
+            "nama_pse": "TELE SEHAT INDONESIA",
+            "nama_se": "TEA ATM SEHAT",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-06-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15069",
+            "website": "tsi.co.id"
+        },
+        {
+            "id": "9cb1ac36-4ef3-4f80-96f1-1f1733743b21",
+            "nama_pse": "ANYM NETWORK INDONESIA",
+            "nama_se": "ANYMHOST",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-06-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15070",
+            "website": "clients.anymhost.id"
+        },
+        {
+            "id": "9cb1ac44-c370-4b4b-8b9f-d7f9e67b34f8",
+            "nama_pse": "SEMAI RAYA INTERNASIONAL",
+            "nama_se": "SEMAIKEBUN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-06-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15054",
+            "website": "semaikebun.com"
+        },
+        {
+            "id": "9cb1ac35-912f-4c13-ae52-4f4ccf64b497",
+            "nama_pse": "MUSTAFA",
+            "nama_se": "SISTEM KLINIK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-06-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15052",
+            "website": "dashboard.sistemklinik.com"
+        },
+        {
+            "id": "9cb1ac45-8260-4cbe-ab01-0076081c1dc4",
+            "nama_pse": "ETHER NESIA NET",
+            "nama_se": "ETHER NESIA NET",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-06-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15053",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac45-adc0-4df9-a212-3e4413a4ddd8",
+            "nama_pse": "MASHIDA INTERNASIONAL BLOCKCHAIN",
+            "nama_se": "MASHIDA.IO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-06-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15055",
+            "website": "mashida.io"
+        },
+        {
             "id": "9cb1ac45-e2ae-4055-92cc-6300a098d605",
             "nama_pse": "WILMAR CONSULTANCY SERVICES",
             "nama_se": "INTEGRATED TRANSPORT MANAGEMENT",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-06-13",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15007",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac45-7f7e-4a1e-b389-7752c1581468",
-            "nama_pse": "DURMAN KERTAS INDAH",
-            "nama_se": "BIXBOX",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-06-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15008",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac45-89a4-4fea-91ae-02ee4de9cd91",
-            "nama_pse": "KRISTEN UNTUK KESEHATAN UMUM",
-            "nama_se": "SIMRS RS KRISTEN NGESTI WALUYO",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-06-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15011",
-            "website": "ngestiwaluyo.com"
-        },
-        {
-            "id": "9cb1ac35-fd9e-4048-b54e-488502e055c9",
-            "nama_pse": "MONICA HIJAULESTARI",
-            "nama_se": "APLIKASI THE BODY SHOP INDONESIA UNTUK SISTEM OPERASI IOS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-06-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15012",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac36-0489-42ba-b5f3-c41c81f694af",
-            "nama_pse": "KLIK ANUGERAH CIPTAREKA",
-            "nama_se": "KLIK MEDIKA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-06-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15013",
-            "website": "klikmedika.id"
-        },
-        {
-            "id": "9cb1ac23-b026-4fc8-8a59-8c8f69b61ae6",
-            "nama_pse": "MEDIA KOMUNIKASI INFORMASI",
-            "nama_se": "PT MEDIA KOMUNIKASI INFORMASI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-06-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15014",
-            "website": "media.kominfo.co.id"
-        },
-        {
-            "id": "9cb1ac23-018f-4acc-aca7-2aa27257e38e",
-            "nama_pse": "BRIGHTFAST INFORMASI TERPADU",
-            "nama_se": "BRIGHTFAST",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-06-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14996",
-            "website": "brightfast-ti.com"
-        },
-        {
-            "id": "9cb1ac45-57f6-4416-8739-82a76dba8dad",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SILIWANGI TASIKMALAYA",
-            "nama_se": "IBS CORE BANKING",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2023-06-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14994",
-            "website": "bprsiliwangi.go.id"
-        },
-        {
-            "id": "9cb1ac35-def0-4a95-9177-409e1f4aa56c",
-            "nama_pse": "CHARLIE HOSPITAL SEMARANG",
-            "nama_se": "SICHARLIE",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-06-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14999",
-            "website": "charliehospital.co.id"
-        },
-        {
-            "id": "9cb1ac23-96ba-411f-af59-2c26f49a07cd",
-            "nama_pse": "GEMA MANDIRI INDONESIA",
-            "nama_se": "WWW.GMICLUB.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-06-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15002",
-            "website": "gmiclub.com"
-        },
-        {
-            "id": "9cb1ac35-daf9-487f-85a2-bdda13094976",
-            "nama_pse": "CGS International Sekuritas Indonesia",
-            "nama_se": "iTRADE FUND CGS International",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2023-06-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14998",
-            "website": "itradefund.cgsi.co.id"
-        },
-        {
-            "id": "9cb1ac23-80cc-4fa3-b4af-2a8ba855e46f",
-            "nama_pse": "USAHA SOLUSI BANGSA",
-            "nama_se": "EASYLEGAL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-06-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14991",
-            "website": "easylegal.id"
         }
     ],
-    "processingTimeMs": 236,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 136,
     "totalPages": 383

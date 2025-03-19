@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1aba4-7587-4ad3-98b7-b7796496adb9",
+            "nama_pse": "BINTANG CAHAYA MAKMUR",
+            "nama_se": "PERDAGANGAN ECERAN KOMPUTER DAN PERLENGKAPANNYA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4915",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abae-2d5e-497f-bfbe-ae1d67438b12",
+            "nama_pse": "SEMESTA MAHAKARYA TEKNOLOGI",
+            "nama_se": "SEMESTA MAHAKARYA TEKNOLOGI DEVELOPMENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4916",
+            "website": "semestateknologi.id"
+        },
+        {
+            "id": "9cb1aba4-783c-4d2e-8c24-77c1e84c5d23",
+            "nama_pse": "CIPTA ASET DIGITAL",
+            "nama_se": "CIPTA ASET DIGITAL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4918",
+            "website": "ciptaasetdigital.co.id"
+        },
+        {
+            "id": "9cb1aba4-7af7-4d6c-addf-fc41f05d579f",
+            "nama_pse": "NUSANTARA IBIZ SOLUSINDO",
+            "nama_se": "PORTAL JASA PERIZINAN IBIZ",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4919",
+            "website": "ibiz.co.id"
+        },
+        {
+            "id": "9cb1abae-3439-49ee-85ab-9d72d4279508",
+            "nama_pse": "MEDIS INDONESIA DIGITAL",
+            "nama_se": "OKEDOK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-06-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4920",
+            "website": "okedok.co.id"
+        },
+        {
+            "id": "9cb1abae-35f4-4cb7-88be-f0b382c52f80",
+            "nama_pse": "SAINSKERTA SOLUSI NUSANTARA",
+            "nama_se": "EDMUKU.OD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4924",
+            "website": "edmuku.id"
+        },
+        {
+            "id": "9cb1aba4-63a6-46ac-af57-56227b3e0d79",
+            "nama_pse": "BANK KB BUKOPIN SYARIAH",
+            "nama_se": "BISA MOBILE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4909",
+            "website": "mbisa.kbbanksyariah.co.id"
+        },
+        {
+            "id": "9cb1aba4-6ebe-4863-a3b0-3574f1acc34b",
+            "nama_pse": "BANK KB BUKOPIN SYARIAH",
+            "nama_se": "SYARIAH BUKOPIN CASH MANAGEMENT (SBCM)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4911",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab98-e930-469e-9c49-055d11c788e3",
+            "nama_pse": "MULTIPILAR BALANTIKA",
+            "nama_se": "SIMFONI – SISTEM INFORMASI AKUNTANSI UNTUK PERBANKAN MIKRO, LKM DAN UMKM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4779",
+            "website": "multipilarbalantika.co.id"
+        },
+        {
+            "id": "9cb1abae-0fa4-4107-acb8-f976768425b0",
+            "nama_pse": "KISA TRAVELINDO PRISTAMA",
+            "nama_se": "KISABUS",
+            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4785",
+            "website": "kisabus.com"
+        },
+        {
             "id": "9cb1ab98-ec69-4887-8584-51621bd84180",
             "nama_pse": "E2PAY GLOBAL UTAMA",
             "nama_se": "E2PAY GLOBAL UTAMA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-06-24",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4723",
             "website": "megafinance.co.id"
-        },
-        {
-            "id": "9cb1ab98-abfe-4e77-85bc-babf3e8ae497",
-            "nama_pse": "ANGGYI TRISNAWAN PUTRA",
-            "nama_se": "E-UJIAN.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4724",
-            "website": "e-ujian.com"
-        },
-        {
-            "id": "9cb1aba4-0290-4172-83b2-4a0efa3265a8",
-            "nama_pse": "MEGA FINANCE",
-            "nama_se": "BLICICIL",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4725",
-            "website": "megafinance.co.id"
-        },
-        {
-            "id": "9cb1abad-ecd8-4194-8057-90792d15e128",
-            "nama_pse": "DIKA \u0026 KATON",
-            "nama_se": "TISI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4727",
-            "website": "tisi.id"
-        },
-        {
-            "id": "9cb1ab98-af62-4cd4-b4bb-9c37d966559f",
-            "nama_pse": "PADEPOKAN LITERASI NUSANTARA",
-            "nama_se": "PUSBIMTEKPALIRA.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4728",
-            "website": "pusbimtekpalira.com"
-        },
-        {
-            "id": "9cb1aba4-04cd-4382-a29f-d17ee68dd85a",
-            "nama_pse": "PADEPOKAN LITERASI NUSANTARA",
-            "nama_se": "WWW.PUSBIMTEKPALIRA.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4730",
-            "website": "pusbimtekpalira.com"
-        },
-        {
-            "id": "9cb1abad-eedd-43cf-8740-d6a50ac73206",
-            "nama_pse": "ROBBY ALDIAN PUTRA PRATAMA ADJIE",
-            "nama_se": "EDUKREASI.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4731",
-            "website": "edukreasi.com"
-        },
-        {
-            "id": "9cb1ab98-b1db-4033-8f88-cd36a75208c1",
-            "nama_pse": "RTI INFOKOM",
-            "nama_se": "RTI BUSINESS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4732",
-            "website": "rti.co.id"
-        },
-        {
-            "id": "9cb1aba4-08f0-4089-98ce-454ccbe8f0af",
-            "nama_pse": "RTI INFOKOM",
-            "nama_se": "RTI ANALYTICS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4733",
-            "website": "analytics.rit.co.id"
-        },
-        {
-            "id": "9cb1abad-f0ad-4f31-965d-271d6a2ff206",
-            "nama_pse": "RTI INFOKOM",
-            "nama_se": "RTI INVESTOR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4734",
-            "website": "investor.rti.co.id"
-        },
-        {
-            "id": "9cb1aba4-0b2a-469d-a478-587556b74ba0",
-            "nama_pse": "REKA CIPTA DIGITAL",
-            "nama_se": "PT REKA CIPTA DIGITAL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4743",
-            "website": "myarchery.id"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 6,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 296,
     "totalPages": 383

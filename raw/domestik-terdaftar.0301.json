@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab96-8048-444e-8d17-189a9be9bb7c",
+            "nama_pse": "HADEKA MULTISOLUTION",
+            "nama_se": "HADEKAMULTISOLUTION",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4302",
+            "website": "hdk-solution.id"
+        },
+        {
+            "id": "9cb1ab96-82b9-4a28-9441-bc99b0a413f9",
+            "nama_pse": "HADEKA MULTISOLUTION",
+            "nama_se": "HDK MULTISOLUTION",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4303",
+            "website": "hdk-solution.id"
+        },
+        {
+            "id": "9cb1aba2-69e8-42e9-b113-a7d305dcdafa",
+            "nama_pse": "ARASH DIGITAL REKADANA",
+            "nama_se": "SISTEM INTEGRATOR PEMBAYARAN LINTAS BATAS (CROSS BORDER PAYMENT) MENGGUNAKAN QRIS (QUICK RESPONSE INDONESIA STANDARD)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4304",
+            "website": "arashdigital.id"
+        },
+        {
+            "id": "9cb1abac-c891-44ce-9a76-6577a702e300",
+            "nama_pse": "PATIMURA MEDIA SIBER",
+            "nama_se": "TRILOGIS.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4305",
+            "website": "trilogis.id"
+        },
+        {
+            "id": "9cb1abac-ca77-48ce-b942-cc4e86ecad74",
+            "nama_pse": "SOMA KARYA GEMILANG",
+            "nama_se": "KASKU",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4306",
+            "website": "kasku.id"
+        },
+        {
+            "id": "9cb1aba2-6d14-4039-a78b-76bd0106da2c",
+            "nama_pse": "SOFIN TEKNOLOGI UTAMA",
+            "nama_se": "NYMBI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4307",
+            "website": "copytrade.nymbi.id"
+        },
+        {
+            "id": "9cb1abac-ce5a-408f-b1ff-5995ce313ce2",
+            "nama_pse": "DIGITAL KREATIF MILENIAL",
+            "nama_se": "WETALK",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2022-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4308",
+            "website": "wetalk.id"
+        },
+        {
+            "id": "9cb1aba2-6ff8-495d-80c0-bd39659c97db",
+            "nama_pse": "MANDRAKARTA",
+            "nama_se": "MANDRAKARTA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4309",
+            "website": "mandrakarta.id"
+        },
+        {
+            "id": "9cb1aba2-7674-4224-a89a-925138ad93e4",
+            "nama_pse": "MANDRAKARTA",
+            "nama_se": "CV.MANDRAKARTA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4310",
+            "website": "mandrakarta.id"
+        },
+        {
+            "id": "9cb1ab96-85c8-4335-aaf7-5d305a21e292",
+            "nama_pse": "BALAI LELANG SINARMAS",
+            "nama_se": "SIMASBID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4311",
+            "website": "balailelangsimas.id"
+        },
+        {
             "id": "9cb1aba2-7e4d-49af-bff7-621d9214265e",
             "nama_pse": "CHITRA KRISNA SEPTYANI",
             "nama_se": "HELLO NONA CO.",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-06-06",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4232",
             "website": "blockdreammedia.com"
-        },
-        {
-            "id": "9cb1ab96-3b20-40f9-9174-c51f5f8fb955",
-            "nama_pse": "MEDIATEK INTERNUSA",
-            "nama_se": "SIPLAH BLIBLI CV. MEDIATEK INTERNUSA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-06-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4235",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abac-7f3a-4f50-be4a-776b855c67e2",
-            "nama_pse": "PAYHERE NUSWANTARA INTERNATIONAL",
-            "nama_se": "PAYHERE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-06-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4238",
-            "website": "payhere.id"
-        },
-        {
-            "id": "9cb1abac-81c0-493a-bc06-21dc414a8089",
-            "nama_pse": "DROPSHIP",
-            "nama_se": "CV DROPSHIP",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-06-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4241",
-            "website": "dropshipaja.com"
-        },
-        {
-            "id": "9cb1abac-8487-4787-bcfa-118d815ea0e3",
-            "nama_pse": "INDONESIA CERDAS BERKARYA",
-            "nama_se": "KODIPEST",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4242",
-            "website": "kodipest.com"
-        },
-        {
-            "id": "9cb1abac-8710-430d-a404-96844de51485",
-            "nama_pse": "PITIK DIGITAL INDONESIA",
-            "nama_se": "PITIK - SMART BROILER FARMING",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4244",
-            "website": "pitik.id"
-        },
-        {
-            "id": "9cb1aba2-3fea-4ec2-adc4-0c90a59dfb06",
-            "nama_pse": "MEDIA MENARA INDONESIA",
-            "nama_se": "MEDIA MENARA INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4243",
-            "website": "menaraindonesia.com"
-        },
-        {
-            "id": "9cb1abac-89cc-4a6e-a6b7-01e0c2aa7bd8",
-            "nama_pse": "MAKASSAR COMPUTINDO",
-            "nama_se": "MAKASSAR COMPUTINDO",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4245",
-            "website": "makassarcomputindo.com"
-        },
-        {
-            "id": "9cb1ab96-4391-432a-82c5-4856e116633b",
-            "nama_pse": "CAHAYA ALBAROKAH SUKSES",
-            "nama_se": "CAHAYA ALBAROKAH SUKSES (CAS)",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-06-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4246",
-            "website": "cahayaalbarokahsukses.web.indotrading.com"
-        },
-        {
-            "id": "9cb1ab96-4ae6-4cc7-adce-1998b7a3dee8",
-            "nama_pse": "DIGITAL MANDIRI TECHNOLOGY",
-            "nama_se": "DMTECHNO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4247",
-            "website": "dmtechno.id"
-        },
-        {
-            "id": "9cb1aba2-3536-4dd7-ab3f-3b7bfb9b961e",
-            "nama_pse": "KOP UNIT DESA MINATANI",
-            "nama_se": "USP MOBILE",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4228",
-            "website": "induk.uspminatani.id"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 6,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 301,
     "totalPages": 383

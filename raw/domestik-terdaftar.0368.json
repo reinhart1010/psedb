@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abac-0ffa-4859-bc19-484c76db0bbd",
+            "nama_pse": "TELEKOMUNIKASI SELULAR",
+            "nama_se": "CALL MANAGER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/836",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab61-697e-41e1-9d40-8f8d01d313d9",
+            "nama_pse": "UNITED TRACTORS",
+            "nama_se": "KLIKUT.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/735",
+            "website": "klikut.com"
+        },
+        {
+            "id": "9cb1ab61-83a6-427e-b0ed-768375282861",
+            "nama_pse": "BANK OCBC NISP",
+            "nama_se": "VELOCITY@OCBCNISP",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/777",
+            "website": "newvelocity.ocbcnisp.com"
+        },
+        {
+            "id": "9cb1ab64-7760-41c4-b910-eb9de0967543",
+            "nama_pse": "MANJO TEKNOLOGI INDONESIA",
+            "nama_se": "MANJO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/801",
+            "website": "manjo.co.id"
+        },
+        {
+            "id": "9cb1ab66-1b7f-4fd3-ba98-28641340985a",
+            "nama_pse": "MAPCLUB DIGITAL ASIA",
+            "nama_se": "MAPCLUB.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/743",
+            "website": "mapclub.com"
+        },
+        {
+            "id": "9cb1ab62-3e0a-4a19-ae2a-7cb17bc85287",
+            "nama_pse": "TOKOBAGUS",
+            "nama_se": "OLX",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/723",
+            "website": "olx.co.id"
+        },
+        {
+            "id": "9cb1ab65-2c14-4a0f-b09d-72b2867421d6",
+            "nama_pse": "SUMMIT OTO FINANCE",
+            "nama_se": "SITUS WEB PERUSAHAAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/750",
+            "website": "otofinance.co.id"
+        },
+        {
+            "id": "9cb1ab65-6534-4909-9611-61736ed08722",
+            "nama_pse": "REKSO NASIONAL FOOD",
+            "nama_se": "MCDONALDS.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/752",
+            "website": "mcdonalds.co.id"
+        },
+        {
+            "id": "9cb1ab71-07d0-4de0-a57e-4e15ea0e4088",
+            "nama_pse": "SENTRA GIRI MAKMUR",
+            "nama_se": "DOKTER KELUARGA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2021-05-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/762",
+            "website": "dokterkeluarga.id"
+        },
+        {
+            "id": "9cb1ab65-988a-4151-830f-bf9c7fed39fb",
+            "nama_pse": "EFSU DIGITAL INDONESIA",
+            "nama_se": "POHON PENGETAHUAN TAMBAH ILMU",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/806",
+            "website": "pohonpengetahuantambahilmu.co.id"
+        },
+        {
             "id": "9cb1ab62-bd69-4b8c-8a93-4379706efd2f",
             "nama_pse": "ARFADIA DIGITAL INDONESIA",
             "nama_se": "WEB PORTAL DAN APLIKASI TRANSAKSI DIGITAL",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-05-07",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/787",
             "website": "edusav.id"
-        },
-        {
-            "id": "9cb1ab6a-f8c3-4ec0-ac7d-4f94b757a083",
-            "nama_pse": "JASA BMT EL AMANAH",
-            "nama_se": "BMT EL-AMANAH",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/810",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab63-8cd6-41b1-9f7c-0d2cb136ab2d",
-            "nama_pse": "DIGITAL NET ASET",
-            "nama_se": "HTTPS://WWW.DIGITALNETASET.COM/",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/753",
-            "website": "digitalnetaset.com/"
-        },
-        {
-            "id": "9cb1ab72-001e-4ee3-a933-708487f94ba3",
-            "nama_pse": "JCO DONUT \u0026 COFFEE",
-            "nama_se": "JCO DELIVERY",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Pangan, Sektor Pangan",
-            "tanggal_terbit": "2021-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/794",
-            "website": "jcodelivery.com"
-        },
-        {
-            "id": "9cb1ab6b-1567-4dad-8e36-19a65eac05a8",
-            "nama_pse": "NUSACIPTA MEDIA INDONESIA",
-            "nama_se": "BALIKPAPANUPDATE.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/783",
-            "website": "balikpapanupdate.com"
-        },
-        {
-            "id": "9cb1ab6b-1c4b-4f4f-9e0d-9b351227917a",
-            "nama_pse": "MNC GUNA USAHA INDONESIA",
-            "nama_se": "APLIKASI MOBILE MNC LEASING",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/807",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab72-0eb6-412a-bd7a-4216954b0a56",
-            "nama_pse": "MNC GUNA USAHA INDONESIA",
-            "nama_se": "SIAPHAJI.COM",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/809",
-            "website": "siaphaji.com"
-        },
-        {
-            "id": "9cb1ab72-1744-4977-a33a-112d680d7075",
-            "nama_pse": "AKUR DANA ABADI",
-            "nama_se": "PT AKUR DANA ABADI (JEMBATAN EMAS)",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/770",
-            "website": "www. jembatanemas.id"
-        },
-        {
-            "id": "9cb1ab72-1b36-4fab-bb6b-b5b980422c29",
-            "nama_pse": "TRUST TEKNOLOGI FINANSIAL",
-            "nama_se": "TRUSTIQ",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/771",
-            "website": "trustiq.id"
-        },
-        {
-            "id": "9cb1ab72-1e13-4262-aec4-be09b452d8eb",
-            "nama_pse": "LULU GROUP RETAIL",
-            "nama_se": "SAP HYBRIS",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/814",
-            "website": "luluhypermarket.com"
-        },
-        {
-            "id": "9cb1ab6b-294f-4877-a53f-de084778294e",
-            "nama_pse": "FIVE JACK",
-            "nama_se": "ITEMKU",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/803",
-            "website": "itemku.com"
         }
     ],
     "processingTimeMs": 10,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 368,
     "totalPages": 383

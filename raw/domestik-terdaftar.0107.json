@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac63-a0ae-46af-b1b5-3a693e366d5c",
+            "nama_pse": "KLOVERKRES SOLUSI INTEGRASI",
+            "nama_se": "KLOVERHEALTH",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16666",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac63-a3ef-49e4-8103-ff2d653e2c25",
+            "nama_pse": "BENGKEL APLIKASI NUSANTARA",
+            "nama_se": "EDUTREN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16668",
+            "website": "edutren.id"
+        },
+        {
+            "id": "9cb1ac50-1408-418b-992e-f5a6da39d058",
+            "nama_pse": "INSPIRASI BISNIS NUSANTARA",
+            "nama_se": "WEBSITE HAUS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-11-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16644",
+            "website": "haus.co.id"
+        },
+        {
+            "id": "9cb1ac76-4975-405b-81d0-f3a0a5ecefbc",
+            "nama_pse": "MITRA PLUMBON HEALTHCARE",
+            "nama_se": "MP HEALTHCARE",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16584",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac62-a563-44a4-861a-db0eba563103",
+            "nama_pse": "RINTISAN TEKNOLOGI WARALABA",
+            "nama_se": "RINTISAN",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16619",
+            "website": "rintisan.co.id"
+        },
+        {
+            "id": "9cb1ac77-0e2c-4688-844f-5b40566104b0",
+            "nama_pse": "THAMRIN SINAR SURYA",
+            "nama_se": "SISTEM INFORMASI RSU BUNDA THAMRIN",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16629",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac63-58e5-4a3d-a553-45ad59fdb550",
+            "nama_pse": "TILIKGRAM ADIKARA IDN",
+            "nama_se": "SMARTMEDIC",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16613",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4f-f9af-465e-b540-38ac822c17cb",
+            "nama_pse": "TILIKGRAM ADIKARA IDN",
+            "nama_se": "PORTAL BERITA KOBER SATRIA MEDIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16614",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4f-fcc3-4492-8c86-61f25d011e72",
+            "nama_pse": "HASNA MEDIKA BAKTI INDRAMAYU",
+            "nama_se": "HAMIS INDRAMAYU",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16615",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac77-2624-43b0-bfc8-2a0d16921a11",
+            "nama_pse": "UNGGUL PRATAMA MEDIKA",
+            "nama_se": "TRAKCARE",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16617",
+            "website": "EMC.ID"
+        },
+        {
+            "id": "9cb1ac63-5bd8-4a4c-826c-6389724efa92",
+            "nama_pse": "STARFID INTERNET SEGALA",
+            "nama_se": "PERANGKAT RFID PERPUSTAKAAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16616",
+            "website": "starfid.co.id"
+        },
+        {
             "id": "9cb1ac77-2ab2-4153-beff-e6125e5ff774",
             "nama_pse": "ESKI KAMAL SETIAWAN",
             "nama_se": "LAYANAN PENYEDIA INTERNET LOKAL ( RT / RW NET )",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-11-24",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16580",
             "website": "portal7.co.id"
-        },
-        {
-            "id": "9cb1ac63-2994-4523-9c73-ea0d526bfd95",
-            "nama_pse": "KAMPOENG DIGITAL WAKIBOTA",
-            "nama_se": "SIMKLINIK WAKIBOTA",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-11-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16581",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4f-b95b-48c0-8e6b-c5859c50bbce",
-            "nama_pse": "HAMDY MAULANA MEDIKA",
-            "nama_se": "SIMRS ANNISA JAMBI",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-11-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16586",
-            "website": "rsia-annisajambi.co.id"
-        },
-        {
-            "id": "9cb1ac63-2fb2-430c-8c41-f032785ea1b9",
-            "nama_pse": "SEMAI RAYA INTERNASIONAL",
-            "nama_se": "SEMAI.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-11-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16585",
-            "website": "semai.id"
-        },
-        {
-            "id": "9cb1ac76-f344-427d-8b71-95cc7949293e",
-            "nama_pse": "WIHARTATI CAHAYA MANDIRI",
-            "nama_se": "ALODIE MEDIK",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-11-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16588",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac63-33e2-4f4f-a669-eb4c3a739a43",
-            "nama_pse": "INTERSYSTEMS SOFTWARE INDONESIA",
-            "nama_se": "TRAKCARE",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-11-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16590",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac76-fa26-4f4e-9413-b4a16c91cca5",
-            "nama_pse": "SOLUSI DENGAN TEKNOLOGI",
-            "nama_se": "MEDIBOOK MEDITAL",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-11-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16591",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4f-bc3d-4d91-a2b2-390614d309ef",
-            "nama_pse": "HASNA MEDIKA BAKTI KEDAWUNG",
-            "nama_se": "HAMIS KEDAWUNG",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-11-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16596",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4f-bf2e-4677-a416-783378d925ea",
-            "nama_pse": "SUPER CEPAT TEKNOLOGI INDONESIA",
-            "nama_se": "SUPER CEPAT TEKNOLOGI INDONESIA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-11-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16593",
-            "website": "ptsct.net"
-        },
-        {
-            "id": "9cb1ac77-095f-49d9-9ff7-981961a768c7",
-            "nama_pse": "NUSA DIGITAL MEDIA",
-            "nama_se": "GOSOCIAL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-11-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16595",
-            "website": "gosocial.co.id"
-        },
-        {
-            "id": "9cb1ac63-380c-40b0-9f82-94646edbcfb7",
-            "nama_pse": "COGO PORT INDONESIA",
-            "nama_se": "COGOPORT",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-11-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16594",
-            "website": "cogoport.co.id"
-        },
-        {
-            "id": "9cb1ac4f-c59f-428e-873a-50e4a25ea6c2",
-            "nama_pse": "SENTRA BERKAH NANJAYA",
-            "nama_se": "SENTRANANJAYA.COM",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-11-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16597",
-            "website": "SENTRANANJAYA.COM"
         }
     ],
-    "processingTimeMs": 49,
+    "processingTimeMs": 7,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 107,
     "totalPages": 383

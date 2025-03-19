@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abef-08dd-4d2a-ab8b-2e01ef6957c2",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH PAPUA",
+            "nama_se": "DEVELOPMENT APLIKASI LAKU PANDAI BANK PAPUA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8291",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abbb-236e-4f52-bbc4-d11b83a853e8",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH PAPUA",
+            "nama_se": "DEVELOPMENT NEW MOBILE BANKING ULTIMATE BANK PAPUA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8292",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abef-0d81-467c-a719-49e29e182030",
+            "nama_pse": "BANK PERKREDITAN RAKYAT WLINGI PAHALAPAKTO",
+            "nama_se": "PT.BPR WLINGI PAHALAPAKTO",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8306",
+            "website": "bprwlingipahalapakto.co.id"
+        },
+        {
+            "id": "9cb1abef-13be-487a-9e81-4892a698945d",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI TENGAH",
+            "nama_se": "BANK SULTENG WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8293",
+            "website": "banksulteng.co.id"
+        },
+        {
+            "id": "9cb1abbb-26b7-4a77-aad5-5ade3b09a13f",
+            "nama_pse": "JARI SOLUSI INTERNATIONAL",
+            "nama_se": "JARI MOBILE COLLECTION (APPS FOR MANDIRI)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8294",
+            "website": "jari.co.id"
+        },
+        {
+            "id": "9cb1abc9-08ba-4d5c-984c-388c636dbd0b",
+            "nama_pse": "BANK SMBC INDONESIA",
+            "nama_se": "SAP SUCCESSFACTORS BTPN",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8326",
+            "website": "performancemanager10.successfactors.com"
+        },
+        {
+            "id": "9cb1abc9-1065-4ae1-ae9f-7395e31059e4",
+            "nama_pse": "SUBARJA SOLUSI PERKASA",
+            "nama_se": "PT. SUBARJA SOLUSI PERKASA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8295",
+            "website": "subarja.com"
+        },
+        {
+            "id": "9cb1abbb-299b-46b3-955c-adb1517dad6c",
+            "nama_pse": "FOKUS UMKM",
+            "nama_se": "FOKUSUMKM4GO",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8296",
+            "website": "fokusumkm4go.com"
+        },
+        {
+            "id": "9cb1abef-18aa-4bfc-bf07-8b651e698c9c",
+            "nama_pse": "ANEKA MEDIA",
+            "nama_se": "CITYMAGZ.NET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8297",
+            "website": "citymagz.net"
+        },
+        {
+            "id": "9cb1abc9-1719-4f52-9643-09c2ea223738",
+            "nama_pse": "PERUMDA BPR BANK BLORA ARTHA",
+            "nama_se": "PERUMDA BPR BANK BLORA ARTHA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8299",
+            "website": "bankbloraartha.com"
+        },
+        {
             "id": "9cb1abc9-2421-4897-bc5f-5f2eca14460a",
             "nama_pse": "MNC GS HOMESHOPPING",
             "nama_se": "EMSHOP",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8341",
             "website": "tixpulsa.com"
-        },
-        {
-            "id": "9cb1abbb-4933-4303-8d0b-12fda4d414f0",
-            "nama_pse": "HEXA MAJU SAMASTA",
-            "nama_se": "DIGITAL SIGNATURE SYSTEM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8340",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abc9-6fe7-4a46-b0ad-872b3ff313f3",
-            "nama_pse": "FISABIL MAHARDIKA PUTRA",
-            "nama_se": "PULSA QRIS CATAT UANG - ALEENA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8342",
-            "website": "aleena.bukaolshop.site"
-        },
-        {
-            "id": "9cb1abef-6d2f-4cd0-80aa-5b920d3b5193",
-            "nama_pse": "AKU CINTA INDONESIA RAYA",
-            "nama_se": "WINMARKET",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8343",
-            "website": "winmarket.id"
-        },
-        {
-            "id": "9cb1abbb-4b09-4adf-b6bd-a93e607a2257",
-            "nama_pse": "BANK MANDIRI TASPEN",
-            "nama_se": "MILEA (MANTAP INTELLIGENCE E-ASSISTANT)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8344",
-            "website": "milea.bankmantap.co.id"
-        },
-        {
-            "id": "9cb1abc9-73b1-413c-8378-1558f7698e1f",
-            "nama_pse": "INDOPAY MULTISINERGI",
-            "nama_se": "WEBSITE INDOPAY",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8346",
-            "website": "Indopay.net"
-        },
-        {
-            "id": "9cb1abbb-4f28-4d7f-8f59-01f47a2f7aed",
-            "nama_pse": "BP PARTNERSHIP",
-            "nama_se": "WEBSITE BIMOPRASETIO.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8347",
-            "website": "bimoprasetio.com"
-        },
-        {
-            "id": "9cb1abbb-5123-47d2-964e-aba816b80369",
-            "nama_pse": "GARENA INDONESIA",
-            "nama_se": "GAME CONTRA RETURNS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8349",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abbb-52e6-496d-89bb-a5d8dbe80d07",
-            "nama_pse": "INDOPAY MULTISINERGI",
-            "nama_se": "WEBSITE INDOPULSATRONIK",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8348",
-            "website": "Indopulsatronik.com"
-        },
-        {
-            "id": "9cb1abc9-7742-4bfd-bde9-a73ec3a2eb80",
-            "nama_pse": "INDOPAY MULTISINERGI",
-            "nama_se": "WEBSITE OTOREPORT INDOPULSATRONIK",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8350",
-            "website": "Otoreport.indopulsatronik.com"
-        },
-        {
-            "id": "9cb1abef-713f-4d02-8319-e92c46299b98",
-            "nama_pse": "SATRIA MEDIA TEKNOLOGI",
-            "nama_se": "SATRIATECH",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8351",
-            "website": "satriacorp.id"
         }
     ],
-    "processingTimeMs": 8,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 251,
     "totalPages": 383

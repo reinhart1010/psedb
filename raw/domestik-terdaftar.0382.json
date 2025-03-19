@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab83-f036-4673-8216-2f356dc32941",
+            "nama_pse": "MOOKEE AURANERS INDONESIA",
+            "nama_se": "MOOKEE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/48",
+            "website": "mookee.co.id"
+        },
+        {
+            "id": "9cb1ab7c-2b44-4977-b47c-b47665d5f113",
+            "nama_pse": "DESTY KARSA WESYA",
+            "nama_se": "DESTY",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/62",
+            "website": "desty.app/"
+        },
+        {
+            "id": "9cb1ab8b-e043-43f7-b6e0-65dfe36477b5",
+            "nama_pse": "DESTY KARSA WESYA",
+            "nama_se": "DESTY",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/63",
+            "website": "desty.app/"
+        },
+        {
+            "id": "9cb1ab8b-ef76-4a76-ae26-7a891d82b55e",
+            "nama_pse": "DJELAS TANDATANGAN BERSAMA",
+            "nama_se": "TEKEN AJA!",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/43",
+            "website": "djelas.id"
+        },
+        {
+            "id": "9cb1ab7c-2e46-41bc-aa7f-c848d7a77cac",
+            "nama_pse": "MADEEL TEKHNOLOGI INDONESIA",
+            "nama_se": "BDRIVE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/98",
+            "website": "bdrive.id"
+        },
+        {
+            "id": "9cb1ab8b-f9c2-459b-a7b2-d6973342fa97",
+            "nama_pse": "PLUS ULTRA ABADI",
+            "nama_se": "UATAS",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/78",
+            "website": "uatas.id"
+        },
+        {
+            "id": "9cb1ab84-05ed-4f06-bf30-829cd46be814",
+            "nama_pse": "ORINDO ALAM AYU",
+            "nama_se": "WWW.ORIFLAME.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/85",
+            "website": "oriflame.co.id"
+        },
+        {
+            "id": "9cb1ab7c-4f7b-48bf-9649-8e8250d9bdfe",
+            "nama_pse": "DIMENSI GENERASI TEKNOLOGI",
+            "nama_se": "MARKETPLACE HOOURA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/53",
+            "website": "hooura.com"
+        },
+        {
+            "id": "9cb1ab84-0c96-48d0-b8a6-85e6e4f9cce6",
+            "nama_pse": "AMANTRA INVESTAMA INDODANA",
+            "nama_se": "VISIKU.CO.ID",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/52",
+            "website": "visiku.co.id"
+        },
+        {
+            "id": "9cb1ab84-10da-470a-b6b6-6e8ce387c887",
+            "nama_pse": "SOLUSI KEUANGAN MERAH PUTIH",
+            "nama_se": "HTTPS://SOLUSIMERAHPUTIH.ID",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/76",
+            "website": "solusimerahputih.id"
+        },
+        {
             "id": "9cb1ab7c-6515-4fb2-991f-202a59603136",
             "nama_pse": "PANIN DAI-ICHI LIFE",
             "nama_se": "BEKAL HIDUP",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-02-23",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/49",
             "website": "chubbcargoadvantage.com"
-        },
-        {
-            "id": "9cb1ab86-b244-4ab7-95e4-30e8bf7b10e0",
-            "nama_pse": "BHINNEKA LIFE INDONESIA",
-            "nama_se": "CORPORATE WEBSITE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/44",
-            "website": "bhinnekalife.com"
-        },
-        {
-            "id": "9cb1ab86-babb-4586-9d7c-73e1f57ef5fa",
-            "nama_pse": "BHINNEKA LIFE INDONESIA",
-            "nama_se": "BHINNEKA LIFE AGENCY TOOLS (BLAT)",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/45",
-            "website": "blat.bhinnekalife.com"
-        },
-        {
-            "id": "9cb1ab8e-3fa5-4c67-a718-e2a71f350a4c",
-            "nama_pse": "BHINNEKA LIFE INDONESIA",
-            "nama_se": "B-STAR",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/46",
-            "website": "bstar.bhinnekalife.com"
-        },
-        {
-            "id": "9cb1ab8e-42cf-4359-a957-1d45aacd1df3",
-            "nama_pse": "BHINNEKA LIFE INDONESIA",
-            "nama_se": "BFLASH",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/47",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba9-c450-454f-8e77-cf71a086a95a",
-            "nama_pse": "AUSTINDO INFORMATIKA DEWATA",
-            "nama_se": "WEBSITE",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/55",
-            "website": "geonet.me"
-        },
-        {
-            "id": "9cb1ab8c-7e25-4183-adfc-4bc62dd1b7b0",
-            "nama_pse": "FINTEK ANDALAN SOLUSI TEKNOLOGI",
-            "nama_se": "FULUSME",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/124",
-            "website": "fulusme.id"
-        },
-        {
-            "id": "9cb1ab7e-5230-4772-8e11-e544ecee55c8",
-            "nama_pse": "CHUBB GENERAL INSURANCE INDONESIA",
-            "nama_se": "CHUBB TRAVEL",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/31",
-            "website": "chubbtravelinsurance.co.id"
-        },
-        {
-            "id": "9cb1ab8b-ada5-460a-8629-591e6308964b",
-            "nama_pse": "LEHOLEH RASA NUSANTARA JAYA",
-            "nama_se": "LEHOLEH INDONESIA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-02-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/25",
-            "website": "leholeh.co.id"
-        },
-        {
-            "id": "9cb1ab7b-dbf6-4f15-bd59-a8c509653562",
-            "nama_pse": "RUPIAH TOKEN INDONESIA",
-            "nama_se": "RUPIAH TOKEN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-02-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/24",
-            "website": "rupiahtoken.com"
-        },
-        {
-            "id": "9cb1ab8b-b857-4ea1-b6da-814559e74a0d",
-            "nama_pse": "PEMASOK MITRA PEMBELI",
-            "nama_se": "APLIKASI PEMPEM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-02-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/27",
-            "website": "pempem.org"
         }
     ],
-    "processingTimeMs": 9,
+    "processingTimeMs": 11,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 382,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac66-d1e3-465e-888c-8c6e37533cd5",
+            "nama_pse": "DADAN RAMDAN AZIZ",
+            "nama_se": "SIFORM KLINIK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17316",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac66-da76-42b6-b704-5542006e485e",
+            "nama_pse": "ANTONI MIFTAH",
+            "nama_se": "SISTEM INFORMASI KLINIK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17318",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac66-dd83-420c-80a0-63db5f7d00a3",
+            "nama_pse": "BRAGA TEKNOLOGI NUSANTARA",
+            "nama_se": "GEODASHBOARD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17319",
+            "website": "geodashboard.io"
+        },
+        {
+            "id": "9cb1ac53-5278-4783-91fa-63940b32d200",
+            "nama_pse": "INAUGURASI PELANGI NUSANTARA",
+            "nama_se": "INSPIRA MEDICAL SYSTEM",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17320",
+            "website": "amclinic.inspiraworld.com"
+        },
+        {
+            "id": "9cb1ac53-553a-4d6d-95de-5acdee2e0ab0",
+            "nama_pse": "CIPTA SEDAYA DIGITAL INDONESIA",
+            "nama_se": "WEBSITE BERIJALAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17321",
+            "website": "Berijalan.co.id"
+        },
+        {
+            "id": "9cb1ac53-59fc-4b3c-b37c-dec79636f774",
+            "nama_pse": "KUBISA INTI KARYA",
+            "nama_se": "KUBIKAJA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17322",
+            "website": "kubikaja.com"
+        },
+        {
+            "id": "9cb1ac7b-025e-42ec-887a-4f8be76f60fe",
+            "nama_pse": "SEMUA HANYALAH TITIPAN",
+            "nama_se": "NEATIPIN",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17323",
+            "website": "neatipin.com"
+        },
+        {
+            "id": "9cb1ac53-5d2c-4d91-85c9-ba986ea7ba7e",
+            "nama_pse": "AHMAD ZULIANTO",
+            "nama_se": "PASSMEDIKA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17324",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac53-610f-421d-b872-c6167d65294c",
+            "nama_pse": "BIDS INOVASI PRODIGITAL",
+            "nama_se": "AYOLOMBA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17325",
+            "website": "ayolomba.com"
+        },
+        {
+            "id": "9cb1ac66-363c-4066-9f36-d08395e6e277",
+            "nama_pse": "MUHANA SANO ESENSI",
+            "nama_se": "SISTEM INFORMASI MEDIS (MEDKIT) KLINIK UTAMA RAWAT INAP ESENSIA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17317",
+            "website": "esensia.co.id"
+        },
+        {
             "id": "9cb1abd7-07a3-40cd-b507-bbc026e76cae",
             "nama_pse": "LAWANG SEWU TEKNOLOGI",
             "nama_se": "SIMDA CLOUD",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-01-08",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17258",
             "website": "foodhall.mapclub.com"
-        },
-        {
-            "id": "9cb1ac66-8775-4638-b13e-2497ab131014",
-            "nama_pse": "MUHAMMAD ILHAM",
-            "nama_se": "KEDAI PREMIUM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-01-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17259",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac7a-d163-4d4e-844b-22c8dba3c270",
-            "nama_pse": "BENDT SISTEM INDONESIA",
-            "nama_se": "HUPERCLOUD",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17261",
-            "website": "HUPERCLOUD.COM"
-        },
-        {
-            "id": "9cb1ac7a-d4c3-423e-ab25-81312f826f76",
-            "nama_pse": "SURYASOFT KONSULTAMA",
-            "nama_se": "SIMCLICNIC",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-01-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17260",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac66-8a18-4927-9799-cdd5b473f149",
-            "nama_pse": "KUNINGAN EYE CENTER",
-            "nama_se": "SIM KLINIK KUNINGAN EYE CENTER",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-01-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17262",
-            "website": "kuninganeyecenter.com"
-        },
-        {
-            "id": "9cb1ac7a-d865-4ca9-b5ce-087eb67823dd",
-            "nama_pse": "ALFA INDOTAMA PERKASA",
-            "nama_se": "WEBSITE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-01-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17263",
-            "website": "alfaindotama.co.id"
-        },
-        {
-            "id": "9cb1ac7a-dc85-4bd3-8318-928f615e846c",
-            "nama_pse": "BANK OCBC NISP",
-            "nama_se": "HIRA-HR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17264",
-            "website": "hira-hr.com"
-        },
-        {
-            "id": "9cb1ac66-8ca6-4bc6-bc02-32cef34b8ee8",
-            "nama_pse": "MATCH MADE INDONESIA",
-            "nama_se": "MATCHMADE.IO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17265",
-            "website": "matchmade.io"
-        },
-        {
-            "id": "9cb1ac53-1dc5-4063-b881-5a479f1a73f4",
-            "nama_pse": "ZEALS DIGITAL ASIA",
-            "nama_se": "ZEALS AFFILIATE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17268",
-            "website": "zeals.asia"
-        },
-        {
-            "id": "9cb1ac66-8f89-4582-a3a0-66f224ce30a9",
-            "nama_pse": "GRAHA SOLA GRASINDO",
-            "nama_se": "SISTEM INFORMASI KLINIK GRACIA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-01-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17269",
-            "website": "managedclinics.com"
-        },
-        {
-            "id": "9cb1ac7a-dfc6-4938-8e8d-bdc75e247f16",
-            "nama_pse": "IRA KONSULTAN INDONESIA",
-            "nama_se": "KONSULTANKU",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-01-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17270",
-            "website": "irakonsultan.co.id"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 94,
     "totalPages": 383

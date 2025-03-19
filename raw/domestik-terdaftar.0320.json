@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab83-0ef9-4c91-8e02-bf4683803c49",
+            "nama_pse": "DURIAN PAY INDONESIA",
+            "nama_se": "DURIANPAY",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3352",
+            "website": "durianpay.id"
+        },
+        {
+            "id": "9cb1ab83-1225-4d66-8044-16ca973a130a",
+            "nama_pse": "DIAN SORAYA SAPUTRA",
+            "nama_se": "KURSUSMART",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3354",
+            "website": "kursusmart.com"
+        },
+        {
+            "id": "9cb1ab7b-45bc-4eb3-8312-46e3e11a290d",
+            "nama_pse": "PILARMEDIA INDONESIA",
+            "nama_se": "PILARMEDIA INDONESIA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3355",
+            "website": "pilarmedia.com"
+        },
+        {
+            "id": "9cb1ab83-1885-4427-81d7-3e82bccea715",
+            "nama_pse": "TRIPERWIRA MULTI PAMENANG",
+            "nama_se": "PT. TRIPERWIRA MULTI PAMENANG",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3357",
+            "website": "pc-master.biz"
+        },
+        {
+            "id": "9cb1ab7b-55ac-41f1-aafd-07c9b14920bf",
+            "nama_pse": "TRIPERWIRA MULTI PAMENANG",
+            "nama_se": "TRIPERWIRA MULTI PAMENANG.",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3358",
+            "website": "pc-master.biz"
+        },
+        {
+            "id": "9cb1ab86-8ca8-43d9-a0d1-e80d1cb78ddf",
+            "nama_pse": "PLUANG MAJU SEKURITAS",
+            "nama_se": "PAHAM",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3359",
+            "website": "nilaiintisekuritas.com"
+        },
+        {
+            "id": "9cb1ab90-aa46-4a10-a63d-07f9da4ca31f",
+            "nama_pse": "BERNIAGA BERKAH CEMERLANG",
+            "nama_se": "BERNIAGA BERKAH CEMERLANG",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3360",
+            "website": "berniagaberkahcemerlang.com"
+        },
+        {
+            "id": "9cb1ab66-3eee-4f0c-8ec0-4c7beec54bd9",
+            "nama_pse": "GLOBAL LOKET SEJAHTERA",
+            "nama_se": "LOKET.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-02-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3338",
+            "website": "loket.com"
+        },
+        {
+            "id": "9cb1ab8a-e3c5-445a-b84d-5f949d57f87b",
+            "nama_pse": "FITA SEHAT NUSANTARA",
+            "nama_se": "FITA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-02-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3334",
+            "website": "fita.co.id"
+        },
+        {
+            "id": "9cb1ab80-1320-40a5-8644-34cd91fc3f5b",
+            "nama_pse": "KLIK INDOMARET PERKASA",
+            "nama_se": "KLIK INDOMARET",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-02-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3333",
+            "website": "klikindomaret.com"
+        },
+        {
             "id": "9cb1ab81-7587-4b13-a93b-959e999dc36a",
             "nama_pse": "WAHYU SUJATMIKO",
             "nama_se": "CLOUD STORAGE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-02-18",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3297",
             "website": "-"
-        },
-        {
-            "id": "9cb1ab82-bb3c-46bd-b817-1d1afd4fb843",
-            "nama_pse": "LINTAU NET INDONESIA",
-            "nama_se": "JASA INTERNET TELEPONI UNTUK KEPERLUAN PUBLIK (ITKP)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3298",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab7b-1098-40af-af25-610aa1cbac1b",
-            "nama_pse": "JAYA DATA SEMESTA",
-            "nama_se": "JDS DATA PLATFORM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3301",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab8a-d74c-4197-9220-1e2d6ec91152",
-            "nama_pse": "KUNCIE PINTAR NUSANTARA",
-            "nama_se": "KUNCIE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3302",
-            "website": "kuncie.com"
-        },
-        {
-            "id": "9cb1ab82-ed3c-4e68-a769-c5ea881fc707",
-            "nama_pse": "TEMAS SHIPPING",
-            "nama_se": "KLIKTEMAS",
-            "sektor": "Sektor Transportasi, Sektor Transportasi",
-            "tanggal_terbit": "2022-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3309",
-            "website": "kliktemas.com"
-        },
-        {
-            "id": "9cb1ab8a-d94f-4887-bde4-93cd165eaafb",
-            "nama_pse": "M. REZA NUR IHSAN NUGRAHA",
-            "nama_se": "ZONA 2D NETWORKS",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3308",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab7b-1684-4689-9d60-bc2eb86967aa",
-            "nama_pse": "BALAKOSA JAYA ABADI",
-            "nama_se": "AFTAPAY",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3316",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab83-9fd1-44b5-8331-bca1fb6b2707",
-            "nama_pse": "MSIG LIFE INSURANCE INDONESIA",
-            "nama_se": "VEGA BY SINARMAS MSIG LIFE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3304",
-            "website": "sinarmasmsiglife.co.id"
-        },
-        {
-            "id": "9cb1aba9-6472-4851-9f40-659fd3af126e",
-            "nama_pse": "SHIPPINDO TEKNOLOGI LOGISTIK",
-            "nama_se": "ATOOR.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3303",
-            "website": "atoor.com"
-        },
-        {
-            "id": "9cb1ab9f-3d04-4038-9ae9-49e0b86a6024",
-            "nama_pse": "GLOBAL INOVASI STRATEGIS",
-            "nama_se": "ASIK APLIKASI PELAKU USAHA MIKRO KOTA BANDUNG",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3299",
-            "website": "asik.official.id"
-        },
-        {
-            "id": "9cb1ab7f-2ddc-4cf9-acae-a4e51f4dc176",
-            "nama_pse": "RANTAI MAS MEBELINDO",
-            "nama_se": "RAJAMEBEL.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-02-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3281",
-            "website": "rajamebel.id"
         }
     ],
-    "processingTimeMs": 10,
+    "processingTimeMs": 8,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 320,
     "totalPages": 383

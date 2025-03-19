@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab8a-f971-45f8-8f66-b2498a31c534",
+            "nama_pse": "TOKO KARYA DIGITAL",
+            "nama_se": "TOKONFT",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3401",
+            "website": "tokonft.io"
+        },
+        {
+            "id": "9cb1ab7b-81cd-4e45-9559-8a65c5a3ba69",
+            "nama_pse": "AFFAN TECHNOLOGY",
+            "nama_se": "PARTOJAMBE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3411",
+            "website": "partojambe.com"
+        },
+        {
+            "id": "9cb1ab7d-fd4e-4011-93fd-8bd7eb6ff8b5",
+            "nama_pse": "PINTAR VENTURA PERTAMA",
+            "nama_se": "POSY",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3408",
+            "website": "posy.co.id"
+        },
+        {
+            "id": "9cb1ab8f-fb78-449c-8925-bb17af99771d",
+            "nama_pse": "PIONIR MAHAKARYA TEKNOLOGI",
+            "nama_se": "FINFIN",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3400",
+            "website": "finfini.com"
+        },
+        {
+            "id": "9cb1ab8f-fde2-46ac-9f7f-2a6894abe117",
+            "nama_pse": "PIONIR MAHAKARYA TEKNOLOGI",
+            "nama_se": "FINFIN.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3402",
+            "website": "finfin.com"
+        },
+        {
+            "id": "9cb1ab90-0384-41e9-9fc5-dbdc6323358d",
+            "nama_pse": "SETIAP HARI DIPAKAI",
+            "nama_se": "EVERMOS",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3405",
+            "website": "evermos.com"
+        },
+        {
+            "id": "9cb1ab9e-fa70-43bd-b95e-4f63ef5deab5",
+            "nama_pse": "VIAMO SERVICES INDONESIA",
+            "nama_se": "VIAMO COMMUNICATION PLATFORM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3406",
+            "website": "viamo.io"
+        },
+        {
+            "id": "9cb1ab83-37b1-4076-8306-dd17d00e9b8a",
+            "nama_pse": "AMAL INDONESIA DERMAWAN",
+            "nama_se": "INDONESIA DERMAWAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3397",
+            "website": "indonesiadermawan.id"
+        },
+        {
+            "id": "9cb1ab7b-7872-4422-a909-ac333e7c3065",
+            "nama_pse": "CHITRA KRISNA SEPTYANI",
+            "nama_se": "HELLO NONA CO. WEBPAGE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3398",
+            "website": "hellonona.co"
+        },
+        {
+            "id": "9cb1ab8a-f79e-406d-907d-1ddd29384b10",
+            "nama_pse": "DIGITAL MEGA TRANSFORMASI",
+            "nama_se": "TAMBAHLAKU",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3399",
+            "website": "tambahlaku.id"
+        },
+        {
             "id": "9cb1ab69-2d82-4dcf-a802-4413d0892bd5",
             "nama_pse": "ASURANSI RELIANCE INDONESIA",
             "nama_se": "RELIDOC",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-02-23",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3349",
             "website": "multijasasolusindo.id"
-        },
-        {
-            "id": "9cb1ab83-0ef9-4c91-8e02-bf4683803c49",
-            "nama_pse": "DURIAN PAY INDONESIA",
-            "nama_se": "DURIANPAY",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3352",
-            "website": "durianpay.id"
-        },
-        {
-            "id": "9cb1ab83-1225-4d66-8044-16ca973a130a",
-            "nama_pse": "DIAN SORAYA SAPUTRA",
-            "nama_se": "KURSUSMART",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3354",
-            "website": "kursusmart.com"
-        },
-        {
-            "id": "9cb1ab7b-45bc-4eb3-8312-46e3e11a290d",
-            "nama_pse": "PILARMEDIA INDONESIA",
-            "nama_se": "PILARMEDIA INDONESIA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3355",
-            "website": "pilarmedia.com"
-        },
-        {
-            "id": "9cb1ab83-1885-4427-81d7-3e82bccea715",
-            "nama_pse": "TRIPERWIRA MULTI PAMENANG",
-            "nama_se": "PT. TRIPERWIRA MULTI PAMENANG",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3357",
-            "website": "pc-master.biz"
-        },
-        {
-            "id": "9cb1ab7b-55ac-41f1-aafd-07c9b14920bf",
-            "nama_pse": "TRIPERWIRA MULTI PAMENANG",
-            "nama_se": "TRIPERWIRA MULTI PAMENANG.",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3358",
-            "website": "pc-master.biz"
-        },
-        {
-            "id": "9cb1ab86-8ca8-43d9-a0d1-e80d1cb78ddf",
-            "nama_pse": "PLUANG MAJU SEKURITAS",
-            "nama_se": "PAHAM",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3359",
-            "website": "nilaiintisekuritas.com"
-        },
-        {
-            "id": "9cb1ab90-aa46-4a10-a63d-07f9da4ca31f",
-            "nama_pse": "BERNIAGA BERKAH CEMERLANG",
-            "nama_se": "BERNIAGA BERKAH CEMERLANG",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3360",
-            "website": "berniagaberkahcemerlang.com"
-        },
-        {
-            "id": "9cb1ab66-3eee-4f0c-8ec0-4c7beec54bd9",
-            "nama_pse": "GLOBAL LOKET SEJAHTERA",
-            "nama_se": "LOKET.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-02-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3338",
-            "website": "loket.com"
-        },
-        {
-            "id": "9cb1ab8a-e3c5-445a-b84d-5f949d57f87b",
-            "nama_pse": "FITA SEHAT NUSANTARA",
-            "nama_se": "FITA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3334",
-            "website": "fita.co.id"
-        },
-        {
-            "id": "9cb1ab80-1320-40a5-8644-34cd91fc3f5b",
-            "nama_pse": "KLIK INDOMARET PERKASA",
-            "nama_se": "KLIK INDOMARET",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-02-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3333",
-            "website": "klikindomaret.com"
         }
     ],
-    "processingTimeMs": 7,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 319,
     "totalPages": 383

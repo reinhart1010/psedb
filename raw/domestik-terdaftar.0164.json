@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac2a-b5e1-420d-a2a4-d93b77a4ff0e",
+            "nama_pse": "MEDIKA DIGITAL NUSANTARA",
+            "nama_se": "MORBIS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13326",
+            "website": "morbis.id"
+        },
+        {
+            "id": "9cb1ac17-f899-447f-a2cb-a44ca61b1558",
+            "nama_pse": "KARTARA DIGITAL INDONESIA",
+            "nama_se": "KARTARA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13329",
+            "website": "kartara.id"
+        },
+        {
+            "id": "9cb1ac19-bd96-4095-a734-fb8f5570d00b",
+            "nama_pse": "DOWA HANANDY UTAMA",
+            "nama_se": "DOWA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13331",
+            "website": "dowabag.co.id"
+        },
+        {
+            "id": "9cb1ac17-fc06-4e97-8a90-b9d6daab6694",
+            "nama_pse": "RANTAI DINGIN ASIA",
+            "nama_se": "COLDSPACE",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13332",
+            "website": "coldspace.id"
+        },
+        {
+            "id": "9cb1ac2a-b98b-4771-9589-6da34e401224",
+            "nama_pse": "FATAHILLA M",
+            "nama_se": "QIOSKU - SOLUSI JUALAN UNTUK KIOS ANDA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13333",
+            "website": "qiosku.id"
+        },
+        {
+            "id": "9cb1ac18-0a1e-4919-91fc-c1e9be39ef45",
+            "nama_pse": "KSPPS BMT NUSA KARTIKA",
+            "nama_se": "BMT NUSA KARTIKA MOBILE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-12-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13334",
+            "website": "bmtnusakartika.com"
+        },
+        {
+            "id": "9cb1ac17-697b-49c3-80fa-161c6373840a",
+            "nama_pse": "GAIDO CITO EKAKURINDO",
+            "nama_se": "ERP GAIDO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13277",
+            "website": "gaido.co.id"
+        },
+        {
+            "id": "9cb1ac2a-5662-4130-8661-ecf6600044de",
+            "nama_pse": "KUELAP SOLUSI INDONESIA",
+            "nama_se": "KUELAP PLATFORM NEXUS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13288",
+            "website": "kuelap.id"
+        },
+        {
+            "id": "9cb1ac17-9bee-4468-aa3b-c2d96acc42fc",
+            "nama_pse": "TAUFIK HARDIANTO",
+            "nama_se": "GOEDANGIKLAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13286",
+            "website": "goedangiklan.com"
+        },
+        {
+            "id": "9cb1ac17-cd3a-4a27-9033-f89f669fa07a",
+            "nama_pse": "CREDO INDONESIA",
+            "nama_se": "WEB PORTAL WWW.KALLALA.COM",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13284",
+            "website": "kallala.com"
+        },
+        {
+            "id": "9cb1ac2a-952a-4d4a-96be-ecda831c9749",
+            "nama_pse": "SELALU SUKSES SEJAHTERA",
+            "nama_se": "NIRWANA2",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-12-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13283",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac17-ece7-4b18-bda1-271277e9b767",
             "nama_pse": "MITRA DECA SENTOSA",
             "nama_se": "GLOWTOPIA",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-12-14",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12939",
             "website": "samnolive.com"
-        },
-        {
-            "id": "9cb1ac2a-31c6-4c8e-beab-7a5986f09b1d",
-            "nama_pse": "SINAR BINTANG MULIA",
-            "nama_se": "SIBIMA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-12-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12952",
-            "website": "dev.sibima.id"
-        },
-        {
-            "id": "9cb1ac2a-363a-43c8-8bff-9cfcf40ee441",
-            "nama_pse": "DJALANIN WISATA JAYA",
-            "nama_se": "DJALANIN.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-12-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12954",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac19-4cda-4534-89af-7d1a08bea5fb",
-            "nama_pse": "INDO POS INTERNASIONAL",
-            "nama_se": "DAILY FOOD",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-12-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12986",
-            "website": "dailyfood.id"
-        },
-        {
-            "id": "9cb1ac18-aa84-48c6-be84-2e7b0be072eb",
-            "nama_pse": "JALATAMA ARTHA BERJANGKA",
-            "nama_se": "JALATAMA ARTHA BERJANGKA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12845",
-            "website": "jalatama.co.id"
-        },
-        {
-            "id": "9cb1ac17-6678-49f9-97a9-fe944f32d484",
-            "nama_pse": "APLIKASI PAIDBAQ INDONESIA",
-            "nama_se": "PAIDBAQ",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12844",
-            "website": "paidbaq.com"
-        },
-        {
-            "id": "9cb1ac2a-0936-4435-afee-131ab6f39ff4",
-            "nama_pse": "ANURA TEKNOLOGI FINANSIAL",
-            "nama_se": "NUSA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12863",
-            "website": "nusa.finance"
-        },
-        {
-            "id": "9cb1ac17-6c98-43bf-92b7-701e67774c45",
-            "nama_pse": "NETMEDIA DIGITAL INDONESIA",
-            "nama_se": "360 GO INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12884",
-            "website": "360go.id"
-        },
-        {
-            "id": "9cb1ac19-3553-4f65-a6c9-d05c47a1c7e6",
-            "nama_pse": "EVERGREEN RELOAD INDONESIA",
-            "nama_se": "DIGINET",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12923",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac17-0871-4225-87d5-a7d9b5e214f3",
-            "nama_pse": "WHALES TEKNOLOGI INDONESIA",
-            "nama_se": "DINEINORDER",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-12-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12820",
-            "website": "dineinorder.com"
-        },
-        {
-            "id": "9cb1ac18-fb66-4af3-9e60-711e31b4fb6f",
-            "nama_pse": "WHALES TEKNOLOGI INDONESIA",
-            "nama_se": "DINEINORDER.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-12-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12808",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac17-48ed-428d-88a2-d412f2669a99",
-            "nama_pse": "BANK NAGARI",
-            "nama_se": "OLLIN BANK NAGARI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-12-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12819",
-            "website": "banknagari.co.id"
         }
     ],
-    "processingTimeMs": 7,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 164,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abba-4ac4-43cd-9663-cdec45c37213",
+            "nama_pse": "BANK PERKREDITAN RAKYAT KOTA BANDUNG",
+            "nama_se": "PERUMDA BPR KOTA BANDUNG",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8061",
+            "website": "wbankbandung.co.id"
+        },
+        {
+            "id": "9cb1abc7-7c3e-4958-bb62-cd75efde8d50",
+            "nama_pse": "SINERGI TEKNOGLOBAL PERKASA",
+            "nama_se": "HTTPS://WWW.SINERGITEKNOGLOBAL.CO.ID/",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8064",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abba-4caf-42e3-9421-1e78bfea8c0f",
+            "nama_pse": "BANK SYARIAH INDONESIA",
+            "nama_se": "BSIMOBILE DEV",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8057",
+            "website": "bsinewdev.bankbsi.co.id"
+        },
+        {
+            "id": "9cb1abc7-8017-4f97-8fdd-b66017767ceb",
+            "nama_pse": "AMAN DEVLOOP INDONESIA",
+            "nama_se": "AMAN DEVELOOP WEBSITE COMPANY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8058",
+            "website": "develoop.id"
+        },
+        {
+            "id": "9cb1abed-61e0-4f8b-86a3-5ea5133b62ba",
+            "nama_pse": "REALTA CHAKRADARMA",
+            "nama_se": "ESS10",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8164",
+            "website": "realta.co.id"
+        },
+        {
+            "id": "9cb1abc7-8433-461a-9564-1e6bd2a10ec6",
+            "nama_pse": "JOGJAKITA MULTI ANDALAN",
+            "nama_se": "DRIVER JOGJAKITA",
+            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8063",
+            "website": "jogjakita.co.id"
+        },
+        {
+            "id": "9cb1abba-4ecc-4d99-a4cc-9851f8d122d2",
+            "nama_pse": "SOLUSI INDOMOBIL PERKASA",
+            "nama_se": "SOLUSI INDOMOBIL PERKASA (COMPANY WEBSITE)",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8065",
+            "website": "sipexpress.co.id"
+        },
+        {
+            "id": "9cb1abed-6630-4d63-a37b-c13e05a95842",
+            "nama_pse": "ASURANSI JIWA BCA",
+            "nama_se": "BCA LIFE MOBILE SERVICES",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8066",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abba-50b2-4098-9f82-b3d45b261774",
+            "nama_pse": "MAHKOTA PERMATA JAYA",
+            "nama_se": "THESERENITYCENTRAL.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8067",
+            "website": "theserenitycentral.com"
+        },
+        {
+            "id": "9cb1abed-6955-4361-bcd5-b9308045ed06",
+            "nama_pse": "REDKENDI ANDALAN MITRA",
+            "nama_se": "KENDIXPRESS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8068",
+            "website": "kendixpress.com"
+        },
+        {
             "id": "9cb1abed-6d16-4572-8bf8-c074d759ad99",
             "nama_pse": "DR.SYLVIA IRAWATI",
             "nama_se": "NUTRI \u0026 BEYOND",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8121",
             "website": "bprwjp.com"
-        },
-        {
-            "id": "9cb1abed-e0e1-4db0-add8-acb339be341d",
-            "nama_pse": "TDW RESOURCES",
-            "nama_se": "WWW.DAHSYAT.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8115",
-            "website": "dahsyat.com"
-        },
-        {
-            "id": "9cb1abed-e534-471a-ab2d-695b66aa7062",
-            "nama_pse": "SOLUSI KERAH BYRU",
-            "nama_se": "BYRU.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8112",
-            "website": "byru.id"
-        },
-        {
-            "id": "9cb1abc7-c97d-4843-9d82-59956579b5ee",
-            "nama_pse": "ANDROMEDA GLOBAL DATA",
-            "nama_se": "DROMINDER - APLIKASI MANAJEMEN REMINDER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8113",
-            "website": "drominder.com"
-        },
-        {
-            "id": "9cb1abc7-cd8b-4b1a-9be7-b14d5ff32ad6",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH PAPUA",
-            "nama_se": "EDC BANK PAPUA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8114",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abba-7229-43c9-92c9-d326a1c0604d",
-            "nama_pse": "ARIS PUJUD KURNIAWAN",
-            "nama_se": "WEVITATION",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8117",
-            "website": "wevitation.com"
-        },
-        {
-            "id": "9cb1abc7-d119-40dd-80d1-679cb41016ee",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT SAUDARAKITA",
-            "nama_se": "WEB PORTAL",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8116",
-            "website": "bprsaudarakita.com"
-        },
-        {
-            "id": "9cb1abba-7439-4d98-9860-9119506308ef",
-            "nama_pse": "MAHKOTA PERMATA JAYA",
-            "nama_se": "THEICONCENTRAL.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8118",
-            "website": "theiconcentral.id"
-        },
-        {
-            "id": "9cb1abed-e9a4-413b-b453-c62c6c5a919e",
-            "nama_pse": "ANDROMEDA GLOBAL DATA",
-            "nama_se": "DROVAT - DISTRIBUSI EBUPOT DAN EFAKTUR PAJAK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8119",
-            "website": "drovat.com"
-        },
-        {
-            "id": "9cb1abed-ed3c-440a-9d1a-c51e1a3b5f27",
-            "nama_pse": "GARENA INDONESIA",
-            "nama_se": "BLOCKMAN GO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8140",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abba-7633-4db0-a5fd-031a2e8316aa",
-            "nama_pse": "BANK SYARIAH INDONESIA",
-            "nama_se": "HUJAN REZEKI BSI MOBILE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8120",
-            "website": "bsimobileinternal.id"
         }
     ],
     "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 248,
     "totalPages": 383

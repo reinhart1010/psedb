@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abca-9e7e-4864-b832-45b4b5144945",
+            "nama_pse": "INCORE SYSTEMS SOLUTIONS",
+            "nama_se": "TUGAS ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8518",
+            "website": "tugas.id"
+        },
+        {
+            "id": "9cb1abf0-b423-4829-86c0-4cce9a6c1be2",
+            "nama_pse": "BANK PERKREDITAN RAKYAT MAROBA ITE",
+            "nama_se": "PT BPR MAROBA ITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8517",
+            "website": "bpr-marobaite.co.id"
+        },
+        {
+            "id": "9cb1abca-a343-44ca-bbc5-a4f1623e4836",
+            "nama_pse": "INOVASI TEKNOLOGI MAKMUR",
+            "nama_se": "PT INOVASI TEKNOLOGI MAKMUR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8520",
+            "website": "itm.co.id"
+        },
+        {
+            "id": "9cb1abbb-c7ed-404f-8fc6-d001f823edf2",
+            "nama_pse": "RUANG RAYA INDONESIA",
+            "nama_se": "RUANGKERJA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8521",
+            "website": "ruangkerja.id"
+        },
+        {
+            "id": "9cb1abbb-c9cb-4ce2-a677-efd0ea2f2247",
+            "nama_pse": "FUNDO SUKSES BERSAMA",
+            "nama_se": "FUNDO",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8522",
+            "website": "FUNDO.ID"
+        },
+        {
+            "id": "9cb1abf0-ba8c-43c3-a1e3-4ceefa36abdf",
+            "nama_pse": "REALTA CHAKRADARMA",
+            "nama_se": "RHAPSODY HOSPITALITY MANAGEMENT SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8534",
+            "website": "cloud.co.id"
+        },
+        {
+            "id": "9cb1abf0-bf5a-4037-b388-b7eddaaa308b",
+            "nama_pse": "BANK PERKREDITAN RAKYAT TANJUNG PRATAMA",
+            "nama_se": "BANK PERKREDITAN RAKYAT TANJUNG PRATAMA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8524",
+            "website": "bprtanjungpratama.com"
+        },
+        {
+            "id": "9cb1abbb-cbe0-4c20-8dc6-149c8bd371ad",
+            "nama_pse": "HYUNDAI MOTORS INDONESIA",
+            "nama_se": "HGCX (HYUNDAI GLOBAL CUSTOMER EXPERIENCE)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8523",
+            "website": "ap.hyundaiglobalcx.com"
+        },
+        {
+            "id": "9cb1abf0-c855-43af-921e-d0eb2c8738cf",
+            "nama_pse": "MERKHA TEKNOLOGI INDONESIA",
+            "nama_se": "MERKHA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8525",
+            "website": "merkha.com"
+        },
+        {
+            "id": "9cb1abca-a84a-4ac6-9f2b-1e141f60d6fb",
+            "nama_pse": "L7 SYSTEMS",
+            "nama_se": "VENDIS SFA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8526",
+            "website": "l7systems.net"
+        },
+        {
             "id": "9cb1abca-ac61-46cb-85c9-36b6fdd031ff",
             "nama_pse": "REALTA CHAKRADARMA",
             "nama_se": "REALTA NET",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-21",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8567",
             "website": "popitsnack.com"
-        },
-        {
-            "id": "9cb1abca-e660-4ec7-a161-90c8af2b2789",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT SUAR DATA",
-            "nama_se": "BPR SUARDATA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8568",
-            "website": "bprsuardata.com"
-        },
-        {
-            "id": "9cb1abf1-1912-42b7-981d-9eb24fc4600f",
-            "nama_pse": "ESTA KAPITAL FINTEK",
-            "nama_se": "ESTA KAPITAL",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8569",
-            "website": "estakapital.co.id"
-        },
-        {
-            "id": "9cb1abbc-0005-4d13-92c9-ef39f4ded7b0",
-            "nama_pse": "BPR BANK SOLO",
-            "nama_se": "WEBSITE COMPANY BANK SOLO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8570",
-            "website": "banksolo.co.id"
-        },
-        {
-            "id": "9cb1abca-ee5d-4b36-9a70-122deff3acdc",
-            "nama_pse": "QUIPSTER MITRA SOLUSI",
-            "nama_se": "QUIPSTER",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8571",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abf1-1cb0-4a35-a284-cdc57f2f5294",
-            "nama_pse": "WILLIS TOWERS WATSON INSURANCE BROKER INDONESIA",
-            "nama_se": "AFFINITY TECHNOLOGY PLATFORM (ATP)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8576",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abca-fa42-4c2c-9e65-f7604ca43bed",
-            "nama_pse": "BPR BANK SOLO",
-            "nama_se": "APLIKASI MOBILE BANKING BANK SOLO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8572",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abbc-0262-4b11-83c0-bccc44132410",
-            "nama_pse": "BANK PERKREDITAN RAKYAT BUMI HAYU",
-            "nama_se": "SIPT-BPR BUMI HAYU",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8573",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abf1-1fc4-4c64-bbf7-dd8053a6a867",
-            "nama_pse": "GAJI CERDAS INDONESIA",
-            "nama_se": "SMART SALARY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8574",
-            "website": "Smartsalarypro.com"
-        },
-        {
-            "id": "9cb1abf1-2363-4d90-aa0b-bc7c2d97cf7b",
-            "nama_pse": "TERA KREASI SEMESTA",
-            "nama_se": "SIMPELPAS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8581",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abf1-271e-4232-a0e5-b197285b0acb",
-            "nama_pse": "REJEKI BERKAH BERLIMPAH RUAH",
-            "nama_se": "FDC DENTAL CLINIC",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8575",
-            "website": "apps.fdcdentalclinic.co.id"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 229,
     "totalPages": 383

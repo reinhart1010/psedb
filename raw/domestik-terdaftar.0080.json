@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac57-208c-4170-bb8d-5bfef6c7c746",
+            "nama_pse": "AGUNG COMMUNICATION NETWORK",
+            "nama_se": "AGUNG COMMUNICATION NETWORK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18152",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6c-1fc7-45f3-b9f4-959d06a7c116",
+            "nama_pse": "OVN NETWORK NUSANTARA",
+            "nama_se": "OVN NETWORK NUSANTARA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18154",
+            "website": "ovn.my.id"
+        },
+        {
+            "id": "9cb1ac80-5e57-4164-9147-b23734215f83",
+            "nama_pse": "CIPTA FINANSIAL NUSANTARA",
+            "nama_se": "NUSANTARAWALLET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18158",
+            "website": "nusantarawallet.io"
+        },
+        {
+            "id": "9cb1ac80-7031-4f49-9c1c-a81b3d8edf00",
+            "nama_pse": "INTI PRIMA MEDIATAMA",
+            "nama_se": "MEDIA ONLINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18169",
+            "website": "intip24news.com"
+        },
+        {
+            "id": "9cb1ac80-78cd-4e26-a3f1-e8904db4021e",
+            "nama_pse": "ZARATA DIGITAL TEKNOLOGI",
+            "nama_se": "PT ZARATA DIGITAL TEKNOLOGI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18173",
+            "website": "zarata.co.id"
+        },
+        {
+            "id": "9cb1ac80-6c4b-4f4a-a815-5967f5649a64",
+            "nama_pse": "UNIVERSE AGENCY INDONESIA",
+            "nama_se": "JASA PEMASARAN PRODUK BARANG DAN DIGITAL",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18163",
+            "website": "unvid.pw"
+        },
+        {
+            "id": "9cb1ac6c-25d9-4dbb-bb37-fdc341f1e663",
+            "nama_pse": "ROSA BUNGA MUSTIKA",
+            "nama_se": "SIMRS KHANZA INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18164",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6c-35af-43dc-b1f6-fea97fa8d6e8",
+            "nama_pse": "JEPUN KLINIK",
+            "nama_se": "SISTEM REKAM MEDIS ELEKTRONIK KLINIK JEPUN",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18174",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6c-2c39-478d-9533-3f3189fdca82",
+            "nama_pse": "ROSNATI",
+            "nama_se": "SIMRSPUR",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18166",
+            "website": "rspur.co.id"
+        },
+        {
+            "id": "9cb1ac57-2325-4ae0-b46f-d4f57e7e163a",
+            "nama_pse": "SENI REKA YASA",
+            "nama_se": "PASAR SENI REKAYASA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18167",
+            "website": "pasar.senirekayasa.com"
+        },
+        {
             "id": "9cb1ac57-25a8-49ec-9526-ec1c63507fc9",
             "nama_pse": "SENTOSA TEKNOLOGI GEMILANG",
             "nama_se": "STIGEMEDIS",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-03-01",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18125",
             "website": "kab-skd.id"
-        },
-        {
-            "id": "9cb1ac6b-fcc2-4257-82b2-8947ea361b6a",
-            "nama_pse": "PERMATA ENGINERING",
-            "nama_se": "PERMATA ENGINERING RT RW NET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18126",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6b-e0fb-4b05-b555-9442674726c4",
-            "nama_pse": "KELUARGA SEHAT SAMPURNA",
-            "nama_se": "SISTEM INFORMASI RS KELUARGA SEHAT III SEMARANG",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18114",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac56-f59b-46f0-8fea-88846cf25f4a",
-            "nama_pse": "FAHMIDEV INDO FINANCE",
-            "nama_se": "FAHMIDEV INDO FINANCE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18120",
-            "website": "fahmidev.com"
-        },
-        {
-            "id": "9cb1ac17-bb7d-4098-99ac-6871a36e9ecf",
-            "nama_pse": "PAKAR DIGITAL INDO",
-            "nama_se": "ESMARTLINK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18112",
-            "website": "pakar-digital.com"
-        },
-        {
-            "id": "9cb1ac53-7ae7-4503-88db-1c43a5e985ba",
-            "nama_pse": "INVOLVE ASIA INDONESIA",
-            "nama_se": "INVOLVE ASIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18093",
-            "website": "involve.asia"
-        },
-        {
-            "id": "9cb1ac7f-db72-4012-8c04-e5ff8704105a",
-            "nama_pse": "INTI DHARMA GLOBAL INDO",
-            "nama_se": "KLINIK FASTLAB",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-02-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18086",
-            "website": "kusuma.fastlab.id"
-        },
-        {
-            "id": "9cb1ac68-330a-43cf-98e5-95a3fc6b4eab",
-            "nama_pse": "HARMONI UNTUK BERSAMA",
-            "nama_se": "E-SMART CLINIC",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18089",
-            "website": "e-smartclinic.id"
-        },
-        {
-            "id": "9cb1ac6b-c141-460f-8a15-cc35ee3dcfbf",
-            "nama_pse": "UTOMO CHARGEPLUS INDONESIA",
-            "nama_se": "CHARGE+ APP",
-            "sektor": "Sektor Energi dan Sumber Daya Mineral, Sektor Transportasi",
-            "tanggal_terbit": "2024-02-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18085",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac7f-f826-4403-8c70-d12832b9bf7f",
-            "nama_pse": "SUKSES RELOAD PULSA",
-            "nama_se": "BDG PAY DIGITAL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-02-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18084",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6b-be70-42dc-a8ca-af7bed20d22f",
-            "nama_pse": "SUKSES RELOAD PULSA",
-            "nama_se": "SRP RELOAD",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-02-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18083",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 46,
+    "processingTimeMs": 39,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 80,
     "totalPages": 383

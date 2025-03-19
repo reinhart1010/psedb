@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac3c-8573-454f-a1c1-30548ab0ffa6",
+            "nama_pse": "UJKS BMT AMANAH",
+            "nama_se": "BMT AMANAH SULTRA MOBILE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13617",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac2d-10a7-461f-9e8f-9acaec009ba8",
+            "nama_pse": "RUMAH SAKIT UMUM PUSAT DR. MOHAMMAD HOESIN",
+            "nama_se": "ELECTRONIC MEDICAL RECORD",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13619",
+            "website": "rsmh.co.id"
+        },
+        {
+            "id": "9cb1ac3c-8bf3-463b-ab0a-ead53f140d2b",
+            "nama_pse": "KONVERGENSI MITRA SOLUSI",
+            "nama_se": "CONVERGENCE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13622",
+            "website": "convergence.id"
+        },
+        {
+            "id": "9cb1ac1b-1b42-4608-afbb-d6153d8821a1",
+            "nama_pse": "ASURANSI JASA INDONESIA",
+            "nama_se": "APLIKASI PROTAN (PROTEKSI TANI)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-01-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13602",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac2c-fa75-48aa-bcf7-6f266633c8d4",
+            "nama_pse": "KAWATAMA SINERGI",
+            "nama_se": "HOTELMU",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-01-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13601",
+            "website": "hotelmu.id"
+        },
+        {
+            "id": "9cb1ac1b-1fae-4831-a005-9eeee92fa4f8",
+            "nama_pse": "SKRZ INDONESIA UTAMA",
+            "nama_se": "SKRZ INDONESIA UTAMA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-01-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13599",
+            "website": "skrz-indonesia.com"
+        },
+        {
+            "id": "9cb1ac1b-2434-4adb-ac66-f0f7d0f9c952",
+            "nama_pse": "RUMAH UMKM INDONESIA",
+            "nama_se": "BELIUMKM.CO.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-01-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13600",
+            "website": "beliumkm.co.id"
+        },
+        {
+            "id": "9cb1ac1b-2718-481a-9b76-b1f1dc864e1b",
+            "nama_pse": "TITEN HUDANTECH DWIPANTARA",
+            "nama_se": "TEMAN ITU SUKSES BARENG",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-01-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13603",
+            "website": "regarsport.net"
+        },
+        {
+            "id": "9cb1ac1b-2bf3-4a74-b340-a4408bacbc48",
+            "nama_pse": "PAN EMPEROR",
+            "nama_se": "METAQUOTES 4",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-01-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13604",
+            "website": "pan-emperor.co.id"
+        },
+        {
+            "id": "9cb1ac2c-fda4-49a1-bfb3-4c41944139c9",
+            "nama_pse": "VIRTUAL MEDIS INTERNASIONAL",
+            "nama_se": "VMEDISMART",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+            "tanggal_terbit": "2023-01-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13605",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac2d-013a-4e3a-9e93-8fff72353cd8",
+            "nama_pse": "JEMBATAN AKAR TEKNOLOGI",
+            "nama_se": "ULA - UNTUNG LANCAR AMAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-01-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13606",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac2d-048e-40ff-bc26-b97524b22a24",
             "nama_pse": "CHANNELTUJUH BAMAS GROUP",
             "nama_se": "PT. CHANNELTUJUH BAMAS GROUP",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-01-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13561",
             "website": "deacas.com"
-        },
-        {
-            "id": "9cb1ac1a-e501-4006-8143-b202e2006ba2",
-            "nama_pse": "NUNU FATULAH",
-            "nama_se": "BUNGTEMIN.NET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13562",
-            "website": "bungtemin.com"
-        },
-        {
-            "id": "9cb1ac3c-4425-40d3-8dfa-8f4a9d4b071e",
-            "nama_pse": "NUNU FATULAH",
-            "nama_se": "BUNGTEMIN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13563",
-            "website": "bungtemin.net"
-        },
-        {
-            "id": "9cb1ac3c-4709-40e7-aa12-c137470a618f",
-            "nama_pse": "RIZQI MULKI",
-            "nama_se": "NURAPAY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13564",
-            "website": "nurapay.deacas.com"
-        },
-        {
-            "id": "9cb1ac2c-b4f8-4cdd-ba80-0a37eac8c471",
-            "nama_pse": "INR MEDIA ENTERTAINMENT",
-            "nama_se": "NARASIBANGSA.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13566",
-            "website": "Narasibangsa.com"
-        },
-        {
-            "id": "9cb1ac1a-e7fe-4251-aa98-a719c7b09e9b",
-            "nama_pse": "BMT KUM3 SORONG",
-            "nama_se": "BMT KUM3 SORONG ONLINE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13567",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac1a-c6df-4dad-9fbd-70d4c2317b2c",
-            "nama_pse": "SALVUS INTI",
-            "nama_se": "ZIPRO",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-01-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13542",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac2c-6b6e-4cf9-b302-846e04485be4",
-            "nama_pse": "DAN PEMBIAYAAN SYARIAH NUSA UMMAT SEJAHTERA",
-            "nama_se": "BMT MOBILE ON LINE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13541",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac1a-cd8a-4292-889a-e9dddb0a2183",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT ARTA NUSANTARA DAHA",
-            "nama_se": "HTTPS://BANKARDA.ID",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2023-01-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13548",
-            "website": "bankarda.id"
-        },
-        {
-            "id": "9cb1ac2c-71e6-46a5-932d-432609d46400",
-            "nama_pse": "EKOSISTEM VIRTUAL ASISTEN",
-            "nama_se": "EVA.ID",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13544",
-            "website": "eva.id"
-        },
-        {
-            "id": "9cb1ac2c-755c-4aca-8ece-16bfadfada22",
-            "nama_pse": "IMAM TAQIUDDIN",
-            "nama_se": "ZAAA SHOP",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-01-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13545",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac2c-7892-4b0d-944d-c453442a3f6f",
-            "nama_pse": "WONGSOYUDAN PRATAMA INDONESIA",
-            "nama_se": "COMIKA EVENT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13546",
-            "website": "comikacomedy.club"
         }
     ],
     "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 159,
     "totalPages": 383

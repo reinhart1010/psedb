@@ -1,6 +1,15 @@
 {
     "hits": [
         {
+            "id": "9e5f7248-19e7-40d9-9817-303b3f78de91",
+            "nama_pse": "BEAUTE HAUL INDONESIA",
+            "nama_se": "BEAUTYHAUL WEBSITE",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22722",
+            "website": "beautyhaul.com"
+        },
+        {
             "id": "9e41629f-4f25-421d-aeab-fa9da6aeac45",
             "nama_pse": "SUPER PASAR RAKYAT INDONESIA",
             "nama_se": "PARI (PASAR RAKYAT INDONESIA)",
@@ -440,20 +449,11 @@
             "tanggal_terbit": "2023-09-12",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15911",
             "website": "joob.asia"
-        },
-        {
-            "id": "9cb1ac33-fadf-4c0e-b370-50107f1d30a8",
-            "nama_pse": "MODERN ABADI",
-            "nama_se": "FAVO",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-08-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15558",
-            "website": "favo.id"
         }
     ],
-    "processingTimeMs": 0,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 247,
+    "totalHits": 248,
     "hitsPerPage": 50,
     "page": 1,
     "totalPages": 5

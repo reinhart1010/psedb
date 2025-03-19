@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb5-8811-44c9-ac25-9b388aca2092",
+            "nama_pse": "ASURANSI ALLIANZ UTAMA INDONESIA",
+            "nama_se": "AZNET",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6699",
+            "website": "aznet.allianz.co.id"
+        },
+        {
+            "id": "9cb1abe4-be01-49e3-80ac-42b2716a4932",
+            "nama_pse": "KUNCIE PINTAR NUSANTARA",
+            "nama_se": "PIXEL NINJA BY KUNCIE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6756",
+            "website": "pixelninja.id"
+        },
+        {
+            "id": "9cb1abe4-c160-4a26-8be7-f4aee627f6db",
+            "nama_pse": "FEDERAL INTERNATIONAL FINANCE",
+            "nama_se": "FIFGROUP MOBILE CUSTOMER (FMC)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6702",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb5-8afa-448a-b394-8f5f42d4a4fc",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT PARIANGAN KOTA BATUSANGKAR",
+            "nama_se": "PT BANK PERKREDITAN RAKYAT PARIANGAN",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6707",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abe4-c532-49a4-9217-5764df81e1cd",
+            "nama_pse": "COGNITIX TIKET INOVASI",
+            "nama_se": "HTTPS://WWW.COGNITIX.ID/",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6712",
+            "website": "cognitix.id"
+        },
+        {
+            "id": "9cb1abb5-8da0-425f-87f3-f12d4ceee9bd",
+            "nama_pse": "KREASI SOLUSI BANGSA",
+            "nama_se": "SMARTLEGAL.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6710",
+            "website": "smartlegal.id"
+        },
+        {
+            "id": "9cb1abe4-c884-40d9-ada8-e19882410502",
+            "nama_pse": "ASURANSI JIWA ASTRA",
+            "nama_se": "AVA EB CLICK",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6711",
+            "website": "ebonline.astralife.co.id"
+        },
+        {
+            "id": "9cb1abb5-90fa-4f7a-8e09-d7c9bd06e8db",
+            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH GAIDO INDONESIA",
+            "nama_se": "USID GATEWAY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6713",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc0-68d1-441b-82c0-cf070c73464a",
+            "nama_pse": "BANK PERKREDITAN RAKYAT PUSPITA SARI",
+            "nama_se": "PT BPR PUSPITA SARI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6717",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc0-6cd1-4535-9cb7-dc0ecbfd4fbd",
+            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH KOTA JUANG",
+            "nama_se": "ALTERNATE APPS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6724",
+            "website": "-"
+        },
+        {
             "id": "9cb1abc0-6fc2-475e-a3a7-2963b249aa47",
             "nama_pse": "SOCIOLLA RITEL INDONESIA",
             "nama_se": "CARASUN: TROPICAL SKIN EXPERT",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-19",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6760",
             "website": "bprcristy.co.id"
-        },
-        {
-            "id": "9cb1abe5-2347-4246-a438-74ff09a86cf7",
-            "nama_pse": "STUDIO KAMI MANDIRI",
-            "nama_se": "JOUMPA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6761",
-            "website": "joumpa.com"
-        },
-        {
-            "id": "9cb1abc0-b1b1-42d4-93a4-6e1e74c8704f",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT KITA",
-            "nama_se": "IBS USSI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6762",
-            "website": "bprkita.com"
-        },
-        {
-            "id": "9cb1abb5-b5e2-4ecb-af26-7c9e6c3d0116",
-            "nama_pse": "KALS CORPORA INDONESIA",
-            "nama_se": "ZMNOW.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6771",
-            "website": "zmnow.id"
-        },
-        {
-            "id": "9cb1abb5-b7d1-4353-a8ad-06b9bf59f4b1",
-            "nama_pse": "HELPIO GLOVIN TEKNOLOGI",
-            "nama_se": "UBIKLAN.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6774",
-            "website": "ubiklan.com"
-        },
-        {
-            "id": "9cb1abb5-b985-451e-a760-189909c294f1",
-            "nama_pse": "BLA BLA TECH",
-            "nama_se": "ITULOH",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6763",
-            "website": "ituloh.co"
-        },
-        {
-            "id": "9cb1abb5-bc2f-41a5-b0dd-64d0f6c97960",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SINARGUNA SEJAHTERA",
-            "nama_se": "ARCHIPELAGO DIGITAL STUDIO",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6764",
-            "website": "bprsinargunasejahtera.com"
-        },
-        {
-            "id": "9cb1abb5-be10-4685-bdc7-376c6c4eb6a9",
-            "nama_pse": "MUHAMMAD ADAM SANTOSO",
-            "nama_se": "MADOTS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6765",
-            "website": "madots.id"
-        },
-        {
-            "id": "9cb1abc0-b640-4638-8940-abb31f6c42fc",
-            "nama_pse": "ISTANA BANDUNG RAYA MOTOR",
-            "nama_se": "OFFICIAL WEBSITE MAIN DEALER HONDA BANDUNG CENTER",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6767",
-            "website": "hondabandungcenter.com"
-        },
-        {
-            "id": "9cb1abe5-2d50-49f2-bce8-cd47af18f360",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT BUANA AGRIBISNIS",
-            "nama_se": "BANK BUANA AGRIBISNIS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6804",
-            "website": "bprbuanaagribisnis.co.id"
-        },
-        {
-            "id": "9cb1abe5-35bc-4a41-beda-17fb2257c75c",
-            "nama_pse": "ADVO MATRIKS INDONESIA",
-            "nama_se": "ADVOSHIELD",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6768",
-            "website": "advoshield.com"
         }
     ],
-    "processingTimeMs": 14,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 256,
     "totalPages": 383

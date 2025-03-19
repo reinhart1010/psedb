@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac55-619a-4435-8020-6a794f9d86b3",
+            "nama_pse": "BERSAMA MANDIRI PAYMENT",
+            "nama_se": "BM",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17764",
+            "website": "bmpay.webreport.info"
+        },
+        {
+            "id": "9cb1ac55-6480-4d8d-8092-0ef9c4a2b0d1",
+            "nama_pse": "GAMEBIT DIGITAL INDONESIA",
+            "nama_se": "GAMEBIT",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17765",
+            "website": "gamebit.co.id"
+        },
+        {
+            "id": "9cb1ac55-67b2-41ed-8baf-696cbc636e56",
+            "nama_pse": "INFINITI PUTERA OMEGA",
+            "nama_se": "ISIMRSOLUTION",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-02-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17766",
+            "website": "isimrsolutions.id"
+        },
+        {
+            "id": "9cb1ac6a-18ba-4756-a420-615c9e469adb",
+            "nama_pse": "WIDYA SOLUSI UTAMA",
+            "nama_se": "SEVA HEALTH",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-02-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17769",
+            "website": "sevahealth.tech"
+        },
+        {
+            "id": "9cb1ac6a-1f57-4c86-9e7a-893cc93e7b0d",
+            "nama_pse": "DHAMIR MARKETING PARTNERSHIP",
+            "nama_se": "DHAMIRMARKETINGPARTNERSHIP.COM",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17771",
+            "website": "dhamirmarketingpartnership.com"
+        },
+        {
+            "id": "9cb1ac6a-2294-456b-a53c-1dbde59e254f",
+            "nama_pse": "RGROUP CENTRA MANAGEMENT",
+            "nama_se": "KALIJAGA PAYMENT SYSTEM",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17770",
+            "website": "kps.cekreport.com"
+        },
+        {
+            "id": "9cb1ac7d-c4bd-416a-ba3c-07277209119f",
+            "nama_pse": "MEDIA UNIT SATU",
+            "nama_se": "PATROLIUNIT1.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17773",
+            "website": "patroliunit1.com"
+        },
+        {
+            "id": "9cb1ac6a-25b6-4ebf-82b5-858e3e7ca1de",
+            "nama_pse": "MEDIA UNIT SATU",
+            "nama_se": "INARA.MY.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17774",
+            "website": "Inara.my.id"
+        },
+        {
+            "id": "9cb1ac31-42d1-4705-ae52-045cb8ddee1c",
+            "nama_pse": "VFS - SERVICES INDONESIA",
+            "nama_se": "INDONESIA FAST TRACK VOA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17754",
+            "website": "indonesiavoa.vfsevisa.id"
+        },
+        {
+            "id": "9cb1ac69-cb57-4292-b62c-0ee543d38a69",
+            "nama_pse": "KURNIA SABDA PERKASA",
+            "nama_se": "SPHERE COLLECTION",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-02-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17740",
+            "website": "spherecollection.com"
+        },
+        {
             "id": "9cb1ac69-c781-4e4d-bf79-1a199d097ebf",
             "nama_pse": "MUSTIKA ASIH ABADI",
             "nama_se": "ELBRON ATTIRE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-02-07",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17708",
             "website": "mantul.co.id"
-        },
-        {
-            "id": "9cb1ac69-9e97-4bba-8051-8860341e5343",
-            "nama_pse": "INSPIRASI AKSARA DIGITAL",
-            "nama_se": "KERJOO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17707",
-            "website": "kerjoo.com"
-        },
-        {
-            "id": "9cb1ac69-a1a4-4d3f-8b07-292c5f2ae118",
-            "nama_pse": "MEDIA CREATIVE PRODUCTION",
-            "nama_se": "VZPAY",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-02-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17709",
-            "website": "vzpay.id"
-        },
-        {
-            "id": "9cb1ac69-a4da-4c98-8ab3-be0ca56a4a74",
-            "nama_pse": "ACCESS MOBILE INDONESIA",
-            "nama_se": "XLIOCRM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17710",
-            "website": "xliocrm.com"
-        },
-        {
-            "id": "9cb1ac7d-3424-4591-b825-7cd521610006",
-            "nama_pse": "ANUGERAH BERDJAYA CEMERLANG",
-            "nama_se": "WWW.IRROHACONSULTING.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-02-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17685",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac7d-3074-4bae-945e-66744d00f6cf",
-            "nama_pse": "HARAPAN KELUARGA BAHAGIA",
-            "nama_se": "SIMRS KHANZA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-02-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17684",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac55-135d-4754-922b-a2a2bd46657d",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
-            "nama_se": "CSIRT.BANKSULSELBAR.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17683",
-            "website": "csirt.banksulselbar.co.id"
-        },
-        {
-            "id": "9cb1ac69-81ad-4b5b-bfab-9ec5527ffc73",
-            "nama_pse": "DIGITALISASI KESEJAHTERAAN UMMAT",
-            "nama_se": "DKU INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17686",
-            "website": "dkuindonesia.co.id"
-        },
-        {
-            "id": "9cb1ac69-8c58-47e7-91ef-23bc7be381f1",
-            "nama_pse": "AWAN DATA SEMESTA",
-            "nama_se": "AWAN DATA SEMESTA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17687",
-            "website": "adstech.id"
-        },
-        {
-            "id": "9cb1ac7d-37ab-4f7e-a082-8790d18fc309",
-            "nama_pse": "AS-SYIFA AL-KHOERIYYAH",
-            "nama_se": "KLINIK AS-SYIFA MEDIKA",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17688",
-            "website": "klinik.assyifa.net"
-        },
-        {
-            "id": "9cb1ac7d-3aff-41b7-9b9a-9859baf900ac",
-            "nama_pse": "MEDIA SINDO TUJUH",
-            "nama_se": "SINDO7.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17689",
-            "website": "sindo7.com"
         }
     ],
-    "processingTimeMs": 6,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 86,
     "totalPages": 383

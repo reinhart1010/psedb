@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9df75b43-bb06-459b-933a-ad23055d8f3e",
+            "nama_pse": "SUPARDI NETHANEL HUSAIN",
+            "nama_se": "https://www.zanio.co.id",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-01-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22095",
+            "website": "everes.zanio.co.id"
+        },
+        {
+            "id": "9df77fdf-9f1a-4eea-ae5a-f25d56c383c8",
+            "nama_pse": "AGUNG PRADANA",
+            "nama_se": "LAYANAN INTERNET LOKAL ( RT RW NET )",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22096",
+            "website": "-"
+        },
+        {
+            "id": "9df69ccd-a817-4ab0-8b63-6f45d8a896da",
+            "nama_pse": "HOOPI TEKNOLOGI INDONESIA",
+            "nama_se": "HOOPI APP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-01-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22089",
+            "website": "-"
+        },
+        {
+            "id": "9df7437b-1fcd-46fa-878a-e5f3506564cd",
+            "nama_pse": "LILI STYLE INDONESIA",
+            "nama_se": "APLIKASI LILI STYLE - FASHION SHOPPING",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-01-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22093",
+            "website": "-"
+        },
+        {
+            "id": "9df74a04-e861-4f97-8811-b1b3d67b6382",
+            "nama_pse": "SYAMSU RIZAL",
+            "nama_se": "KEDAIJASA TEKNOLOGI - JASA PEMBUATAN WEBSITE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22094",
+            "website": "kedaijasa.biz.id"
+        },
+        {
+            "id": "9df6d49d-48c0-4e8a-a569-0285991e46db",
+            "nama_pse": "PURWANTO",
+            "nama_se": "JOGJAJOBS.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22092",
+            "website": "jogjajobs.com"
+        },
+        {
+            "id": "9df69ac0-3c34-47f7-972d-04918d655217",
+            "nama_pse": "PROTINDO MULTI TECHNO",
+            "nama_se": "PROTINDO.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22088",
+            "website": "protindo.com"
+        },
+        {
+            "id": "9df48404-b0f6-4dfc-aa42-6112980f55f8",
+            "nama_pse": "INDONESIA COMNETS PLUS",
+            "nama_se": "CUSTOMER PORTAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22077",
+            "website": "customer.iconpln.co.id"
+        },
+        {
+            "id": "9df4e28b-0e41-4a7d-8dd3-d4fa0207d82b",
+            "nama_pse": "VOLCANO INTERNATIONAL TECHNOLOGY",
+            "nama_se": "TIA JEWELRY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22081",
+            "website": "1001jewelrybox.com"
+        },
+        {
+            "id": "9df4b78a-0b84-4662-96ef-922dc010b654",
+            "nama_pse": "MITRA TEKNO MADANI",
+            "nama_se": "PNMDIGI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22078",
+            "website": "-"
+        },
+        {
             "id": "9df4fe17-a8bd-4a70-9300-659dd2fb766f",
             "nama_pse": "AWING TECHNOLOGIES AND MEDIA INDONESIA",
             "nama_se": "ADAPTIVE CAMPAIGN MANAGEMENT (\"ACM\")",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2025-01-07",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22036",
             "website": "-"
-        },
-        {
-            "id": "9de8d53c-ccbe-4c07-8388-4fb3f5320d20",
-            "nama_pse": "RSU PKU MUHAMMADIYAH PEDAN",
-            "nama_se": "SIMRS PKU MUHAMMADIYAH PEDAN",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2025-01-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22038",
-            "website": "-"
-        },
-        {
-            "id": "9de8db33-e3b8-4de0-a526-ece460c88674",
-            "nama_pse": "KUSUMA SAMPURNA MULIA",
-            "nama_se": "KUSUMA STORE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-01-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22040",
-            "website": "kusumastore.id"
-        },
-        {
-            "id": "9de7b86b-5615-4abd-b57a-ed435123d4e5",
-            "nama_pse": "MITRA MOBILE PERSADA",
-            "nama_se": "SAHABAT MOBILE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22031",
-            "website": "sahabatmobile.com"
-        },
-        {
-            "id": "9de860f9-19e4-4e97-96fa-0aa911da176c",
-            "nama_pse": "URBAN MODA TECHNOLOGY",
-            "nama_se": "URBAN MODA TECHNOLOGY",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22034",
-            "website": "urbanmoda.id"
-        },
-        {
-            "id": "9de886c1-735b-466a-8498-1641b6f57128",
-            "nama_pse": "QPON DIGITAL INDONESIA",
-            "nama_se": "QPON",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-01-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22035",
-            "website": "qpon.id"
-        },
-        {
-            "id": "9de8a6c3-b9f0-4c0a-a052-b4ba343e1d3c",
-            "nama_pse": "SAMALA SEHAT MAKMUR",
-            "nama_se": "99 Virtual Race",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22037",
-            "website": "99virtualrace.com"
-        },
-        {
-            "id": "9de858aa-f707-4ee8-8ad9-8b2ad7e4d346",
-            "nama_pse": "APRILIA SUKSES ABADI",
-            "nama_se": "MULAICHAT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22033",
-            "website": "mulai.chat"
-        },
-        {
-            "id": "9de8dcdc-b397-45da-9f84-c1a430f356f7",
-            "nama_pse": "ALGO GAPURA INFORMASI",
-            "nama_se": "ALGO B2B",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22041",
-            "website": "b2b.algoku.tech"
-        },
-        {
-            "id": "9de91ef5-b6e6-4612-b908-6bb9fb45b7a0",
-            "nama_pse": "MEDIKO LEARNING INDONESIA",
-            "nama_se": "MEDIKO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22043",
-            "website": "mediko.id"
-        },
-        {
-            "id": "9de91667-cfa8-4d5c-8c61-e1b810ee25db",
-            "nama_pse": "SETYOVA INOVASI TEKNOLOGI",
-            "nama_se": "bimbing.me",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22042",
-            "website": "bimbing.me"
         }
     ],
-    "processingTimeMs": 0,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 13,
     "totalPages": 383

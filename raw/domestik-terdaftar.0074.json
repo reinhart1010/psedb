@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac82-c727-4c5a-9e84-9890f227aff2",
+            "nama_pse": "TELEVISI TRANSFORMASI INDONESIA",
+            "nama_se": "TRANSMEDICAL.ID",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-04-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18530",
+            "website": "registration.transmedical.id"
+        },
+        {
+            "id": "9cb1ac58-eed9-49e3-8300-8bf26135e2b3",
+            "nama_pse": "BNP PARIBAS ASSET MANAGEMENT",
+            "nama_se": "BNP PARIBAS ASSET MANAGEMENT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-04-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18532",
+            "website": "bnpparibas-am.com"
+        },
+        {
+            "id": "9cb1ac6e-21e7-4abd-a71b-f411625f2ff7",
+            "nama_pse": "KREATIF BERSAMA",
+            "nama_se": "KREATIF BERSAMA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18533",
+            "website": "kreatifbersama.com"
+        },
+        {
+            "id": "9cb1ac58-f1ba-4cb2-ace3-9a9aa325f6be",
+            "nama_pse": "MANDAR GAMA INDO JAYA",
+            "nama_se": "GAMA",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi",
+            "tanggal_terbit": "2024-04-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18534",
+            "website": "gamaindonesian.com"
+        },
+        {
+            "id": "9cb1ac58-f4fc-47c4-936c-224816addce3",
+            "nama_pse": "XYLO SOLUSI INDONESIA",
+            "nama_se": "WEBSITE NETA INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18535",
+            "website": "neta.co.id"
+        },
+        {
+            "id": "9cb1ac82-d5cd-4edc-8e76-335f73ec8676",
+            "nama_pse": "GEOSERVICES",
+            "nama_se": "LAPORAN SURVEYOR EKSPOR",
+            "sektor": "Sektor Energi dan Sumber Daya Mineral",
+            "tanggal_terbit": "2024-04-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18536",
+            "website": "lse.geoservices.com"
+        },
+        {
+            "id": "9cb1ac82-d8b1-4360-879f-88044955a2a5",
+            "nama_pse": "INOVASI KREDIT INDONESIA",
+            "nama_se": "ITRUZZ (APLIKASI)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18539",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac82-db79-45d2-a5b2-76fafc7a1336",
+            "nama_pse": "AXCELLE KREATIF BANGSA",
+            "nama_se": "SUNSKY GAMING SHOP",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18538",
+            "website": "sunskygamingshop.com"
+        },
+        {
+            "id": "9cb1ac58-fd40-440a-a363-bf27e1cc6e4b",
+            "nama_pse": "INOVASI KREDIT INDONESIA",
+            "nama_se": "ITRUZZ (SISTEM)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18537",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac58-5ccf-4964-8cb9-9c00de159cce",
+            "nama_pse": "RUMAH SAKIT BAITURRAHIM",
+            "nama_se": "ARS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-04-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18511",
+            "website": "rs-baiturrahim.com"
+        },
+        {
             "id": "9cb1ac82-aa4a-4d0e-a6d5-d4ba006485eb",
             "nama_pse": "SENS DIGITAL INDONESIA",
             "nama_se": "SENSDIGI.COM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-03-28",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18473",
             "website": "bncsekuritas.com"
-        },
-        {
-            "id": "9cb1ac6d-d677-458e-999d-7ada1a7c561a",
-            "nama_pse": "ELMI PERDANA",
-            "nama_se": "ELMI HOTEL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-03-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18477",
-            "website": "elmihotel.co.id"
-        },
-        {
-            "id": "9cb1ac58-ac1c-4f3e-abeb-cb99b353c6e6",
-            "nama_pse": "PUTRA DWI MUKTI",
-            "nama_se": "RELASI CLINIC ERP KMC",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18470",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6d-ce31-4e02-b133-f0e85d133b22",
-            "nama_pse": "DIGITAL SOLUSI GRUP",
-            "nama_se": "DSG",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18474",
-            "website": "dsg.id"
-        },
-        {
-            "id": "9cb1ac58-af1c-47fb-a437-44ba5cf1e9d9",
-            "nama_pse": "MEDIKA DIGITAL INDONESIA",
-            "nama_se": "APLIKASI KLINIK SUNAT",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18476",
-            "website": "rumahsunatan.net"
-        },
-        {
-            "id": "9cb1ac82-7eeb-4316-bc78-2b146f64cbd4",
-            "nama_pse": "ALGOSTUDIO",
-            "nama_se": "YARA FARMCARE",
-            "sektor": "Sektor Pangan",
-            "tanggal_terbit": "2024-03-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18478",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac82-7097-4e7c-b958-bad1f1ac2d32",
-            "nama_pse": "GELORA DJAJA",
-            "nama_se": "WHIS.WISMILAK",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18464",
-            "website": "whis.wismilak.com"
-        },
-        {
-            "id": "9cb1ac58-9439-4f37-8932-8f65a24283fd",
-            "nama_pse": "JASA KARTINI KLINIKA",
-            "nama_se": "SIM JKK KPJK TASIKMALAYA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18446",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac58-916c-4b88-b443-e726fa9fbb21",
-            "nama_pse": "CIPTA SELARAS MADANI",
-            "nama_se": "CASMEDIC",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18440",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6d-916c-4482-9fb7-d7f982becd56",
-            "nama_pse": "DWI KARYA DIGITAL",
-            "nama_se": "GETCLINIC",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18441",
-            "website": "dkd.co.id"
-        },
-        {
-            "id": "9cb1ac82-635f-4435-a48f-8ace51d4c81f",
-            "nama_pse": "NUSANTARA SEBELAS MEDIKA",
-            "nama_se": "SINUSA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18442",
-            "website": "-"
         }
     ],
     "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 74,
     "totalPages": 383

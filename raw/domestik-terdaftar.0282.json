@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb1-7b26-4a0b-a881-39a346e4d523",
+            "nama_pse": "NADIYA MULTI MEDIA",
+            "nama_se": "KETIKONE.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5906",
+            "website": "ketikone.com"
+        },
+        {
+            "id": "9cb1abb1-7d0f-46c6-929e-85be7bde0bf2",
+            "nama_pse": "GIGILOGI USAHA BERSAMA",
+            "nama_se": "GIGILOGI",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5907",
+            "website": "gigilogi.com"
+        },
+        {
+            "id": "9cb1abb1-7f3a-4ec3-91af-5a5765a858af",
+            "nama_pse": "KASYR SIBERNETIKA INDONESIA",
+            "nama_se": "KASYR ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5908",
+            "website": "kasyr.id"
+        },
+        {
+            "id": "9cb1ab9c-dc66-40a2-88b7-f9b0a1ab1d50",
+            "nama_pse": "ABDULLATIF",
+            "nama_se": "TAJIR FULSA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5909",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab9c-de86-4497-b72b-7b5a402f29a9",
+            "nama_pse": "TEGUH AMAN LESTARI",
+            "nama_se": "UMKM BANGKIT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5910",
+            "website": "umkm-bangkit.id"
+        },
+        {
+            "id": "9cb1aba7-c18c-4d1a-aa1f-f9f000eb5057",
+            "nama_pse": "CENTRAL GAMERS INDONESIA",
+            "nama_se": "CENTRAL GAMERS ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5911",
+            "website": "centralgamers.id"
+        },
+        {
+            "id": "9cb1abb1-811e-4471-a930-91311410a57a",
+            "nama_pse": "PUD BPR BANK KARANGANYAR",
+            "nama_se": "BANK KARANGANYAR",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5912",
+            "website": "bankkaranganyar.co.id"
+        },
+        {
+            "id": "9cb1abb1-830f-457a-afb9-d49545c5b827",
+            "nama_pse": "NERA QUA MINERAL",
+            "nama_se": "PT. NERA QUA MINERAL",
+            "sektor": "Sektor Perdagangan, Sektor Pangan",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5913",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab9c-e05e-47c2-94f2-f6b807e722c4",
+            "nama_pse": "AGUNG SETIAWAN",
+            "nama_se": "AGSET PAYMENT",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5917",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab9b-dd23-41fb-a831-0c2d69edf6b5",
+            "nama_pse": "NUSA SURYA CIPTADANA",
+            "nama_se": "KLIKNSC",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5594",
+            "website": "kliknsc.co.id"
+        },
+        {
             "id": "9cb1abaf-0f03-41c7-934a-e519d1746df6",
             "nama_pse": "BANK BTPN SYARIAH",
             "nama_se": "TEPAT INTERNET BANKING",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-14",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5672",
             "website": "MULTIGETS.COM"
-        },
-        {
-            "id": "9cb1ab9b-c5e5-4fb7-948c-7c42b2eb1b5d",
-            "nama_pse": "VROMEDIA INFORMATIKA TEKNOLOGI",
-            "nama_se": "COVIT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5564",
-            "website": "co.vit.co.id"
-        },
-        {
-            "id": "9cb1ab9b-c84f-4ab9-8e90-8a0a63ff6ded",
-            "nama_pse": "FRIARSO SETO",
-            "nama_se": "HJI AGENT/RENTAL",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5565",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab9b-ca79-43bc-b920-45de4cdb855b",
-            "nama_pse": "SIAPA DIA INDONESIA",
-            "nama_se": "SIAPA DIA CRAWLER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5568",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba6-9d38-424d-81cb-5b3ff56b622e",
-            "nama_pse": "ACHILLES ADVANCED SYSTEMS",
-            "nama_se": "ONLINEPAJAK",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5569",
-            "website": "online-pajak.id"
-        },
-        {
-            "id": "9cb1abb0-85c9-4462-8db0-82220e826bf0",
-            "nama_pse": "XTRA MENDAHULUKAN LAYANAN",
-            "nama_se": "XML MOBILE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5570",
-            "website": "xmltronik.com"
-        },
-        {
-            "id": "9cb1ab9b-cc7b-46ad-b743-f143f29c53f2",
-            "nama_pse": "AKADEMI META INTERNASIONAL",
-            "nama_se": "METASIGN SOFTWARE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5571",
-            "website": "signalpremium.co"
-        },
-        {
-            "id": "9cb1abb0-87e0-481a-bf37-2f8688305dc7",
-            "nama_pse": "BANK PERKREDITAN RAKYAT PALU LOKADANA UTAMA",
-            "nama_se": "WEBSITE RESMI PT. BPR PALU LOKAKADANA UTAMA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5584",
-            "website": "bprpalu.com"
-        },
-        {
-            "id": "9cb1aba6-9f9a-4d7f-80cc-7c27ba937d8b",
-            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
-            "nama_se": "LMS BANK BJB",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5572",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba6-a1af-4c4f-92ff-f4b61851aa2b",
-            "nama_pse": "BANK PERKREDITAN RAKYAT VII KOTO",
-            "nama_se": "PT BPR VII KOTO",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5574",
-            "website": "ptbprviikoto.page.tl"
-        },
-        {
-            "id": "9cb1aba6-a36d-4ddb-aabd-d7a5eecbf82c",
-            "nama_pse": "BNI ASSET MANAGEMENT",
-            "nama_se": "WEBSITE PERUSAHAAN PT BNI ASSET MANAGEMENT",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5575",
-            "website": "bni-am.co.id"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 282,
     "totalPages": 383

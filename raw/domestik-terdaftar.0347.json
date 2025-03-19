@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab66-3ca8-4a9f-94be-e17e65ced11b",
+            "nama_pse": "GLOBAL LOKET SEJAHTERA",
+            "nama_se": "GO-TIX.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1909",
+            "website": "go-tix.id"
+        },
+        {
+            "id": "9cb1ab64-e0e9-4bb2-a7be-831463e74672",
+            "nama_pse": "CENTURY FRANCHISINDO UTAMA",
+            "nama_se": "PHARMANET",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1925",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab65-ea82-40b1-b824-aa7f65e08c03",
+            "nama_pse": "YAKIN SUKSES INDONESIA",
+            "nama_se": "YESSINDO",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1928",
+            "website": "yessindo.com"
+        },
+        {
+            "id": "9cb1ab6d-7bb9-4b76-abe5-c1006810bfff",
+            "nama_pse": "RPAY FINANSIAL DIGITAL INDONESIA",
+            "nama_se": "YOURPAY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1922",
+            "website": "yourpay.co"
+        },
+        {
+            "id": "9cb1ab67-a40a-4c5f-92c2-aa16b72d1d9f",
+            "nama_pse": "BUT.MUFG BANK, LTD.",
+            "nama_se": "ONLINE REPORTING SERVICE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1910",
+            "website": "guarantee.mufg.co.id"
+        },
+        {
+            "id": "9cb1ab74-2ef4-4ed3-80a7-e7161103821f",
+            "nama_pse": "BUT.MUFG BANK, LTD.",
+            "nama_se": "MUFG ONLINE RECONCILIATION (MORE)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1913",
+            "website": "more.mufg.co.id"
+        },
+        {
+            "id": "9cb1ab67-a953-4dfd-b6bf-2c1d3ade6077",
+            "nama_pse": "BUT.MUFG BANK, LTD.",
+            "nama_se": "E-TAX",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1914",
+            "website": "mpn.mufg.co.id"
+        },
+        {
+            "id": "9cb1ab6d-edfe-4b30-9d3d-96cb50f20d01",
+            "nama_pse": "BUT.MUFG BANK, LTD.",
+            "nama_se": "COMSUITE PAYABLE FINANCE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1915",
+            "website": "ebusiness.bk.mufg.jp"
+        },
+        {
+            "id": "9cb1ab74-3151-49a6-9787-9bb6ebb27054",
+            "nama_pse": "BUT.MUFG BANK, LTD.",
+            "nama_se": "DIRECT DEBIT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1916",
+            "website": "direct.mufg.co.id"
+        },
+        {
+            "id": "9cb1ab6d-f074-4960-8a8b-c0a68b5ea198",
+            "nama_pse": "BUT.MUFG BANK, LTD.",
+            "nama_se": "GCMS (GLOBAL CASH MANAGEMENT SERVICE) PLUS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-09-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1917",
+            "website": "ebusiness.bk.mufg.jp"
+        },
+        {
             "id": "9cb1ab74-332f-456c-8b6e-cea7acc78720",
             "nama_pse": "BUT.MUFG BANK, LTD.",
             "nama_se": "GPH (GLOBAL PAYMENT HUB)",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-08-16",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1884",
             "website": "grupin.com"
-        },
-        {
-            "id": "9cb1ab6f-1dee-4565-8473-a6c52a37dbd0",
-            "nama_pse": "ANUGERAH SEMESTA DESAIN",
-            "nama_se": "APEX POS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-08-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1880",
-            "website": "evolution-apex.com"
-        },
-        {
-            "id": "9cb1ab84-d006-474f-8db0-01195d869683",
-            "nama_pse": "GLOBAL PASTI INDONESIA",
-            "nama_se": "GLOBER MART",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi",
-            "tanggal_terbit": "2021-08-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1883",
-            "website": "globermart.co.id"
-        },
-        {
-            "id": "9cb1ab64-8902-444f-96b0-65442e75455f",
-            "nama_pse": "CIPTA KOIN DIGITAL",
-            "nama_se": "KOINKU",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1870",
-            "website": "koinku.id"
-        },
-        {
-            "id": "9cb1ab61-c4c6-4dec-8203-7e348e086b07",
-            "nama_pse": "ASURANSI SUMIT OTO",
-            "nama_se": "HTTPS://WWW.ASO.CO.ID",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1874",
-            "website": "aso.co.id"
-        },
-        {
-            "id": "9cb1ab64-1a4f-4093-8e3a-da70118c189f",
-            "nama_pse": "GAMATECHNO INDONESIA",
-            "nama_se": "SISTEM GARANSI DIGITAL (SIDIG)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1857",
-            "website": "sidig.id"
-        },
-        {
-            "id": "9cb1ab6b-a8e4-486b-85c2-95fa023f42ad",
-            "nama_pse": "MNC SEKURITAS",
-            "nama_se": "MOTION TRADE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1858",
-            "website": "https:/www.mncsekuritas.id, https://otweb.mncsekuritas.id"
-        },
-        {
-            "id": "9cb1ab64-2eb8-471f-a5bc-82e472f55644",
-            "nama_pse": "TEKNOLOGI BANGUN SUMBER DAYA",
-            "nama_se": "EPPLOYEE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1872",
-            "website": "epployee.id"
-        },
-        {
-            "id": "9cb1ab66-f76b-4e7e-8e92-14ff41a768f5",
-            "nama_pse": "RUMAH MEBEL NUSANTARA",
-            "nama_se": "IKEA INDONESIA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1877",
-            "website": "ikea.co.id"
-        },
-        {
-            "id": "9cb1ab67-089f-4a65-a79b-6b705bb4d452",
-            "nama_pse": "BANK PAN INDONESIA",
-            "nama_se": "ECASH PANIN",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1853",
-            "website": "ecashpanin.com"
-        },
-        {
-            "id": "9cb1ab73-c92e-4987-9ab3-262c301311f5",
-            "nama_pse": "BANK PAN INDONESIA",
-            "nama_se": "PANIN INTERNET BANKING CORPORATE (BISNET)",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1854",
-            "website": "panbib.com/paninbib/"
         }
     ],
     "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 347,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abf4-4d00-4f49-9bac-43b75c07a340",
+            "nama_pse": "HONDA PROSPECT MOTOR",
+            "nama_se": "HONDA E-CARE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9068",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abce-51c1-45b2-86ba-592e68455d01",
+            "nama_pse": "MDS DIGITAL MEDIA",
+            "nama_se": "SKPR DIGITAL",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9069",
+            "website": "skprdigital.com"
+        },
+        {
+            "id": "9cb1abbd-f7e7-444a-b3c3-c7ead10d436d",
+            "nama_pse": "DAHUA VISION TECHNOLOGY INDONESIA",
+            "nama_se": "IMOULIFE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9073",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abce-54fd-4057-9efa-4836f7183e16",
+            "nama_pse": "MDS DIGITAL MEDIA",
+            "nama_se": "PANEL DIGITAL",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9070",
+            "website": "paneldigitalmedia.com"
+        },
+        {
+            "id": "9cb1abbd-fd28-4e72-8d90-ead856a0fb00",
+            "nama_pse": "MDS DIGITAL MEDIA",
+            "nama_se": "TOHA STORE",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9071",
+            "website": "tohastore09.com"
+        },
+        {
+            "id": "9cb1abbd-ff55-49b3-9921-e3e395c44a12",
+            "nama_pse": "EDUKASI REKANAN ANDA",
+            "nama_se": "EUREKA EDUTECH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9072",
+            "website": "eurekaedutech.com"
+        },
+        {
+            "id": "9cb1abf4-5396-4aa7-8601-a082a5161f67",
+            "nama_pse": "KADENCE INTERNATIONAL",
+            "nama_se": "K-OINS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9075",
+            "website": "k-oins.com"
+        },
+        {
+            "id": "9cb1abbe-0166-4bb0-a311-60360351ca98",
+            "nama_pse": "MARSIGIT",
+            "nama_se": "GOGEZIT",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9074",
+            "website": "gogezit.wordpress.com"
+        },
+        {
+            "id": "9cb1abbe-03c5-43a1-b165-f31ede7d7b30",
+            "nama_pse": "GARASI BUANA UTAMA",
+            "nama_se": "PT. GARASI BUANA UTAMA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9076",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abf4-5ae0-4c8a-90df-63b2421cb14d",
+            "nama_pse": "IMUNI INDONESIA SEHAT",
+            "nama_se": "IMUNI",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9077",
+            "website": "imuni.id"
+        },
+        {
             "id": "9cb1abbe-096a-403e-895b-90ae4b59d7e6",
             "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH PNM PATUH BERAMAL",
             "nama_se": "ISLAMIC BANKING APLICATION",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-25",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8950",
             "website": "my.bnet.id"
-        },
-        {
-            "id": "9cb1abcd-7e64-4ca0-81f4-6544fb874d08",
-            "nama_pse": "BANK PERKREDITAN RAKYAT OLYMPINDO PRIMADANA",
-            "nama_se": "BPROLYMPINDO.CO.ID",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8958",
-            "website": "bprolympindo.co.id"
-        },
-        {
-            "id": "9cb1abbd-6eaa-4e6c-80d1-25881ed162c5",
-            "nama_pse": "ANALISA DATA SOLUSINDO",
-            "nama_se": "MYFIEST",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8947",
-            "website": "myfiest.id"
-        },
-        {
-            "id": "9cb1abcd-81fa-4110-b523-f6e3cf5e21c0",
-            "nama_pse": "ANALISA DATA SOLUSINDO",
-            "nama_se": "FARMFIZ",
-            "sektor": "Sektor Pangan",
-            "tanggal_terbit": "2022-07-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8948",
-            "website": "farmfiz.com"
-        },
-        {
-            "id": "9cb1abf3-81b0-4309-a781-d216454ce377",
-            "nama_pse": "BANK PERKREDITAN RAKYAT TRI GUNUNG SELATAN",
-            "nama_se": "WEBSITE RESMI PT BPR TRI GUNUNG SELATAN",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8949",
-            "website": "bprtrigunungselatan.com"
-        },
-        {
-            "id": "9cb1abcd-8620-493b-8fa7-3c1581f0e4c5",
-            "nama_pse": "KORPORA TRAININDO CONSULTANT",
-            "nama_se": "PASTIPRESTASI.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8953",
-            "website": "pastiprestasi.com"
-        },
-        {
-            "id": "9cb1abbd-7142-4584-aedb-22f0e23f828b",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT TULUS",
-            "nama_se": "IBS USSI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8951",
-            "website": "bprtulus.com"
-        },
-        {
-            "id": "9cb1abbd-72f9-4fea-9857-2b4500b5ec4e",
-            "nama_pse": "ANALISA DATA SOLUSINDO",
-            "nama_se": "RENTHOZ",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8952",
-            "website": "renthoz.com"
-        },
-        {
-            "id": "9cb1abbd-7547-4bc4-8131-9a26e6e1e855",
-            "nama_pse": "BANK PERKREDITAN RAKYAT ANUGERAHDHARMA YUWANA BANYUWANGI",
-            "nama_se": "PT. BPR ADY BANYUWANGI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8954",
-            "website": "adybanyuwangi.co.id"
-        },
-        {
-            "id": "9cb1abcd-8a81-4644-ab8f-ec864ed31ec1",
-            "nama_pse": "LOYALTY PROGRAM INDONESIA",
-            "nama_se": "QOINPAY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8955",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abf3-85d1-42ac-88ec-7c88973f94b2",
-            "nama_pse": "LIPPO GENERAL INSURANCE",
-            "nama_se": "EBENEFIT GENERAL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8960",
-            "website": "ebenefit.id"
         }
     ],
     "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 220,
     "totalPages": 383

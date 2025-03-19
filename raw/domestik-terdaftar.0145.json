@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac42-14fc-43dd-b604-74d8c94eeb91",
+            "nama_pse": "MULTIDAYA TEKNOLOGI NUSANTARA",
+            "nama_se": "EFRESH APLIKASI",
+            "sektor": "Sektor Perdagangan, Sektor Pangan",
+            "tanggal_terbit": "2023-04-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14411",
+            "website": "fresh.efishery.com"
+        },
+        {
+            "id": "9cb1ac42-1798-4c7c-b5e6-466f441ec981",
+            "nama_pse": "DEWA DOTCOM",
+            "nama_se": "DEWA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-04-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14412",
+            "website": "dewa.com"
+        },
+        {
+            "id": "9cb1ac42-1b8e-4aba-bd10-f2ebeada178a",
+            "nama_pse": "MITRA INOVASI JAYANTARA",
+            "nama_se": "MASOOK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-04-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14413",
+            "website": "masook.id"
+        },
+        {
+            "id": "9cb1ac00-f8ba-40c8-9ced-a9de9a65546c",
+            "nama_pse": "Perusahaan Perseroan (Persero) PT. Pupuk Indonesia",
+            "nama_se": "WEB COMMERCE (WCM)",
+            "sektor": "Sektor Pangan",
+            "tanggal_terbit": "2023-04-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14393",
+            "website": "gowcm.pupuk-indonesia.com"
+        },
+        {
+            "id": "9cb1ac1f-175d-4b35-b1f1-b722ed71fe4f",
+            "nama_pse": "WYNACOM UNITAMA SEJAHTERA",
+            "nama_se": "WYN@HEALTH LABORATORY INFORMATION SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-04-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14385",
+            "website": "wynacom.com"
+        },
+        {
+            "id": "9cb1ac1f-27ce-47e9-b87d-9403952f3cab",
+            "nama_pse": "HARNIC ONLINE STORE",
+            "nama_se": "HARNIC ONLINE STORE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-04-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14396",
+            "website": "harnic.id"
+        },
+        {
+            "id": "9cb1ac1f-4b22-4a65-8369-81fad96a81fe",
+            "nama_pse": "FARMA GLOBAL TEKNOLOGI",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-04-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14391",
+            "website": "farmagitechs.co.id"
+        },
+        {
+            "id": "9cb1ac41-da4c-4e07-86bb-63545d0a86fe",
+            "nama_pse": "RAJAWALI CELLULAR",
+            "nama_se": "EASYAJA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-04-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14386",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac1f-8263-4355-b531-2794f3b04557",
+            "nama_pse": "KUSUMA SAMPURNA MULIA",
+            "nama_se": "KUSUMA BEAUTY CLINIC",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-04-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14390",
+            "website": "kusumabeauty.id"
+        },
+        {
+            "id": "9cb1ac1f-88f8-43ec-9285-3930ef696b8f",
+            "nama_pse": "BYMAX DIGITAL TEKNOLOGI",
+            "nama_se": "APPIROX",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-04-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14387",
+            "website": "appirox.com"
+        },
+        {
+            "id": "9cb1ac41-ee17-475f-bf97-9864c353d24e",
+            "nama_pse": "LIMASAN MAHARDHIKA SOLUTION",
+            "nama_se": "L-CLINIC",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-04-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14389",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac1f-8f5a-49c9-93c6-d2016ab8077c",
             "nama_pse": "TRIPUTRA PERKASA INDONESIA",
             "nama_se": "TRIPUTRAPERKASAINDONESIA",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-04-06",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14355",
             "website": "algo.co.id"
-        },
-        {
-            "id": "9cb1abdb-d767-4bc0-a964-3d715566a841",
-            "nama_pse": "Perusahaan Perseroan (Persero) PT. Pupuk Indonesia",
-            "nama_se": "REKAN",
-            "sektor": "Sektor Pangan",
-            "tanggal_terbit": "2023-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14345",
-            "website": "rekan.pupuk-indonesia.com"
-        },
-        {
-            "id": "9cb1ac1d-1fdf-46c1-88e1-e893b6494f84",
-            "nama_pse": "SIGMA INTAN MAHAKARYA",
-            "nama_se": "SISTEM INFORMASI RUMAH SAKIT DAN REKAM MEDIS ELEKTRONIK",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14341",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac1e-8306-435f-ab3f-c8a9f00ba868",
-            "nama_pse": "BETHSAIDA HOSPITAL INTERNATIONAL",
-            "nama_se": "HIS 2.5 MAGIC",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14342",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac31-6cdf-4dc3-9eed-874078edaf0e",
-            "nama_pse": "SYSTEMAGIX SYXPAY INDONESIA",
-            "nama_se": "SYXPAY.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14340",
-            "website": "syxpay.id"
-        },
-        {
-            "id": "9cb1ac31-6fc4-4063-b525-e70ac2aabb59",
-            "nama_pse": "BINA KASIH AMBARAWA",
-            "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT (SIMRS)",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14343",
-            "website": "rsubinakasih.co.id"
-        },
-        {
-            "id": "9cb1ac41-93dd-4e6e-9990-7878e23ef89d",
-            "nama_pse": "DUA PUTRA JAYA",
-            "nama_se": "SIMPUS PUSKESMASONLINE",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14351",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac1f-4e54-4f65-ba15-bda045b2b82f",
-            "nama_pse": "INFORMASI DIGITAL MANDIRI",
-            "nama_se": "SWIFTSPEED",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14344",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac31-7700-4e04-854a-43dcbaa20351",
-            "nama_pse": "CASTRA ADHI CEMERLANG",
-            "nama_se": "CASTRA EDU",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14346",
-            "website": "assesment.castra.co.id"
-        },
-        {
-            "id": "9cb1ac1f-5517-4a6d-b9c7-0184fe4c301b",
-            "nama_pse": "MEDIKA SINERGI OPTIMA",
-            "nama_se": "MAMMASIP",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14347",
-            "website": "mammasip.com"
-        },
-        {
-            "id": "9cb1ac41-9a33-4e51-bfb1-5e4b61559388",
-            "nama_pse": "JATELINDO PERKASA ABADI",
-            "nama_se": "OPTIMA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14349",
-            "website": "jatelindo.co.id"
-        },
-        {
-            "id": "9cb1ac41-9df9-4de5-bc9a-1ae4e144c8fe",
-            "nama_pse": "BANANA TEKNOLOGI INDONESIA",
-            "nama_se": "BANANATIK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14350",
-            "website": "bananatik.com"
         }
     ],
-    "processingTimeMs": 18,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 145,
     "totalPages": 383

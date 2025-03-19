@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac09-764c-415c-98ae-b1f0fd30fd99",
+            "nama_pse": "MEDIA ARUS TENGAH ANORAWI",
+            "nama_se": "SIGASKSB.WEB.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9902",
+            "website": "sigasksb.web.id"
+        },
+        {
+            "id": "9cb1abd4-557e-4956-8159-aa2b6c875d35",
+            "nama_pse": "RUANG RAYA INDONESIA",
+            "nama_se": "RUANGKERJA APP",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9903",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abd4-5919-4602-9b6b-3db9a7874295",
+            "nama_pse": "DICKY IBROHIM",
+            "nama_se": "CLEOVA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9904",
+            "website": "cleova.com"
+        },
+        {
+            "id": "9cb1abfa-971f-4071-a30d-5593c6025560",
+            "nama_pse": "STAR TECHNOLOGY DIGITAL",
+            "nama_se": "IZILOH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9905",
+            "website": "iziloh.id"
+        },
+        {
+            "id": "9cb1ac09-7958-41b0-bfe7-9cab81bf264a",
+            "nama_pse": "MEDIA ARUS TENGAH ANORAWI",
+            "nama_se": "MATANO.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9906",
+            "website": "matano.co.id"
+        },
+        {
+            "id": "9cb1ac09-7d92-4166-9d91-326a5d7fc540",
+            "nama_pse": "MEDIA ARUS TENGAH ANORAWI",
+            "nama_se": "MEDIAARUSTENGAHANORAWI.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9907",
+            "website": "mediaarustengahanorawi.co.id"
+        },
+        {
+            "id": "9cb1abfa-9d44-43ff-861b-6cabb6141b02",
+            "nama_pse": "MITRA KARYA MANDIRI",
+            "nama_se": "MAJALAH FARMASETIKA",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9908",
+            "website": "farmasetika.com"
+        },
+        {
+            "id": "9cb1ac09-8231-4a9d-a138-6bcda687e91f",
+            "nama_pse": "PANINTI HUB INDONESIA",
+            "nama_se": "PARENTINGHUB.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9909",
+            "website": "parentinghub.co.id"
+        },
+        {
+            "id": "9cb1abd4-5c96-401d-a588-e0c1f5021a2f",
+            "nama_pse": "PANINTI HUB INDONESIA",
+            "nama_se": "PANINTIHUB.COM",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9910",
+            "website": "panintihub.com"
+        },
+        {
+            "id": "9cb1ac09-8544-4d13-bca7-f59cbc10c0c1",
+            "nama_pse": "GARENA INDONESIA",
+            "nama_se": "PLATFORM TOP UP VOUCHER APLIKASI GAMES GARENA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9913",
+            "website": "kiosgamer.co.id"
+        },
+        {
+            "id": "9cb1ac09-8857-4d6a-a8b1-d3c2c9e202d8",
+            "nama_pse": "MISTER MULTI JASA",
+            "nama_se": "MISTER MULTI JASA",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9912",
+            "website": "mrjek.my.id"
+        },
+        {
             "id": "9cb1abd4-0ea1-4696-a733-f72f07934989",
             "nama_pse": "DANALOG MITRA VENTURA",
             "nama_se": "PT DANALOG MITRA VENTURA",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-08-03",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9775",
             "website": "-"
-        },
-        {
-            "id": "9cb1abfa-03b1-4126-88d0-5dc764d84a5b",
-            "nama_pse": "LOKO SISTEM TERINTEGRASI",
-            "nama_se": "LOKO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9777",
-            "website": "loko.co.id"
-        },
-        {
-            "id": "9cb1abd3-73a8-4673-a926-7ba97668dcd1",
-            "nama_pse": "ALDO APP",
-            "nama_se": "AMELARIS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9776",
-            "website": "Amelaris.com"
-        },
-        {
-            "id": "9cb1abfa-06a1-4966-a98d-79c5f789d5dd",
-            "nama_pse": "ASEP ROHIMAT",
-            "nama_se": "TIDAK ADA LAGI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9779",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abd3-7bff-4f36-9ab0-ee936574f316",
-            "nama_pse": "BANK PERKREDITAN RAKYAT GUNUNG ARJUNA",
-            "nama_se": "BPR GUNUNG ARJUNA",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9780",
-            "website": "bprgunungarjuna.com"
-        },
-        {
-            "id": "9cb1ac08-99b2-4cf1-ad57-7215d3f0e0a1",
-            "nama_pse": "TIGRIS NUSANTARA TEKNO",
-            "nama_se": "FRDAY",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9782",
-            "website": "frday.id"
-        },
-        {
-            "id": "9cb1ac08-9dd5-43d4-a578-7ea8a897945b",
-            "nama_pse": "SPENTERA EDUKASI INTERNASIONAL",
-            "nama_se": "HACKTRACE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9783",
-            "website": "hacktrace.id"
-        },
-        {
-            "id": "9cb1ac08-a71f-46ed-8114-f70ad211b59c",
-            "nama_pse": "PRASETIA DWIDHARMA",
-            "nama_se": "PT PRASETIA DWIDHARMA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9784",
-            "website": "prasetia.co.id"
-        },
-        {
-            "id": "9cb1abfa-09ca-4c23-a53f-698b27ba8f8a",
-            "nama_pse": "GRAVITY GAME LINK",
-            "nama_se": "LOST SAGA ORIGIN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9785",
-            "website": "lostsaga.gnjoy.id"
-        },
-        {
-            "id": "9cb1abd3-7fdd-4f61-8ba8-12d945c243ba",
-            "nama_pse": "GRAVITY GAME LINK",
-            "nama_se": "RAGNAROK RETRO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9787",
-            "website": "roretro.gnjoy.id"
-        },
-        {
-            "id": "9cb1ac08-b096-401b-8f1e-81059d6a22e6",
-            "nama_pse": "GRAVITY GAME LINK",
-            "nama_se": "RAGNAROK FOREVER LOVE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9788",
-            "website": "ro.gnjoy.id"
-        },
-        {
-            "id": "9cb1ac08-b454-49f9-995e-81ab8f1d9a0d",
-            "nama_pse": "GRAVITY GAME LINK",
-            "nama_se": "RAGNAROK LABYRINTH NFT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9789",
-            "website": "labyrinthnft.gnjoy.id"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 208,
     "totalPages": 383

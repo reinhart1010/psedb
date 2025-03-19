@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cdd21d6-b167-4fe5-8bd2-3c46303bc5ad",
+            "nama_pse": "MNC ASURANSI INDONESIA",
+            "nama_se": "MOTION SAFE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-08-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20136",
+            "website": "-"
+        },
+        {
+            "id": "9cdcde24-796d-47b1-935f-d325e432d563",
+            "nama_pse": "MARADEKATECH",
+            "nama_se": "simkemas",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20128",
+            "website": "simkemas.maradekatech.com"
+        },
+        {
+            "id": "9cdd00a3-5448-4ff7-b8de-c75e0d8d30c2",
+            "nama_pse": "ARIEL",
+            "nama_se": "GRAPHIE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20131",
+            "website": "graphie.co.id"
+        },
+        {
+            "id": "9cdce93b-9279-4d03-88f6-9f9ceb09f9ba",
+            "nama_pse": "ASTRA HONDA MOTOR",
+            "nama_se": "HONDA ROADSYNC",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi",
+            "tanggal_terbit": "2024-08-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20130",
+            "website": "-"
+        },
+        {
+            "id": "9cdd06aa-2118-4b1f-ae2e-0d9ccef7979d",
+            "nama_pse": "MAJELIS PENDIDIKAN TINGGI KAHMI",
+            "nama_se": "AICLASS (LEARNING MANAGEMENT SYSTEM – FEATURING ARTIFICIAL INTELLIGENCE)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20132",
+            "website": "uici.ac.id"
+        },
+        {
+            "id": "9cdd219c-9ba3-4959-a65c-e7af23d00453",
+            "nama_pse": "ASURANSI JIWA SYARIAH KITABISA",
+            "nama_se": "asuransikitabisa.com",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-08-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20135",
+            "website": "asuransikitabisa.com"
+        },
+        {
+            "id": "9cdd3a47-4c3b-4292-bf1e-012d0c5e63d2",
+            "nama_pse": "TYMY TEH INDONESIA",
+            "nama_se": "TYMYS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20137",
+            "website": "ctid.tymys.com"
+        },
+        {
+            "id": "9cdd7490-8219-4763-ab10-5f30f8a2f12d",
+            "nama_pse": "TIGA PUTRA BANGKA BERSATU",
+            "nama_se": "3Putra Hotel Tour",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2024-08-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20143",
+            "website": "3putrahoteltour.com"
+        },
+        {
+            "id": "9cdd4c17-7536-4153-af1b-ec8f1d735b21",
+            "nama_pse": "SOLUSI KEUANGAN BERSAMA",
+            "nama_se": "BISALUNAS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20138",
+            "website": "bisalunas.id"
+        },
+        {
+            "id": "9cdd67f8-56c7-4be7-a3c7-081de6b117f0",
+            "nama_pse": "BESARINDO JAYA SUKSES",
+            "nama_se": "BESA IINDO JAYA SUKSES",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20140",
+            "website": "besarindojayasukses.web.id"
+        },
+        {
             "id": "9cdd6ba6-01aa-44f8-9b48-b3edd1a3e892",
             "nama_pse": "ANAGATA MAHAKARYA SEJAHTERA",
             "nama_se": "KONSULTAN MANAJEMEN BISNIS",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-08-23",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20084",
             "website": "-"
-        },
-        {
-            "id": "9cd5a060-a837-403e-ae00-1631c60138c3",
-            "nama_pse": "KASNARIA BR PERANGIN-ANGIN",
-            "nama_se": "LAYANAN INTERNET LOKAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20092",
-            "website": "-"
-        },
-        {
-            "id": "9cd554d2-59fe-45e8-92d9-671edda6913c",
-            "nama_pse": "PRO INT DINAMIKA",
-            "nama_se": "PRO-INT PAYROLL OUTSOURCING",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20087",
-            "website": "payouts.pro-int.com"
-        },
-        {
-            "id": "9cd5732c-ae2d-4c1a-9552-653ee7b82483",
-            "nama_pse": "INFORMASI DIGITAL MANDIRI",
-            "nama_se": "JANDOLE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20090",
-            "website": "-"
-        },
-        {
-            "id": "9cd5392a-0189-486e-8be8-092c9bea8d4a",
-            "nama_pse": "PRO INT DINAMIKA",
-            "nama_se": "PRO-INT BUSINESS PROCESS EXCELLENCE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20086",
-            "website": "BPE.pro-int.com"
-        },
-        {
-            "id": "9cd57269-eb52-4c8e-b137-2ac39b8d9d16",
-            "nama_pse": "PANEN KAPITAL BERJANGKA",
-            "nama_se": "PSE PANEN KAPITAL BERJANGKA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20089",
-            "website": "-"
-        },
-        {
-            "id": "9cb3bdde-d4e7-42e5-ad91-0793f03094be",
-            "nama_pse": "ERAFONE ARTHA RETAILINDO",
-            "nama_se": "www.erafone.com",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20088",
-            "website": "erafone.com"
-        },
-        {
-            "id": "9cd51145-786b-4493-826c-ac6c3a323bc5",
-            "nama_pse": "INDITEK GLOBAL MEDIKA",
-            "nama_se": "MENTORE.ID",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20083",
-            "website": "-"
-        },
-        {
-            "id": "9cd53347-a8f0-455b-bc68-189aa93641d3",
-            "nama_pse": "PRO INT DINAMIKA",
-            "nama_se": "PRO-INT PROJECT MANAGEMENT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20085",
-            "website": "project.pro-int.com"
-        },
-        {
-            "id": "9cd35802-c789-4db6-a72c-b1fa21ee25bd",
-            "nama_pse": "TEKNOBIT SOLUSINDO",
-            "nama_se": "TEKNOBIT",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20069",
-            "website": "-"
-        },
-        {
-            "id": "9cd2f96d-16b5-4899-86ba-e2cfaf8c2bd2",
-            "nama_pse": "ABIYASA SINERGI SEJAHTERA",
-            "nama_se": ": CV ABIYASA SINERGI SEJAHTERA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20063",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 45,
     "totalPages": 383

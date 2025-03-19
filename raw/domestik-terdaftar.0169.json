@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac07-6cb7-4186-bdbf-866dcf8e35d2",
+            "nama_pse": "PT TITIK TERANG TEKNOLOGI",
+            "nama_se": "ZISNU DAN CATATZAKAT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12350",
+            "website": "my.zisnu.id"
+        },
+        {
+            "id": "9cb1ac15-c621-4a14-929f-6754b26d4f35",
+            "nama_pse": "AVO INNOVATION TECHNOLOGY",
+            "nama_se": "AVOSTORE APP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12351",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac15-cab0-4933-833a-beda5a01b5b5",
+            "nama_pse": "AVO INNOVATION TECHNOLOGY",
+            "nama_se": "AVOSKIN APP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12352",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abe2-fbbd-49a0-9e2e-d62be4d8ea8d",
+            "nama_pse": "AVO INNOVATION TECHNOLOGY",
+            "nama_se": "AVOSKIN WEBSITE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12353",
+            "website": "avoskinbeauty.com"
+        },
+        {
+            "id": "9cb1ac15-cdce-4079-9b2f-bc34b3ea8056",
+            "nama_pse": "BYVO BEAUTYPHARMA INDONESIA",
+            "nama_se": "MY SKIN BUT BETTER (MSBB)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12354",
+            "website": "myskinbutbetter.com"
+        },
+        {
+            "id": "9cb1abe2-ff7f-41e5-b047-6ddf7e252068",
+            "nama_pse": "CITRA SELARAS INTEGRASI",
+            "nama_se": "CITRA SELARAS INTEGRASI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12355",
+            "website": "Surabayacam.com"
+        },
+        {
+            "id": "9cb1ac07-72a3-4518-a354-28247316dd0a",
+            "nama_pse": "LARISSA KARUNIA SEJAHTERA",
+            "nama_se": "LARISSA POINT OF SERVICE (LPS)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12358",
+            "website": "larissa.co.id"
+        },
+        {
+            "id": "9cb1ac07-778f-4830-a6ea-01931ec4baba",
+            "nama_pse": "PANDO AKAR TEKNOLOGI",
+            "nama_se": "PANDO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12359",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac15-da2e-4f03-a32f-0b6ab39a7ef3",
+            "nama_pse": "CITRA SISTEM INTEGRASI",
+            "nama_se": "CITRA SISTEM INTEGRASI HENDRA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12360",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac07-7c1f-48a6-965b-028685936013",
+            "nama_pse": "NURINDO WISATA",
+            "nama_se": "ALIFAH NURINDO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12361",
+            "website": "alifahnurindo.com"
+        },
+        {
+            "id": "9cb1ac07-7f5e-4c91-a057-bfe25788ec72",
+            "nama_pse": "SIGNIFY COMMERCIAL INDONESIA",
+            "nama_se": "SIGNIFY FUNNEL MANAGEMENT (SFM)",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12362",
+            "website": "specifierclub.signify.com"
+        },
+        {
             "id": "9cb1ac15-dd91-4b0e-83a3-43293832169c",
             "nama_pse": "SIGNIFY COMMERCIAL INDONESIA",
             "nama_se": "PHILIPS LIGHTING E-SHOP",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-11-15",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12286",
             "website": "jatimbhayangkaranews.my.id"
-        },
-        {
-            "id": "9cb1abe2-7fbc-4c63-9025-967e796582cf",
-            "nama_pse": "UPBIT EXCHANGE INDONESIA",
-            "nama_se": "PLATFORM PERDAGANGAN ASET KRIPTO PT UPBIT EXCHANGE INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12287",
-            "website": "upbit.com"
-        },
-        {
-            "id": "9cb1ac15-793b-49bd-8f01-438516ab1dba",
-            "nama_pse": "MULIA BERKAT SENTOSA",
-            "nama_se": "MBS-INDONESIA.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12292",
-            "website": "mbs-indonesia.id"
-        },
-        {
-            "id": "9cb1ac15-7ca3-4aac-a8ec-a878faa59891",
-            "nama_pse": "BIC PONSEL PERKASA",
-            "nama_se": "DISPENSER PERTAMINI",
-            "sektor": "Sektor Energi dan Sumber Daya Mineral",
-            "tanggal_terbit": "2022-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12295",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac07-198a-46ca-836b-b495a4838571",
-            "nama_pse": "IDEXPRESS LOGISTIK INDONESIA",
-            "nama_se": "IDEXPRESS LOGISTIK INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12296",
-            "website": "idexpress.com"
-        },
-        {
-            "id": "9cb1abe2-845d-4462-b249-18bd8b2cbf63",
-            "nama_pse": "MULAI WEB INDONESIA",
-            "nama_se": "RSSWEB.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12297",
-            "website": "rssweb.id"
-        },
-        {
-            "id": "9cb1abe2-8aca-4d0f-b6ad-f1baeb0a57f7",
-            "nama_pse": "BOOURAC INTERNASIONAL INDONESIA",
-            "nama_se": "WWW.BOOURAC.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12298",
-            "website": "boourac.com"
-        },
-        {
-            "id": "9cb1ac07-2117-4e69-9693-e1142826ba12",
-            "nama_pse": "ARAH SENTRAL SOLUSINDO",
-            "nama_se": "WEBSITE SENTRE LEGAL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12299",
-            "website": "sentrelegal.com"
-        },
-        {
-            "id": "9cb1abe2-95a5-4e01-8af9-c158bff448e8",
-            "nama_pse": "BUANA CIPTA CHAHRA",
-            "nama_se": "CHAHRA EVENT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12300",
-            "website": "chahraevent.id"
-        },
-        {
-            "id": "9cb1ac07-2558-48d5-9139-847c1d209384",
-            "nama_pse": "QUIPPER EDUKASI INDONESIA",
-            "nama_se": "QUIPPER VIDEO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12303",
-            "website": "quipper.com"
-        },
-        {
-            "id": "9cb1ac07-2bdb-4671-9609-04ca6e5c60c1",
-            "nama_pse": "YRS GAMING SHOP",
-            "nama_se": "YRS GAMING SHOP",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12302",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac15-804f-4f37-9a0f-d1994f79e9f8",
-            "nama_pse": "QUIPPER EDUKASI INDONESIA",
-            "nama_se": "QUIPPER SCHOOL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12304",
-            "website": "quipper.com"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 169,
     "totalPages": 383

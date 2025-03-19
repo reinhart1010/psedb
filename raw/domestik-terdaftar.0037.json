@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9d217803-b59b-4df4-b87c-3b2259577a29",
+            "nama_pse": "APPLEDORE MGILANGJANUAR LAB",
+            "nama_se": "NEXTREADY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20538",
+            "website": "nextready.dev"
+        },
+        {
+            "id": "9d2171cb-1d8e-4f51-a772-883081912c2f",
+            "nama_pse": "KOZY PROPERTI MANAJEMEN INTERNASIONAL",
+            "nama_se": "https://www.kozystay.com",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20536",
+            "website": "kozystay.com"
+        },
+        {
+            "id": "9d21e77b-eeed-4168-ab5e-cf3b672d09a5",
+            "nama_pse": "DAMRI",
+            "nama_se": "E- TICKETING",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2024-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20551",
+            "website": "damri.co.id"
+        },
+        {
+            "id": "9d223eac-b945-4741-8c08-156d4ad67a93",
+            "nama_pse": "SEEPAYS AGREGATOR INDONESIA",
+            "nama_se": "SEEPAYS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20556",
+            "website": "seepays.id"
+        },
+        {
+            "id": "9d219b86-16bd-4dad-81b6-c5178dc29298",
+            "nama_pse": "INOVASI TEKNOLOGI UNTUNG BERKAH",
+            "nama_se": "www.gently.co.id",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20541",
+            "website": "gently.co.id"
+        },
+        {
+            "id": "9d2167e4-5162-4b7b-ab4c-51bc04860e40",
+            "nama_pse": "BANK MULTIARTA SENTOSA",
+            "nama_se": "BEBAS BY BANK MAS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20532",
+            "website": "-"
+        },
+        {
+            "id": "9d2127d7-702d-4154-87a8-2bc8a4df102b",
+            "nama_pse": "EKA NUSANTARA GEMILANG",
+            "nama_se": "1ENGAGE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20525",
+            "website": "-"
+        },
+        {
+            "id": "9d214d89-954d-4c60-baa1-8e47fdf19f14",
+            "nama_pse": "BABEL BERSAHAJA MEDIATAMA",
+            "nama_se": "JEJAK BERITA ONLINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20527",
+            "website": "jejakberitaonline.com"
+        },
+        {
+            "id": "9d215b6e-a103-4c9b-9f96-578cc580ea7d",
+            "nama_pse": "HAFIDZ GAMBARU SEJAHTERA",
+            "nama_se": "pemantaunews.com",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20529",
+            "website": "pemantaunews.com"
+        },
+        {
+            "id": "9d0d67f7-c33d-438b-84cb-7cfa15e6558c",
+            "nama_pse": "MITRA KASIH PERKASA",
+            "nama_se": "MYBILLS",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20528",
+            "website": "-"
+        },
+        {
             "id": "9d0d67f7-a534-4701-b682-3366a5662b1d",
             "nama_pse": "HERDINA METATECH SINERGI",
             "nama_se": "INTANS CLUB",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-09-27",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20517",
             "website": "-"
-        },
-        {
-            "id": "9d1bcfd5-694d-4fdf-ac7b-3ac3821a6a7c",
-            "nama_pse": "BOLTTECH DEVICE PROTECTION INDONESIA",
-            "nama_se": "PORTAL LAYANAN PERBAIKAN BOLTTECH",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20512",
-            "website": "device.bolttech.id"
-        },
-        {
-            "id": "9d1b99c1-e00a-466e-84ad-8f4368164701",
-            "nama_pse": "PALLAV TEKNOLOGI RESOLUSINDO",
-            "nama_se": "COLLECTION SYSTEM PT PALLAV TEKNOLOGI RESOLUSINDO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20508",
-            "website": "pallav-collections.com"
-        },
-        {
-            "id": "9d1ba527-f1bb-4db0-ae49-c176247730a3",
-            "nama_pse": "TRANS LINK INTERNASIONAL",
-            "nama_se": "MR.SURYA PROJECT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20510",
-            "website": "-"
-        },
-        {
-            "id": "9d19f8d7-1f8c-4150-8ae8-3911872d9826",
-            "nama_pse": "MIELS SEJAHTERA SENTOSA",
-            "nama_se": "BORONG BARENG",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20509",
-            "website": "borongbareng.com"
-        },
-        {
-            "id": "9d1bd3b0-e29e-4f54-96d6-93db9ac97bef",
-            "nama_pse": "ANNARINDO MULIA ABADI",
-            "nama_se": "KONSULDONG",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-09-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20513",
-            "website": "konsuldong.com"
-        },
-        {
-            "id": "9d1b8ee4-e635-45e4-9f17-41acb1a8a22d",
-            "nama_pse": "SALAM SEJAHTERA NUSANTARA",
-            "nama_se": "SALAM HOMECARE",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20507",
-            "website": "salam-homecare.com"
-        },
-        {
-            "id": "9d0ef505-bacc-4e83-83bf-e7cac1ad7d2e",
-            "nama_pse": "ZETTA INTI PRANALA",
-            "nama_se": "EASYCARD",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20493",
-            "website": "easycard.amazone.id"
-        },
-        {
-            "id": "9d0f4c5b-3030-4ca4-b22d-a62c8711c09b",
-            "nama_pse": "SIHALAL BERKAH TEKNOLOGI",
-            "nama_se": "sihalal.net",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20496",
-            "website": "sihalal.net"
-        },
-        {
-            "id": "9d0f5adb-0d97-49f5-8044-f5db28458b59",
-            "nama_pse": "WINARTI",
-            "nama_se": "ISTERI SAH NET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20499",
-            "website": "-"
-        },
-        {
-            "id": "9d0f0afa-aacc-4c7f-9828-137d507777ae",
-            "nama_pse": "IDEA MEDIA DIGITAL",
-            "nama_se": "HARESA PROFILES",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20495",
-            "website": "haressa.id"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 37,
     "totalPages": 383

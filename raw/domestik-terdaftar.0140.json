@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac34-5b86-45d8-ba11-c9d5142c55ba",
+            "nama_pse": "ANDI YULIANTO",
+            "nama_se": "RAZKA HEALTH RECORD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14754",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac42-6420-42bd-a0aa-c44cac19759d",
+            "nama_pse": "PRAKARSA PRIMA SENTOSA",
+            "nama_se": "DIGITAL CONNECT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14747",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac32-cc2d-4ae3-a19f-abe97124ab81",
+            "nama_pse": "KLAKKLIK INOVASI DIGITAL",
+            "nama_se": "KLAKKLIK INOVASI DIGITAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14736",
+            "website": "klakklik.id"
+        },
+        {
+            "id": "9cb1ac33-fdee-48c1-ada5-724abf74d43e",
+            "nama_pse": "PERTAMINA BINA MEDIKA IHC",
+            "nama_se": "SISTEM INFORMASI RUMAH SAKIT PERTAMEDIKA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14735",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac43-c321-4621-9617-5d1e9ecd8696",
+            "nama_pse": "PERTAMINA BINA MEDIKA IHC",
+            "nama_se": "SIRUP",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14733",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac43-d135-474d-8017-612545c14cbd",
+            "nama_pse": "SPAA MEDIKA",
+            "nama_se": "RS MELANIA SIMRS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14737",
+            "website": "rsmelania.co.id"
+        },
+        {
+            "id": "9cb1ac34-272e-4d5e-924f-454af4dd14e8",
+            "nama_pse": "PERTAMINA BINA MEDIKA IHC",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14734",
+            "website": "rspb.ihc.id"
+        },
+        {
+            "id": "9cb1ac22-03f9-423e-a0aa-9416bec55ddf",
+            "nama_pse": "PERTAMINA BINA MEDIKA IHC",
+            "nama_se": "SIRUP SIMRS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14743",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac22-0f1d-402e-b97a-82c4ff7567ef",
+            "nama_pse": "PERTAMINA BINA MEDIKA IHC",
+            "nama_se": "SIMRS ( SISTEM MANAJEMEN RUMAH SAKIT)",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14742",
+            "website": "rspertaminacilacap.com"
+        },
+        {
+            "id": "9cb1ac22-1212-4187-a48d-49ec8db9f14c",
+            "nama_pse": "KITA LULUS INTERNASIONAL",
+            "nama_se": "KITA LULUS INTERNASIONAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14738",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac43-e729-4384-b6c6-c7c28edaffcd",
+            "nama_pse": "PERTAMINA BINA MEDIKA IHC",
+            "nama_se": "SISTEM INFORMASI RUMAH SAKIT PERTAMEDIKA (SIRUP)",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14741",
+            "website": "rspt.ihc.id"
+        },
+        {
             "id": "9cb1ac43-ea26-4f11-a5f0-25ecf24bfb8a",
             "nama_pse": "MILIEU INSIGHT INDONESIA",
             "nama_se": "MILIEU INSIGHT",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-05-12",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15114",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac33-5f3e-4508-a71d-e461097d0fe5",
-            "nama_pse": "DIGITAL MEDIKA",
-            "nama_se": "DIGITAL MEDIKA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-05-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14641",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac21-70b5-4554-ac37-76d27a7ebfed",
-            "nama_pse": "MAHADATA CITRA NUSANTARA",
-            "nama_se": "RHEINA SIMKLINIK",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-05-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14645",
-            "website": "rheina.id"
-        },
-        {
-            "id": "9cb1ac21-7cb7-4f9a-b67b-7bb467db96a8",
-            "nama_pse": "DISA PRIMA MEDIKA",
-            "nama_se": "PRIMEDIS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-05-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14642",
-            "website": "rs-primahusada.com"
-        },
-        {
-            "id": "9cb1ac33-a308-4db9-a609-95f08281f984",
-            "nama_pse": "WEBENGAGE TECHNOLOGIES INDONESIA",
-            "nama_se": "CLOUD BASED SAAS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-05-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14646",
-            "website": "webengage.com"
-        },
-        {
-            "id": "9cb1ac21-11bd-44cc-a6cf-c85b300ac75b",
-            "nama_pse": "KEDAIMU LUMBUNG NUSANTARA",
-            "nama_se": "BALICASH",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14636",
-            "website": "balicash.money"
-        },
-        {
-            "id": "9cb1ac43-661a-488f-9c62-704743206c84",
-            "nama_pse": "KHARISMA HUSADA ABADI",
-            "nama_se": "SIYASMIN",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14632",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac33-937a-475d-b2ab-f046449f70aa",
-            "nama_pse": "RUMAH SAKIT ISLAM MABARROT NAHDLATUL ULAMA BUNGAH",
-            "nama_se": "SIMRS KHANZA INDONESIA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14633",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac21-5e48-4470-aca8-6b8ec8d3d948",
-            "nama_pse": "INOVASI GIZI NUSANTARA",
-            "nama_se": "APLIKASI MOBILE GIZI NUSANTARA",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14637",
-            "website": "gizinusantara.com"
-        },
-        {
-            "id": "9cb1ac33-995d-402e-bcdc-5a43d22d3db0",
-            "nama_pse": "INDOSURYA ARTHA MANDIRI",
-            "nama_se": "INTERMEDIK",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14635",
-            "website": "demo.intermedik.id"
-        },
-        {
-            "id": "9cb1ac33-9e39-4c70-b42d-d8c4ece12085",
-            "nama_pse": "LAYANAN MEDIK INDONESIA",
-            "nama_se": "GETMEDIK",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14638",
-            "website": "getmedik.co.id"
-        },
-        {
-            "id": "9cb1ac43-694f-4fee-9be2-7e10ef406931",
-            "nama_pse": "BAHASA KINERJA UTAMA",
-            "nama_se": "DIKTEIN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14639",
-            "website": "dikte.in"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 140,
     "totalPages": 383

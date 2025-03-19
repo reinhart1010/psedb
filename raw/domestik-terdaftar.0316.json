@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab90-1a51-4b81-a439-91956f3be6fb",
+            "nama_pse": "SMARTFREN TELECOM",
+            "nama_se": "WWW.SMARTFREN.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3561",
+            "website": "smartfren.com"
+        },
+        {
+            "id": "9cb1ab90-1dd7-48d9-973d-0bb23fa862c7",
+            "nama_pse": "SMARTFREN TELECOM",
+            "nama_se": "UANGKU",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-03-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3564",
+            "website": "uangku.co.id"
+        },
+        {
+            "id": "9cb1ab90-e967-4f31-8ebe-897d45671e19",
+            "nama_pse": "SMARTFREN TELECOM",
+            "nama_se": "MYLINK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3567",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab90-ed04-468e-9aee-3b8836ef5780",
+            "nama_pse": "SMARTFREN TELECOM",
+            "nama_se": "MYSF",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3568",
+            "website": "smartfren.com"
+        },
+        {
+            "id": "9cb1ab9e-637b-4313-a425-b07be7e846d2",
+            "nama_pse": "SMARTFREN TELECOM",
+            "nama_se": "SMARTFREN.BUSINESS",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3569",
+            "website": "smartfren.com"
+        },
+        {
+            "id": "9cb1ab90-efb7-434e-a0ca-d48453f09c62",
+            "nama_pse": "SMARTFREN TELECOM",
+            "nama_se": "SMARTFREN.SOCIAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3570",
+            "website": "smartfren.com"
+        },
+        {
+            "id": "9cb1aba8-e08b-4fcf-a7e2-ee036c742ebf",
+            "nama_pse": "JUJUR SETIA UTAMA",
+            "nama_se": "AYOOBLI.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2022-03-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3563",
+            "website": "Ayoobli.com"
+        },
+        {
+            "id": "9cb1ab86-c565-4559-b235-306fce48ec8f",
+            "nama_pse": "Lexgo Karya Indonesia",
+            "nama_se": "LEXDIGI",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3550",
+            "website": "lexdigi.id"
+        },
+        {
+            "id": "9cb1ab8e-50bb-4d8e-b5f3-316d64ec7ddb",
+            "nama_pse": "PRAWIRA BAHAGIA SELALU",
+            "nama_se": "HEYLAW",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3555",
+            "website": "heylaw.id"
+        },
+        {
+            "id": "9cb1ab86-ea95-4f21-b985-db3dc651de75",
+            "nama_pse": "POCKET USAHA BERSAMA",
+            "nama_se": "POCKET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3554",
+            "website": "pocket.co.id"
+        },
+        {
             "id": "9cb1ab87-3c8a-4faa-a843-15733e2a9b6c",
             "nama_pse": "BUKALEGAL TEKNO DIGITAL",
             "nama_se": "BUKALEGAL.COM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-03-11",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3511",
             "website": "marurah.com"
-        },
-        {
-            "id": "9cb1ab9e-57ca-4ea3-88cc-065e8fa4167d",
-            "nama_pse": "MULTI PRATAMA ASIA",
-            "nama_se": "MULTI PRATAMA ASIA - MPA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3517",
-            "website": "multijasasolusindo.id"
-        },
-        {
-            "id": "9cb1ab9e-59d4-45a0-91e0-08a76655f515",
-            "nama_pse": "TEKNOLOGI PERDANA INDONESIA",
-            "nama_se": "MAXIM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3513",
-            "website": "id.taximaxim.com"
-        },
-        {
-            "id": "9cb1ab9e-5bb7-482f-a3a3-06158c05a69b",
-            "nama_pse": "QONTAK TUMBUH MAKMUR",
-            "nama_se": "QONTAK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3515",
-            "website": "qontak.com"
-        },
-        {
-            "id": "9cb1ab86-f41e-4e60-ae2e-6a7a870e2000",
-            "nama_pse": "DOCTOR ANYWHERE INDONESIA",
-            "nama_se": "DOCTOR ANYWHERE",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3498",
-            "website": "doctoranywhere.com"
-        },
-        {
-            "id": "9cb1ab8e-afe3-4efb-8825-63d9dd84015c",
-            "nama_pse": "TOKENIZE INDO UTAMA",
-            "nama_se": "TOKENIZE XCHANGE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-03-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3501",
-            "website": "tokenize.id"
-        },
-        {
-            "id": "9cb1ab87-160d-43eb-9dcc-3469ca1873bc",
-            "nama_pse": "TEES PRATAMA INDONESIA",
-            "nama_se": "OFFICEBEE",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3502",
-            "website": "Officebee.co"
-        },
-        {
-            "id": "9cb1ab7e-b9fb-4830-be9d-e5bce924fd7f",
-            "nama_pse": "ARTHA TEKNOLOGI MAHAKARYA",
-            "nama_se": "KAMPUSKITA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3503",
-            "website": "kampuskita.co"
-        },
-        {
-            "id": "9cb1ab87-25a5-4176-a16b-87ec98be0b77",
-            "nama_pse": "DELAPAN BERUANG MADU",
-            "nama_se": "BEETU",
-            "sektor": "Sektor Transportasi, Sektor Transportasi",
-            "tanggal_terbit": "2022-03-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3500",
-            "website": "beetu.id"
-        },
-        {
-            "id": "9cb1ab7e-bce6-46eb-916d-19559adf8a9c",
-            "nama_pse": "CODEHOUSE TEKNOLOGI OASE",
-            "nama_se": "CODEHOUSE TEKNOLOGI OASE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3499",
-            "website": "codehouse.id"
-        },
-        {
-            "id": "9cb1ab8e-b92f-4926-8c99-54f05550341b",
-            "nama_pse": "BUANA CAPITAL SEKURITAS",
-            "nama_se": "TREN",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-03-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3504",
-            "website": "buanacapital.com"
         }
     ],
-    "processingTimeMs": 9,
+    "processingTimeMs": 6,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 316,
     "totalPages": 383

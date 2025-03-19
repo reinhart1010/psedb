@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac66-62b1-4eff-b34e-afb7acd9de86",
+            "nama_pse": "CAKRAWALA SAPTA PERDANA INDONESIA",
+            "nama_se": "RINJANIMEDIKA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17210",
+            "website": "rinjanimedika.co.id"
+        },
+        {
+            "id": "9cb1ac52-d9d5-4895-abea-2be08ce991f1",
+            "nama_pse": "ZII INDOTECH PRATAMA",
+            "nama_se": "DENTIC SOFTWARE",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17211",
+            "website": "dentic.co"
+        },
+        {
+            "id": "9cb1ac7a-8226-48b7-9727-5acca8de2f14",
+            "nama_pse": "HARAPAN JAYA MEDIKA",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN KLINIK HARAPAN PURI LEGENDA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17213",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac52-e30a-45e0-9b2e-70853bd7d47c",
+            "nama_pse": "HARAPAN JAYA MEDIKA",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN KLINIK HARAPAN KITA DIAN CENTER",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17214",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac7a-858c-4e5a-969d-7d982d7ad7b5",
+            "nama_pse": "PUTERA MAHKOTA MEDIKA",
+            "nama_se": "SISTEM INFORMASI MANAGEMEN KLINIK HARAPAN MEDIKA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17215",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac52-e61b-4b1c-8c1f-2a3c7cc134bc",
+            "nama_pse": "KELUARGA JAYA HUSADA",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN RS KELUARGA HUSADA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17216",
+            "website": "keluargahusada.co.id"
+        },
+        {
+            "id": "9cb1ac52-ed40-4c69-a8ad-e38c70a25e25",
+            "nama_pse": "NITIPURAN HEALTH CENTER",
+            "nama_se": "SMARTKLINIK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17218",
+            "website": "smartklinik.my.id"
+        },
+        {
+            "id": "9cb1ac7a-8921-4964-83c3-1929c94da2d4",
+            "nama_pse": "HARAPAN JAYA MEDIKA",
+            "nama_se": "SISTEM INFORMASI MANAGEMEN KLINIK HARAPAN KITA BATU AJI",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17217",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac52-f67e-42f6-9d62-06f565bd8481",
+            "nama_pse": "HARAPAN JAYA MEDIKA",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN KLINIK HARAPAN KITA VILLA PESONA ASRI",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17219",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac52-8d56-4f60-b409-cc60418e458b",
+            "nama_pse": "PADMAKRIYA DIGITRANS INDONESIA",
+            "nama_se": "REKAM MEDIS ELEKTRONIK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17199",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac52-b329-4d4f-bda8-a9ce20b72336",
             "nama_pse": "ANUGRAH NAYAGA TECHNOLOGIES",
             "nama_se": "SIKAT",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-01-03",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17187",
             "website": "rspauhardjolukito.co.id"
-        },
-        {
-            "id": "9cb1ac52-c019-4d83-9305-f1358020c3ce",
-            "nama_pse": "ELSOFINAR ARCOM BITRISOFT",
-            "nama_se": "SIRME-BITRISOFT",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-01-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17188",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac7a-11da-43ba-8cc4-774255229b4c",
-            "nama_pse": "ASRO DOT NET",
-            "nama_se": "YOI",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17146",
-            "website": "yoi.co.id"
-        },
-        {
-            "id": "9cb1ac52-2c84-4591-bdcb-a34ae39129be",
-            "nama_pse": "BANK NANO SYARIAH",
-            "nama_se": "AIRA MOBILE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-01-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17135",
-            "website": "aira.nanobank.id"
-        },
-        {
-            "id": "9cb1ac79-caa5-4930-b06b-7dcd9c08738c",
-            "nama_pse": "PERMATA SARANA HUSADA",
-            "nama_se": "SIMRS PSH",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-01-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17153",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac52-7f6c-4554-8a47-379ec723efa7",
-            "nama_pse": "DINAS KESEHATAN KOTA AMBON",
-            "nama_se": "SIMAV",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17130",
-            "website": "simav.klinikmataav.com"
-        },
-        {
-            "id": "9cb1ac7a-03be-450b-b452-c210a79d173e",
-            "nama_pse": "AMANAH SOLUSI BISNIS",
-            "nama_se": "AMANAH ELEKTRONIK MEDICAL SYSTEM",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-01-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17131",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac65-f805-4e3c-8f17-08201f70ce0b",
-            "nama_pse": "DNPAY SOLUSI DIGITAL",
-            "nama_se": "DNPAY",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-01-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17132",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac52-8298-46f5-acc2-f67dc36f2ec8",
-            "nama_pse": "SEMESTA QUANTUM ETERNITI",
-            "nama_se": "S-QUANTUM ENGINE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17133",
-            "website": "sqe.co.id"
-        },
-        {
-            "id": "9cb1ac52-856c-421d-a5a9-101f83ca3bed",
-            "nama_pse": "SANDY PARASAM PUTRA",
-            "nama_se": "SIRUMKIT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17144",
-            "website": "rsialombokduadua.com"
-        },
-        {
-            "id": "9cb1ac65-fa82-43a2-b82f-3e8a0eb7d649",
-            "nama_pse": "AGUS YASIN, S.KOM",
-            "nama_se": "SIMKLIK RME",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17134",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 96,
     "totalPages": 383

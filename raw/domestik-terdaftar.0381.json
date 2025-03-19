@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab85-1b50-44be-a632-dbbdb0ac2efd",
+            "nama_pse": "SEMAR DIGITALISASI NEGERI",
+            "nama_se": "SEMARCOLD",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Kesehatan, Sektor Kesehatan, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2021-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/160",
+            "website": "semarcold.com"
+        },
+        {
+            "id": "9cb1ab85-219f-4c9a-9711-095b79583ff2",
+            "nama_pse": "FINTURE TECH INDONESIA",
+            "nama_se": "FINTURE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/168",
+            "website": "finture.id"
+        },
+        {
+            "id": "9cb1ab8c-be12-4d90-8d0f-53f6f3da80c5",
+            "nama_pse": "SKORING KREDIT INKLUSIF",
+            "nama_se": "DIGISCORE CREDIT SCORING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/156",
+            "website": "digiscore.id/creditscoring"
+        },
+        {
+            "id": "9cb1ab7d-2c99-49e8-9f88-fed894f6c9aa",
+            "nama_pse": "INKLUSI KEUANGAN DIGITAL",
+            "nama_se": "DIGISCORE -E-KYC",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/157",
+            "website": "digiscore.id/ekyc"
+        },
+        {
+            "id": "9cb1ab85-2d82-4f68-b968-fce0a0bf2ecb",
+            "nama_pse": "DCI INDONESIA",
+            "nama_se": "PUSAT DATA DCI INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/159",
+            "website": "dci-indonesia.com"
+        },
+        {
+            "id": "9cb1ab8c-c245-4482-8b0f-f9c02a890d93",
+            "nama_pse": "CODEMI GLOBAL",
+            "nama_se": "CODEMI LEARNING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/165",
+            "website": "codemi.co.id"
+        },
+        {
+            "id": "9cb1ab7d-3c4f-4cca-9cc2-255e3a990ae4",
+            "nama_pse": "SAHABAT MAKMUR INOVASI",
+            "nama_se": "KARTUNET",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/166",
+            "website": "kartunet.id"
+        },
+        {
+            "id": "9cb1ab85-30a4-4a63-a279-1ddf59b66ff1",
+            "nama_pse": "MAJU TUMBUH BERSAMA",
+            "nama_se": "PINJAMPINJAM",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/162",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab8c-cafa-44ef-bb08-8d58e7f6b528",
+            "nama_pse": "MAKMUR ABADI INDONESIA",
+            "nama_se": "IDOMPET PRO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/170",
+            "website": "idompet.id"
+        },
+        {
+            "id": "9cb1ab97-c92e-47dc-b685-5f401be75fb2",
+            "nama_pse": "SPOTGUE APLIKASI PRATAMA",
+            "nama_se": "SPOTGUE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4526",
+            "website": "spotgue.com"
+        },
+        {
             "id": "9cb1ab97-cc31-4d47-8694-8c1985d5d04c",
             "nama_pse": "SPOTGUE APLIKASI PRATAMA",
             "nama_se": "SPOTGUE TENANT",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-02-23",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/65",
             "website": "nmcborneo.com"
-        },
-        {
-            "id": "9cb1ab83-f036-4673-8216-2f356dc32941",
-            "nama_pse": "MOOKEE AURANERS INDONESIA",
-            "nama_se": "MOOKEE",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/48",
-            "website": "mookee.co.id"
-        },
-        {
-            "id": "9cb1ab7c-2b44-4977-b47c-b47665d5f113",
-            "nama_pse": "DESTY KARSA WESYA",
-            "nama_se": "DESTY",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/62",
-            "website": "desty.app/"
-        },
-        {
-            "id": "9cb1ab8b-e043-43f7-b6e0-65dfe36477b5",
-            "nama_pse": "DESTY KARSA WESYA",
-            "nama_se": "DESTY",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/63",
-            "website": "desty.app/"
-        },
-        {
-            "id": "9cb1ab8b-ef76-4a76-ae26-7a891d82b55e",
-            "nama_pse": "DJELAS TANDATANGAN BERSAMA",
-            "nama_se": "TEKEN AJA!",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/43",
-            "website": "djelas.id"
-        },
-        {
-            "id": "9cb1ab7c-2e46-41bc-aa7f-c848d7a77cac",
-            "nama_pse": "MADEEL TEKHNOLOGI INDONESIA",
-            "nama_se": "BDRIVE",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/98",
-            "website": "bdrive.id"
-        },
-        {
-            "id": "9cb1ab8b-f9c2-459b-a7b2-d6973342fa97",
-            "nama_pse": "PLUS ULTRA ABADI",
-            "nama_se": "UATAS",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/78",
-            "website": "uatas.id"
-        },
-        {
-            "id": "9cb1ab84-05ed-4f06-bf30-829cd46be814",
-            "nama_pse": "ORINDO ALAM AYU",
-            "nama_se": "WWW.ORIFLAME.CO.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/85",
-            "website": "oriflame.co.id"
-        },
-        {
-            "id": "9cb1ab7c-4f7b-48bf-9649-8e8250d9bdfe",
-            "nama_pse": "DIMENSI GENERASI TEKNOLOGI",
-            "nama_se": "MARKETPLACE HOOURA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/53",
-            "website": "hooura.com"
-        },
-        {
-            "id": "9cb1ab84-0c96-48d0-b8a6-85e6e4f9cce6",
-            "nama_pse": "AMANTRA INVESTAMA INDODANA",
-            "nama_se": "VISIKU.CO.ID",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/52",
-            "website": "visiku.co.id"
-        },
-        {
-            "id": "9cb1ab84-10da-470a-b6b6-6e8ce387c887",
-            "nama_pse": "SOLUSI KEUANGAN MERAH PUTIH",
-            "nama_se": "HTTPS://SOLUSIMERAHPUTIH.ID",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/76",
-            "website": "solusimerahputih.id"
         }
     ],
-    "processingTimeMs": 19,
+    "processingTimeMs": 11,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 381,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab78-59bf-4b11-95e9-2b9c8c827d47",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "GEOGRAPHIC INFORMATION SYSTEM (GIS) PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2549",
+            "website": "gis.pegadaian.co.id/login.php"
+        },
+        {
+            "id": "9cb1ab88-1f30-4a00-883d-1bf997a285f7",
+            "nama_pse": "PEGADAIAN",
+            "nama_se": "MONEV - PEGADAIAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2550",
+            "website": "monev.pegadaian.co.id"
+        },
+        {
+            "id": "9cb1ab78-6a76-417f-93f9-ec96675d0cbd",
+            "nama_pse": "ENAM KUBUKU INDONESIA",
+            "nama_se": "KUBUKU E-RESOURCES",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2512",
+            "website": "kubuku.co.id"
+        },
+        {
+            "id": "9cb1ab80-31b8-4c27-85ac-b8e9c955a28b",
+            "nama_pse": "ISAN TECHNOLOGY INDONESIA",
+            "nama_se": "AGRION",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2534",
+            "website": "agrion.id"
+        },
+        {
+            "id": "9cb1ab78-832a-49c2-87de-b14573a1405a",
+            "nama_pse": "AMINUDIN",
+            "nama_se": "SAMLAY STORE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2504",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab78-86cc-415d-88d1-ccc3969d4b23",
+            "nama_pse": "UPABOGA MEDIA SINERGI",
+            "nama_se": "UPABOGA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2505",
+            "website": "upaboga.com"
+        },
+        {
+            "id": "9cb1ab80-4b80-487a-a2b9-25ce444984e3",
+            "nama_pse": "NURCHOLIS",
+            "nama_se": "NURCHOLIS DOT COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2509",
+            "website": "nurcholis.com"
+        },
+        {
+            "id": "9cb1ab78-8e44-4449-905c-264b83dfb44b",
+            "nama_pse": "GOOPO INOVASI INDONESIA",
+            "nama_se": "PLATFORM GOOPO",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2516",
+            "website": "goopo.id"
+        },
+        {
+            "id": "9cb1ab80-5eef-4be1-8539-9f0d2e04001c",
+            "nama_pse": "PRIVATE SOLUTIONS SOFTWARE HOUSE",
+            "nama_se": "PRIVATE SOLUTIONS SOFTWARE HOUSE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2538",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab65-1642-47c7-b253-ca535078ec9a",
+            "nama_pse": "TITO PRABOWO",
+            "nama_se": "INTISMAC INTSCHOOL ACADEMY SYSTEM - IIAS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2477",
+            "website": "mobile.intismac.com"
+        },
+        {
             "id": "9cb1ab70-76f3-460b-8320-489f5a2e3c91",
             "nama_pse": "LIHUM",
             "nama_se": "LIHUM JASA PENGGANDAAN",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-11-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2466",
             "website": "-"
-        },
-        {
-            "id": "9cb1ab80-2a67-468a-b870-b2e1f714a3d6",
-            "nama_pse": "DIMAS KRISTAL INDONESIA",
-            "nama_se": "MARKETPLACE",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-11-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2472",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab76-fd32-408f-a67b-97172a464225",
-            "nama_pse": "CHRONICLE GERBANG NUSANTARA",
-            "nama_se": "CHRONICLE.RIP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2459",
-            "website": "chronicle.rip"
-        },
-        {
-            "id": "9cb1ab77-346d-42a5-9939-a161f2fb15d7",
-            "nama_pse": "TIKVEE TEKNO GLOBAL",
-            "nama_se": "TIKVEE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2455",
-            "website": "app.tikvee.com"
-        },
-        {
-            "id": "9cb1ab87-a0b4-43b3-8a00-8bf84b778195",
-            "nama_pse": "KONFIGURASI TEKNO MEDIKA",
-            "nama_se": "WEBSITE WUNDAGI",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Kesehatan, Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2451",
-            "website": "https ://wundagi.com://wundagi.com"
-        },
-        {
-            "id": "9cb1ab87-b3db-44f1-bf70-f6c13cb3c8b3",
-            "nama_pse": "SAMUDRA SRIYA ABADI",
-            "nama_se": "KLIKBUILDING.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2450",
-            "website": "klikbuilding.com"
-        },
-        {
-            "id": "9cb1ab7f-d943-4ec1-93f3-98cf473b6c5c",
-            "nama_pse": "TELEAKSES SOLUSINDO",
-            "nama_se": "PAYMENT GATEWAY",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2460",
-            "website": "tel-access.biz"
-        },
-        {
-            "id": "9cb1ab87-b638-4cbc-8015-8015e12a05d2",
-            "nama_pse": "SARANA DIGITAL RITEL",
-            "nama_se": "LANGGANANTA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2458",
-            "website": "langgananta.id"
-        },
-        {
-            "id": "9cb1ab7f-e2f9-49f9-b6cc-1bf92090d68b",
-            "nama_pse": "BANK MAYBANK INDONESIA",
-            "nama_se": "MAYBANK.CO.ID",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2456",
-            "website": "maybank.co.id"
-        },
-        {
-            "id": "9cb1ab88-238f-4eab-9ebd-471e3a2c19e2",
-            "nama_pse": "MOKERINDO MEDITRON INDONESIA",
-            "nama_se": "PICTURE ARCHIVING AND COMMUNICATION SYSTEM",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan",
-            "tanggal_terbit": "2021-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2452",
-            "website": "teleradiologi.digital"
-        },
-        {
-            "id": "9cb1ab80-0321-4b0e-af1b-fa4608046dc1",
-            "nama_pse": "CONFTECH DIGITAL INDONESIA",
-            "nama_se": "TRAVELO.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2453",
-            "website": "travelo.id"
         }
     ],
-    "processingTimeMs": 8,
+    "processingTimeMs": 11,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 336,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac71-9d43-442e-9976-45580b2dda10",
+            "nama_pse": "RIFKA MEDIA TRAVELLINDO",
+            "nama_se": "BERITA PANTAU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-06-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19234",
+            "website": "beritapantau.com"
+        },
+        {
+            "id": "9cb1ac5c-cd5a-41d2-9a61-b96beb184e90",
+            "nama_pse": "INSAN PERKASA GROUP",
+            "nama_se": "EXPLORASINEWS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-06-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19233",
+            "website": "explorasinews.com"
+        },
+        {
+            "id": "9cb1ac5c-d006-4bae-a1dc-14a9c8d76f42",
+            "nama_pse": "BALI JAYA SWALAYAN",
+            "nama_se": "CV BALI JAYA SWALAYAN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-06-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19235",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5c-d313-438f-ad2c-3a9c6ea53653",
+            "nama_pse": "Yayasan Cahaya Lentera Kasih",
+            "nama_se": "REKAM MEDIK ELEKTRONIK KLINIK PRATAMA RUMAH MUJIZAT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-06-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19236",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5c-d5ff-4bce-832d-ff54f9a5084a",
+            "nama_pse": "ASIA SPORT RETAIL",
+            "nama_se": "FILA INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-06-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19239",
+            "website": "fila.co.id"
+        },
+        {
+            "id": "9cb1ac71-dfac-4d1f-8666-23943fb58678",
+            "nama_pse": "INTERNASIONAL TRUSINDO SERTIFIKASI",
+            "nama_se": "PT INTERNASIONAL TRUSINDO SERTIFIKASI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-06-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19238",
+            "website": "internasionaltrusindosertifikasi.co.id"
+        },
+        {
+            "id": "9cb1ac71-e334-4148-8fd5-ce7a272eb30a",
+            "nama_pse": "MARKETING SENTRATAMA INDONESIA",
+            "nama_se": "FIRE (FRONTIER INTEGRATED RESEARCH ENGINE)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-06-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19237",
+            "website": "fireapp.id"
+        },
+        {
+            "id": "9cb1ac71-e713-49ec-85a0-63b9c69f3e15",
+            "nama_pse": "MIDI EDUKASI INDONESIA",
+            "nama_se": "MEDIALEARN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-06-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19241",
+            "website": "medialearn.id"
+        },
+        {
+            "id": "9cb1ac5c-d922-4105-b298-1ea75fa5317f",
+            "nama_pse": "REMALA ABADI",
+            "nama_se": "TACHYON",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-06-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19243",
+            "website": "remala.id"
+        },
+        {
+            "id": "9cb1ac5c-e520-4e17-8712-436c926406e5",
+            "nama_pse": "GERAKAN EKONOMI INDONESIA MANDIRI",
+            "nama_se": "KLIKGENI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-06-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19245",
+            "website": "klikgeni.com"
+        },
+        {
             "id": "9cb1ac87-cf46-4a80-97df-5a72d5e381e5",
             "nama_pse": "SUARA KEADILAN MASYARAKAT",
             "nama_se": "SUARA BIDIK KEADILAN MASYARAKAT",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-06-09",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19193",
             "website": "cihuyapp.com"
-        },
-        {
-            "id": "9cb1ac71-afa1-4b3c-ba5e-28400fc0f837",
-            "nama_pse": "AZKAL MULTI PAYMENT",
-            "nama_se": "AZKALMULTIPAYMENT",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19194",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5c-a004-4d87-bc1a-c7b624e275c6",
-            "nama_pse": "ANDA RIS INVESTAMA JAYA INDONESIA",
-            "nama_se": "GARUDASAKTI.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19195",
-            "website": "garudasakti.id"
-        },
-        {
-            "id": "9cb1ac87-01df-45d6-b47a-49aeafcf51c5",
-            "nama_pse": "YAYASAN PEMUKASAKTI MANISINDAH",
-            "nama_se": "HOSPITAL MANAGEMENT SYSTEM",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-06-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19186",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac87-68ea-4eb7-8c4b-964a7665834e",
-            "nama_pse": "YAPINDO JAYA ABADI",
-            "nama_se": "SIMBUS PTN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-06-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19187",
-            "website": "simbusptn.com"
-        },
-        {
-            "id": "9cb1ac71-a227-47f9-a4e4-f25c730097e2",
-            "nama_pse": "YAPINDO JAYA ABADI",
-            "nama_se": "MASUK APOTEKER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-06-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19188",
-            "website": "masukapoteker.com"
-        },
-        {
-            "id": "9cb1ac5c-9759-4cd3-9695-d76b3a160782",
-            "nama_pse": "YAPINDO JAYA ABADI",
-            "nama_se": "NEO SUPER APP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-06-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19189",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac71-a5c7-4c9d-962d-42e9e8e88f94",
-            "nama_pse": "YAPINDO JAYA ABADI",
-            "nama_se": "M3 SUPER APP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-06-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19190",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac87-6d50-4f79-8c15-b5d3184b7530",
-            "nama_pse": "BUKIT MAS ABADI",
-            "nama_se": "OPUSONE.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-06-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19191",
-            "website": "opusone.id"
-        },
-        {
-            "id": "9cb1ac5c-9c96-4649-adb6-01cc7da76a4a",
-            "nama_pse": "RAHMA ADI PRATAMA",
-            "nama_se": "INGETIN.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-06-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19192",
-            "website": "ingetinid.com"
-        },
-        {
-            "id": "9cb1ac86-4cfc-4a2b-8ae4-64cbb9f1967d",
-            "nama_pse": "PRAKARIS MULYA TEKNIK",
-            "nama_se": "KLINIK TEKNOLOGI SISTEM",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-06-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19185",
-            "website": "Prakarismulyateknik.com"
         }
     ],
-    "processingTimeMs": 8,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 61,
     "totalPages": 383

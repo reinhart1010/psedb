@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abc8-5aee-49ac-a244-106966de4073",
+            "nama_pse": "PANORAMA JTB TOURS INDONESIA",
+            "nama_se": "KATRINA.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8183",
+            "website": "katrina.id"
+        },
+        {
+            "id": "9cb1abba-a98d-46b3-a601-73c924265332",
+            "nama_pse": "BANK PERKREDITAN RAKYAT PENEBEL",
+            "nama_se": "BANGKING SMART SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8218",
+            "website": "BPRPENEBEL.COM"
+        },
+        {
+            "id": "9cb1abee-3d2e-4d6c-a85f-bb417a3bf823",
+            "nama_pse": "BANK SYARIAH INDONESIA",
+            "nama_se": "BSPI (BANK SYARIAH INDONESIA PERFORMANCE INDICATOR)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8187",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abee-40cd-4d16-b323-14306249467e",
+            "nama_pse": "SEJAHTERA SAMA KITA",
+            "nama_se": "SAMAKITA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8188",
+            "website": "samakita.co.id"
+        },
+        {
+            "id": "9cb1abba-abf4-45cd-9637-6e399897cd06",
+            "nama_pse": "TEKNO SMART",
+            "nama_se": "WEB DESA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8190",
+            "website": "web-desa.id"
+        },
+        {
+            "id": "9cb1abba-ae3c-4607-98a5-a0283b4bbd78",
+            "nama_pse": "HALAL PEDIA INDONESIA",
+            "nama_se": "HALALPEDIA INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8191",
+            "website": "halalpedia.com"
+        },
+        {
+            "id": "9cb1abc8-64b2-4497-ad65-d67f6d0264b8",
+            "nama_pse": "PANORAMA JTB TOURS INDONESIA",
+            "nama_se": "ALVIS.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8194",
+            "website": "alvis.id"
+        },
+        {
+            "id": "9cb1abee-4dc2-49d2-87db-4610dfce81f8",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT DANA NUSANTARA",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8202",
+            "website": "bprdn.com"
+        },
+        {
+            "id": "9cb1abc8-69a9-4196-acdf-dcb168b2cfbb",
+            "nama_pse": "ADAM MAULANA",
+            "nama_se": "RELVAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8195",
+            "website": "relvan.com"
+        },
+        {
+            "id": "9cb1abba-b06c-48f1-9417-17a3ebd9ca33",
+            "nama_pse": "REALTA CHAKRADARMA",
+            "nama_se": "RHAPSODY MOBILE CHECK IN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8321",
+            "website": "realta.co.id"
+        },
+        {
             "id": "9cb1abba-b2d3-4b5e-bd73-f1a01d774505",
             "nama_pse": "BANK SYARIAH INDONESIA",
             "nama_se": "RESTOMULTI",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8289",
             "website": "theserenitycentral.com"
-        },
-        {
-            "id": "9cb1abef-08dd-4d2a-ab8b-2e01ef6957c2",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH PAPUA",
-            "nama_se": "DEVELOPMENT APLIKASI LAKU PANDAI BANK PAPUA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8291",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abbb-236e-4f52-bbc4-d11b83a853e8",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH PAPUA",
-            "nama_se": "DEVELOPMENT NEW MOBILE BANKING ULTIMATE BANK PAPUA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8292",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abef-0d81-467c-a719-49e29e182030",
-            "nama_pse": "BANK PERKREDITAN RAKYAT WLINGI PAHALAPAKTO",
-            "nama_se": "PT.BPR WLINGI PAHALAPAKTO",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8306",
-            "website": "bprwlingipahalapakto.co.id"
-        },
-        {
-            "id": "9cb1abef-13be-487a-9e81-4892a698945d",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI TENGAH",
-            "nama_se": "BANK SULTENG WEBSITE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8293",
-            "website": "banksulteng.co.id"
-        },
-        {
-            "id": "9cb1abbb-26b7-4a77-aad5-5ade3b09a13f",
-            "nama_pse": "JARI SOLUSI INTERNATIONAL",
-            "nama_se": "JARI MOBILE COLLECTION (APPS FOR MANDIRI)",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8294",
-            "website": "jari.co.id"
-        },
-        {
-            "id": "9cb1abc9-08ba-4d5c-984c-388c636dbd0b",
-            "nama_pse": "BANK SMBC INDONESIA",
-            "nama_se": "SAP SUCCESSFACTORS BTPN",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8326",
-            "website": "performancemanager10.successfactors.com"
-        },
-        {
-            "id": "9cb1abc9-1065-4ae1-ae9f-7395e31059e4",
-            "nama_pse": "SUBARJA SOLUSI PERKASA",
-            "nama_se": "PT. SUBARJA SOLUSI PERKASA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8295",
-            "website": "subarja.com"
-        },
-        {
-            "id": "9cb1abbb-299b-46b3-955c-adb1517dad6c",
-            "nama_pse": "FOKUS UMKM",
-            "nama_se": "FOKUSUMKM4GO",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8296",
-            "website": "fokusumkm4go.com"
-        },
-        {
-            "id": "9cb1abef-18aa-4bfc-bf07-8b651e698c9c",
-            "nama_pse": "ANEKA MEDIA",
-            "nama_se": "CITYMAGZ.NET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8297",
-            "website": "citymagz.net"
-        },
-        {
-            "id": "9cb1abc9-1719-4f52-9643-09c2ea223738",
-            "nama_pse": "PERUMDA BPR BANK BLORA ARTHA",
-            "nama_se": "PERUMDA BPR BANK BLORA ARTHA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8299",
-            "website": "bankbloraartha.com"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 250,
     "totalPages": 383

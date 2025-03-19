@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abca-e660-4ec7-a161-90c8af2b2789",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT SUAR DATA",
+            "nama_se": "BPR SUARDATA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8568",
+            "website": "bprsuardata.com"
+        },
+        {
+            "id": "9cb1abf1-1912-42b7-981d-9eb24fc4600f",
+            "nama_pse": "ESTA KAPITAL FINTEK",
+            "nama_se": "ESTA KAPITAL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8569",
+            "website": "estakapital.co.id"
+        },
+        {
+            "id": "9cb1abbc-0005-4d13-92c9-ef39f4ded7b0",
+            "nama_pse": "BPR BANK SOLO",
+            "nama_se": "WEBSITE COMPANY BANK SOLO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8570",
+            "website": "banksolo.co.id"
+        },
+        {
+            "id": "9cb1abca-ee5d-4b36-9a70-122deff3acdc",
+            "nama_pse": "QUIPSTER MITRA SOLUSI",
+            "nama_se": "QUIPSTER",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8571",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abf1-1cb0-4a35-a284-cdc57f2f5294",
+            "nama_pse": "WILLIS TOWERS WATSON INSURANCE BROKER INDONESIA",
+            "nama_se": "AFFINITY TECHNOLOGY PLATFORM (ATP)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8576",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abca-fa42-4c2c-9e65-f7604ca43bed",
+            "nama_pse": "BPR BANK SOLO",
+            "nama_se": "APLIKASI MOBILE BANKING BANK SOLO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8572",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abbc-0262-4b11-83c0-bccc44132410",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BUMI HAYU",
+            "nama_se": "SIPT-BPR BUMI HAYU",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8573",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abf1-1fc4-4c64-bbf7-dd8053a6a867",
+            "nama_pse": "GAJI CERDAS INDONESIA",
+            "nama_se": "SMART SALARY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8574",
+            "website": "Smartsalarypro.com"
+        },
+        {
+            "id": "9cb1abf1-2363-4d90-aa0b-bc7c2d97cf7b",
+            "nama_pse": "TERA KREASI SEMESTA",
+            "nama_se": "SIMPELPAS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8581",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abf1-271e-4232-a0e5-b197285b0acb",
+            "nama_pse": "REJEKI BERKAH BERLIMPAH RUAH",
+            "nama_se": "FDC DENTAL CLINIC",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8575",
+            "website": "apps.fdcdentalclinic.co.id"
+        },
+        {
             "id": "9cb1abf1-2ace-42d0-8d86-f04e1aa9ccae",
             "nama_pse": "ARTHA JAYA WISATA",
             "nama_se": "KARVELO",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-21",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8622",
             "website": "bankkotablitar.co.id"
-        },
-        {
-            "id": "9cb1abcb-656e-4e71-a959-f4c302b3e6dc",
-            "nama_pse": "NUSANTARA BONAPASOGIT",
-            "nama_se": "TRANSFER OBOX NBP",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8623",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abbc-30f5-46b4-a5bf-451df6ebd78a",
-            "nama_pse": "BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN BOYOLALI",
-            "nama_se": "APLIKASI CORE BANKING SYSTEM BPR BKK BOYOLALI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8624",
-            "website": "bprbkkboyolali.com"
-        },
-        {
-            "id": "9cb1abbc-329c-45c8-b9e9-9325df1e2cc8",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SURYA KENCANA",
-            "nama_se": "BANKSURYAKENCANA.COM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8625",
-            "website": "banksuryakencana.com"
-        },
-        {
-            "id": "9cb1abcb-694c-42fb-abd3-25a7563a5801",
-            "nama_pse": "BANK PERKREDITAN RAKYAT MITRADANA MADANI",
-            "nama_se": "BPR MITRADANA MADANI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8628",
-            "website": "bprmm.com"
-        },
-        {
-            "id": "9cb1abcb-6cf3-4509-9d68-449d0503d250",
-            "nama_pse": "CIPTA INVESTASI TERDEPAN",
-            "nama_se": "AYOVEST",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8627",
-            "website": "ayovest.id"
-        },
-        {
-            "id": "9cb1abcb-70aa-4629-8ede-7fbc7a7d5a53",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-            "nama_se": "DG BANKALTIMTARA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8626",
-            "website": "ib.bankaltimtara.co.id"
-        },
-        {
-            "id": "9cb1abcb-76b8-42b7-bede-fe10f6f6e50f",
-            "nama_pse": "KONTAKPERKASA FUTURES",
-            "nama_se": "REGOLKPF",
-            "sektor": "Sektor Perdagangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8629",
-            "website": "regol.kontak-perkasa-futures.co.id"
-        },
-        {
-            "id": "9cb1abbc-3631-4af0-a8d9-7bf5bd85b61b",
-            "nama_pse": "VISIDATA ANUGERAH MITRA",
-            "nama_se": "TABLEAU BI",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8634",
-            "website": "visidata1.co.id"
-        },
-        {
-            "id": "9cb1abcb-7deb-411c-8582-36d2e48f7e17",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
-            "nama_se": "CMS BANKALTIMTARA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8630",
-            "website": "cms.bankaltimtara.co.id"
-        },
-        {
-            "id": "9cb1abbc-3833-4e2b-829d-ac53a3d2755c",
-            "nama_pse": "BANK PERKREDITAN RAKYAT POLATAMA KUSUMA",
-            "nama_se": "BPR POLATAMA KUSUMA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8632",
-            "website": "bprpolatamakusuma.com"
         }
     ],
     "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 230,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb3-6f30-4be2-9268-65c1a0d829de",
+            "nama_pse": "BANK CENTRAL ASIA",
+            "nama_se": "WEBSITE KARIR BCA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6543",
+            "website": "karir.bca.co.id"
+        },
+        {
+            "id": "9cb1abb4-8e6d-4c04-8328-dd082dee93eb",
+            "nama_pse": "SEINO INDOMOBIL LOGISTICS SERVICES",
+            "nama_se": "CRMS",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6703",
+            "website": "crms.seinoindomobil.co.id"
+        },
+        {
+            "id": "9cb1abbf-3142-4550-af73-1c1e3bf9331b",
+            "nama_pse": "BANK CENTRAL ASIA",
+            "nama_se": "WEBSITE KARIR BCA 2",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6550",
+            "website": "karir.bca.co.id"
+        },
+        {
+            "id": "9cb1abb3-7971-4986-a138-74143df9c9a1",
+            "nama_pse": "SEINO INDOMOBIL LOGISTICS SERVICES",
+            "nama_se": "BEET",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6704",
+            "website": "bs-beet.com"
+        },
+        {
+            "id": "9cb1abb3-7be7-448a-b9eb-8078ddef9a0a",
+            "nama_pse": "SEINO INDOMOBIL LOGISTICS SERVICES",
+            "nama_se": "WEBSITE PERUSAHAAN",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6705",
+            "website": "seinoindomobil.co.id"
+        },
+        {
+            "id": "9cb1abb3-8666-4a45-b9e6-d9c2486cd356",
+            "nama_pse": "SEINO INDOMOBIL LOGISTICS SERVICES",
+            "nama_se": "ASSORT",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6706",
+            "website": "login.seinoindomobil.co.id"
+        },
+        {
+            "id": "9cb1abb4-9ca2-4a24-8833-a22f11f6409e",
+            "nama_pse": "SEINO INDOMOBIL LOGISTICS SERVICES",
+            "nama_se": "STTC",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6708",
+            "website": "api.seinoindomobil.co.id"
+        },
+        {
+            "id": "9cb1abb4-c119-4e7e-b59b-61bb6905f4d6",
+            "nama_pse": "GOOD MOBILE INDONESIA",
+            "nama_se": "OPPO STORE",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6593",
+            "website": "oppo.com"
+        },
+        {
+            "id": "9cb1abb3-a8ff-449f-bf23-100c1feaa114",
+            "nama_pse": "SOLUSI LINTAS NEGERI",
+            "nama_se": "WEBSITE LEGALO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6553",
+            "website": "legalo.id"
+        },
+        {
+            "id": "9cb1abb4-ca27-423a-b8b8-2fdad41f36e2",
+            "nama_pse": "GLIM MEDIA INDONESIA",
+            "nama_se": "GLIMCASH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6534",
+            "website": "-"
+        },
+        {
             "id": "9cb1abbf-acc4-4b62-a1c7-fb5d8976837d",
             "nama_pse": "GUA TEKNOLOGI INDONESIA",
             "nama_se": "PAYGUA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-19",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6579",
             "website": "bankbas.com"
-        },
-        {
-            "id": "9cb1abb5-2adb-4319-b6f2-f373a9f6eea9",
-            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH RAHMANIA DANA SEJAHTERA",
-            "nama_se": "ISLAMIC BANKING APLICATION",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6578",
-            "website": "banksyariahrahmania.com"
-        },
-        {
-            "id": "9cb1abb5-2cc6-4063-9d5d-6f466688ea78",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
-            "nama_se": "BRIMOLA",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6580",
-            "website": "brimola.bri.co.id"
-        },
-        {
-            "id": "9cb1abe3-f2c0-4752-81f9-34089a6ef57c",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SOLOBARU PERMAI",
-            "nama_se": "BPRSOLOBARUPERMAI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6581",
-            "website": "bprsolobaru.com"
-        },
-        {
-            "id": "9cb1abbf-e9db-44ed-a6ce-47701eb84785",
-            "nama_pse": "ADE AJIE PAMUNGKAS",
-            "nama_se": "NEZUKO GAMESTORE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6582",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb5-2ecc-4274-84c1-fdc134cb82c6",
-            "nama_pse": "BANK PERKREDITAN RAKYAT MITRA DHANACESWARA",
-            "nama_se": "INTAGRAM: BPRMITRADHANACESWARA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6590",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abe3-f9ba-4517-97d9-24b965b73821",
-            "nama_pse": "BANK ACEH SYARIAH",
-            "nama_se": "WEBSITE RESMI BANK ACEH",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6584",
-            "website": "bankaceh.co.id"
-        },
-        {
-            "id": "9cb1abbf-ec05-4fee-aa8b-f8706dcf5198",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SARI JAYA SEDANA",
-            "nama_se": "DEJAYO",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6587",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb5-30a2-4a38-b278-d529bf63030d",
-            "nama_pse": "KAMAL DWI RASYID",
-            "nama_se": "KUPAS.K",
-            "sektor": "Sektor Pangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6586",
-            "website": "kupas.in"
-        },
-        {
-            "id": "9cb1abbf-eea8-4994-bb1b-eebc6896cca5",
-            "nama_pse": "BANK PERKREDITAN RAKYAT BUMI PRIMA DANA",
-            "nama_se": "PT. BPR BUMI PRIMA DANA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6589",
-            "website": "bprbumiprima.com"
-        },
-        {
-            "id": "9cb1abe3-fe34-415d-a643-95595e99ec8f",
-            "nama_pse": "Sumini",
-            "nama_se": "KANTONGKUOTA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6588",
-            "website": "-"
         }
     ],
     "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 253,
     "totalPages": 383

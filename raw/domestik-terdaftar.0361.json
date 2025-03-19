@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab66-e08b-462a-9681-0dee3183437f",
+            "nama_pse": "BANK JAGO",
+            "nama_se": "JAGO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1328",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab66-e276-4c74-b553-f519a05f7e3e",
+            "nama_pse": "EZEE TUNTAS SEJAHTERA",
+            "nama_se": "EZEEPASAR",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1243",
+            "website": "ezeepasar.com"
+        },
+        {
+            "id": "9cb1ab66-e5fa-404f-a9ad-3c524e85ffa6",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "BEST DESKTOP",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1304",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6d-3950-4d8e-9459-b63b9621bd20",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "BEST MOBILE 1 (WEB BASED)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1305",
+            "website": "mobile.bcasekuritas.co.id"
+        },
+        {
+            "id": "9cb1ab73-94e8-470d-8974-83030c96cc26",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "BEST MOBILE 2 (IOS\u0026ANDROID)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1306",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab66-e930-4cad-8419-8b405862e0f5",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "FPRE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1307",
+            "website": "fpre.bcasekuritas.co.id"
+        },
+        {
+            "id": "9cb1ab6d-3d76-4a49-ab74-b7cc930cafe6",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "EFORMBBCA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1308",
+            "website": "eformbbca.bcasekuritas.co.id"
+        },
+        {
+            "id": "9cb1ab6d-40f0-4496-934a-52c65ab08151",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "BCA SEKURITAS COMPANY WEB",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1309",
+            "website": "bcasekuritas.co.id"
+        },
+        {
+            "id": "9cb1ab73-9b76-4f90-9ad4-97dc1a82a10b",
+            "nama_pse": "BCA SEKURITAS",
+            "nama_se": "ESOP TIKET",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1332",
+            "website": "tiket.bcasekuritas.co.id"
+        },
+        {
+            "id": "9cb1ab66-ece2-42d7-8075-105a001621fd",
+            "nama_pse": "BANK VICTORIA INTERNATIONAL",
+            "nama_se": "INTERNET BANKING PERORANGAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1256",
+            "website": "ib.victoriabank.co.id"
+        },
+        {
             "id": "9cb1ab66-ef2d-458a-9d0a-7f951bbc039e",
             "nama_pse": "BANK VICTORIA INTERNATIONAL",
             "nama_se": "INTERNET BANKING BISNIS",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-06-02",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1106",
             "website": "bayarind.id/"
-        },
-        {
-            "id": "9cb1ab7c-c60d-4d9d-91dc-6d7db574a78c",
-            "nama_pse": "MITRA PAJAKKU",
-            "nama_se": "PAJAKKU",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1324",
-            "website": "pajakku.com"
-        },
-        {
-            "id": "9cb1ab8c-8f28-4745-8c8c-cb5fd0afcd99",
-            "nama_pse": "ASURANSI ASTRA BUANA",
-            "nama_se": "OTOWRECK",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1221",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab7c-e061-4473-9f6a-198d0c441795",
-            "nama_pse": "ASURANSI ASTRA BUANA",
-            "nama_se": "GARDA MEDIKA AKSES",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1250",
-            "website": "gardamedikaakses.asuransiastra.com"
-        },
-        {
-            "id": "9cb1ab8c-9314-4d4e-b18e-7c2c8b2983e7",
-            "nama_pse": "ASURANSI ASTRA BUANA",
-            "nama_se": "A2IS WORKSHOP",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1376",
-            "website": "http://gardaqsystem.asuransiastra.com/ClaimProcess/"
-        },
-        {
-            "id": "9cb1ab85-7c4a-464b-95fc-fa45166d0f0b",
-            "nama_pse": "TOKOPEDIA",
-            "nama_se": "TOKOPEDIA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1232",
-            "website": "tokopedia.com"
-        },
-        {
-            "id": "9cb1ab8d-0343-40d2-b832-9556df5a8ebd",
-            "nama_pse": "ASURANSI JIWA GENERALI INDONESIA",
-            "nama_se": "GENERALI AGENCY - MCONNECT",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1381",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab85-8a37-420b-95bb-c1f3a14de24c",
-            "nama_pse": "ASURANSI JIWA GENERALI INDONESIA",
-            "nama_se": "ICONNECTAGENCY.GENERALI.CO.ID",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1390",
-            "website": "iconnectagency.generali.co.id"
-        },
-        {
-            "id": "9cb1ab85-9ab5-4bc4-875c-b649c75ed8df",
-            "nama_pse": "ORANYE LAYANAN DIGITAL INDONESIA",
-            "nama_se": "WWW.ORANYE.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1293",
-            "website": "oranye.co.id"
-        },
-        {
-            "id": "9cb1ab85-c290-4d88-8ebe-5e3d19383980",
-            "nama_pse": "GOOD DOCTOR TECHNOLOGY INDONESIA",
-            "nama_se": "GRAB HEALTH POWERED BY GOOD DOCTOR",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Kesehatan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1380",
-            "website": "gooddoctor.co.id"
-        },
-        {
-            "id": "9cb1ab85-cae3-46bb-8f24-06892cd4c2e3",
-            "nama_pse": "ARASH DIGITAL REKADANA",
-            "nama_se": "PENYELENGGARA JASA PEMBAYARAN LINTAS BATAS (CROSS BORDER PAYMENT) DENGAN MENGGUNAKAN QRIS (QUICK RESPONSE INDONESIA STANDARD)",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1147",
-            "website": "arashdigital.id/"
         }
     ],
-    "processingTimeMs": 12,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 361,
     "totalPages": 383

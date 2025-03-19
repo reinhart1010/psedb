@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cfae8b1-a1ce-4471-b5c6-c496f486d87e",
+            "nama_pse": "IMTIYAZ RIHLAH WISATA",
+            "nama_se": "IMTIYAZ UMRAH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20335",
+            "website": "imtiyazumrah.com"
+        },
+        {
+            "id": "9ced6014-84f9-406d-b793-b47a182c3648",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+            "nama_se": "SATUNADI HIX",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20348",
+            "website": "hix.satunadi.id"
+        },
+        {
+            "id": "9cfc3fcc-fef8-4f28-af40-9e8825361cd2",
+            "nama_pse": "RINDI NURIS VELAROSDELA",
+            "nama_se": "BERITAKOREA.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20352",
+            "website": "-"
+        },
+        {
+            "id": "9cb3bdde-cce9-416d-83ed-d0c01b7803cf",
+            "nama_pse": "CERAH TEKNOLOGI BERSAMA",
+            "nama_se": "TOPUPLEGEND",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-09-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20350",
+            "website": "topuplegend.com"
+        },
+        {
+            "id": "9cfaf20a-67e6-4380-bb75-fe9f90626f57",
+            "nama_pse": "ANUGERAH BERSAMA TEKNOLOGI",
+            "nama_se": "OPET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20336",
+            "website": "-"
+        },
+        {
+            "id": "9cfb4b1c-4da7-46e7-97fb-550c6c63a693",
+            "nama_pse": "RESERVASI MULTI TEKNOLOGI",
+            "nama_se": "ADDTIX.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20338",
+            "website": "addtix.id"
+        },
+        {
+            "id": "9cfb6411-e565-4b34-8285-3a4bad5b3fde",
+            "nama_pse": "RADIO BOSS KARYA MANDIRI",
+            "nama_se": "RADIO BOSS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20344",
+            "website": "radiobossfm.com"
+        },
+        {
+            "id": "9cfb6448-2c6e-4699-bb15-8c5f2ed96ed8",
+            "nama_pse": "SATRIA KENCANA MEDIKA",
+            "nama_se": "emedic.id",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-09-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20345",
+            "website": "emedic.id"
+        },
+        {
+            "id": "9cfb685f-18e0-499f-9dca-de504a180e36",
+            "nama_pse": "GOOD DOCTOR TECHNOLOGY INDONESIA",
+            "nama_se": "APLIKASI GOOD DOCTOR",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20346",
+            "website": "-"
+        },
+        {
+            "id": "9cfb8712-9553-4eee-ac52-dc35300b7760",
+            "nama_pse": "INTAN SOLUSI NUSANTARA",
+            "nama_se": "GP PAYMENT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-09-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20347",
+            "website": "garutprospectindonesia.com"
+        },
+        {
             "id": "9cfbc150-2dc5-4556-afd8-2887d22923c1",
             "nama_pse": "ANTACIO TABALIEN JAYA",
             "nama_se": "TABALIEN.COM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-09-09",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20299",
             "website": "teknodas.biz.id"
-        },
-        {
-            "id": "9cf7681d-8f51-4612-ae5f-b77aad54396c",
-            "nama_pse": "PUSAT GROSIR SIDOARJO",
-            "nama_se": "PUSAT GROSIR SIDOARJO",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-09-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20304",
-            "website": "Pusatgrosirsidoarjo.com"
-        },
-        {
-            "id": "9cf5c881-2672-46af-9cd8-8acc5df113f5",
-            "nama_pse": "MASTER BERKAS SOLUSINDO",
-            "nama_se": "PT MASTER BERKAS SOLUSINDO",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20295",
-            "website": "masterberkas.com"
-        },
-        {
-            "id": "9cf5a757-c78c-435c-b6e2-503c07b95fec",
-            "nama_pse": "DEENHA SOLUTION",
-            "nama_se": "CV DEENHA SOLUTION",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20294",
-            "website": "deenha.id"
-        },
-        {
-            "id": "9cf327a4-14e3-42a3-b633-649bf2387fab",
-            "nama_pse": "PWNOSEC DIGITAL TECHNOLOGIES",
-            "nama_se": "PWNOSEC DIGITAL TECHNOLOGIES",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20289",
-            "website": "pwn0sec.com"
-        },
-        {
-            "id": "9cf3285e-ef22-4c2c-8169-ed7de44b91cf",
-            "nama_pse": "DIGITAL SARANA LEGOAS",
-            "nama_se": "LEGOAS - SMART DIGITAL AUCTION",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-09-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20290",
-            "website": "legoas.co.id"
-        },
-        {
-            "id": "9cf3292e-60a3-4d58-be61-3a483fd359d0",
-            "nama_pse": "DIGITAL MISTERY GLOBAL UTAMA",
-            "nama_se": "E-BOOK VERSE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20291",
-            "website": "ebookverse.my.id"
-        },
-        {
-            "id": "9cf402d1-b878-4686-bb6c-e59e004e88a5",
-            "nama_pse": "HADI KUSUMAH",
-            "nama_se": "cuttingstickerbandung.com",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-09-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20293",
-            "website": "cuttingstickerbandung.com"
-        },
-        {
-            "id": "9cf343ec-9b73-4eaa-9880-a6ce516f4866",
-            "nama_pse": "SUKMA GROUP INDONESIA",
-            "nama_se": "SUKMA CONVERT PULSA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20292",
-            "website": "sukmaconvert.co.id"
-        },
-        {
-            "id": "9cf13b39-bbf1-4071-886b-e0a3bcc1ef66",
-            "nama_pse": "SARANA JATIM VENTURA",
-            "nama_se": "www.jatimventura.com",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-09-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20276",
-            "website": "jatimventura.com"
-        },
-        {
-            "id": "9cf165a3-a906-47d5-8758-3f1203e96809",
-            "nama_pse": "ALAMSURYA KUBARA ENDRIHARTO",
-            "nama_se": "UPSKILLS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20280",
-            "website": "upskills.biz.id"
         }
     ],
-    "processingTimeMs": 18,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 41,
     "totalPages": 383

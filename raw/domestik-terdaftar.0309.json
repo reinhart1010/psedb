@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1aba3-ad65-4252-b456-d8fd5d1280b5",
+            "nama_pse": "DONDON OOKIKU NARU",
+            "nama_se": "DONDON HARU JAPAN",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4595",
+            "website": "dondonharu.jp"
+        },
+        {
+            "id": "9cb1ab93-aa1d-455c-9da1-eb68ee8797b9",
+            "nama_pse": "ROEDY RUSTAM",
+            "nama_se": "SIDEKA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3918",
+            "website": "Sideka.id"
+        },
+        {
+            "id": "9cb1aba0-5830-4970-9196-be228ea0c5ca",
+            "nama_pse": "BASISTA TEAMWORK",
+            "nama_se": "WARUNG KITA MERCHANT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3938",
+            "website": "warungkita.info"
+        },
+        {
+            "id": "9cb1aba0-b574-4144-8578-9e7f56db84e0",
+            "nama_pse": "TIRA SATRIA NIAGA",
+            "nama_se": "WEBSITE TIRA-SF.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3935",
+            "website": "tira-sf.id"
+        },
+        {
+            "id": "9cb1ab94-3cb3-433f-a3db-0f051eaa0259",
+            "nama_pse": "FANAGO INTI PERKASA",
+            "nama_se": "FANAGO",
+            "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Keuangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2022-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3927",
+            "website": "fanago.net"
+        },
+        {
+            "id": "9cb1ab94-639b-4128-bc04-1d2ac01badf3",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH KALIMANTAN BARAT",
+            "nama_se": "MOBILE BANKING BANK KALBAR",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3923",
+            "website": "bankkalbar.co.id"
+        },
+        {
+            "id": "9cb1ab94-6f4b-4eb3-b7d7-09633ab47da8",
+            "nama_pse": "HENDI RIAN MAULANA",
+            "nama_se": "BANK PUSAKA ALAM NUSANTARA",
+            "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Transportasi, Sektor Keuangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2022-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3933",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abab-4ac2-4cb4-b99b-09c72eb9d352",
+            "nama_pse": "APLIKASI BERKAH BERSAMA",
+            "nama_se": "USYARIAH",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3921",
+            "website": "usyariah.com"
+        },
+        {
+            "id": "9cb1abab-5a75-46b7-be3b-0e4a1b7f86f1",
+            "nama_pse": "SOLUTAMA SINERGI DATA",
+            "nama_se": "THAMA WEB SERVICES",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3912",
+            "website": "thama.co.id"
+        },
+        {
+            "id": "9cb1ab94-86ed-4198-b8de-1bba769b8cf7",
+            "nama_pse": "SOLUTAMA SINERGI DATA",
+            "nama_se": "SMARTHAMA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3934",
+            "website": "thama.id"
+        },
+        {
             "id": "9cb1abab-5c60-418f-b517-e34bf076541b",
             "nama_pse": "MUHAMMAD ANDRA MAULANA",
             "nama_se": "SAATNYAONLINE.COM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-04-16",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3880",
             "website": "joranvest.com"
-        },
-        {
-            "id": "9cb1aba0-a22f-4eed-a4e5-84d80c1b151d",
-            "nama_pse": "ZAFIYYA UTAMA INDONESIA",
-            "nama_se": "ZAFIYYA",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Pangan, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-04-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3877",
-            "website": "tokodaring.lkpp.go.id"
-        },
-        {
-            "id": "9cb1abab-793a-4718-af47-159af649b3ed",
-            "nama_pse": "MOASIS ANTONIO",
-            "nama_se": "PARLIN SOLUTIONS",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3876",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba0-50c0-474f-a37e-1825726e68db",
-            "nama_pse": "BRICK TEKNOLOGI INDONESIA",
-            "nama_se": "BOIVA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-04-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3874",
-            "website": "boiva.id"
-        },
-        {
-            "id": "9cb1ab94-2ece-4cff-a14d-5718b233ecb7",
-            "nama_pse": "KINI TEKNOLOGI INDONESIA",
-            "nama_se": "KINI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3870",
-            "website": "kini.id"
-        },
-        {
-            "id": "9cb1aba0-de46-43f8-b629-869c33f66003",
-            "nama_pse": "WEB SUPER LITE",
-            "nama_se": "AUTHENTIC CODE , APLIKASI WEBSITE \u0026 PERCETAKAN",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3872",
-            "website": "websuperlite.co.id"
-        },
-        {
-            "id": "9cb1abab-4fd2-436a-91ec-0492494721c4",
-            "nama_pse": "SHANKA MANDALA GEMILANG",
-            "nama_se": "ELZIVA (ELZIVANETWORK.CO.ID)",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-04-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3875",
-            "website": "elzivanetwork.co.id"
-        },
-        {
-            "id": "9cb1aba0-fc4c-4cb6-9c67-6cba61fcab29",
-            "nama_pse": "CYBERINDO ADITAMA",
-            "nama_se": "CBN.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3873",
-            "website": "cbn.id"
-        },
-        {
-            "id": "9cb1abad-8c8b-48bd-b001-0e1ef91e44b7",
-            "nama_pse": "LION EXPRESS",
-            "nama_se": "LION PARCEL",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4597",
-            "website": "lionparcel.com"
-        },
-        {
-            "id": "9cb1ab94-5e19-4be8-8904-ec9e3f32ede0",
-            "nama_pse": "PENGGIAT EKOSISTEM KECERDASAN ARTIFISIAL DAN BLOCKCHAIN",
-            "nama_se": "IAIE - INDONESIA ARTIFICIAL INTELLIGENCE ECOSYSTEM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3859",
-            "website": "iaie-id.org"
-        },
-        {
-            "id": "9cb1ab93-a63f-4970-a3b7-a76a8729cac5",
-            "nama_pse": "TICKLED AUDIENCE PLATFORM",
-            "nama_se": "THE ASIANTPARENT",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-04-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3865",
-            "website": "id.theasianparent.com"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 309,
     "totalPages": 383

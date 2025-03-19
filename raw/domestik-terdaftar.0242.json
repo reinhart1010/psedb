@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abeb-8a6e-40ae-be99-f56f31f45533",
+            "nama_pse": "PT BANK PERKREDITAN RAKYAT SYARIAH KHASANAH UMMAT",
+            "nama_se": "PENTA MICRO SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7742",
+            "website": "bprsku.com"
+        },
+        {
+            "id": "9cb1abc5-760f-4e0e-8eda-ba0dcd4d313c",
+            "nama_pse": "FESTIVAL CITRA LESTARI",
+            "nama_se": "GENFLIX",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7744",
+            "website": "genflix.co.id"
+        },
+        {
+            "id": "9cb1abc5-796b-474a-a8ff-7c91c4cdd183",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT AGRA DHANA",
+            "nama_se": "BPR AGRA DHANA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7753",
+            "website": "bprad.com"
+        },
+        {
+            "id": "9cb1abc5-7cbe-4759-bcff-112c2f5bbcdf",
+            "nama_pse": "PAKAR LAYANAN TANPA BATAS",
+            "nama_se": "KARYASENI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7745",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc5-811a-4f57-bb82-176c91f5bba8",
+            "nama_pse": "BP PARTNERSHIP",
+            "nama_se": "WEBSITE LAWYERMUDA.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7746",
+            "website": "lawyermuda.id"
+        },
+        {
+            "id": "9cb1abeb-916c-4c92-ab67-6bf6d12da41c",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT MILLENIA",
+            "nama_se": "WEBSITE BPR",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7748",
+            "website": "bankmillenia.co.id"
+        },
+        {
+            "id": "9cb1abeb-9557-4b4f-a3a1-6e41631ff0e0",
+            "nama_pse": "BANK PERKREDITAN RAKYAT EKA BUMI ARTHA",
+            "nama_se": "BANK EKA MOBILE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7750",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb8-fae9-4f4e-94a9-db42c9222f47",
+            "nama_pse": "INDONESIA SATU TUJUH",
+            "nama_se": "DOMAIN INA17",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7802",
+            "website": "ina17.id"
+        },
+        {
+            "id": "9cb1abeb-9989-4fb3-9fc4-2fb6505b8cf5",
+            "nama_pse": "APLIKASI TEPAT GUNA",
+            "nama_se": "PH BID LAUT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7749",
+            "website": "phbidlaut.prahu-hub.com"
+        },
+        {
+            "id": "9cb1abeb-9d29-49e4-b227-b318ac05d9fb",
+            "nama_pse": "ASURANSI CENTRAL ASIA",
+            "nama_se": "ACA.CO.ID",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7754",
+            "website": "aca.co.id"
+        },
+        {
             "id": "9cb1abc5-84ac-449e-884d-06f1d51853d1",
             "nama_pse": "HANWHA LIFE INSURANCE INDONESIA",
             "nama_se": "HANWHA LIFE+ POINT (ANDROID \u0026 IOS)",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7784",
             "website": "bprbkk-blora.com"
-        },
-        {
-            "id": "9cb1abc5-de68-4fcc-bf97-1e408c046c53",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
-            "nama_se": "DIGITAL BROCHURE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7786",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb9-29c8-4c4b-9ed0-2dad4fdf5206",
-            "nama_pse": "INOVASI TEKNOLOGI SOLUSINDO",
-            "nama_se": "TRUSTMEDIS WEB",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7790",
-            "website": "trustmedis.com"
-        },
-        {
-            "id": "9cb1abc5-e2a4-400f-b188-e50b0d427aca",
-            "nama_pse": "BANK PERKREDITAN RAKYAT TANAH LAUT",
-            "nama_se": "BPRTALA.CO.ID",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7787",
-            "website": "bprtala.co.id"
-        },
-        {
-            "id": "9cb1abc5-e65c-4581-b6d9-6723154c87a6",
-            "nama_pse": "BANK MAYBANK INDONESIA",
-            "nama_se": "GRAVITEE (API)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7795",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb9-3304-42d4-96ea-78a7d989cd63",
-            "nama_pse": "BANK PERKREDITAN RAKYAT OLYMPINDO SEJAHTERA",
-            "nama_se": "WEBSITE PT BANK PERKREDITAN RAKYAT OLYMPINDO SEJAHTERA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7789",
-            "website": "bprolympindosejahtera.co.id"
-        },
-        {
-            "id": "9cb1abeb-da06-4227-b591-f8934e2377da",
-            "nama_pse": "BANK PERKREDITAN RAKYAT JATENG",
-            "nama_se": "BPR JATENG",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7788",
-            "website": "bprjateng.co.id"
-        },
-        {
-            "id": "9cb1abeb-dcec-4cb0-b82d-90bc11ac2b3f",
-            "nama_pse": "BFI FINANCE INDONESIA",
-            "nama_se": "WEBSITE PRODUK BFI (BFI FINANCE)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7791",
-            "website": "produk.bfi.co.id"
-        },
-        {
-            "id": "9cb1abeb-e028-4e94-a2a3-a445f0383e05",
-            "nama_pse": "JALUR SUTRA INTERNASIONAL",
-            "nama_se": "JATRA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7796",
-            "website": "jatra.my.id"
-        },
-        {
-            "id": "9cb1abc5-e9c7-462e-ac85-f94ffdb93b36",
-            "nama_pse": "NEO BAZAR INDONESIA",
-            "nama_se": "KAKAOPAGE.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7872",
-            "website": "kakaopage.co.id"
-        },
-        {
-            "id": "9cb1abc5-ef0f-4bbf-bd38-78355c615215",
-            "nama_pse": "BANK PERKREDITAN RAKYAT ESTETIKA ARTHA GUNA",
-            "nama_se": "ESTETIKA ARTHA GUNA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7797",
-            "website": "bprestetika.com"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 6,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 242,
     "totalPages": 383

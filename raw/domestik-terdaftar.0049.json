@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cc323fd-3eb9-44d5-9296-ff13fb5b3e02",
+            "nama_pse": "TRANSFER PULSA STORE",
+            "nama_se": "TRANSFER PULSA STORE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19907",
+            "website": "-"
+        },
+        {
+            "id": "9cb3bdde-deea-4f08-8857-aa7fb2575b6b",
+            "nama_pse": "DOMPET TEKNOLOGI INDONESIA",
+            "nama_se": "dompetin.id",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19902",
+            "website": "-"
+        },
+        {
+            "id": "9cc32b55-144d-4ac6-ba4f-1ce1a4c2dc5b",
+            "nama_pse": "BANK SMBC INDONESIA",
+            "nama_se": "JENIUS APLIKASI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19910",
+            "website": "app.btpn.com"
+        },
+        {
+            "id": "9cc32c3e-d0f7-46d6-879c-bd77db791374",
+            "nama_pse": "SEJAHTERA SAMA KITA",
+            "nama_se": "APLIKASI SAMAKITA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19913",
+            "website": "-"
+        },
+        {
+            "id": "9cc1feac-15a8-4177-a46b-401b7c6bb28e",
+            "nama_pse": "YUMNA SUMBER BAHAGIA",
+            "nama_se": "KLIKCOMSTORE.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19901",
+            "website": "Klikcomstore.id"
+        },
+        {
+            "id": "9cc32200-1c14-4134-b48e-0fbc171f415c",
+            "nama_pse": "NIDA MAHAKARYA BRILIAN",
+            "nama_se": "JASABIKINWEB.CO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19906",
+            "website": "-"
+        },
+        {
+            "id": "9cc3516a-6722-45df-95bd-eef2be80285e",
+            "nama_pse": "ADITIA PRATAMA PUTRA",
+            "nama_se": "uptophub",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19914",
+            "website": "uptophub.com"
+        },
+        {
+            "id": "9cc39717-6649-49a2-ab7b-2f1ce53eec73",
+            "nama_pse": "TITIHAN KENCONO AJIKARSA",
+            "nama_se": "SULAP PULSA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19915",
+            "website": "sulap-pulsa.id"
+        },
+        {
+            "id": "9cc3a1ab-d704-4e1e-9b36-63b405b942f8",
+            "nama_pse": "TITIHAN KENCONO AJIKARSA",
+            "nama_se": "APLIKASI SULAP PULSA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19916",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6a-7432-4b53-933a-669329d45f94",
+            "nama_pse": "GERBANG ANDALAN BERSAMA",
+            "nama_se": "UONEPAY",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19909",
+            "website": "uonepay.co.id"
+        },
+        {
             "id": "9cc32ba2-3097-4479-b178-8d6b8be46fc1",
             "nama_pse": "ASURANSI RAMAYANA",
             "nama_se": "OTORANSI",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-08-11",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19869",
             "website": "narapos.id"
-        },
-        {
-            "id": "9cbda9b3-6f80-4a82-b1e3-e2a901fd14fd",
-            "nama_pse": "HENRI DANIEL PANGEMANAN",
-            "nama_se": "medkes.net",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19872",
-            "website": "-"
-        },
-        {
-            "id": "9cba137d-fa47-4259-b1bf-42def55d07f5",
-            "nama_pse": "INDONESIA CREATIVITY SOLUTION",
-            "nama_se": "my creativity",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19857",
-            "website": "my-creativity.biz.id"
-        },
-        {
-            "id": "9cbb49cb-987e-423a-ba8d-03f74d34b8f5",
-            "nama_pse": "GLUVIA KREATIF TEKNOLOGI",
-            "nama_se": "GLUVIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19861",
-            "website": "gluvia.com"
-        },
-        {
-            "id": "9cbb0f6f-190a-4b5a-9d37-7f934ca96ab8",
-            "nama_pse": "SEHAT BARU UTAMA",
-            "nama_se": "SYSTEM APOTEK BARU",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19860",
-            "website": "-"
-        },
-        {
-            "id": "9cbae8ca-a3f2-46db-8ecb-f9dc00224762",
-            "nama_pse": "MUHAMAD",
-            "nama_se": "LAYANAN INTERNET LOKAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19859",
-            "website": "-"
-        },
-        {
-            "id": "9cbbe55f-9840-4679-9316-2c4c8d83f089",
-            "nama_pse": "DILAN TEKNOLOGI INDONESIA",
-            "nama_se": "dilan.cloud",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19862",
-            "website": "dilan.cloud"
-        },
-        {
-            "id": "9cbbe7fd-4de1-4fa4-b457-abc43f8416bc",
-            "nama_pse": "DILAN TEKNOLOGI INDONESIA",
-            "nama_se": "dilan.tech",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19863",
-            "website": "dilan.tech"
-        },
-        {
-            "id": "9cbaa5f8-86d7-42fb-b11e-295967a80b94",
-            "nama_pse": "LEGALYN BISNIS INDONESIA",
-            "nama_se": "LEGALYN.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19858",
-            "website": "legalyn.id"
-        },
-        {
-            "id": "9cb885f5-1ba7-4f05-bf82-2e2c35439ea6",
-            "nama_pse": "MEDIA AVEZES NURATJAYA",
-            "nama_se": "POTRETTERKINI.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19838",
-            "website": "potretterkini.com"
-        },
-        {
-            "id": "9cb90498-451d-446f-9c94-c506e7dbcf83",
-            "nama_pse": "APLIKASI KREASI ASIA",
-            "nama_se": "AUTO CONVERT",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19849",
-            "website": "autoconvert.id"
         }
     ],
     "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 49,
     "totalPages": 383

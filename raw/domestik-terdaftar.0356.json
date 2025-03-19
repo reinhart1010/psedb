@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab71-1f9e-4cda-b3e2-435842af7bf4",
+            "nama_pse": "SUMBER KREATIF INDONESIA",
+            "nama_se": "GREDU SCHOOL MANAGEMENT SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1424",
+            "website": "Gredu.Asia"
+        },
+        {
+            "id": "9cb1ab62-bacb-4591-aa8f-2cc60a539436",
+            "nama_pse": "SUMBER KREATIF INDONESIA",
+            "nama_se": "GREDU STUDENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1451",
+            "website": "Gredu.Asia"
+        },
+        {
+            "id": "9cb1ab65-a002-46af-aeab-dc6d2ae5e9eb",
+            "nama_pse": "SUMBER KREATIF INDONESIA",
+            "nama_se": "GREDU PARENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1452",
+            "website": "Gredu.Asia"
+        },
+        {
+            "id": "9cb1ab71-285a-4cb0-a1ac-7453bc254f7c",
+            "nama_pse": "TUV SUD INDONESIA",
+            "nama_se": "TÜV SÜD INDONESIA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1431",
+            "website": "tuvsud.com/id/"
+        },
+        {
+            "id": "9cb1ab65-b5db-478c-9711-b0399b59ed55",
+            "nama_pse": "VARA TECHNOLOGIES CORP",
+            "nama_se": "GAJIKUAPP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1438",
+            "website": "gajikuapp.com"
+        },
+        {
+            "id": "9cb1ab71-fabc-40a1-8d6e-eaca18be4183",
+            "nama_pse": "ASTRA HONDA MOTOR",
+            "nama_se": "INFORMASI RESMI MENGENAI PRODUK AHM",
+            "sektor": "Sektor Transportasi, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1432",
+            "website": "astra-honda.com"
+        },
+        {
+            "id": "9cb1ab63-abf3-4587-898a-8d8258409ab1",
+            "nama_pse": "FIVE JACK",
+            "nama_se": "ITEMKU",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1392",
+            "website": "itemku.com"
+        },
+        {
+            "id": "9cb1ab64-1f81-481e-8825-c705280f46e2",
+            "nama_pse": "FANTASTIS ANAK BANGSA INDONESIA",
+            "nama_se": "TLUSURE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1400",
+            "website": "tlusure.com"
+        },
+        {
+            "id": "9cb1ab6c-9d3d-41cd-b681-d454f6ee9d5a",
+            "nama_pse": "SAH INDONESIA JAYA",
+            "nama_se": "SAH! YA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1414",
+            "website": "sahya.co.id"
+        },
+        {
+            "id": "9cb1ab66-7298-4a94-92b8-089616270313",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "BNI MOBILE BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1453",
+            "website": "-"
+        },
+        {
             "id": "9cb1ab6c-dede-4a86-93a1-7ed2f4aa10b2",
             "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
             "nama_se": "BNI TAPCASH GO",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-06-09",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1436",
             "website": "aiskor.co.id"
-        },
-        {
-            "id": "9cb1ab7c-8353-4678-bbcf-4e99dbfcc012",
-            "nama_pse": "INFOKES INDONESIA",
-            "nama_se": "ECLINIC",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1403",
-            "website": "eclinic.id"
-        },
-        {
-            "id": "9cb1ab8c-2cad-4384-b392-d71f0691bf71",
-            "nama_pse": "INFOKES INDONESIA",
-            "nama_se": "EFARMASI",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1404",
-            "website": "efarmasi.id"
-        },
-        {
-            "id": "9cb1ab8c-321b-4854-8a54-fbc966ab589d",
-            "nama_pse": "INFOKES INDONESIA",
-            "nama_se": "EANTREAN",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1407",
-            "website": "eantrian.id"
-        },
-        {
-            "id": "9cb1ab7c-8764-449e-bff6-40a4f0c9f324",
-            "nama_pse": "INFOKES INDONESIA",
-            "nama_se": "EHOSPITAL",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1408",
-            "website": "ehospital.id"
-        },
-        {
-            "id": "9cb1ab7c-8b38-47ab-a628-ff713235414e",
-            "nama_pse": "INFOKES INDONESIA",
-            "nama_se": "EBIDAN",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1415",
-            "website": "ebidan.id"
-        },
-        {
-            "id": "9cb1ab84-73ce-4486-84ed-cd666a03fc03",
-            "nama_pse": "INFOKES INDONESIA",
-            "nama_se": "EPUSTU",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1416",
-            "website": "epuskesmas.id"
-        },
-        {
-            "id": "9cb1ab8b-86ee-4caa-8d24-db9afdc1fa40",
-            "nama_pse": "DANA RINTIS INDONESIA",
-            "nama_se": "UDANA",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1425",
-            "website": "udana.id"
-        },
-        {
-            "id": "9cb1ab85-8c7b-4ca7-adf4-314c34cd2428",
-            "nama_pse": "ASURANSI JIWA GENERALI INDONESIA",
-            "nama_se": "GEN ICLICK",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1391",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab7d-7bbc-4461-a75d-858e15e6e0cc",
-            "nama_pse": "ASURANSI JIWA GENERALI INDONESIA",
-            "nama_se": "ICLICK.GENERALI.CO.ID",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1412",
-            "website": "iclick.generali.co.id"
-        },
-        {
-            "id": "9cb1ab86-4dbc-46e1-ada5-00a8978c86df",
-            "nama_pse": "GERBANG AKSES INDONESIA",
-            "nama_se": "GERBANGAKSES",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1405",
-            "website": "gerbangakses.id"
         }
     ],
-    "processingTimeMs": 11,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 356,
     "totalPages": 383

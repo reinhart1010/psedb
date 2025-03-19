@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1aba5-f790-4313-9a3e-e9825eb6f513",
+            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+            "nama_se": "BJB QUICKCASH",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5353",
+            "website": "qcportal.bankbjb.co.id"
+        },
+        {
+            "id": "9cb1aba5-f97e-44a0-8c3b-819475a946c4",
+            "nama_pse": "KINERJA BAGUS INDONESIA",
+            "nama_se": "GOODJOB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5354",
+            "website": "kinerjabagusindonesia.com"
+        },
+        {
+            "id": "9cb1aba5-fb43-4d9c-aac0-bf65afa3bafc",
+            "nama_pse": "INDOMOBIL FINANCE INDONESIA",
+            "nama_se": "INDOMOBIL FINANCE INDONESIA (IMFI) PRODUCT WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5355",
+            "website": "imfi.co.id"
+        },
+        {
+            "id": "9cb1abaf-ced5-4e2f-be7e-ffe26aa7f7f7",
+            "nama_pse": "GARENA INDONESIA",
+            "nama_se": "INFORMATION PAGE APLIKASI GAMES (BLOCKMAN GO, CONTRA RETURNS, SPEED DRIFTERS, FAIRY TAIL)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5361",
+            "website": "garena.co.id"
+        },
+        {
+            "id": "9cb1ab9b-19a0-4778-9710-2aca9aee03d2",
+            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+            "nama_se": "INTERNET BANKING CORPORATE (IBC)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5357",
+            "website": "bjbcorp.bankbjb.co.id"
+        },
+        {
+            "id": "9cb1ab9b-1caf-49ea-afc9-f8b442b68d2a",
+            "nama_pse": "INDOMOBIL FINANCE INDONESIA",
+            "nama_se": "IMFI EZ FOR YOU",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5358",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abaf-d09b-4a6a-be79-4ece697e95db",
+            "nama_pse": "RELIANCEINTEGRASI DUNIA ANDA",
+            "nama_se": "RELIPAY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5359",
+            "website": "reli.id"
+        },
+        {
+            "id": "9cb1abaf-d25d-4585-ac2d-a06c3b90198b",
+            "nama_pse": "INDOMOBIL FINANCE INDONESIA",
+            "nama_se": "INDOMOBIL FINANCE INDONESIA (IMFI) KENDARAANBEKAS.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5360",
+            "website": "kendaraanbekas.com"
+        },
+        {
+            "id": "9cb1ab9b-1f55-44ea-a583-8e6cd26ce55c",
+            "nama_pse": "INDOMOBIL FINANCE INDONESIA",
+            "nama_se": "KENDARAANBEKAS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5362",
+            "website": "kendaraanbekas.com"
+        },
+        {
+            "id": "9cb1ab9b-224f-4a40-b9f0-39e9d08c0be6",
+            "nama_pse": "KOTA MAYA KREATIVINDO",
+            "nama_se": "KOTAMAYA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5364",
+            "website": "kotamaya.com"
+        },
+        {
             "id": "9cb1abaf-d3ff-46a9-baa9-b01ec76180bd",
             "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
             "nama_se": "BJB CASH MANAGEMENT ACCOUNT SERVICE ONLINE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-12",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5411",
             "website": "-"
-        },
-        {
-            "id": "9cb1abaf-f387-4c29-9617-303d651876c7",
-            "nama_pse": "ADIRA DINAMIKA MULTI FINANCE",
-            "nama_se": "ADIRAKU",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5412",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba6-2bd6-4b65-86db-004f1f470e09",
-            "nama_pse": "CEKINDO BUSINESS INTERNATIONAL",
-            "nama_se": "HTTPS://CEKINDOBUSINESSCENTER.COM/",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5413",
-            "website": "cekindobusinesscenter.com"
-        },
-        {
-            "id": "9cb1aba6-2de0-435e-9928-4a801d03d15a",
-            "nama_pse": "CEKINDO BUSINESS INTERNATIONAL",
-            "nama_se": "HTTPS://USAHA.CO.ID/",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5414",
-            "website": "usaha.co.id"
-        },
-        {
-            "id": "9cb1aba6-3097-4229-b8f0-bc312616c103",
-            "nama_pse": "BANK JABAR BANTEN SYARIAH",
-            "nama_se": "VA WEB BANK BJB SYARIAH",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5418",
-            "website": "vaweb.bjbs.co.id"
-        },
-        {
-            "id": "9cb1aba6-324d-4135-be96-6d4f96b98149",
-            "nama_pse": "SMART SULTAN TRADE",
-            "nama_se": "KLIKIN.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5417",
-            "website": "klikin.id"
-        },
-        {
-            "id": "9cb1ab9b-59d5-4068-b135-8524239ef825",
-            "nama_pse": "BANK JABAR BANTEN SYARIAH",
-            "nama_se": "WAKAF IKHLAS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5420",
-            "website": "wakaf.bjbsyariah.co.id"
-        },
-        {
-            "id": "9cb1aba6-34a2-4531-af31-66e2eebf0f3f",
-            "nama_pse": "GEMILANG CITRUS BERJAYA",
-            "nama_se": "OURCITRUS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5423",
-            "website": "OURCITRUS.ID"
-        },
-        {
-            "id": "9cb1aba6-3674-4e71-8f17-ed0a60a0b3d9",
-            "nama_pse": "BUKIT BENDERA NATA",
-            "nama_se": "PERDAGANGAN ONLINE",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5424",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab9b-5c25-46fe-8235-82a0980e7590",
-            "nama_pse": "GAJAH MADA WIJAYA",
-            "nama_se": "GMW",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5425",
-            "website": "gmstation.renderforestsites.com"
-        },
-        {
-            "id": "9cb1ab9b-5dfa-4d9f-898e-e8a8eb635b91",
-            "nama_pse": "GARDATIPIKOR MEDIA PERSADA",
-            "nama_se": "GARDATIPIKORNEWS.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5427",
-            "website": "gardatipikornews.com"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 287,
     "totalPages": 383

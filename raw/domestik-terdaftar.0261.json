@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abe6-b821-443f-bf00-25bf1931f079",
+            "nama_pse": "Abdul muhtarim",
+            "nama_se": "TAMAN PULSA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6972",
+            "website": "pulsaonline-tamanniaga.com"
+        },
+        {
+            "id": "9cb1abc1-9148-422f-a8c3-3162122ab7d0",
+            "nama_pse": "BANK CENTRAL ASIA",
+            "nama_se": "ACS 3DS DEBIT DR",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6975",
+            "website": "3dsecuredebit.klikbca.com"
+        },
+        {
+            "id": "9cb1abc1-93f3-46d2-9ed3-46b178afd108",
+            "nama_pse": "BANK RAYA INDONESIA",
+            "nama_se": "WEB REGISTRY BANK RAYA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6973",
+            "website": "partnership.pinang-performa.bankraya.co.id"
+        },
+        {
+            "id": "9cb1abb6-623d-4396-915a-496a034b3e3f",
+            "nama_pse": "AIRPAY INTERNATIONAL INDONESIA",
+            "nama_se": "WEBSITE DAN APLIKASI SHOPEE PARTNER",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6976",
+            "website": "partner.business.accounts.shopee.co.id"
+        },
+        {
+            "id": "9cb1abc1-969d-4d9c-8f25-0d51dba93512",
+            "nama_pse": "BIMASAKTI MULTI SINERGI",
+            "nama_se": "SANTRIPAY",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6978",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb6-6570-4733-8e12-55ece13a8491",
+            "nama_pse": "BUMI MARGA KONSTRUKSI",
+            "nama_se": "BUMI MARGA KONSTRUKSI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6977",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc1-9976-4354-8e6a-75acd79e7b3e",
+            "nama_pse": "CSM CORPORATAMA",
+            "nama_se": "CSM CORPORATAMA (VEHICLE MANAGEMENT SYSTEM)",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7059",
+            "website": "cp.indorent.co.id"
+        },
+        {
+            "id": "9cb1abb6-6856-484a-b632-8adeb2940b8f",
+            "nama_pse": "BANK PERKREDITAN RAKYAT ARTAMULYA BUMIMUKTI",
+            "nama_se": "PT BPR ARTAMULYA BUMIMUKTI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6981",
+            "website": "bprartamulya.com"
+        },
+        {
+            "id": "9cb1abb6-6b4c-458a-83a2-090a076a2363",
+            "nama_pse": "RAFELINO CLAUDIUS KELEN",
+            "nama_se": "PANNER SYSTEM",
+            "sektor": "Sektor Energi dan Sumber Daya Mineral",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6980",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc1-9ba6-4ebc-a887-d72f53fe2e39",
+            "nama_pse": "BANK PERKREDITAN RAKYAT MODERN EXPRESS NTT",
+            "nama_se": "DIGITAL MODERN (DIGIMOD) E-COLLECTION BPR MODERN EXPRESS NTT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6979",
+            "website": "-"
+        },
+        {
             "id": "9cb1abb6-6deb-470a-96cf-52936fe77ed9",
             "nama_pse": "SAKKEN GROUP",
             "nama_se": "SAKKEN CARE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-19",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7022",
             "website": "paypoin.co.id"
-        },
-        {
-            "id": "9cb1abb6-a669-4984-9906-6281fc1e4a25",
-            "nama_pse": "KODELOKUS SOAREKA INDONESIA",
-            "nama_se": "KAMUSKU",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7025",
-            "website": "kodelokus.com"
-        },
-        {
-            "id": "9cb1abb6-a8e1-4651-858f-106fcedaf082",
-            "nama_pse": "BIMASAKTI MULTI SINERGI",
-            "nama_se": "MEGA PAY",
-            "sektor": "Sektor Perdagangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7024",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb6-aaa8-41a7-8324-bd9307584164",
-            "nama_pse": "BANK RAYA INDONESIA",
-            "nama_se": "API PINANG RITEL",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7026",
-            "website": "api.pinang-ritel.bankraya.co.id"
-        },
-        {
-            "id": "9cb1abe6-dd93-4875-9a60-0c4ab6f5a4aa",
-            "nama_pse": "RUMAHWEB INDONESIA",
-            "nama_se": "RUMAHWEB",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7028",
-            "website": "rumahweb.com"
-        },
-        {
-            "id": "9cb1abc1-ca91-45e5-97a8-7dd56500a0f0",
-            "nama_pse": "INTI CAKRAWALA CITRA",
-            "nama_se": "TOKO MANDIRI INDOGROSIR",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7027",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abe6-e479-4813-98da-8fdde076713f",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT TRIHASTA PRASODJO",
-            "nama_se": "WEBSITE BPR TRIHASTA PRASODJO",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7030",
-            "website": "bprtrihasta.co.id"
-        },
-        {
-            "id": "9cb1abe6-e994-4426-a147-8d8d4276d76e",
-            "nama_pse": "BANK PERKREDITAN RAKYAT MITRA PARAHYANGAN",
-            "nama_se": "BPR MITRA PARAHYANGAN",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7031",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abe6-eea6-453f-b2a2-30f6b919f1a9",
-            "nama_pse": "APRILLIA DWI DAYANI",
-            "nama_se": "BUMIGORASHOP",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7047",
-            "website": "bumigorashop.com"
-        },
-        {
-            "id": "9cb1abb6-aecd-4ae0-9ff1-2793f897ed28",
-            "nama_pse": "BUSINESS ECLOUD INDONESIA INFORMATION TECHNOLOGY",
-            "nama_se": "WEB ELECTRONIC DATA INTERCHANGE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7034",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abc1-ccaf-4ace-bc53-99d6abb93028",
-            "nama_pse": "BANK PERKREDITAN RAKYAT BUMI BANDUNG KENCANA",
-            "nama_se": "WEBSITE PT. BPR BUMI BANDUNG KENCANA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7037",
-            "website": "bprbbk.com"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 261,
     "totalPages": 383

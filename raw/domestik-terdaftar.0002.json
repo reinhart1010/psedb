@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9e67ea29-15c8-454e-882f-2bbf5387e038",
+            "nama_pse": "JOHAN HERMAWAN",
+            "nama_se": "AJP ENTERTAINMENT",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22695",
+            "website": "-"
+        },
+        {
+            "id": "9e67f510-2064-4f6a-a89d-a0cd100368d0",
+            "nama_pse": "GEMA BUDAYA SILA",
+            "nama_se": "GEMABULA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22696",
+            "website": "gemabula.biz.id"
+        },
+        {
+            "id": "9e67f53f-f2dd-4dda-9073-205f6d373095",
+            "nama_pse": "NEXA DIGITAL TEKNOLOGI",
+            "nama_se": "nexadigitek",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22697",
+            "website": "nexadigitek.biz.id"
+        },
+        {
+            "id": "9e67f5d3-6a64-4522-a87e-6757ec6b141a",
+            "nama_pse": "SERASI BERSAMA MANDIRI",
+            "nama_se": "SERMAND",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22698",
+            "website": "sermand.biz.id"
+        },
+        {
+            "id": "9e6815a2-f160-4b49-8f2c-29ba2d203aa7",
+            "nama_pse": "WAHANA BINTANG MEDIA",
+            "nama_se": "KLIKWARTA.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22699",
+            "website": "klikwarta.com"
+        },
+        {
+            "id": "9e682fe1-419b-46af-9a60-f73bfa2fc528",
+            "nama_pse": "SIKUMBANG JAYA MANDIRI",
+            "nama_se": "saungnews.co",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22700",
+            "website": "saungnews.co"
+        },
+        {
+            "id": "9e68578e-cf87-4483-899c-7c8f6faf32be",
+            "nama_pse": "DOLPHIN TEKNOLOGI KESEHATAN",
+            "nama_se": "DOLPHINHEALTHTECH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22701",
+            "website": "dolphinhealthtech.co.id"
+        },
+        {
+            "id": "9e685cae-d874-440f-b739-e3d70084c6b1",
+            "nama_pse": "MUHAMMAD SYAFRIL HIDAYAYULLAH",
+            "nama_se": "akunmu.id",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22702",
+            "website": "akunmu.id"
+        },
+        {
+            "id": "9e69678c-cf46-4c7d-b734-b2aa67787215",
+            "nama_pse": "TEKNOLOGI AWAN SEJAHTERA",
+            "nama_se": "AWATECH",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22711",
+            "website": "awatech.biz.id"
+        },
+        {
+            "id": "9e6555ab-d02f-4e81-850d-1525d4f89a9d",
+            "nama_pse": "HYPER CLOUD HOST",
+            "nama_se": "HYPERCLOUDHOST",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22674",
+            "website": "hypercloudhost.com"
+        },
+        {
             "id": "9e6544e1-ef6d-470b-b436-e069f63b0fd7",
             "nama_pse": "BURSA KOMODITI DAN DERIVATIF INDONESIA",
             "nama_se": "MT5",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2025-03-05",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22621",
             "website": "digitasolusindo.com"
-        },
-        {
-            "id": "9e5b1fbd-49e0-49a0-ab2d-c1fae25ac610",
-            "nama_pse": "GANENDRA KARYA SARANA",
-            "nama_se": "GKS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22619",
-            "website": "-"
-        },
-        {
-            "id": "9e5f7247-ecf4-41a3-ba20-0b73a68d730f",
-            "nama_pse": "MUHAMMAD YUSUF",
-            "nama_se": "MY VOUCHER - TOP UP GAME MURAH",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22620",
-            "website": "myvouchergame.my.id"
-        },
-        {
-            "id": "9e5af933-042c-4a11-8f98-c11072657901",
-            "nama_pse": "PREMIUMISME DIGITAL APP",
-            "nama_se": "PREMIUMISME DIGITAL APP",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22618",
-            "website": "-"
-        },
-        {
-            "id": "9e5b6872-ff1f-4bf1-bef6-7f2a7f0b7908",
-            "nama_pse": "BERKAH UTAS TEKNOLOGI",
-            "nama_se": "UTAS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22625",
-            "website": "utas.id"
-        },
-        {
-            "id": "9e5b8122-2817-44de-bcff-a217cc17a9d7",
-            "nama_pse": "GENERASI INSPIRASI INFORMATIKA",
-            "nama_se": "DEALPOS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22627",
-            "website": "-"
-        },
-        {
-            "id": "9e5b88ff-1c15-4343-85a3-26d166806bac",
-            "nama_pse": "PASIFIK CIPTA SOLUSI",
-            "nama_se": "INVERA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22628",
-            "website": "-"
-        },
-        {
-            "id": "9e5b8918-da31-4fae-aeff-f21e25d98e56",
-            "nama_pse": "PASIFIK CIPTA SOLUSI",
-            "nama_se": "MERI MONITORING",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22629",
-            "website": "-"
-        },
-        {
-            "id": "9e5b8981-82ed-4a57-9a87-eade3b611574",
-            "nama_pse": "PASIFIK CIPTA SOLUSI",
-            "nama_se": "MERI MOBILE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22630",
-            "website": "-"
-        },
-        {
-            "id": "9e5bb71b-afd1-408d-bd6b-80d7426d4089",
-            "nama_pse": "NARU CATUR INDONESIA",
-            "nama_se": "CUAN PAY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22634",
-            "website": "makeitpay.id"
-        },
-        {
-            "id": "9e5bbe18-3803-4269-8220-02a247e240cb",
-            "nama_pse": "WIDYA SETIA HUSADA",
-            "nama_se": "SIM KLINIK TRI MEDIKA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2025-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22635",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 0,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 2,
     "totalPages": 383

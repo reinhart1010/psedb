@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1aba0-3123-40f0-8e52-4d2a1532865d",
+            "nama_pse": "PIRANTI GLOBALINDO",
+            "nama_se": "TANDA DAFTAR PENYELENGGARA SISTEM ELEKTRONIK (TD PSE) DOMESTIK",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3666",
+            "website": "pirantiglobalindo.com"
+        },
+        {
+            "id": "9cb1ab93-4b67-42bd-a2ef-068a38cbdc3a",
+            "nama_pse": "PCDC PROPCO ONE",
+            "nama_se": "BERSAMA DIGITAL DATA CENTRES (BDDC)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3680",
+            "website": "bd-dc.com"
+        },
+        {
+            "id": "9cb1ab9f-fb94-4abe-a604-0eaa429526f6",
+            "nama_pse": "PULSA MEDIA EPAY TEKNOLOGI",
+            "nama_se": "PULSA MEDIA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3664",
+            "website": "pulsamedia.net"
+        },
+        {
+            "id": "9cb1aba0-0c13-4f20-a525-074ea82b6c69",
+            "nama_pse": "GINARIS EKA PERKASA",
+            "nama_se": "AKON INDONESIA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi",
+            "tanggal_terbit": "2022-03-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3665",
+            "website": "akonindonesia.com"
+        },
+        {
+            "id": "9cb1abaa-99ba-4c14-aa29-d5fd30151b9c",
+            "nama_pse": "DEDY HARTANTO",
+            "nama_se": "POPO DELIVERY",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3663",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab92-a079-4bf8-bef7-b38ae7a6aa34",
+            "nama_pse": "ASURANSI TUGU PRATAMA INDONESIA",
+            "nama_se": "T FRIENDS APPLICATION",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-03-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3659",
+            "website": "tugudrive.com"
+        },
+        {
+            "id": "9cb1ab92-bc83-4591-beac-5a52263fb4f8",
+            "nama_pse": "MEDIA NARASI JARINGAN RAKYAT",
+            "nama_se": "WWW.BHAYANGKARANEWS.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3655",
+            "website": "bhayangkaranews.id"
+        },
+        {
+            "id": "9cb1ab9f-dd32-4260-a6cc-a08b352d28d4",
+            "nama_pse": "DAPUR SOLO MUSTIKA NUSANTARA",
+            "nama_se": "DAPUR SOLO",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3661",
+            "website": "dapursolo.com"
+        },
+        {
+            "id": "9cb1ab9f-f76a-420a-bcad-b59b40b487d9",
+            "nama_pse": "LINGKAR TAQWA VISION",
+            "nama_se": "BERITAJATENG.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3657",
+            "website": "beritajateng.id"
+        },
+        {
+            "id": "9cb1abaa-77f9-4595-bad9-dddd095f5ac6",
+            "nama_pse": "LINGKAR TAQWA VISION",
+            "nama_se": "HARIANMURIA.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3658",
+            "website": "harianmuria.com"
+        },
+        {
             "id": "9cb1abaa-833b-44dc-a8cd-4023c0f7d826",
             "nama_pse": "CPULSA PAY TEKNOLOGI",
             "nama_se": "CPULSA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-03-22",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3615",
             "website": "mango.com"
-        },
-        {
-            "id": "9cb1ab92-e11b-44dd-8036-38c105adf251",
-            "nama_pse": "SKORTECH KARYA INDONESIA",
-            "nama_se": "SKORLIFE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3604",
-            "website": "skor.life"
-        },
-        {
-            "id": "9cb1aba0-04d6-4633-94cd-99f28b7222d9",
-            "nama_pse": "SYARIAH SAHAM INDONESIA",
-            "nama_se": "SYARIAH SAHAM",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3609",
-            "website": "syariahsaham.id"
-        },
-        {
-            "id": "9cb1ab92-ec73-4dd3-aed8-61576d5c2935",
-            "nama_pse": "HABIBI",
-            "nama_se": "PT.YASMIN MEKAR MANDIRI",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Pertahanan dan Keamanan, Sektor Pertahanan dan Keamanan, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-03-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3608",
-            "website": "yasminmekarmandiri.com"
-        },
-        {
-            "id": "9cb1aba0-18f4-435e-86d5-4c0a6dc4ac51",
-            "nama_pse": "PRIMA BUANA PERKASA RITEL",
-            "nama_se": "PULLANDBEAR.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-03-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3610",
-            "website": "pullandbear.com"
-        },
-        {
-            "id": "9cb1ab92-f48e-4a76-88bb-d39fe389becd",
-            "nama_pse": "SARIMODE FASHINDO ADIPERKASA RITEL",
-            "nama_se": "ZARA.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-03-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3607",
-            "website": "zara.com"
-        },
-        {
-            "id": "9cb1abaa-8775-446a-a102-53483218965d",
-            "nama_pse": "MITRAMODE DUTA FASHINDO RITEL",
-            "nama_se": "MASSIMODUTTI.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-03-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3612",
-            "website": "massimodutti.com"
-        },
-        {
-            "id": "9cb1abaa-89bd-4f9d-bb26-fd99c2ba60cc",
-            "nama_pse": "BERSAMA KARUNIA MANDIRI RITEL",
-            "nama_se": "BERSHKA.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-03-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3616",
-            "website": "bershka.com"
-        },
-        {
-            "id": "9cb1aba0-1c42-417b-9b95-09b6edd4cf46",
-            "nama_pse": "SUKSES DIVA MANDIRI RITEL",
-            "nama_se": "STRADIVARIUS.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-03-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3611",
-            "website": "stradivarius.com"
-        },
-        {
-            "id": "9cb1abaa-8c9e-47f7-8522-13f29c55d38a",
-            "nama_pse": "SARIMODE GRIYA RITEL",
-            "nama_se": "ZARAHOME.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-03-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3613",
-            "website": "zarahome.com"
-        },
-        {
-            "id": "9cb1aba0-2f38-4b8a-bdf6-4c1ec1c1be1a",
-            "nama_pse": "KOKATTO TEKNOLOGI GLOBAL",
-            "nama_se": "KOALA APP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3606",
-            "website": "koalaapp.id"
         }
     ],
-    "processingTimeMs": 6,
+    "processingTimeMs": 30,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 314,
     "totalPages": 383

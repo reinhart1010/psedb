@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac54-7059-46e3-93e5-a4560ec71a57",
+            "nama_pse": "NETWORK LAPANLAPAN GROUP",
+            "nama_se": "LAPAN LAPAN PONSEL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17524",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac68-1a26-45e6-9ad3-3d7fdda60266",
+            "nama_pse": "SOLUSI FINANSIAL TERINTEGRASI",
+            "nama_se": "KASHOUT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17527",
+            "website": "getkashout.co"
+        },
+        {
+            "id": "9cb1ac54-72e2-4f96-ae25-bdbe4fe2639b",
+            "nama_pse": "DUTAGRAHA AFIAH",
+            "nama_se": "SIMRS",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17525",
+            "website": "rsummi.co.id"
+        },
+        {
+            "id": "9cb1ac68-2073-4b15-88f1-5b4e8b064727",
+            "nama_pse": "ANDINI MEDIKA",
+            "nama_se": "HOSPITAL MANAGEMENT SYSTEM (HMS)",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17529",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac68-242c-4886-a409-c743b3020b4a",
+            "nama_pse": "BHINNEKA SANGKURIANG TRANSPORT",
+            "nama_se": "BHISA.ID",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2024-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17531",
+            "website": "bhisa.id"
+        },
+        {
+            "id": "9cb1ac54-785e-4d24-a083-15aae8e286f6",
+            "nama_pse": "ALPHA TEKNOLOGI MANDIRI",
+            "nama_se": "TBIZ",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17532",
+            "website": "tbiz.co.id"
+        },
+        {
+            "id": "9cb1ac7c-39dd-4294-b41d-c06bd3e82732",
+            "nama_pse": "GLOBAL INTER KONEKSINDO",
+            "nama_se": "PT GLOBAL INTER KONEKSINDO",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17533",
+            "website": "glkoneksindo.com"
+        },
+        {
+            "id": "9cb1ac7c-3da1-4c43-b6c6-2d63282250fa",
+            "nama_pse": "TIGA DAYA MULTIMEDIA",
+            "nama_se": "SIKEMAS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17534",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac54-7ebb-4fc9-8032-356d87d83adf",
+            "nama_pse": "KWIKKU MEDIA NUSANTARA",
+            "nama_se": "KWIKKU",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17535",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac68-2747-4afa-a8f1-7ac40a42f9dc",
+            "nama_pse": "AGAINDO APLIKASI PULSA",
+            "nama_se": "AGAINDO MOBILE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17536",
+            "website": "againdo.co.id"
+        },
+        {
             "id": "9cb1ac54-8175-4f03-85d2-42966621312b",
             "nama_pse": "TATA INFORMASI ASIA",
             "nama_se": "SIFASKES",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-01-24",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17496",
             "website": "adsim.co.id"
-        },
-        {
-            "id": "9cb1ac67-d481-433a-b845-5c7a8b085674",
-            "nama_pse": "MEDIA TEMPO TERKINI",
-            "nama_se": "TEMPO TERKINI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17497",
-            "website": "tempoterkini.id"
-        },
-        {
-            "id": "9cb1ac54-5cfc-4f2e-be8c-c75b001f8356",
-            "nama_pse": "NUR INTI SEJATI",
-            "nama_se": "NUR INTI SEJATI",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-01-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17498",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac67-8522-4e19-b4ab-e91870b7919a",
-            "nama_pse": "FARRA EKATAMA SOLUSI",
-            "nama_se": "LAMPUIN.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17514",
-            "website": "lampuin.id"
-        },
-        {
-            "id": "9cb1ac67-9d95-4003-b28e-0dc03a71dee2",
-            "nama_pse": "SYARIAH KOIN INDONESIA",
-            "nama_se": "PLATFORM PERDAGANGAN FISIK EMAS DIGITAL PT SYARIAH KOIN INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-01-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17464",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac54-26af-4751-a55d-de8e63288a71",
-            "nama_pse": "INTHEBOX OFFICIAL STORE",
-            "nama_se": "INTHEBOX OFFICIAL STORE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-01-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17465",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac67-a0cb-4d11-bd4a-35ac6a0adb65",
-            "nama_pse": "SUNGKONO MEDIKA SEJAHTERA",
-            "nama_se": "SYSTEM MANAGEMENT KLINIK PUSURA SUNGKONO SURABAYA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-01-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17466",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac54-29ea-472d-beed-dc6247575e71",
-            "nama_pse": "RSUD DOKTER SOESELO KABUPATEN TEGAL",
-            "nama_se": "REKAM MEDIS ELEKTRONIK RSUD DR. SOESELO",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-01-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17467",
-            "website": "rsudsoeselo.tegalkab.go.id"
-        },
-        {
-            "id": "9cb1ac67-ab95-42e6-bd04-55bb0b525fad",
-            "nama_pse": "APPSKU APLIKASI INDONESIA",
-            "nama_se": "AKU MPOS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17468",
-            "website": "akumpos.com"
-        },
-        {
-            "id": "9cb1ac67-af5e-415f-b504-f0c47d0f700a",
-            "nama_pse": "ENAMO INOVASI REKATAMA",
-            "nama_se": "STOCKTREE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17469",
-            "website": "stocktree.io"
-        },
-        {
-            "id": "9cb1ac54-35c7-40e9-8946-87b7d314773d",
-            "nama_pse": "NYAMUK NANAS",
-            "nama_se": "DITOKO MANADO",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-01-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17470",
-            "website": "ditokomanado.com"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 90,
     "totalPages": 383

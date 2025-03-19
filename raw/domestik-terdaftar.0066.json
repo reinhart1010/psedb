@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac70-544d-47c1-a43b-66d46c371f0c",
+            "nama_pse": "INFORMASI PUBLIK INDONESIA",
+            "nama_se": "INFORMASIPUBLIK.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18973",
+            "website": "informasipublik.co.id"
+        },
+        {
+            "id": "9cb1ac5b-947b-4616-9358-9518ce662e78",
+            "nama_pse": "THRIVE INTER NATIONAL",
+            "nama_se": "3VE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18974",
+            "website": "3ve.online"
+        },
+        {
+            "id": "9cb1ac70-5824-4f76-b2c4-1b40ce7fe30d",
+            "nama_pse": "BLUEWATER SAFARIS",
+            "nama_se": "BLUEWATER SAFARIS",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2024-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18975",
+            "website": "bluewater-express.com"
+        },
+        {
+            "id": "9cb1ac85-eed4-499a-827c-cc28dfcb6fdb",
+            "nama_pse": "ITNEO GLOBAL INDONESIA",
+            "nama_se": "CPASS BERBASIS SMS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18978",
+            "website": "itneoglobal.com"
+        },
+        {
+            "id": "9cb1ac5b-9891-40d8-8045-523dc8c23f3f",
+            "nama_pse": "ONSTOCK SOLUSI INDONESIA",
+            "nama_se": "ONSTOCK WEBSITE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18980",
+            "website": "ONSTOCK.ID"
+        },
+        {
+            "id": "9cb1ac70-5f47-469d-b2b0-386aad8016f1",
+            "nama_pse": "HERI YANTO SURYO WIBOWO. SE",
+            "nama_se": "GOUMKM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18982",
+            "website": "goumkm.com"
+        },
+        {
+            "id": "9cb1ac70-62bd-4fd6-8dd7-7a8be92ddf8d",
+            "nama_pse": "APRILIA SUKSES ABADI",
+            "nama_se": "AYO KURSUS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18983",
+            "website": "ayokurs.us"
+        },
+        {
+            "id": "9cb1ac85-fc7f-4c39-bf45-1b7d157a9ea3",
+            "nama_pse": "SJI NETWORK INDONESIA",
+            "nama_se": "SJI NETWORK LINK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18984",
+            "website": "sjinetwork.co.id"
+        },
+        {
+            "id": "9cb1ac85-b7a8-468c-9282-2125120fa385",
+            "nama_pse": "SITI IVA LATIFATUL MIMNA ABUBAKAR",
+            "nama_se": "JABAL LEGAL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18976",
+            "website": "jaballegal.com"
+        },
+        {
+            "id": "9cb1ac85-c7f7-4e80-9ba4-35adef628ab8",
+            "nama_pse": "EQUITY LIFE INDONESIA",
+            "nama_se": "MICROSITE ELIFE PROTEKSI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-05-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18977",
+            "website": "eli-pro.myequity.id"
+        },
+        {
             "id": "9cb1ac5b-82a2-4bfb-8d7e-9a5a22b2e843",
             "nama_pse": "GRAHA REMITANSI INDONESIA",
             "nama_se": "TRANSFERKU",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-05-15",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18923",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac85-b062-42b9-aa70-273c634fdea8",
-            "nama_pse": "TEKNOLOGI PAMADYA ANALITIKA",
-            "nama_se": "MEDITAP FOR PROVIDER",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18925",
-            "website": "provider.meditap.id"
-        },
-        {
-            "id": "9cb1ac70-032c-4610-b49b-13b9eb5dbf1c",
-            "nama_pse": "NASANUERA GLOBAL SYNERGY",
-            "nama_se": "NASANUERA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18927",
-            "website": "nasanuera.com"
-        },
-        {
-            "id": "9cb1ac5b-5645-42a2-980e-1fddea2735ca",
-            "nama_pse": "TEKNOLOGI PAMADYA ANALITIKA",
-            "nama_se": "MEDITAP MOBILE",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18926",
-            "website": "m.meditap.id"
-        },
-        {
-            "id": "9cb1ac70-07b8-4279-bd8f-6ca8e09ff017",
-            "nama_pse": "MULTIGUNA TUNAS ABADI",
-            "nama_se": "PT. MULTIGUNA TUNAS ABADI",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18930",
-            "website": "multigunatunasabadi.com"
-        },
-        {
-            "id": "9cb1ac70-0b6f-4385-98a5-a992b1b5701c",
-            "nama_pse": "BIRU LINTAS NUSANTARA",
-            "nama_se": "NARATAMA RELOAD",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18931",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5b-5940-4d91-bdac-86246233cd15",
-            "nama_pse": "STARCOM TECHNOLOGY INDONESIA",
-            "nama_se": "STARCOM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18932",
-            "website": "starcomindo.com"
-        },
-        {
-            "id": "9cb1ac5b-5c85-45d1-971a-870eb92ac688",
-            "nama_pse": "EXXIS GLOBAL GROUP",
-            "nama_se": "MITRAKAMU",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18933",
-            "website": "mitrakamu.com"
-        },
-        {
-            "id": "9cb1ac85-bc0e-42a5-819e-405c86695e71",
-            "nama_pse": "GLOBAL PIRANTI TEKNOLOGI",
-            "nama_se": "VIDEA SYSTEM MONITORING SCHOOL",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18934",
-            "website": "videaclass.com"
-        },
-        {
-            "id": "9cb1ac54-c0df-4831-92eb-a4aaeca906eb",
-            "nama_pse": "SETIAWAN MOELJONO",
-            "nama_se": "MEDIA SOLUSINDO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18913",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6f-ed23-4528-a73a-eda5498020d5",
-            "nama_pse": "RISELL MITRA ASIA",
-            "nama_se": "BUYVELY",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18914",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 10,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 66,
     "totalPages": 383

@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac61-d9df-4b62-9649-a3e5ab56494f",
+            "nama_pse": "HARTANTO WORLD PROJECT",
+            "nama_se": "PEGGY HARTANTO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-10-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16406",
+            "website": "peggyhartanto.com"
+        },
+        {
+            "id": "9cb1ac61-dcee-4f86-95d7-b0dc0c57216c",
+            "nama_pse": "IRON ASSET INDONESIA",
+            "nama_se": "INNER CIRCLE APP SERVICE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16410",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4e-f845-4c03-836b-28fc1d84ee11",
+            "nama_pse": "RSU PKU MUHAMMADIYAH GUBUG",
+            "nama_se": "HOSMIS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16411",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac61-dfd5-4b87-942f-731b9d7bee32",
+            "nama_pse": "OPENBIT LELANG INDONESIA",
+            "nama_se": "OPENBIT",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2023-10-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16513",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac61-e2b3-4eb0-a1c6-05701c5cdd34",
+            "nama_pse": "ERA MEDIKA TULUNGAGUNG",
+            "nama_se": "SIMERA",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16414",
+            "website": "rseramedika.com"
+        },
+        {
+            "id": "9cb1ac4e-fe37-4904-b8d0-5db44d89878e",
+            "nama_pse": "DINDA MEDISTRA",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16413",
+            "website": "rsudinda.co.id"
+        },
+        {
+            "id": "9cb1ac4f-0160-4056-be85-e853d4baac4c",
+            "nama_pse": "PS GLOBAL MEDIA",
+            "nama_se": "GOTUKU.COM",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16412",
+            "website": "gotuku.com"
+        },
+        {
+            "id": "9cb1ac4f-0430-4e44-bfb8-b88cfe5d497f",
+            "nama_pse": "ANANG FATCHURRACHMAN",
+            "nama_se": "SIM-KLINIKDREKOMANUKAN",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16415",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac61-e7ab-4ed8-8d20-3edc2d0af943",
+            "nama_pse": "TELOGOREJO MEDIKA FARMA",
+            "nama_se": "SIM PURI",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16418",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4f-072e-42c6-ae1d-949199c7df23",
+            "nama_pse": "PRODIA OCCUPATIONAL HEALTH INDONESIA",
+            "nama_se": "ECLINSYST AVERIN OHCC",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16416",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac61-ea1a-4672-b1d4-70ef5f95be90",
+            "nama_pse": "PRODIA OCCUPATIONAL HEALTH INDONESIA",
+            "nama_se": "ECLINSYST AVERIN OHC CIKARANG",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16417",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac76-129d-489c-a3dc-a8fff94c095c",
             "nama_pse": "KONSULTAN KATIGA INDONESIA",
             "nama_se": "SBUJK KK3I",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-10-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16368",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac75-ebb2-4fc2-bd4b-a74cb2328ee5",
-            "nama_pse": "MITRA MEDICAL CARE",
-            "nama_se": "POLIKLINIK MITRA MEDICARE",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16369",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac75-ef18-41f2-86b1-b444e981f726",
-            "nama_pse": "GANIKA SOLUSI PRATAMA",
-            "nama_se": "FLASHTAX.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16370",
-            "website": "flashtax.id"
-        },
-        {
-            "id": "9cb1ac4e-c5a1-4b16-9279-9ab6d6a33985",
-            "nama_pse": "CAHAYA KLINIK MEDIKA HUSADA",
-            "nama_se": "POLIKLINIK MITRA MEDICARE",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16372",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac61-9f9b-4892-a999-c1847b78d3bd",
-            "nama_pse": "BANK INA PERDANA",
-            "nama_se": "WEBSITE BANK INA DIGITAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16371",
-            "website": "binadigital.id"
-        },
-        {
-            "id": "9cb1ac75-bd73-4b8d-b760-50203f7eb0e1",
-            "nama_pse": "AGRA CAHAYA MANDIRI",
-            "nama_se": "ISENA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16353",
-            "website": "agni.co.id"
-        },
-        {
-            "id": "9cb1ac75-dd10-4b26-b12b-a886391fef59",
-            "nama_pse": "INDO TECH MAJU",
-            "nama_se": "SIREKAM",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16352",
-            "website": "ykdb.co.id"
-        },
-        {
-            "id": "9cb1ac4e-8320-4742-8c97-b60e6025fcec",
-            "nama_pse": "DAN PEMBIAYAAN SYARIAH SINERGI BONTANG SEJAHTERA",
-            "nama_se": "KOPERASI MOBILE ON LINE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-10-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16354",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4e-85a2-4ed1-96a3-5297e9578fa6",
-            "nama_pse": "TRANS DIGITAL CEMERLANG",
-            "nama_se": "M2PAY",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-10-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16355",
-            "website": "m2payment.id"
-        },
-        {
-            "id": "9cb1ac75-e062-49c4-b3a9-1700d15db45f",
-            "nama_pse": "HINTS GLOBAL INVESTASI",
-            "nama_se": "HINTS INVESTMENT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-10-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16356",
-            "website": "hints-investment.id"
-        },
-        {
-            "id": "9cb1ac4e-8833-4999-bf9d-4a286efed120",
-            "nama_pse": "PRUDENTAWIRA TECH",
-            "nama_se": "APP.RSUDHMRABAIN.COM",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16357",
-            "website": "app.rsudhmrabain.com"
-        },
-        {
-            "id": "9cb1ac61-8d82-4c96-bbf8-11632cb62d56",
-            "nama_pse": "SARANA EXHIRINDO",
-            "nama_se": "PT. SARANA EXHIRINDO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-10-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16358",
-            "website": "experd.com"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 111,
     "totalPages": 383

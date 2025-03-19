@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abd1-b0fc-4408-8cae-a4ab11c9b11a",
+            "nama_pse": "ESENSI SOLUSI BUANA",
+            "nama_se": "APLIKASI KASIR ONLINE DAN ESB CORE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9462",
+            "website": "esb.id"
+        },
+        {
+            "id": "9cb1abf8-499d-4116-8744-a5ea38bd74e3",
+            "nama_pse": "HOTEL MURAH TRAVELINDO",
+            "nama_se": "TIKETKERETAAPI.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9467",
+            "website": "tiketkeretaapi.com"
+        },
+        {
+            "id": "9cb1abd1-b40e-4b74-92b0-78594c43d4a0",
+            "nama_pse": "ESENSI SOLUSI BUANA",
+            "nama_se": "APLIKASI ESB GOODS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9463",
+            "website": "esbgoods.co.id"
+        },
+        {
+            "id": "9cb1abf7-2211-406a-9e9a-22126a71dee2",
+            "nama_pse": "MUHAMAD ARIF FIRDAUS T",
+            "nama_se": "CINEVERSE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9464",
+            "website": "cineverse.id"
+        },
+        {
+            "id": "9cb1abd1-b8de-4daf-bcc2-4a197c7ea761",
+            "nama_pse": "DISTRIVE CREATIVE STUDIO",
+            "nama_se": "CV DISTRIVE CREATIVE STUDIO",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9466",
+            "website": "distrive.id"
+        },
+        {
+            "id": "9cb1abf8-4d72-44ea-8cbb-abe4979b056f",
+            "nama_pse": "OKA MAHENDRA",
+            "nama_se": "VPSTRADING.NET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9468",
+            "website": "VPSTrading.net"
+        },
+        {
+            "id": "9cb1abf8-50aa-4ead-8958-fcb2e0624aba",
+            "nama_pse": "NAMA CANTIK ABADI",
+            "nama_se": "NAMA BEAUTY - NAMA",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2022-07-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9469",
+            "website": "namabeauty.co"
+        },
+        {
+            "id": "9cb1abf7-27f8-4150-b590-84049d00c8c6",
+            "nama_pse": "HARS GRUP KONSULTINDO",
+            "nama_se": "HNG.CO.ID",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9470",
+            "website": "hng.co.id"
+        },
+        {
+            "id": "9cb1abd1-bc77-45d1-a007-336e6c9db76a",
+            "nama_pse": "RICKY GUNAWAN SANTOSA",
+            "nama_se": "INTFIND",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9471",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abf7-2b48-4bc3-b564-9a78af5261dc",
+            "nama_pse": "TEKNOLOGIKA INTEGRATOR INDONESIA",
+            "nama_se": "DUNIAMASAK.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9472",
+            "website": "duniamasak.com"
+        },
+        {
             "id": "9cb1abd1-c1a9-4ee0-a272-71bf5be59c77",
             "nama_pse": "INTEGRITAS MEDIA",
             "nama_se": "OFFICIAL WEBSITE CV INTEGRITAS MEDIA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-29",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9347",
             "website": "spentura.com"
-        },
-        {
-            "id": "9cb1abd0-cc0e-4c6d-b03c-ea558ac7665e",
-            "nama_pse": "APLIKANUSA LINTASARTA",
-            "nama_se": "LINTASARTA E-COMMERCE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9348",
-            "website": "lintasarta.net"
-        },
-        {
-            "id": "9cb1abd0-d66b-4a47-bd60-2d284c98d12a",
-            "nama_pse": "BPR JWALITA TRENGGALEK PERSERODA",
-            "nama_se": "HEXACORE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9350",
-            "website": "bprjwalita.com"
-        },
-        {
-            "id": "9cb1abcf-dbfd-4bb8-a51a-5de07867836b",
-            "nama_pse": "BANK PERKREDITAN RAKYAT ANGGA PERKASA",
-            "nama_se": "ANGGAPERKASA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9351",
-            "website": "anggaperkasa.co.id"
-        },
-        {
-            "id": "9cb1abcf-e390-49ad-a4ad-c3584f69005a",
-            "nama_pse": "SWABINA GATRA",
-            "nama_se": "PENGGUNAAN SPEKTRUM FREKUENSI RADIO HT",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9361",
-            "website": "swabina.id"
-        },
-        {
-            "id": "9cb1abcf-e8aa-4f59-b18b-2ad82bb17c9f",
-            "nama_pse": "MEGA CEMERLANG INDONESIA",
-            "nama_se": "MEGAKAMERA.CO.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9352",
-            "website": "megakamera.co.id"
-        },
-        {
-            "id": "9cb1abcf-efee-49cf-8430-f9074a57fd9c",
-            "nama_pse": "IZAUNET BERKAH MANDIRI",
-            "nama_se": "HTTPS://IZAUNET.COM/",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9353",
-            "website": "izaunet.com"
-        },
-        {
-            "id": "9cb1abf6-57fd-451a-948c-d48138646c47",
-            "nama_pse": "BANK PERKREDITAN RAKYAT NUSAMBA SINGAPARNA",
-            "nama_se": "BPR NUSAMBA SINGAPARNA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9355",
-            "website": "bprnusamba-singaparna.com"
-        },
-        {
-            "id": "9cb1abd0-dc35-4846-8625-0982346068f9",
-            "nama_pse": "MULTIFINANCE ANAK BANGSA",
-            "nama_se": "MULTIFINANCE ANAK BANGSA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9364",
-            "website": "mab.co.id"
-        },
-        {
-            "id": "9cb1abf6-5af9-4c12-84dc-054024c55374",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT NUSANTARA BONA PASOGIT EMPAT BELAS",
-            "nama_se": "WEBSITE PT BPR NBP 14",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9357",
-            "website": "bprnbp14.com"
-        },
-        {
-            "id": "9cb1abd0-dfda-4153-b593-9c128b945ce6",
-            "nama_pse": "NATANETWORK SOLUTION",
-            "nama_se": "NATANETWORK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9359",
-            "website": "natanetwork.com"
         }
     ],
-    "processingTimeMs": 19,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 214,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb0-a034-4ed4-bce6-444632152fad",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
+            "nama_se": "WEBSITE BANK JATIM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5631",
+            "website": "bankjatim.co.id"
+        },
+        {
+            "id": "9cb1ab9c-04fa-4ffd-9fce-b43cb67cba24",
+            "nama_pse": "PUNDI MAS BERJAYA",
+            "nama_se": "CLOUDBANK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5632",
+            "website": "Cloudbank.id"
+        },
+        {
+            "id": "9cb1aba6-c59d-4f70-95a0-b0db4c0919b8",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BINARTA LUHUR",
+            "nama_se": "PT. BPR BINARTA LUHUR",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5630",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb0-a1d4-4345-87ad-4d71782b280c",
+            "nama_pse": "MEGA MULTI KREASI",
+            "nama_se": "PUSAT PARCEL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5633",
+            "website": "pusatparcel.com"
+        },
+        {
+            "id": "9cb1abb0-a3a5-43f8-b547-f2600f76a292",
+            "nama_pse": "DUTA ABADIPRIMANTARA",
+            "nama_se": "SLEEP AND CO WEBSITE",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5634",
+            "website": "sleepandco.id"
+        },
+        {
+            "id": "9cb1abb0-a555-4925-9216-b7ae478ec2d4",
+            "nama_pse": "MEGA AUTO FINANCE",
+            "nama_se": "WEBSITE PORTAL MEGA AUTO FINANCE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5635",
+            "website": "maf.co.id"
+        },
+        {
+            "id": "9cb1aba6-c77d-4f03-83fe-da0f57332e06",
+            "nama_pse": "MEGA CAPITAL SEKURITAS",
+            "nama_se": "MEGA ONLINE TRADING",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5636",
+            "website": "megaonlinetrading.id"
+        },
+        {
+            "id": "9cb1ab9c-0800-492b-acd9-f4b51840e135",
+            "nama_pse": "ALENA NUSA CEMERLANG",
+            "nama_se": "WWW.ANC.CO.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5641",
+            "website": "anc.co.id"
+        },
+        {
+            "id": "9cb1ab9c-0b1d-45a3-816d-3497ecf4783d",
+            "nama_pse": "YAMAHA INDONESIA MOTOR MANUFACTURING",
+            "nama_se": "WEBSITE YAMAHA RACING INDONESIA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5638",
+            "website": "yamaharacingindonesia.co.id"
+        },
+        {
+            "id": "9cb1ab9c-0dfd-451e-b47a-d558d35209a0",
+            "nama_pse": "PUTRA INTI CEMERLANG",
+            "nama_se": "BERSIHCEMERLANG.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5637",
+            "website": "bersihcemerlang.com"
+        },
+        {
             "id": "9cb1ab9c-10e8-4021-b5ac-2929bd1bfd5d",
             "nama_pse": "MEGA CAPITAL SEKURITAS",
             "nama_se": "MEGA SEKURITAS",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-13",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5434",
             "website": "pulsabayar.com"
-        },
-        {
-            "id": "9cb1abb0-01dc-4dec-8a7e-3c14f2eb504f",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
-            "nama_se": "BRICARD",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5435",
-            "website": "bricard.bri.co.id"
-        },
-        {
-            "id": "9cb1abb0-0453-4ffb-85e6-cf085297a6d0",
-            "nama_pse": "HALO BELANJA DOTCOM",
-            "nama_se": "HALO BELANJA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5436",
-            "website": "halobelanja.com"
-        },
-        {
-            "id": "9cb1abb0-0699-45c3-9ae5-9825fa4a292d",
-            "nama_pse": "ALIRAN SUMBER BERKAT",
-            "nama_se": "WAHYOO",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5439",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb0-0925-47bf-85b6-a32e94dec310",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
-            "nama_se": "NELAYAN SEJAHTERA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5438",
-            "website": "nelayansejahtera.bri.co.id"
-        },
-        {
-            "id": "9cb1ab9b-6887-48fa-907e-b0872c8fb353",
-            "nama_pse": "HALO BELANJA DOTCOM",
-            "nama_se": "HALOBELANJADOTCOM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5441",
-            "website": "halobelanja.com"
-        },
-        {
-            "id": "9cb1aba6-3a91-4e4e-bf0a-36e54614d8ad",
-            "nama_pse": "ASURANSI JIWA INHEALTH INDONESIA",
-            "nama_se": "SIMO",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5442",
-            "website": "simo.inhealth.co.id"
-        },
-        {
-            "id": "9cb1aba6-3c4d-4d4d-9a61-f97b8fd875c2",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
-            "nama_se": "SINPI (SISTEM INFORMASI PERTANIAN INDONESIA)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5443",
-            "website": "sinpi.bri.co.id"
-        },
-        {
-            "id": "9cb1abb0-0b78-4d82-a4ab-59ba3dadb988",
-            "nama_pse": "HALO BELANJA DOTCOM",
-            "nama_se": "HALOBELANJA DOTCOM",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5444",
-            "website": "halobelanja.com"
-        },
-        {
-            "id": "9cb1ab9b-6ab8-4c87-a6fd-63ae108db03a",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
-            "nama_se": "DASHBOARD BPUM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5445",
-            "website": "dashboard.bri.co.id"
-        },
-        {
-            "id": "9cb1aba6-3eb5-45a9-bda6-4b3b99032c4e",
-            "nama_pse": "SARANA SANTOSA SEJATI",
-            "nama_se": "PLUANGGROW.COM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5446",
-            "website": "pluanggrow.com"
         }
     ],
-    "processingTimeMs": 12,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 284,
     "totalPages": 383

@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac3e-5073-4db5-8bc2-f66d9ca8eebc",
+            "nama_pse": "ASURANSI TRI PAKARTA",
+            "nama_se": "APLIKASI MOBILE TRIPA SMART",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13911",
+            "website": "tripakarta.co.id"
+        },
+        {
+            "id": "9cb1ac2e-c53f-4908-acac-8e1ec15d5f8c",
+            "nama_pse": "ADHOUSE INDONESIA CIPTA",
+            "nama_se": "ANAK BISNIS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13912",
+            "website": "anakbisnis.com"
+        },
+        {
+            "id": "9cb1ac1c-6bc1-462f-a9a4-c74a4a22c4d9",
+            "nama_pse": "FANA BAKA TEKNOLOGI",
+            "nama_se": "PABRYK",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13908",
+            "website": "pabryk.com"
+        },
+        {
+            "id": "9cb1ac3e-6a3b-4c17-aea8-fd79f55536ad",
+            "nama_pse": "FANA BAKA TEKNOLOGI",
+            "nama_se": "TUKARPAY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13909",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac1c-6f39-4dbf-9ad5-ea9a88b4c05a",
+            "nama_pse": "APIK EDU INDONESIA",
+            "nama_se": "BLORA BERSATU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13910",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac1c-76f7-4684-baf3-1429a5c2f831",
+            "nama_pse": "KONSULTAN BISNIS DAN INFORMATIKA",
+            "nama_se": "OLEH OLEH ONLINE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13913",
+            "website": "oleholehonline.id"
+        },
+        {
+            "id": "9cb1ac2e-cd95-4bb5-93f1-2842a7ae50a2",
+            "nama_pse": "BIGS INTEGRASI TEKNOLOGI",
+            "nama_se": "EMESYS",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13914",
+            "website": "emesys.id"
+        },
+        {
+            "id": "9cb1ac2e-d11c-4ac1-905e-f350585a377a",
+            "nama_pse": "KARYA PRIMA PUTERA PERKASA",
+            "nama_se": "AVIAT",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13918",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac1c-7b0b-4b16-aaf5-63ced65cf223",
+            "nama_pse": "BEIDIAN TECHNOLOGY SERVICE",
+            "nama_se": "BEIDIAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13916",
+            "website": "beidian.com.cn"
+        },
+        {
+            "id": "9cb1ac1c-805b-4141-a376-35b8c85694c1",
+            "nama_pse": "SISTEM KESEHATAN INDONESIA",
+            "nama_se": "SISTEMKESEHATAN.ID",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13919",
+            "website": "sistemkesehatan.id"
+        },
+        {
+            "id": "9cb1ac3e-7732-440c-a976-5f3c3a915454",
+            "nama_pse": "FANA BAKA TEKNOLOGI",
+            "nama_se": "KONNEKIN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-02-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13920",
+            "website": "konnekin.com"
+        },
+        {
             "id": "9cb1ac2e-e8cd-4d58-b7a2-cb09892c713c",
             "nama_pse": "SUARA MEDIA ONLINE",
             "nama_se": "SUARAKALBAR.CO.ID",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-02-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13846",
             "website": "eranasional.com"
-        },
-        {
-            "id": "9cb1ac2e-83c0-4a71-a560-aad2a5a79f6a",
-            "nama_pse": "TETRA MEDIKALOKA BAROKAH",
-            "nama_se": "SIMRS KHANZA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-02-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13847",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac2e-898d-4650-adfd-410297f53017",
-            "nama_pse": "CIPTA PESONA MAYAPADA",
-            "nama_se": "YUMELIVE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13850",
-            "website": "yumelive.id"
-        },
-        {
-            "id": "9cb1ac1c-516c-4912-ae07-7fb26528fe13",
-            "nama_pse": "RUMAH SAKIT MATA CICENDO BANDUNG DITJEN PELAYANAN KESEHATAN KEMENTERIAN KESEHATAN",
-            "nama_se": "REKAM MEDIS ELEKTRONIK PMN RS MATA CICENDO",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-02-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13851",
-            "website": "cicendoeyehospital.org"
-        },
-        {
-            "id": "9cb1ac1c-539d-4698-a167-d6c0f425deac",
-            "nama_pse": "PRATAMA SADYA SADANA",
-            "nama_se": "WEBSITE SETIR KANAN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-02-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13853",
-            "website": "setirkanan.co.id"
-        },
-        {
-            "id": "9cb1ac1c-568a-4473-81f7-68e781718dbb",
-            "nama_pse": "EMAS DIGITAL GLOBAL",
-            "nama_se": "TAMASIA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13854",
-            "website": "tamasia.co.id"
-        },
-        {
-            "id": "9cb1ac1c-59c7-44e7-a132-7f4bb842d029",
-            "nama_pse": "ASABA DIGITAL INNOTECH",
-            "nama_se": "AKUSIGN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13855",
-            "website": "akusign.id"
-        },
-        {
-            "id": "9cb1ac3e-025b-467c-85dc-193c78ed64a7",
-            "nama_pse": "INDOFLAZZ DIGITAL INDONESIA",
-            "nama_se": "INDOFLAZZ",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13856",
-            "website": "indoflazz.com"
-        },
-        {
-            "id": "9cb1ac3e-05a9-4275-b7eb-be2d65606843",
-            "nama_pse": "TOCO RAMAI DIGITAL",
-            "nama_se": "TOCO.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-02-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13857",
-            "website": "toco.id"
-        },
-        {
-            "id": "9cb1ac3e-0957-4b30-a10a-fffd7b7020ce",
-            "nama_pse": "PHOTON KONSULTANSI INDONESIA",
-            "nama_se": "PHOTON WEBSITE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-02-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13858",
-            "website": "photon.id"
-        },
-        {
-            "id": "9cb1ac1c-48e9-4616-ab4a-5f7f8766bb68",
-            "nama_pse": "WISNU NUGROHO",
-            "nama_se": "WEBSITE WWW.SPARJO.COM",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13842",
-            "website": "sparjo.com"
-        },
-        {
-            "id": "9cb1ac3d-ff32-48c3-a461-c030dd9689bd",
-            "nama_pse": "CAREN SOLUSI INDONESIA",
-            "nama_se": "CAREN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13843",
-            "website": "-"
         }
     ],
     "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 154,
     "totalPages": 383

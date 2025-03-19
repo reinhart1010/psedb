@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac28-9823-456c-9505-d808c1f5bb37",
+            "nama_pse": "DIVA KARYA UTAMA",
+            "nama_se": "SIMPUS, SIMKLINIK, SIM-APOTIK",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15827",
+            "website": "indokes.com"
+        },
+        {
+            "id": "9cb1ac4a-8c2a-4e46-bdfe-fbc6c3f453ac",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+            "nama_se": "SATUNADI",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15829",
+            "website": "satunadi.id"
+        },
+        {
+            "id": "9cb1ac3b-325f-4fad-bddb-d2d6a627b2e9",
+            "nama_pse": "SEMOLIS TEKNOLOGI INDONESIA",
+            "nama_se": "SEMOLIS",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi",
+            "tanggal_terbit": "2023-09-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15828",
+            "website": "sewamotorlistrik.com"
+        },
+        {
+            "id": "9cb1ac4a-918b-4f26-b21e-f8ca7c8c5a11",
+            "nama_pse": "GEGER MEDIA INFORMATIKA",
+            "nama_se": "CLICKSEKARANG.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15831",
+            "website": "clicksekarang.com"
+        },
+        {
+            "id": "9cb1ac3b-3876-43d5-abe7-662bddd423e8",
+            "nama_pse": "GEGER MEDIA INFORMATIKA",
+            "nama_se": "SILET-NEWS.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15832",
+            "website": "silet-news.com"
+        },
+        {
+            "id": "9cb1ac4a-6eba-450e-a138-d0a8adbc3f69",
+            "nama_pse": "ABDUR ROHMAN MUHAMMAD",
+            "nama_se": "MLITE-KLINIK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-09-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15815",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac28-8960-445d-9b2a-f8032aec4fc1",
+            "nama_pse": "ALVIAN HASAN ",
+            "nama_se": "TOKO MODERN ALDIVRA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-09-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15816",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac28-8d6d-4832-8261-c70a5de459b6",
+            "nama_pse": "BGS TEKNOLOGI NUSANTARA",
+            "nama_se": "KITABAYAR.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15817",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4a-3d0d-4325-a600-2f9bc88f8258",
+            "nama_pse": "ASSYIFA NUSANTARA MEDIKA",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN KLINIK ROLAS MEDIKA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-09-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15811",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac28-817a-44db-bd5e-3a2b69b22ec1",
+            "nama_pse": "INFOTAMA SOLUSINDO",
+            "nama_se": "RSIA NUN SURABAYA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-09-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15812",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac3b-1321-4690-b8e8-db7e1f37ae97",
+            "nama_pse": "OCOMMERCE CAPITAL INDONESIA",
+            "nama_se": "(OCISTOK)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15813",
+            "website": "Www.ocistok.com"
+        },
+        {
             "id": "9cb1ac4a-6be0-40d6-b6d7-222112c9a039",
             "nama_pse": "SOLUSI ADMINISTRASI TUNTAS",
             "nama_se": "BUKAOFFICE",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-08-30",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15776",
             "website": "infin80linx.co.id"
-        },
-        {
-            "id": "9cb1ac4a-22a4-448e-911e-b2dfe8983fb5",
-            "nama_pse": "BUDI AGUNG",
-            "nama_se": "SIMBA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15775",
-            "website": "rsbudiagung.com"
-        },
-        {
-            "id": "9cb1ac4a-2574-4649-adb1-e552877f44c5",
-            "nama_pse": "KICK PRICE INC",
-            "nama_se": "THE FRAGRANCE SHOP",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15778",
-            "website": "thefragranceshopinc.com"
-        },
-        {
-            "id": "9cb1ac28-06e2-41a3-9f6e-47f75d3212b4",
-            "nama_pse": "RUMAH SAKIT UMUM DAERAH AL IHSAN PROVINSI JAWA BARAT",
-            "nama_se": "SIMRS DEBAS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-08-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15751",
-            "website": "rsudalihsan.com"
-        },
-        {
-            "id": "9cb1ac3a-9210-4f9d-a09d-f024e4eb36d3",
-            "nama_pse": "PERTAMINA BINA MEDIKA IHC",
-            "nama_se": "SIM KLINIK PERTAMINA PLUMPANG",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-08-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15753",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4a-03ae-420c-b06e-47cfe9cbcf3f",
-            "nama_pse": "ANANDA GLOBAL INDONESIA",
-            "nama_se": "RGAMESTORE",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15750",
-            "website": "rgamestore.com"
-        },
-        {
-            "id": "9cb1ac28-1165-4d0c-a72d-00daf1892107",
-            "nama_pse": "PERTAMINA BINA MEDIKA IHC",
-            "nama_se": "OSS IHC RUMAH SAKIT OTAK \u0026 JANTUNG BIRINGKANAYA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-08-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15752",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4a-0ceb-4da9-8f21-49bd90396af4",
-            "nama_pse": "PERTAMINA BINA MEDIKA IHC",
-            "nama_se": "SIRUP RUMAH SAKIT PERTAMINA PANGKALAN BRANDAN",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-08-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15761",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac28-18df-4c01-b1c4-423a561caad0",
-            "nama_pse": "RUMAH SAKIT PELABUHAN",
-            "nama_se": "SIMOP RS PELABUHAN JAKARTA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-08-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15754",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac3a-99e4-4d2e-8dbd-2d4552d8b001",
-            "nama_pse": "PERTAMINA BINA MEDIKA IHC",
-            "nama_se": "SIM KLINIK PERTAMINA BSD",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-08-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15762",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac3a-b2d7-4c79-95d6-2d4433852fe6",
-            "nama_pse": "AGRIVA TEKNOLOGI NUSANTARA",
-            "nama_se": "DESAPEDIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15760",
-            "website": "desapedia.co.id"
-        },
-        {
-            "id": "9cb1ac28-2520-4cc8-978c-c12323d2b7a8",
-            "nama_pse": "RSJD DR RM SOEDJARWADI PROVINSI JAWA TENGAH",
-            "nama_se": "SIM RS SOEDJARWADI",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-08-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15757",
-            "website": "rsjd-sujarwadi.jatengprov.go.id"
         }
     ],
     "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 122,
     "totalPages": 383

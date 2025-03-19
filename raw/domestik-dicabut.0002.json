@@ -1,6 +1,15 @@
 {
     "hits": [
         {
+            "id": "9cb1ac33-fadf-4c0e-b370-50107f1d30a8",
+            "nama_pse": "MODERN ABADI",
+            "nama_se": "FAVO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15558",
+            "website": "favo.id"
+        },
+        {
             "id": "9cb1ac26-2885-43c7-87c6-981f4136310b",
             "nama_pse": "DARMA BUDYA HARJA",
             "nama_se": "SEKTORPROPERTY",
@@ -440,20 +449,11 @@
             "tanggal_terbit": "2022-08-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10405",
             "website": "nonarara.com"
-        },
-        {
-            "id": "9cb1abf9-e32b-435f-af6c-c7b947d6b449",
-            "nama_pse": "HYPEFAST KARYA NUSANTARA",
-            "nama_se": "LUXCRIME OFFICIAL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9745",
-            "website": "luxcrime.com"
         }
     ],
     "processingTimeMs": 0,
     "query": "",
-    "totalHits": 247,
+    "totalHits": 248,
     "hitsPerPage": 50,
     "page": 2,
     "totalPages": 5

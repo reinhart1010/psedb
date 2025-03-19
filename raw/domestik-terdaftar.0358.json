@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab6a-c2d1-4db9-8b0f-6cd06a4b9e24",
+            "nama_pse": "NETZME KREASI INDONESIA",
+            "nama_se": "TOKO NETZME",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1367",
+            "website": "netzme.id"
+        },
+        {
+            "id": "9cb1ab71-c917-48ce-a29a-44bb31fd7eb5",
+            "nama_pse": "BANK DIGITAL BCA",
+            "nama_se": "BLU",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1171",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6a-e2ef-4363-b524-095868358c1e",
+            "nama_pse": "PERLU FINTECH INDONESIA",
+            "nama_se": "ITERNAK",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1092",
+            "website": "iternak.id"
+        },
+        {
+            "id": "9cb1ab6a-eeaa-4fb2-9580-06723c14bbb9",
+            "nama_pse": "NUSA SELARAS INDONESIA",
+            "nama_se": "NU SKIN WEBSITE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1378",
+            "website": "nuskin.com"
+        },
+        {
+            "id": "9cb1ab6a-fb22-4dc9-b31f-b4e651d80d23",
+            "nama_pse": "JASA BMT EL AMANAH",
+            "nama_se": "BMT EL-AMANAH",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1339",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6b-01c1-4cca-9ed0-727fae6d7272",
+            "nama_pse": "BIZGITAL INDONESIA JAYA",
+            "nama_se": "BBO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1158",
+            "website": "bbo.co.id"
+        },
+        {
+            "id": "9cb1ab63-9035-421a-bba9-4c4f9cb0bbd4",
+            "nama_pse": "KARYA KERJA SEJAHTERA",
+            "nama_se": "KKS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1149",
+            "website": "karyaks.com"
+        },
+        {
+            "id": "9cb1ab63-92fd-4866-8cf4-78f8b5b8926d",
+            "nama_pse": "JELAS KARYA WASANTARA",
+            "nama_se": "VERIJELAS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1150",
+            "website": "verijelas.com"
+        },
+        {
+            "id": "9cb1ab6b-0601-486b-807a-39142af6641a",
+            "nama_pse": "ANUGRAH WAHYU TEHNIK",
+            "nama_se": "WWW.ANUGRAHWAHYUTEHNIK.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1145",
+            "website": "ANUGRAHWAHYUTEHNIK.COM"
+        },
+        {
+            "id": "9cb1ab72-25ee-41f8-8fc6-e4cb4b898861",
+            "nama_pse": "VARA INDONESIA HOLD",
+            "nama_se": "BUKUGAJI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1098",
+            "website": "bukugaji.com"
+        },
+        {
             "id": "9cb1ab63-da60-4638-9e11-a366f6ddaf02",
             "nama_pse": "KOREA INVESTMENT AND SEKURITAS INDONESIA",
             "nama_se": "KISI MOBILE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-06-02",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1069",
             "website": "finanku.com"
-        },
-        {
-            "id": "9cb1ab64-5ac8-487c-8d2f-035c97dc3045",
-            "nama_pse": "KGI SEKURITAS INDONESIA",
-            "nama_se": "KGETS",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1129",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab72-c78c-4848-bb3a-facea4bbfc79",
-            "nama_pse": "OKE PTOP INDONESIA",
-            "nama_se": "OK!P2P",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1078",
-            "website": "okp2p.co.id"
-        },
-        {
-            "id": "9cb1ab72-cb62-4304-b474-6f734153ad91",
-            "nama_pse": "KOMUNIKA LINTAS MAYA",
-            "nama_se": "SOCIABUZZ",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1062",
-            "website": "sociabuzz.com"
-        },
-        {
-            "id": "9cb1ab64-5d49-43fa-a49f-56843e492057",
-            "nama_pse": "DANA AGUNA NUSANTARA",
-            "nama_se": "DANAMART",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1091",
-            "website": "danamart.id"
-        },
-        {
-            "id": "9cb1ab64-5f71-4c2c-ae9e-29f4eaf0bcae",
-            "nama_pse": "GRADANA TEKNORUCI INDONESIA",
-            "nama_se": "GRADANA",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1134",
-            "website": "gradana.co.id"
-        },
-        {
-            "id": "9cb1ab72-d24a-4452-8523-b714ba0f9602",
-            "nama_pse": "ALFA FINTECH INDONESIA",
-            "nama_se": "IT PLATFORM KREDITCEPAT",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Keuangan, Sektor Keuangan, Sektor Pangan, Sektor Pangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1104",
-            "website": "kreditcepat.co.id"
-        },
-        {
-            "id": "9cb1ab66-4288-49cc-9a2b-5822b82320b3",
-            "nama_pse": "BANK RESONA PERDANIA",
-            "nama_se": "WEBSITE  BANK RESONA PERDANIA",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1143",
-            "website": "perdania.co.id"
-        },
-        {
-            "id": "9cb1ab72-d6d1-4733-93ff-4f8ad7187ef6",
-            "nama_pse": "BANK RESONA PERDANIA",
-            "nama_se": "PERDANIA DIRECT INTERNET BANKING",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1144",
-            "website": "pdirect.perdania.co.id/sslvpn/Login/Login"
-        },
-        {
-            "id": "9cb1ab72-d920-4fe2-9cd0-f1b1cbb7624b",
-            "nama_pse": "TRICATHA SEMPITERNAL ASIA",
-            "nama_se": "HELP RENAKTA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1342",
-            "website": "https://play.google.com/store/apps/details?id=com.renakta.help"
-        },
-        {
-            "id": "9cb1ab72-dc41-4711-be71-48f00ec8a992",
-            "nama_pse": "BANK GANESHA",
-            "nama_se": "GANESHA ONLINE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1101",
-            "website": "ganeshaonline.bankganesha.co.id"
         }
     ],
-    "processingTimeMs": 11,
+    "processingTimeMs": 8,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 358,
     "totalPages": 383

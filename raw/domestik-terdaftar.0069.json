@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac85-20fe-4a49-ade0-7d6a81383b20",
+            "nama_pse": "ABU BAKR ASSIDDIQ",
+            "nama_se": "SIMRS KHANZA RSKB HEART AND SURGERY",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-05-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18829",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6f-8711-4cb6-a5e4-935cbfd5bbe6",
+            "nama_pse": "INTI OPTIMA TEKNOLOGI",
+            "nama_se": "SURVEI INTERAKTIF ELEKTRONIK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18831",
+            "website": "intioptima.com"
+        },
+        {
+            "id": "9cb1ac5a-d13f-4885-ab18-a89bcdc7b1ad",
+            "nama_pse": "AMBIL GAJI DULUAN",
+            "nama_se": "ATOER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18830",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6f-8a83-439e-b3f9-4c7c542e15aa",
+            "nama_pse": "NARENDRA ARGA MULYA",
+            "nama_se": "PT NARENDRA ARGA MULYA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18832",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5a-d9f2-42a5-83f7-04c6d3a84c90",
+            "nama_pse": "ANTAREJA NUSANTARA RESOURCES",
+            "nama_se": "CREATIVE DIGITAL SHOP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18833",
+            "website": "creativeds.shop"
+        },
+        {
+            "id": "9cb1ac6f-8dcc-43c7-bfe5-ed1f4a3b3fff",
+            "nama_pse": "AKTIVA MULTI INOVASI",
+            "nama_se": "TIGADIGIT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18834",
+            "website": "tigadigit.id"
+        },
+        {
+            "id": "9cb1ac5a-bc23-4278-b394-4133b3a24475",
+            "nama_pse": "VISION PULSA MULTIPAYMENT",
+            "nama_se": "VISIONPULSA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18821",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5a-b13c-44dc-8b01-4086e9478483",
+            "nama_pse": "BERANI DIGITAL INDONESIA",
+            "nama_se": "BERANI DIGITAL ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18817",
+            "website": "beranidigital.id"
+        },
+        {
+            "id": "9cb1ac5a-b4fa-4730-90db-454cf9dcc636",
+            "nama_pse": "BERKAT ADONAY NETWORK",
+            "nama_se": "ADONAY.NET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18818",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6f-77fa-4ad6-9417-0f10d5a53345",
+            "nama_pse": "LOKA DIGITAL NIAGA",
+            "nama_se": "ACARAKOO.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18819",
+            "website": "acarakoo.com"
+        },
+        {
             "id": "9cb1ac6f-7c87-40a9-ba26-6200f8b9de21",
             "nama_pse": "DARI TEKNOLOGI INDONESIA",
             "nama_se": "WEBSEKOLAH.CO.ID",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-05-02",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18801",
             "website": "oss-nib.com"
-        },
-        {
-            "id": "9cb1ac84-b6d1-4097-9297-54767b0c1725",
-            "nama_pse": "POWER NETWORKING INDONESIA",
-            "nama_se": "PT POWER NETWORKING",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18771",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5a-5f50-4b98-8762-941cec4d69c0",
-            "nama_pse": "RANDY AL FIYAN",
-            "nama_se": "WEWESTORE.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18763",
-            "website": "wewestore.id"
-        },
-        {
-            "id": "9cb1ac6f-3fad-4bd1-a5de-8260ae1bdec9",
-            "nama_pse": "TRANS LINK INTERNASIONAL",
-            "nama_se": "MISBAH GROUP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18764",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6f-4874-4c9b-b406-ecf370b3e29f",
-            "nama_pse": "ZAN MICRO SYSTEM",
-            "nama_se": "FASTBOOK ONLINE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18765",
-            "website": "zmsweb.com"
-        },
-        {
-            "id": "9cb1ac5a-62b2-48b4-a2d7-c654134a8a2d",
-            "nama_pse": "PERORANGAN BINA USAHA",
-            "nama_se": "PERORANGAN.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18766",
-            "website": "Perorangan.co.id"
-        },
-        {
-            "id": "9cb1ac5a-65d6-4ed3-b540-7e2a6f1e3d0c",
-            "nama_pse": "OCEAN SHELL TRAVELERS",
-            "nama_se": "OSTREVELLERS.COM",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2024-05-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18767",
-            "website": "ostravelers.com"
-        },
-        {
-            "id": "9cb1ac6f-5231-4131-98a0-c022e09092af",
-            "nama_pse": "JGM MEETQUEST DIGITECH",
-            "nama_se": "QUESTERTWIT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18768",
-            "website": "questertwit.com"
-        },
-        {
-            "id": "9cb1ac6f-5526-4c19-a813-6eb4ee21c13c",
-            "nama_pse": "TRANS LINK INTERNASIONAL",
-            "nama_se": "TLI-MISBAH GROUP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18769",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6f-5893-4367-9ddb-9b6aaecef0e2",
-            "nama_pse": "POWER NETWORKING INDONESIA",
-            "nama_se": "PT POWER NETWORKING INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18770",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac84-be78-44ea-a443-7905b8186553",
-            "nama_pse": "GROUND HANDLING SERVICE",
-            "nama_se": "PT. GROUND HANDLING SERVICE",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2024-05-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18774",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 2,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 69,
     "totalPages": 383

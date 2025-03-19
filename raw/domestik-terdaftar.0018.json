@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9dc060ee-9c04-4c1c-b95d-4530fb31837b",
+            "nama_pse": "KREASI INDAH ALAM",
+            "nama_se": "SITUS WEB",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21832",
+            "website": "thebathaholic.com"
+        },
+        {
+            "id": "9dbfcd6c-c4a0-4bd7-b86c-5e3e3d9be7b3",
+            "nama_pse": "GOLDEN MULIA SEJAHTERA",
+            "nama_se": "GOMS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21827",
+            "website": "goms.app"
+        },
+        {
+            "id": "9dc10bc8-6f2d-4e3d-bd56-ee1793ee0769",
+            "nama_pse": "FAN JAYA PALNAM",
+            "nama_se": "krimsus.com",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21843",
+            "website": "-"
+        },
+        {
+            "id": "9dc0ad4c-533e-4ec8-b220-8bf76fa4dce8",
+            "nama_pse": "WARUNG BALI INDONESIA",
+            "nama_se": "WOW BOOZE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21840",
+            "website": "wowbooze.com"
+        },
+        {
+            "id": "9dc062fd-4f43-482a-951c-55fe8fb1ad12",
+            "nama_pse": "ADMINISTRASI MEDIKA",
+            "nama_se": "MYADMEDIK@",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21834",
+            "website": "mobileapps.admedika.co.id"
+        },
+        {
+            "id": "9dc0ccd1-672f-4750-8c2e-59dec3bf061c",
+            "nama_pse": "LEJEL SHOPPING",
+            "nama_se": "lejel.co.id",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21841",
+            "website": "lejel.co.id"
+        },
+        {
+            "id": "9dc10aa9-74de-48a4-913e-acbe155b0f18",
+            "nama_pse": "CUCU KUSNANDAR",
+            "nama_se": "GG HASAN NETWORK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21842",
+            "website": "-"
+        },
+        {
+            "id": "9dc078b8-b026-4355-a58b-67783d0b4aa4",
+            "nama_pse": "PESONA ELEGAN ABADI",
+            "nama_se": "roseallday.co",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21837",
+            "website": "roseallday.co"
+        },
+        {
+            "id": "9dc143b7-d386-4bca-bece-ac58a9347d96",
+            "nama_pse": "SUHERMAN",
+            "nama_se": "CBT NETWORK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21844",
+            "website": "-"
+        },
+        {
+            "id": "9dbe98ed-13f7-4425-af2f-840ef4426540",
+            "nama_pse": "RADHIKA MANDIRI",
+            "nama_se": "CV RADHIKA MANDIRI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21817",
+            "website": "-"
+        },
+        {
             "id": "9dbea73e-e408-4aea-bb3b-a78aecd73303",
             "nama_pse": "BOSS DAZZ ABADI",
             "nama_se": "BOSS TOPUP",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-12-13",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21770",
             "website": "-"
-        },
-        {
-            "id": "9db6350f-13b1-4813-b663-e7b20396fde2",
-            "nama_pse": "SAMUDRA MUTIARA SATRIA",
-            "nama_se": "pewarta.tv",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21771",
-            "website": "-"
-        },
-        {
-            "id": "9db615f9-2e0d-4227-8139-181ef625f45b",
-            "nama_pse": "JAMINAN KREDIT INDONESIA",
-            "nama_se": "JAMINAN KREDIT INDONESIA (JAMKRINDO)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21766",
-            "website": "jamkrindo.co.id"
-        },
-        {
-            "id": "9db615a6-e9a9-4ad4-aa88-5535a4039c5d",
-            "nama_pse": "AIA FINANCIAL",
-            "nama_se": "AIA INDONESIA IRECRUIT",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21765",
-            "website": "irecruit.aia.id"
-        },
-        {
-            "id": "9db67536-4a2a-4aad-8494-dc98649c21e7",
-            "nama_pse": "MUHAMMAD RIZKI RIJAL",
-            "nama_se": "BAPARKIR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21775",
-            "website": "baparkir.com"
-        },
-        {
-            "id": "9db560ff-ddc2-4ef9-9df3-53b4a6463c62",
-            "nama_pse": "MEDIA LIPUTAN KHATULISTIWA",
-            "nama_se": "liputankhatulistiwa.com",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21764",
-            "website": "liputankhatulistiwa.com"
-        },
-        {
-            "id": "9db72613-c557-4051-bd64-7c915ac0eceb",
-            "nama_pse": "DEDE WIRYANA",
-            "nama_se": "SAGITARIUS HDWIFI",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21785",
-            "website": "-"
-        },
-        {
-            "id": "9db63ce1-0434-4197-9d07-76cf52915c52",
-            "nama_pse": "MAP AKTIF ADIPERKASA",
-            "nama_se": "HOKA INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21772",
-            "website": "hoka.com"
-        },
-        {
-            "id": "9db69afe-fb88-4659-8ff7-b66fe2b04e7f",
-            "nama_pse": "AGUS SURIYADI",
-            "nama_se": "MT NETWORK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21776",
-            "website": "-"
-        },
-        {
-            "id": "9db6a24a-139e-4815-9432-0163e2b0a0ef",
-            "nama_pse": "CAKRAWALA BUMI MENOREH",
-            "nama_se": "PORTAL DAGANG",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21777",
-            "website": "portaldagang.com"
-        },
-        {
-            "id": "9db6ae9b-f433-4204-bbe9-9647eb28ace6",
-            "nama_pse": "SUPARMI",
-            "nama_se": "PT NADIATAMA NETWORK SOLUTIONS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21778",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 22,
+    "processingTimeMs": 23,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 18,
     "totalPages": 383

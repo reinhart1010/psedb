@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abe5-6f59-4c28-9dab-92734d4df135",
+            "nama_pse": "MEMBERI BERKAT INDONESIA",
+            "nama_se": "DUTALIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6815",
+            "website": "dutalia.membercard.id"
+        },
+        {
+            "id": "9cb1abe5-7406-4908-88a8-4d477e35a108",
+            "nama_pse": "LUTFHY SUSI ANGGRAENY",
+            "nama_se": "WEBPUL.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6817",
+            "website": "webpul.com"
+        },
+        {
+            "id": "9cb1abc0-fcbc-4263-b04e-c1a9308730d0",
+            "nama_pse": "ISTANA BANDUNG RAYA MOTOR",
+            "nama_se": "WEBMAIL CORPORATE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6818",
+            "website": "hondawestjava.com"
+        },
+        {
+            "id": "9cb1abe5-7c4a-4fb0-9665-def4a9b78c87",
+            "nama_pse": "MEMBERI BERKAT INDONESIA",
+            "nama_se": "PANEN SQUARE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6823",
+            "website": "panensquare.membercard.id"
+        },
+        {
+            "id": "9cb1abe5-81de-4b88-b549-d0fa79fe8983",
+            "nama_pse": "TRIYAKOM",
+            "nama_se": "IM3KUISKUOTA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6825",
+            "website": "im3kuiskuota.id"
+        },
+        {
+            "id": "9cb1abc0-ffc2-4190-a933-118ccb38b8f0",
+            "nama_pse": "MOHAMMAD TAUFIQURROHMAN",
+            "nama_se": "APLIKASI PENCATATAN INFORMASI KEUANGAN BLUD PUSKESMAS KABUPATEN DEMAK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6827",
+            "website": "demak.bludpuskesmas.com"
+        },
+        {
+            "id": "9cb1abe5-8530-47f2-b18c-6f22a4252bb2",
+            "nama_pse": "ABD WAFUR",
+            "nama_se": "KANG PULSA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6824",
+            "website": "kangpulsa.my.id"
+        },
+        {
+            "id": "9cb1abc1-02b7-4dff-80dc-fbec8384b9a6",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT PRISMA BALI",
+            "nama_se": "BANKING SMART SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6826",
+            "website": "bprprismabali.co.id"
+        },
+        {
+            "id": "9cb1abe5-893d-45a6-b47b-088a8803c3d0",
+            "nama_pse": "IMORA MOTOR",
+            "nama_se": "WEBSITE RESMI MAIN DEALER HONDA JABODETABEK",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6829",
+            "website": "hondajakartacenter.com"
+        },
+        {
+            "id": "9cb1abe5-8dc9-40ba-aa0e-5e04d4073572",
+            "nama_pse": "MEMBERI BERKAT INDONESIA",
+            "nama_se": "ARINGO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6828",
+            "website": "aringo.co.id"
+        },
+        {
             "id": "9cb1abc1-0695-47c3-aabc-88a47f554690",
             "nama_pse": "BANK PEREKONOMIAN RAKYAT ABDI WARGA MULIA",
             "nama_se": "CORE BANKING SYSTEM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-19",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6872",
             "website": "digimod.bprmodernexpressntt.com"
-        },
-        {
-            "id": "9cb1abb6-034c-4c96-a0d0-b7cbf9e9db09",
-            "nama_pse": "BANK PERKREDITAN RAKYAT DUTA BALI",
-            "nama_se": "BPR DUTA BALI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6873",
-            "website": "bprduta.com"
-        },
-        {
-            "id": "9cb1abb6-07ea-4cf5-998d-d477a0fcb271",
-            "nama_pse": "TRIYAKOM",
-            "nama_se": "FUNKOREA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6874",
-            "website": "funkorea.co.id"
-        },
-        {
-            "id": "9cb1abb6-09c5-4c24-87ed-7e41042f0c3a",
-            "nama_pse": "BANK PERKREDITAN RAKYAT MAS GIRI WANGI",
-            "nama_se": "BANKING SMART SYSTEM (BSS)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6875",
-            "website": "bankgiri.co.id"
-        },
-        {
-            "id": "9cb1abb6-0b67-495a-98ae-7c51acbb18b2",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT JERO ANOM",
-            "nama_se": "GOBALI-IT",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6876",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb6-0f85-4231-a3dc-293f31f04537",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SINAR PUTERAMAS",
-            "nama_se": "DEJAYO",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6878",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abc1-222e-4113-9d1a-c10b5d844f36",
-            "nama_pse": "BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN JAWA TENGAH PERSERODA",
-            "nama_se": "WEBSITE PERUSAHAAN",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6880",
-            "website": "bkkjateng.co.id"
-        },
-        {
-            "id": "9cb1abe5-f68e-4ff8-9d4c-72d269ac8d8a",
-            "nama_pse": "INSPIRO MEGA IMPRESARIO",
-            "nama_se": "JAKARTA MARATHON APP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6879",
-            "website": "thejakartamarathon.com"
-        },
-        {
-            "id": "9cb1abb6-12a0-48a6-8ab8-791cc10d32a1",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT LESTARI BALI",
-            "nama_se": "LOAN TRACKING",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6881",
-            "website": "loantracking.bprlestari.com"
-        },
-        {
-            "id": "9cb1abc1-2550-41ef-9b24-c305a8ebbc59",
-            "nama_pse": "TRIYAKOM",
-            "nama_se": "LAYAR ANAK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6882",
-            "website": "layaranak.com"
-        },
-        {
-            "id": "9cb1abc1-2d3f-494d-93d2-89ed9eb3c87e",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT LUHUR DAMAI",
-            "nama_se": "PT BANK PERKREDITAN RAKYAT LUHUR DAMAI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6883",
-            "website": "bprluhurdamai.com"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 13,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 258,
     "totalPages": 383

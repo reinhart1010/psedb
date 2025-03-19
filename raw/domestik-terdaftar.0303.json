@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1aba2-0ee8-48a0-a957-b26ea74f3866",
+            "nama_pse": "ROBOCRYP TEKNOLOGI INVESTASI",
+            "nama_se": "ROBOCRYP",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4177",
+            "website": "robocryp.com"
+        },
+        {
+            "id": "9cb1aba2-10ff-42d1-888e-600fc6c3c354",
+            "nama_pse": "TIPTIP NETWORK INDONESIA",
+            "nama_se": "TIPTIP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4180",
+            "website": "Tiptip.tv"
+        },
+        {
+            "id": "9cb1aba2-134e-42e1-b2c1-76902c8c94da",
+            "nama_pse": "SANDS TALK INDONESIA",
+            "nama_se": "GLOBAL CAREER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4181",
+            "website": "globalcareer.id"
+        },
+        {
+            "id": "9cb1abac-5cd4-45c8-aa8b-61309e0f279e",
+            "nama_pse": "MUNZI SETIAWAN",
+            "nama_se": "SETIAWAN DIGI NET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4182",
+            "website": "bc24pedia.my.id"
+        },
+        {
+            "id": "9cb1ab95-fe95-4ba7-ae7a-dcaf9fdb74ee",
+            "nama_pse": "ELANG PRASETYA ALFAREZ",
+            "nama_se": "PT ALGAN SOLUSI KARSA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4186",
+            "website": "stratifin.com"
+        },
+        {
+            "id": "9cb1aba2-19fb-43b6-b0c7-0f9e5b9e556b",
+            "nama_pse": "ONEPETS GROUP INDONESIA",
+            "nama_se": "ONEPETS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4187",
+            "website": "onepets.id"
+        },
+        {
+            "id": "9cb1ab96-04b7-48dc-9d76-207557fc217d",
+            "nama_pse": "SINERGI INDOMEDIA PERKASA",
+            "nama_se": "SINERGI INDOMEDIA PERKASA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4188",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba1-fcbb-403b-83c2-58a3954cbec3",
+            "nama_pse": "UMI IMAMAH NURSABRINA LINATI",
+            "nama_se": "PUCHAI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4163",
+            "website": "PUCHAI.MY.ID"
+        },
+        {
+            "id": "9cb1ab95-f620-4a53-83e9-f8ae2d01668b",
+            "nama_pse": "YEYEP GUSTIAN",
+            "nama_se": "OKEPAY - SERVER PULSA \u0026 PPOB",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-05-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4164",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab95-fa3d-4d37-b686-f6ac32f3979a",
+            "nama_pse": "SAHABAT BISNIS INOVASI",
+            "nama_se": "SAHABATBISNIS.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-05-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4165",
+            "website": "sahabatbisnis.id"
+        },
+        {
             "id": "9cb1aba1-febd-4c31-b362-c264779bdc8f",
             "nama_pse": "HOUMI DIGITAL PROPERTINDO",
             "nama_se": "HOUMI",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-05-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4508",
             "website": "-"
-        },
-        {
-            "id": "9cb1abad-5c87-40f0-988a-fb0d183c3df9",
-            "nama_pse": "RULLY MULYADI",
-            "nama_se": "LUBNA CELL EXPRESS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-05-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4509",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abad-5e87-48b6-ae8f-cbb4d812f769",
-            "nama_pse": "TELUSUR WISATA NUSANTARA",
-            "nama_se": "TRIPLYFE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-05-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4510",
-            "website": "triplyfe.id"
-        },
-        {
-            "id": "9cb1abad-8279-4440-99c0-192e74d14cf3",
-            "nama_pse": "AIM BERSAMA",
-            "nama_se": "AIM KOMPUTER",
-            "sektor": "Sektor Perdagangan, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-05-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4582",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba3-9056-4155-8e83-21f00e5192cf",
-            "nama_pse": "AIM BERSAMA",
-            "nama_se": "AIM COMPUTER",
-            "sektor": "Sektor Perdagangan, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-05-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4583",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba3-92d6-4363-8761-f349cd4fca6d",
-            "nama_pse": "AIM BERSAMA",
-            "nama_se": "AIM BERSAMA ATK",
-            "sektor": "Sektor Perdagangan, Sektor Pangan, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-05-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4584",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba3-955b-470e-ba0b-cc373c59e2b5",
-            "nama_pse": "AIM BERSAMA",
-            "nama_se": "AIM BERSAMA COMP",
-            "sektor": "Sektor Perdagangan, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-05-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4585",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab96-aa93-4eaa-a775-1841e789ce7b",
-            "nama_pse": "ADVANCE INTELLIGENCE INDONESIA",
-            "nama_se": "ONESTOP PLATFORM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-05-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4346",
-            "website": "id-oop.advance.ai"
-        },
-        {
-            "id": "9cb1abac-f6ae-413c-b3dd-c350d65ef381",
-            "nama_pse": "BANK BTPN SYARIAH",
-            "nama_se": "BESTEEKU",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-05-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4350",
-            "website": "tepatdaya.btpnsyariah.com"
-        },
-        {
-            "id": "9cb1ab97-7cf0-4f30-8753-f518ab59acea",
-            "nama_pse": "YAKULT INDONESIA PERSADA",
-            "nama_se": "WEBSITE YAKULT",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-05-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4466",
-            "website": "yakult.co.id"
-        },
-        {
-            "id": "9cb1ab97-92bd-4b2d-9948-6c49a8c30671",
-            "nama_pse": "BIIZAA ASIA TECHNOLOGY",
-            "nama_se": "BIIZAA MANAGEMENT CONSULTING",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-05-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4480",
-            "website": "biizaa.com"
         }
     ],
     "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 303,
     "totalPages": 383

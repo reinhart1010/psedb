@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1abd3-d276-4d2d-91f4-3bbf9a673f19",
+            "nama_pse": "ASURANSI JIWA MANULIFE INDONESIA",
+            "nama_se": "MIDOCS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9839",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac09-1bab-4d28-835a-fb6a6f561467",
+            "nama_pse": "ISTANA MOBIL TRIO BANJARBARU",
+            "nama_se": "HONDA TRIO MOBIL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9841",
+            "website": "hondatriomobil.co.id"
+        },
+        {
+            "id": "9cb1ac09-1fc4-4780-9fed-b8f2ca8ad176",
+            "nama_pse": "BANK PERKREDITAN RAKYAT DHANA LESTARI",
+            "nama_se": "PT. BPR DHANA LESTARI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9842",
+            "website": "dhanalestari.com"
+        },
+        {
+            "id": "9cb1abd3-d6c0-4aa3-9f74-658510d11cba",
+            "nama_pse": "LANCAR TEKNOLOGI INDONESIA",
+            "nama_se": "SPILL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9843",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac09-22e0-4eb0-8cd6-1ae232d16542",
+            "nama_pse": "TECH FIL INDONESIA",
+            "nama_se": "PT TECH FIL INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9845",
+            "website": "FILMine.id"
+        },
+        {
+            "id": "9cb1abd3-de0f-490a-b4a3-32e70e515028",
+            "nama_pse": "ALI",
+            "nama_se": "WEBMU LINK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9844",
+            "website": "webmu.link"
+        },
+        {
+            "id": "9cb1ac09-293f-43af-8387-ecddd71e263c",
+            "nama_pse": "ALI",
+            "nama_se": "SITUSALI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9846",
+            "website": "situsali.com"
+        },
+        {
+            "id": "9cb1abd3-e186-4833-b732-5bcc76e17c12",
+            "nama_pse": "BYTEBOX META VERSE",
+            "nama_se": "MOTOVERSEGAME",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9871",
+            "website": "motoversegame.com"
+        },
+        {
+            "id": "9cb1ac09-2cbe-46ec-b010-eaa65bf2785b",
+            "nama_pse": "BANK PERKREDITAN RAKYAT NUSAMBA ADIWERNA",
+            "nama_se": "BPR NUSAMBA ADIWERNA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9847",
+            "website": "bprnusamba-adiwerna.com"
+        },
+        {
+            "id": "9cb1abfa-389d-49e2-92ec-deea96e35328",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT MITRA CENTRAL DANA",
+            "nama_se": "PT BPR MITRA CENTRAL DANA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9848",
+            "website": "bprmcd.co.id"
+        },
+        {
+            "id": "9cb1ac09-304a-400d-9261-fc4a41d681f3",
+            "nama_pse": "NEO BAZAR INDONESIA",
+            "nama_se": "KAKAOWEBTOON.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9862",
+            "website": "kakaowebtoon.com"
+        },
+        {
             "id": "9cb1ac09-3360-49c9-b279-bfe66c461727",
             "nama_pse": "TEKNOLOGI KARYA DIGITAL NUSA",
             "nama_se": "TKDN - TMS",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-08-04",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9900",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac09-764c-415c-98ae-b1f0fd30fd99",
-            "nama_pse": "MEDIA ARUS TENGAH ANORAWI",
-            "nama_se": "SIGASKSB.WEB.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9902",
-            "website": "sigasksb.web.id"
-        },
-        {
-            "id": "9cb1abd4-557e-4956-8159-aa2b6c875d35",
-            "nama_pse": "RUANG RAYA INDONESIA",
-            "nama_se": "RUANGKERJA APP",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9903",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abd4-5919-4602-9b6b-3db9a7874295",
-            "nama_pse": "DICKY IBROHIM",
-            "nama_se": "CLEOVA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9904",
-            "website": "cleova.com"
-        },
-        {
-            "id": "9cb1abfa-971f-4071-a30d-5593c6025560",
-            "nama_pse": "STAR TECHNOLOGY DIGITAL",
-            "nama_se": "IZILOH",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9905",
-            "website": "iziloh.id"
-        },
-        {
-            "id": "9cb1ac09-7958-41b0-bfe7-9cab81bf264a",
-            "nama_pse": "MEDIA ARUS TENGAH ANORAWI",
-            "nama_se": "MATANO.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9906",
-            "website": "matano.co.id"
-        },
-        {
-            "id": "9cb1ac09-7d92-4166-9d91-326a5d7fc540",
-            "nama_pse": "MEDIA ARUS TENGAH ANORAWI",
-            "nama_se": "MEDIAARUSTENGAHANORAWI.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9907",
-            "website": "mediaarustengahanorawi.co.id"
-        },
-        {
-            "id": "9cb1abfa-9d44-43ff-861b-6cabb6141b02",
-            "nama_pse": "MITRA KARYA MANDIRI",
-            "nama_se": "MAJALAH FARMASETIKA",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9908",
-            "website": "farmasetika.com"
-        },
-        {
-            "id": "9cb1ac09-8231-4a9d-a138-6bcda687e91f",
-            "nama_pse": "PANINTI HUB INDONESIA",
-            "nama_se": "PARENTINGHUB.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9909",
-            "website": "parentinghub.co.id"
-        },
-        {
-            "id": "9cb1abd4-5c96-401d-a588-e0c1f5021a2f",
-            "nama_pse": "PANINTI HUB INDONESIA",
-            "nama_se": "PANINTIHUB.COM",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9910",
-            "website": "panintihub.com"
-        },
-        {
-            "id": "9cb1ac09-8544-4d13-bca7-f59cbc10c0c1",
-            "nama_pse": "GARENA INDONESIA",
-            "nama_se": "PLATFORM TOP UP VOUCHER APLIKASI GAMES GARENA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9913",
-            "website": "kiosgamer.co.id"
-        },
-        {
-            "id": "9cb1ac09-8857-4d6a-a8b1-d3c2c9e202d8",
-            "nama_pse": "MISTER MULTI JASA",
-            "nama_se": "MISTER MULTI JASA",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9912",
-            "website": "mrjek.my.id"
         }
     ],
     "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 207,
     "totalPages": 383

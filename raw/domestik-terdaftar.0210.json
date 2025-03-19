@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1abf7-7ce5-4ed0-8716-48d64a1706a2",
+            "nama_pse": "ARKANA MAJU SEJAHTERA",
+            "nama_se": "IRACE",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9548",
+            "website": "iraceindonesia.com"
+        },
+        {
+            "id": "9cb1abf8-d15d-44d5-a0c5-935c35b95108",
+            "nama_pse": "QERJA AKADEMI INDONESIA",
+            "nama_se": "QOURSE.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9550",
+            "website": "qourse.id"
+        },
+        {
+            "id": "9cb1abf8-f0e4-4de8-8392-4450a79bdb6e",
+            "nama_pse": "NYCTOUS MEDIA TEKNOLOGI",
+            "nama_se": "NUVOPLAY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9553",
+            "website": "nuvoplay.com"
+        },
+        {
+            "id": "9cb1abd2-6a86-458a-a7e8-29fffab24805",
+            "nama_pse": "MULTIMEDIA CAKRA INDONESIA",
+            "nama_se": "MINYAKU",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9551",
+            "website": "minyaku.id"
+        },
+        {
+            "id": "9cb1abf7-82bf-4d63-aab5-3e60dd453c2a",
+            "nama_pse": "MULTIMEDIA CAKRA INDONESIA",
+            "nama_se": "MYCLUB",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9556",
+            "website": "myclub.id"
+        },
+        {
+            "id": "9cb1abf8-f8cd-4ce3-af57-d670ef212734",
+            "nama_pse": "ALNA BERSAMA MEDIA",
+            "nama_se": "TABENGAN.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9557",
+            "website": "tabengan.co.id"
+        },
+        {
+            "id": "9cb1abf8-fc1a-4400-959f-ab3492ed8783",
+            "nama_pse": "OBSIDO WIENS INVESTAMA",
+            "nama_se": "OBSIDO PORTAL",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9558",
+            "website": "obsido.co.id"
+        },
+        {
+            "id": "9cb1abf8-ff76-4b47-a215-d4b6b0de8ce6",
+            "nama_pse": "MANAJEMEN PEMESANAN INDONESIA",
+            "nama_se": "PASAR PEMESANAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9572",
+            "website": "pasarpemesanan.com"
+        },
+        {
+            "id": "9cb1abf7-8a0f-471d-8109-8c054329534b",
+            "nama_pse": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 2",
+            "nama_se": "NBP SYS, SISCHA, CAS, SAVING MOBILE APPLICATION",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9569",
+            "website": "bprnbp2.com"
+        },
+        {
+            "id": "9cb1abd2-77da-4371-a811-c3ebbe37519c",
+            "nama_pse": "SYSNETSOFT",
+            "nama_se": "MYHOMESCHOOL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9577",
+            "website": "demo.myhomeschool.co.id"
+        },
+        {
+            "id": "9cb1abf9-036e-46ba-82ea-3cf259671e42",
+            "nama_pse": "GALERI MUSLIMAH INDONESIA",
+            "nama_se": "HUMAIRAA GALLERY TELEGRAM GROUP \u0026 CHANNEL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9578",
+            "website": "-"
+        },
+        {
             "id": "9cb1abf9-071f-420f-83b2-acec591654c2",
             "nama_pse": "ELEVASI TEKNOLOGI CAKRAWALA",
             "nama_se": "AMTISS",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-08-02",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9631",
             "website": "way.id"
-        },
-        {
-            "id": "9cb1abf7-c57d-473d-ae02-660cca492c32",
-            "nama_pse": "DARWINBOX DIGITAL SOLUTIONS",
-            "nama_se": "DARWINBOX",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9632",
-            "website": "darwinbox.com"
-        },
-        {
-            "id": "9cb1abd2-bced-42be-9c8e-f2554e0f4ee5",
-            "nama_pse": "ASEP ROHIMAT",
-            "nama_se": "TIDAK TERSEDIA ATAU SUDAH TIDAK BERJALAN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9634",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abd2-c0a0-4736-bd6a-0d315bdf95e9",
-            "nama_pse": "OPTIMA EDUKASI PRESTASI",
-            "nama_se": "PRIMAINDISOFT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9638",
-            "website": "primaindisoft.com"
-        },
-        {
-            "id": "9cb1abd2-c725-4f6a-81d4-dc3730eea48d",
-            "nama_pse": "ASEP ROHIMAT",
-            "nama_se": "SUDAH TIDAK ADA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9635",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abf7-c992-47f4-9262-bc5646ce4f96",
-            "nama_pse": "TEKNOLOGI INTEGRASI ARMADA",
-            "nama_se": "FLEETIFY.ID",
-            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9636",
-            "website": "fleetify.id"
-        },
-        {
-            "id": "9cb1abf7-cc46-4802-8395-e9d4b02cb9d9",
-            "nama_pse": "ASEP ROHIMAT",
-            "nama_se": "TIDAK ADA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9637",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abf9-4ca4-4d6b-9235-4187f0a2685b",
-            "nama_pse": "ASEP ROHIMAT",
-            "nama_se": "TIDAK TERSEDIA LAGI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9639",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abd2-cacc-45fc-9ae8-eded7c6e8bb9",
-            "nama_pse": "MUCHAMMAD DZANUR RAGIL PUTRA",
-            "nama_se": "DZANUR TECH",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9640",
-            "website": "dzanur.com"
-        },
-        {
-            "id": "9cb1abf7-cf24-4697-9406-95dd96961392",
-            "nama_pse": "MUCHAMMAD DZANUR RAGIL PUTRA",
-            "nama_se": "SMAN 9 TANGERANG",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9641",
-            "website": "sman9tangerang.sch.id"
-        },
-        {
-            "id": "9cb1abf7-d1cc-4c31-9ac3-dec587213706",
-            "nama_pse": "D \u0026 B INDONESIA",
-            "nama_se": "WEBSITE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9642",
-            "website": "dnb.co.id"
-        },
-        {
-            "id": "9cb1abf7-d48c-4fbe-a71b-91005a6891fe",
-            "nama_pse": "TARA TIANA",
-            "nama_se": "TARA TIANA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9643",
-            "website": "taratiana.com"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 210,
     "totalPages": 383

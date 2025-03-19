@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abbd-aebd-497d-898a-e1501bac9cdb",
+            "nama_pse": "GRATAMA FINANCE INDONESIA",
+            "nama_se": "GRATAMAFINANCE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9001",
+            "website": "gratama-finance.co.id"
+        },
+        {
+            "id": "9cb1abcd-e097-47a1-a629-41f5c62dd458",
+            "nama_pse": "PATRA JASA",
+            "nama_se": "WEBSITE HOTEL SEMARANG",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9008",
+            "website": "patrasemaranghotel.com"
+        },
+        {
+            "id": "9cb1abcd-e53b-41de-ad36-bd0f4aa7d6ed",
+            "nama_pse": "ANALISA DATA SOLUSINDO",
+            "nama_se": "IDEANATION",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9002",
+            "website": "ideanation.org"
+        },
+        {
+            "id": "9cb1abcd-ea18-4366-bfb5-3e16db2b7949",
+            "nama_pse": "PANDU TAMA",
+            "nama_se": "CV PANDU TAMA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9003",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abbd-b1eb-4073-aeca-ad932820be5f",
+            "nama_pse": "SUSANTO BERSAUDARA INTERMEDIA PERS",
+            "nama_se": "KABAR JOMBANG",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9004",
+            "website": "kabarjombang.com"
+        },
+        {
+            "id": "9cb1abbd-b4bd-4e8a-81c4-42b09207cec5",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH BANTEN PERSERODA",
+            "nama_se": "MOBILE BANKING",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9005",
+            "website": "bankbanten.co.id"
+        },
+        {
+            "id": "9cb1abcd-ee09-4df7-b0ff-6be08b95de1d",
+            "nama_pse": "CAKRAWALA PUTRA NUSANTARA",
+            "nama_se": "XLOCATE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9010",
+            "website": "xlocate.com"
+        },
+        {
+            "id": "9cb1abcd-f162-41d2-83af-04ccb19607d2",
+            "nama_pse": "HONDA PROSPECT MOTOR",
+            "nama_se": "ONLINE RECRUITMENT PT HONDA PROSPECT MOTOR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9006",
+            "website": "hpm.co.id"
+        },
+        {
+            "id": "9cb1abbd-ba9c-4250-8727-e4844acd5ca4",
+            "nama_pse": "TATUT SUHARSO",
+            "nama_se": "DATASOLUSICIPTAPIRANTI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9007",
+            "website": "bprdanantakudus.co.id"
+        },
+        {
+            "id": "9cb1abf3-df62-4d9d-918a-2d4b8ec42f3e",
+            "nama_pse": "HONDA PROSPECT MOTOR",
+            "nama_se": "ONLINE SELECTION PT HONDA PROSPECT MOTOR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9016",
+            "website": "online-selection.hpm.co.id"
+        },
+        {
             "id": "9cb1abbd-bf44-4fb7-8969-eb95e261af9b",
             "nama_pse": "CAKRAWALA PUTRA NUSANTARA",
             "nama_se": "SADIX",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-23",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8914",
             "website": "smartkios.com"
-        },
-        {
-            "id": "9cb1abbd-36a4-49d3-bccc-5dd822fa9e61",
-            "nama_pse": "SEHAT DENGAN OLAHRAGA",
-            "nama_se": "CAUSE ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8915",
-            "website": "cause.id"
-        },
-        {
-            "id": "9cb1abf3-4548-4735-aefe-8cc98bc499a3",
-            "nama_pse": "MDS DIGITAL MEDIA",
-            "nama_se": "DG SOSMED",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8916",
-            "website": "dagangsosmed.com"
-        },
-        {
-            "id": "9cb1abf3-4ac1-47f1-89e8-60b4efe6404d",
-            "nama_pse": "KINIKU MUDA INDONESIA",
-            "nama_se": "INIDOC",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8917",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abcd-5416-4075-88c1-e73d04826d4a",
-            "nama_pse": "KINIKU MUDA INDONESIA",
-            "nama_se": "INIDOC MITRA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8918",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abbd-4897-4c6e-91df-e20d9c6057da",
-            "nama_pse": "KINIKU MUDA INDONESIA",
-            "nama_se": "KITA SEHAT",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8919",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abcd-583b-4174-93cc-12d1781878aa",
-            "nama_pse": "ANNORA MULTI INTECH",
-            "nama_se": "KATALOG HEMATECH",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8920",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abbd-53ca-45d3-bd70-595105758011",
-            "nama_pse": "ANNORA MULTI INTECH",
-            "nama_se": "ANNORA AIR QUALITY MONITORING SYSTEM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-07-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8921",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abbd-5651-4799-ad08-627f3380ec7f",
-            "nama_pse": "KINIKU MUDA INDONESIA",
-            "nama_se": "GOJAY DRIVER",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2022-07-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8922",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abbd-595b-454c-a18f-c1d35eb53886",
-            "nama_pse": "KINIKU MUDA INDONESIA",
-            "nama_se": "GOJAY MITRA",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2022-07-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8923",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abf3-4e03-4a4d-b6d9-3ff1c4ed8003",
-            "nama_pse": "KINIKU MUDA INDONESIA",
-            "nama_se": "KERJA SEHAT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8924",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 8,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 222,
     "totalPages": 383

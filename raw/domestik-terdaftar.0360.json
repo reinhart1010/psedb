@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab66-6c26-4c62-a919-4162ab482299",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "BNI TAPCASH GO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1294",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab66-6e24-4341-aa06-92a1da3e6ddc",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "AGEN46 MOBILE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1295",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6c-cdb9-4e8f-af78-0125137fa408",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "BNI CREDIT CARD MOBILE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1296",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6c-d137-4eec-a25e-7bd6dac63a8c",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "BNI PEMBUKAAN REKENING DIGITAL",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1297",
+            "website": "bukarekening.bni.co.id/simpanan/home"
+        },
+        {
+            "id": "9cb1ab73-2384-4baa-9055-11eb1acb91f5",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "BNI SIMPONI MOBILE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1298",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6c-d508-456a-8399-e4ac9116cddc",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "BNI CONTACT CENTER VIRTUAL ASSISTANT/BNI CALL",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1300",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6c-d833-4015-8c37-0b0dcf1aa9f6",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "BNI INTERNET BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1301",
+            "website": "ibank.bni.co.id"
+        },
+        {
+            "id": "9cb1ab73-27c3-41aa-9ead-80b5ec3fda2f",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "BNI INTERNET BANKING CORPORATE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1302",
+            "website": "bnidirect.bni.co.id"
+        },
+        {
+            "id": "9cb1ab73-2a48-482e-a517-2c3171244a18",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "BNI SMART REMITTANCE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1314",
+            "website": "sr.bni.co.id/"
+        },
+        {
+            "id": "9cb1ab73-2cd6-43a0-a65c-deeba6733e84",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
+            "nama_se": "BNI LOYALTY PROGRAM (POIN+)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1319",
+            "website": "poinplus.bni.co.id/"
+        },
+        {
             "id": "9cb1ab66-70a8-46b8-a9ca-e5a4237c1bb2",
             "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
             "nama_se": "WEBSITE PENGAJUAN KARTU KREDIT BNI",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-06-02",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1273",
             "website": "gandengtangan.co.id"
-        },
-        {
-            "id": "9cb1ab66-e08b-462a-9681-0dee3183437f",
-            "nama_pse": "BANK JAGO",
-            "nama_se": "JAGO",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1328",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab66-e276-4c74-b553-f519a05f7e3e",
-            "nama_pse": "EZEE TUNTAS SEJAHTERA",
-            "nama_se": "EZEEPASAR",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1243",
-            "website": "ezeepasar.com"
-        },
-        {
-            "id": "9cb1ab66-e5fa-404f-a9ad-3c524e85ffa6",
-            "nama_pse": "BCA SEKURITAS",
-            "nama_se": "BEST DESKTOP",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1304",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab6d-3950-4d8e-9459-b63b9621bd20",
-            "nama_pse": "BCA SEKURITAS",
-            "nama_se": "BEST MOBILE 1 (WEB BASED)",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1305",
-            "website": "mobile.bcasekuritas.co.id"
-        },
-        {
-            "id": "9cb1ab73-94e8-470d-8974-83030c96cc26",
-            "nama_pse": "BCA SEKURITAS",
-            "nama_se": "BEST MOBILE 2 (IOS\u0026ANDROID)",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1306",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab66-e930-4cad-8419-8b405862e0f5",
-            "nama_pse": "BCA SEKURITAS",
-            "nama_se": "FPRE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1307",
-            "website": "fpre.bcasekuritas.co.id"
-        },
-        {
-            "id": "9cb1ab6d-3d76-4a49-ab74-b7cc930cafe6",
-            "nama_pse": "BCA SEKURITAS",
-            "nama_se": "EFORMBBCA",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1308",
-            "website": "eformbbca.bcasekuritas.co.id"
-        },
-        {
-            "id": "9cb1ab6d-40f0-4496-934a-52c65ab08151",
-            "nama_pse": "BCA SEKURITAS",
-            "nama_se": "BCA SEKURITAS COMPANY WEB",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1309",
-            "website": "bcasekuritas.co.id"
-        },
-        {
-            "id": "9cb1ab73-9b76-4f90-9ad4-97dc1a82a10b",
-            "nama_pse": "BCA SEKURITAS",
-            "nama_se": "ESOP TIKET",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1332",
-            "website": "tiket.bcasekuritas.co.id"
-        },
-        {
-            "id": "9cb1ab66-ece2-42d7-8075-105a001621fd",
-            "nama_pse": "BANK VICTORIA INTERNATIONAL",
-            "nama_se": "INTERNET BANKING PERORANGAN",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1256",
-            "website": "ib.victoriabank.co.id"
         }
     ],
-    "processingTimeMs": 9,
+    "processingTimeMs": 10,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 360,
     "totalPages": 383

@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac00-0e63-4d85-9793-5838cc2e8f4c",
+            "nama_pse": "FUSINDO SOKA",
+            "nama_se": "PLATFORM INFRASTRUKTUR TRANSFER DANA (REMITANSI)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10993",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac0e-c4f7-47d7-839b-15310760e989",
+            "nama_pse": "DIKRI NALENDRA AMINADIN",
+            "nama_se": "PT. DIKRI NALENDRA AMINADIN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10994",
+            "website": "onlineshopdna.com"
+        },
+        {
+            "id": "9cb1ac0e-c7d7-4c00-b64d-5b03c6af4d40",
+            "nama_pse": "INDONESIA DEVELOPMENT CORNER",
+            "nama_se": "IDEVCORNER.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10995",
+            "website": "idevcorner.co.id"
+        },
+        {
+            "id": "9cb1ac00-1691-4d41-9c21-4c57bd11cf86",
+            "nama_pse": "INTERNUSA OKULUS TAMA",
+            "nama_se": "POLAKATA DIGITAL MEDIA DAN EKATA INTERACTIVE MEDIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10999",
+            "website": "polakata.com"
+        },
+        {
+            "id": "9cb1ac0e-cdf0-4418-83d8-52f747c3dc33",
+            "nama_pse": "SOLARNET ANTAR NETWORK",
+            "nama_se": "TAKEME",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11000",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abda-95d4-48b7-8016-c95da93b190a",
+            "nama_pse": "VIRTU INOVASI DIGITAL",
+            "nama_se": "MONSTER PRO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11001",
+            "website": "monsterpro.id"
+        },
+        {
+            "id": "9cb1ac0e-9b01-49fb-9f52-ef883c17bdf4",
+            "nama_pse": "RUMAH YATIM ARROHMAN INDONESIA",
+            "nama_se": "DONASI ONLINE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10951",
+            "website": "donasionline.id"
+        },
+        {
+            "id": "9cb1abfe-e7e2-4c33-84d6-c7d3767a69f8",
+            "nama_pse": "META NUSANTARA VICTORI",
+            "nama_se": "ASIX PLUS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10758",
+            "website": "ASIXPLUS.IO"
+        },
+        {
+            "id": "9cb1abd9-eb86-4e7c-ab52-6cbcb7d3b72e",
+            "nama_pse": "META NUSANTARA VICTORI",
+            "nama_se": "ASIX CONNECT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10864",
+            "website": "ASIXPLUS.IO"
+        },
+        {
+            "id": "9cb1abd9-f644-4110-b08d-9ac005e5d307",
+            "nama_pse": "ARUNA JAYA NUSWANTARA",
+            "nama_se": "ARUNA.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10890",
+            "website": "aruna.id"
+        },
+        {
+            "id": "9cb1abda-5330-4381-ac7c-e812d43ceb7d",
+            "nama_pse": "HMD MOBILE INDONESIA",
+            "nama_se": "HMD SOFTLOCK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10944",
+            "website": "-"
+        },
+        {
             "id": "9cb1abff-cfcc-4959-884c-97dd252779eb",
             "nama_pse": "HELPSTER SOLUTIONS INDONESIA",
             "nama_se": "WWW.WORKMATE.ASIA",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-08-31",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10942",
             "website": "manjoo.co.id"
-        },
-        {
-            "id": "9cb1abd9-ddf8-4a7b-a9f7-bab8929047cf",
-            "nama_pse": "KJDAN DESIGN STUDIO",
-            "nama_se": "KJDAN.SHOP",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10909",
-            "website": "kjdan.shop"
-        },
-        {
-            "id": "9cb1abff-797c-4b4f-b331-3cd7d759c1b8",
-            "nama_pse": "MITRA PULSA PERSADA",
-            "nama_se": "MITRA PULSA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10880",
-            "website": "mitrapulsa.cloud"
-        },
-        {
-            "id": "9cb1ac0e-5003-4ab1-aabe-d19ee782621b",
-            "nama_pse": "MANUNGGAL CITRA LESTARI",
-            "nama_se": "COSMED WELLNESS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10881",
-            "website": "cosmed.co.id"
-        },
-        {
-            "id": "9cb1abff-7e27-415f-9306-cca0147a0e01",
-            "nama_pse": "GERAKAN PENGEMUDI INDONESIA",
-            "nama_se": "GERAK EXPRESS - TRANSPORTASI",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2022-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10882",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac0e-53e1-429f-885d-19ea54161ded",
-            "nama_pse": "BPR BKK LASEM PERSERODA",
-            "nama_se": "WEBSITE PT BPR BKK LASEM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10883",
-            "website": "bprbkklasem.co.id"
-        },
-        {
-            "id": "9cb1abff-8455-43b3-bfcc-12a300fd7af7",
-            "nama_pse": "BANK PERKREDITAN RAKYAT KRIDADHANA CITRANUSA",
-            "nama_se": "BPRKRIDADHANA.COM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10889",
-            "website": "bprkridadhana.com"
-        },
-        {
-            "id": "9cb1ac0e-5790-496b-bc09-df2cb17b1d8e",
-            "nama_pse": "PEDAGOGI PENDIDIKAN LESTARI",
-            "nama_se": "WWW.MYSECONDTEACHER.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10885",
-            "website": "mysecondteacher.com"
-        },
-        {
-            "id": "9cb1ac0e-5b6d-4b81-9cdb-38803a1c83d5",
-            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARI`AH TULEN AMANAH",
-            "nama_se": "WEBSITE KANTOR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10886",
-            "website": "bprstulenamanah.co.id"
-        },
-        {
-            "id": "9cb1abff-8c79-46f4-8f37-1cef5c1486a2",
-            "nama_pse": "NUSANTARA BERKAH DIGITAL",
-            "nama_se": "PAKET NUTAPOS",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10887",
-            "website": "nutapos.com"
-        },
-        {
-            "id": "9cb1abff-9079-4cc8-ada7-db231c7ba9c4",
-            "nama_pse": "RAIHMIMPI ANAK BANGSA",
-            "nama_se": "RAIHMIMPI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10891",
-            "website": "raihmimpi.id"
-        },
-        {
-            "id": "9cb1ac0e-6380-4fe5-b65e-bfedf97131cc",
-            "nama_pse": "BANK PERKREDITAN RAKYAT NUSAMBA CEPIRING",
-            "nama_se": "BPR NUSAMBA CEPIRING (QRCODE)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10892",
-            "website": "itcenternusambacpr.biz.id"
         }
     ],
-    "processingTimeMs": 17,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 189,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab8b-6a97-452a-82d4-3affefec5841",
+            "nama_pse": "OTORAJA NETWORK INDONESIA",
+            "nama_se": "OTORAJA BIZ",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/407",
+            "website": "otoraja.id"
+        },
+        {
+            "id": "9cb1ab8d-49e0-47fc-b035-83b7732ba939",
+            "nama_pse": "LIPUTAN ENAM DOT COM",
+            "nama_se": "KAPANLAGI YOUNIVERSE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/411",
+            "website": "www.kapanlagi.com , www.bola.net , www.otosia.com , www.merdeka.com , www.liputan6.com , www.bola.com , www.fimela.com"
+        },
+        {
+            "id": "9cb1ab64-9bd1-48a8-a00a-1dc97641cadb",
+            "nama_pse": "ALPHA KREASI JAYA",
+            "nama_se": "ALPHABILL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/405",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab64-bdb0-4359-9127-23b80a166c2b",
+            "nama_pse": "ASURANSI RAKSA PRATIKARA",
+            "nama_se": "RAKSAONLINE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/403",
+            "website": "raksaonline.com"
+        },
+        {
+            "id": "9cb1ab64-e987-4b28-8519-d9712f61d3b6",
+            "nama_pse": "HITECH SMART SOLUTION",
+            "nama_se": "HI-TECH SMART SOLUTION AI CALL-CENTER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/401",
+            "website": "smartsolutions.sg"
+        },
+        {
+            "id": "9cb1ab62-25b2-4ad5-9c25-21dc52d0379e",
+            "nama_pse": "INFONESIA MEGA NUSANTARA",
+            "nama_se": "BITUBI",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Energi dan Sumber Daya Mineral, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/400",
+            "website": "BITUBI.ID"
+        },
+        {
+            "id": "9cb1ab62-2ec5-4543-aae4-530d500ef1a1",
+            "nama_pse": "LAKULOKA DIGITAL INDONESIA",
+            "nama_se": "LAKULOKA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/397",
+            "website": "lakuloka.id"
+        },
+        {
+            "id": "9cb1ab62-316f-477e-8440-9edb1092f2d1",
+            "nama_pse": "KOMUNITAS CERDAS INDONESIA",
+            "nama_se": "VIPLUS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/402",
+            "website": "viplus.id"
+        },
+        {
+            "id": "9cb1ab62-3b48-43ad-bc97-2311992dc3f0",
+            "nama_pse": "SOLUSI DATA MADANI",
+            "nama_se": "DIGIDESA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/404",
+            "website": "digidesa.com"
+        },
+        {
+            "id": "9cb1ab7b-8a45-44b7-bf36-5732050e2766",
+            "nama_pse": "BCA FINANCE",
+            "nama_se": "KKB BCA VIRTUAL MALL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/406",
+            "website": "Kreditkerenbanget.com"
+        },
+        {
             "id": "9cb1ab8b-bdd7-4963-8d57-2daa13affa87",
             "nama_pse": "ASURANSI CIGNA",
             "nama_se": "SITUS PERUSAHAAN / SITUS WEB",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-03-09",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/355",
             "website": "tatskola.id"
-        },
-        {
-            "id": "9cb1ab65-ff31-49fd-bdb9-e755d5fa3ecd",
-            "nama_pse": "BANK CTBC INDONESIA",
-            "nama_se": "CTBC DIGITAL LENDING",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-03-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/342",
-            "website": "https://eloan.ctbcbank.co.id/danacinta; (landing page) Ktadigital.com, Ktainstan.com, Danacintadigital.com"
-        },
-        {
-            "id": "9cb1ab66-01d5-484a-85bb-1222bdd3c070",
-            "nama_pse": "BANK CTBC INDONESIA",
-            "nama_se": "CTBC RETAIL INTERNET BANKING",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-03-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/344",
-            "website": "ebanking.ctbcbank.co.id/retail/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG\u0026__START_TRAN_FLAG__=Y\u0026__FG_BUTTONS__=LOAD\u0026ACTION.LOAD=Y\u0026AuthenticationFG.LOGIN_FLAG=1\u0026BANK_ID=BCI"
-        },
-        {
-            "id": "9cb1ab61-7d21-400e-9ebc-bde0da3d6d38",
-            "nama_pse": "BANK CTBC INDONESIA",
-            "nama_se": "CTBC CORPORATE INTERNET BANKING",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-03-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/345",
-            "website": "ebanking.ctbcbank.co.id/corp/AuthenticationController?__START_TRAN_FLAG__=Y\u0026FORMSGROUP_ID__=AuthenticationFG\u0026__EVENT_ID__=LOAD\u0026FG_BUTTONS__=LOAD\u0026ACTION.LOAD=Y\u0026AuthenticationFG.LOGIN_FLAG=1\u0026BANK_ID=BCI\u0026LANGUAGE_ID=001"
-        },
-        {
-            "id": "9cb1ab61-7f8e-446f-ade9-94960e2ba05e",
-            "nama_pse": "BANK CTBC INDONESIA",
-            "nama_se": "CTBC MOBILE BANKING",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-03-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/346",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab64-872c-4f07-b2f6-2946ab869965",
-            "nama_pse": "BAKOEL NUSANTARA",
-            "nama_se": "APLIKASI ANDROID PPOB NUSANTARA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-03-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/357",
-            "website": "https://play.google.com/store/apps/details?id=id.co.ppobnusantara.ppobnusantara"
-        },
-        {
-            "id": "9cb1ab66-2576-42d1-940c-6b7a10ea38e1",
-            "nama_pse": "BAKOEL NUSANTARA",
-            "nama_se": "BOS BILLER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-03-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/358",
-            "website": "bosbiller.com"
-        },
-        {
-            "id": "9cb1ab61-c6e7-4b14-9493-8499ea080260",
-            "nama_pse": "ERA MASYARAKAT SEJAHTERA",
-            "nama_se": "EMASJEK",
-            "sektor": "Sektor Transportasi, Sektor Transportasi",
-            "tanggal_terbit": "2021-03-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/354",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab69-cd90-4633-ba07-09cc4d25cbe7",
-            "nama_pse": "TITIPBELIIN GLOBAL INTERNASIONAL",
-            "nama_se": "JASA PENITIPAN PEMBELIAN MELALUI SISTEM ONLINE",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-03-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/350",
-            "website": "titipbeliin.com"
-        },
-        {
-            "id": "9cb1ab61-f469-4c8f-b8f3-975dda8814d0",
-            "nama_pse": "AURA INSAN KREATIF",
-            "nama_se": "INSANKREATIF.CO.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-03-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/347",
-            "website": "insankreatif.co.id"
-        },
-        {
-            "id": "9cb1ab69-d29e-474e-8341-c49ab9fff08d",
-            "nama_pse": "KRAKATAU KARYA ABADI",
-            "nama_se": "SUPERAPP",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-03-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/348",
-            "website": "superapp.id"
         }
     ],
-    "processingTimeMs": 11,
+    "processingTimeMs": 8,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 376,
     "totalPages": 383

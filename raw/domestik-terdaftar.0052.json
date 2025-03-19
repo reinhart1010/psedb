@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac74-da20-49c7-80ff-6ff7cf195554",
+            "nama_pse": "RIAM ANUGRAH SEMESTA",
+            "nama_se": "ONESQL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19741",
+            "website": "onesql.io"
+        },
+        {
+            "id": "9cb1ac5f-8dfc-401b-bc60-87f51c8e5c0f",
+            "nama_pse": "MAKAN BERGIZI GRATIS",
+            "nama_se": "MBG",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19756",
+            "website": "makanbergizigratis.co.id"
+        },
+        {
+            "id": "9cb1ac8b-8643-4375-a66e-0895d1500224",
+            "nama_pse": "GLOBAL LINTAS SOLUSI",
+            "nama_se": "GOFEE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19755",
+            "website": "gpay.co.id"
+        },
+        {
+            "id": "9cb1ac8b-9f12-4890-bf58-2f3d49a771b5",
+            "nama_pse": "IDAGUNA CIPTA KARYA",
+            "nama_se": "IDA KONSULTAN",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19763",
+            "website": "konsultanbisnis.net"
+        },
+        {
+            "id": "9cb1ac74-dd7a-451a-9bbc-017d9f19bdd6",
+            "nama_pse": "APLIKASI LOOP HEALTH",
+            "nama_se": "LOOP HEALTH INDONESIA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-08-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19758",
+            "website": "loophealth.id"
+        },
+        {
+            "id": "9cb1ac8b-95f4-40f2-8702-6bb51e1ede42",
+            "nama_pse": "APPLEDORE MGILANGJANUAR LAB",
+            "nama_se": "USEKIT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19759",
+            "website": "usekit.co"
+        },
+        {
+            "id": "9cb1ac74-ef0a-4ef2-aa4d-63ba06882dfe",
+            "nama_pse": "AKBAR TEKHNIK JAYA MANDIRI",
+            "nama_se": "PT. AKBAR TEKHNIK JAYA MANDIRI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19762",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac8b-9abb-433e-8483-93ff12d134e7",
+            "nama_pse": "KELOLAPRO MADANI INOVASI",
+            "nama_se": "KELOLAPRO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19761",
+            "website": "kelolapro.web.app"
+        },
+        {
+            "id": "9cb1ac74-f67b-4996-8ef7-86f699ebe0b7",
+            "nama_pse": "OEXPRESS LOGISTIK INDONESIA",
+            "nama_se": "OEXPRESS.ID",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2024-08-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19764",
+            "website": "oexpress.id"
+        },
+        {
+            "id": "9cb1ac8b-b2c8-4f5e-97bf-c8971f45284b",
+            "nama_pse": "WAWAN SETIAWAN",
+            "nama_se": "SIMPENQU - SISTEM INFORMASI MANAJEMEN SMPIQU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19770",
+            "website": "smpiqualbahjah.sch.id"
+        },
+        {
             "id": "9cb1ac74-ad64-4e9b-a82f-920f939971b4",
             "nama_pse": "MANDIRI SEKURITAS",
             "nama_se": "GROWIN’ INVEST",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-07-31",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19702",
             "website": "beautyjournal.id"
-        },
-        {
-            "id": "9cb1ac5f-47b4-40e0-bfc5-c12ee8ce4eb7",
-            "nama_pse": "TURKINDO CHAMBER INDONESIA",
-            "nama_se": "TURKINDOCHAM.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19704",
-            "website": "Turkindocham.id"
-        },
-        {
-            "id": "9cb1ac74-8550-41d5-8051-8c977e58086f",
-            "nama_pse": "SINERGI CAKRA SINATRIA",
-            "nama_se": "ISEHAT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19684",
-            "website": "isehat.id"
-        },
-        {
-            "id": "9cb1ac8b-2662-45d9-85eb-754956f89bb7",
-            "nama_pse": "PLATINUM BANJARMASIN",
-            "nama_se": "WHATSAPP BUSINESS, INSTAGRAM, TIK TOK",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-07-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19680",
-            "website": "WWW.PLATINUM-BANJARMASIN.COM"
-        },
-        {
-            "id": "9cb1ac74-9af8-4af6-839f-67069d58df48",
-            "nama_pse": "PLUS MEDIATAMA IRAWAN",
-            "nama_se": "BV01",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-07-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19694",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac8b-07d1-416c-bce4-fc4747a8d64f",
-            "nama_pse": "GENIUS DIGITAL BERSAMA",
-            "nama_se": "GGAMING.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-07-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19670",
-            "website": "ggaming.id"
-        },
-        {
-            "id": "9cb1ac71-ea76-445f-bfe0-6e49d5771522",
-            "nama_pse": "GENERO OMNICOM ASIA",
-            "nama_se": "ERHASTORE",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-07-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19673",
-            "website": "erhastore.co.id"
-        },
-        {
-            "id": "9cb1ac5f-265b-42c6-9653-bf1ce30e3e07",
-            "nama_pse": "GOLDEN DEWATA",
-            "nama_se": "VIVA DASH HOTEL SEMINYAK",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-07-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19672",
-            "website": "vivadashbali.com"
-        },
-        {
-            "id": "9cb1ac8b-14af-482b-aa16-f8bee34f2893",
-            "nama_pse": "BAHASO INTERMEDIA CAKRAWALA",
-            "nama_se": "BAHASO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19674",
-            "website": "bahaso.com"
-        },
-        {
-            "id": "9cb1ac8b-1a72-41bd-96ef-02c1c7157617",
-            "nama_pse": "SYAHLA RANA PRADEKSO",
-            "nama_se": "EDELSUN EDUCATION",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-07-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19675",
-            "website": "edelsuneducation.com"
-        },
-        {
-            "id": "9cb1ac74-8262-457e-b395-2861fa0c8677",
-            "nama_pse": "MITRA JAYA ARYA SANIKA",
-            "nama_se": "MYSEKURITI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19676",
-            "website": "mysekuriti.com"
         }
     ],
-    "processingTimeMs": 18,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 52,
     "totalPages": 383

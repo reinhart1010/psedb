@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac60-c016-493d-b939-215340749d1a",
+            "nama_pse": "SERAUNG CIPTA SARANA INFORMATIKA",
+            "nama_se": "SMART PDAM",
+            "sektor": "Sektor Energi dan Sumber Daya Mineral",
+            "tanggal_terbit": "2023-10-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16151",
+            "website": "smartpdam.scsi.co.id"
+        },
+        {
+            "id": "9cb1ac4c-9ec6-43e6-ab7c-1e904a1b349a",
+            "nama_pse": "NURUL ASWAJA ANNAHDLIYYAH",
+            "nama_se": "RME",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16154",
+            "website": "rsnubabat.id"
+        },
+        {
+            "id": "9cb1ac60-c303-44fd-ba39-627e410295ec",
+            "nama_pse": "SINAR INOVASI PERSADA",
+            "nama_se": "KPFY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-10-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16156",
+            "website": "KPFY.ID"
+        },
+        {
+            "id": "9cb1ac4d-96ac-4d32-9428-08950dd9c146",
+            "nama_pse": "DILAN TEKNOLOGI INDONESIA",
+            "nama_se": "DILAN PORTAL",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16155",
+            "website": "playground.dilan.id"
+        },
+        {
+            "id": "9cb1ac60-c611-401a-b227-d4e39a9c3c4d",
+            "nama_pse": "DILAN TEKNOLOGI INDONESIA",
+            "nama_se": "DILAN TRUST CENTER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16157",
+            "website": "trust.dilan.id"
+        },
+        {
+            "id": "9cb1ac60-9ed2-4260-bdf7-811ecf6549db",
+            "nama_pse": "SIMPAN PINJAM DAN PEMBIAYAAN SYARIAH KOPNUS INDONESIA",
+            "nama_se": "OREN SYARIAH",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16135",
+            "website": "kopnussyariah.com"
+        },
+        {
+            "id": "9cb1ac4d-48ea-4946-a980-908877f856a0",
+            "nama_pse": "MOMENTUM GLOBAL PRATAMA",
+            "nama_se": "TINKERLUST",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16117",
+            "website": "tinkerlust.com"
+        },
+        {
+            "id": "9cb1ac4c-6d4b-42aa-afde-4b56ce35b21b",
+            "nama_pse": "KELUARGA SEHAT SEJAHTERA",
+            "nama_se": "SISTEM INFORMASI RS KELUARGA SEHAT TAYU DAN REKAM MEDIK ELEKTRONIK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16118",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac60-a226-4aec-a6ed-645f93a29f44",
+            "nama_pse": "INDO KOALA REMITTANCE",
+            "nama_se": "APLIKASI TRANSFEZ",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16136",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4d-4be1-4059-82b2-bbd2646b7f76",
+            "nama_pse": "NURI GAYA CITRA",
+            "nama_se": "MYNURI",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16119",
+            "website": "nuriglobal.com"
+        },
+        {
+            "id": "9cb1ac4d-5007-4b78-ae11-b62b4cbbc26f",
+            "nama_pse": "JAKARTA TEKNOLOGI INFORMASI",
+            "nama_se": "APP KLINIK 24 JAM",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16121",
+            "website": "app.klinik24jam.com"
+        },
+        {
             "id": "9cb1ac60-a4ed-469a-ae79-3d886f290ba4",
             "nama_pse": "RUMAH SAKIT BHAYANGKARA KENDARI KEPOLISIAN NEGARA REPUBLIK INDONESIA KEPOLISIAN NEGARA REPUBLIK INDONESIA",
             "nama_se": "SIMKES KHANZA RS. BHAYANGKARA KENDARI",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-09-30",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16081",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac4d-24e2-4c92-9a78-7a01c5a32ec8",
-            "nama_pse": "DUTA ALBA PERS",
-            "nama_se": "DUTAKHABARTERKINI.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-09-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16082",
-            "website": "dutakhabarterkini.id"
-        },
-        {
-            "id": "9cb1ac4c-232d-47ac-8ed8-717c8d2bbce8",
-            "nama_pse": "PUTRI ANGGUN SEJAHTERA",
-            "nama_se": "SIM RSIA PUTRI SURABAYA",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-09-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16083",
-            "website": "sim.rsiaputri.com"
-        },
-        {
-            "id": "9cb1ac4c-2608-4547-9e3d-d1153a95b2ba",
-            "nama_pse": "RSU PKU MUHAMMADIYAH DELANGGU",
-            "nama_se": "SIMRS RSU PKU MUHAMMADIYAH DELANGGU",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-09-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16084",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac60-7190-4018-9be9-254115531c65",
-            "nama_pse": "MEDIATAMA SURYA HUSADA",
-            "nama_se": "SIMRS RSU UNMUH JEMBER",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-09-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16085",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4c-2926-4162-a1cc-c1b959670cef",
-            "nama_pse": "YAPINDO JAYA ABADI",
-            "nama_se": "NEO UK PROFESI FISIOTERAPI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-09-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16086",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac60-741f-4778-82fb-4d9b22cdaf77",
-            "nama_pse": "YAPINDO JAYA ABADI",
-            "nama_se": "NEO UK STR/D4 RMIK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-09-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16087",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4c-2df7-4a9d-bba1-0a2105d54aa9",
-            "nama_pse": "YAPINDO JAYA ABADI",
-            "nama_se": "NEO UK STR/D4 TRP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-09-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16088",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac60-768d-4e74-bbcb-162e4ab167e8",
-            "nama_pse": "YAPINDO JAYA ABADI",
-            "nama_se": "NEO UK STR/D4 SANITASI LINGKUNGAN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-09-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16089",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4d-282d-4d9d-90d0-0e00c0d4ff5a",
-            "nama_pse": "YAPINDO JAYA ABADI",
-            "nama_se": "NEO UK D3 ATLM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-09-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16090",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4c-31c7-46fd-8716-854c740d9e94",
-            "nama_pse": "YAPINDO JAYA ABADI",
-            "nama_se": "NEO UK D3 KEPERAWATAN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-09-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16091",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4c-3516-4148-a5b3-2340dace5e10",
-            "nama_pse": "FINZA COMTECH",
-            "nama_se": "SYSMED.ID",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-09-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16092",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 116,
     "totalPages": 383

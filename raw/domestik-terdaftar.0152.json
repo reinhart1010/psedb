@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac3f-43ba-4b5a-8a15-5f9a3e35716e",
+            "nama_pse": "NUSANTARAWAN HEBAT GROUP",
+            "nama_se": "GRAND DIGITAL MARKETING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14030",
+            "website": "granddigitalmarketing.com"
+        },
+        {
+            "id": "9cb1ac1d-26df-419a-b286-9ba7d4943d90",
+            "nama_pse": "ALFA RETAILINDO",
+            "nama_se": "TRANSENTERTAINMENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14031",
+            "website": "transentertainment.com"
+        },
+        {
+            "id": "9cb1ac3f-4767-4650-884d-b8ada7f98376",
+            "nama_pse": "KLUB LOGINDO INTERNASIONAL",
+            "nama_se": "MARKET.KLUB-LOGINDO.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14032",
+            "website": "market.klub-logindo.com"
+        },
+        {
+            "id": "9cb1ac3e-8643-4689-8abf-b2b7c26e28df",
+            "nama_pse": "RSUP DR HASAN SADIKIN",
+            "nama_se": "EMR RSHS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-03-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14010",
+            "website": "emr.rshs.or.id"
+        },
+        {
+            "id": "9cb1ac3e-cfc5-487c-9cd6-f5f1d5316338",
+            "nama_pse": "BALABOOM TECHNOLOGY INDONESIA",
+            "nama_se": "BSTATION",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14011",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac2f-8d1f-4863-972d-2dd515571b45",
+            "nama_pse": "SANTRI UNTUK NEGERI",
+            "nama_se": "SAN FIRST",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14021",
+            "website": "sunfirst.online"
+        },
+        {
+            "id": "9cb1ac1c-f9c1-495a-8cc5-7926d4c73e86",
+            "nama_pse": "LANDMARK RETAIL TRADING",
+            "nama_se": "BABYSHOPSTORES",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-03-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14013",
+            "website": "babyshopstores.id"
+        },
+        {
+            "id": "9cb1ac1c-fc6a-42de-9260-a3a4b660a691",
+            "nama_pse": "QTASNIM DIGITAL TEKNOLOGI",
+            "nama_se": "SIMRS BJB HOPE",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14012",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac1c-ff19-47a5-8c15-fc1432dd40cc",
+            "nama_pse": "BALABOOM TECHNOLOGY INDONESIA",
+            "nama_se": "BSTATION TV",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14016",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac1d-05dc-4c84-8936-106b66ed078d",
+            "nama_pse": "DOCTOR ASSIST INDONESIA",
+            "nama_se": "DOCTOR ASSIST",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14014",
+            "website": "doctorassistindonesia.com"
+        },
+        {
+            "id": "9cb1ac3f-1e26-48a4-bbef-95fcf161d54e",
+            "nama_pse": "ARUPA CLOUD NUSANTARA",
+            "nama_se": "ZETTAGRID CLOUD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14015",
+            "website": "zettagrid.id"
+        },
+        {
             "id": "9cb1ac3f-21df-47a0-9089-bdd20f71cb18",
             "nama_pse": "ARUPA CLOUD NUSANTARA",
             "nama_se": "ACOBA INTEGRASI CCTV",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-03-01",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13983",
             "website": "mcproduction.id"
-        },
-        {
-            "id": "9cb1ac3e-c316-466f-b8b1-69fee6fbcd2b",
-            "nama_pse": "POLPOLE DIGITAL INDONESIA",
-            "nama_se": "POLPOLE",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13973",
-            "website": "polpole.id"
-        },
-        {
-            "id": "9cb1ac3e-c78b-4c8f-ade9-faa4738af621",
-            "nama_pse": "ITSEC ASIA",
-            "nama_se": "IT SECURITY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13967",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac2f-479e-4066-b243-a7ab9f914e32",
-            "nama_pse": "PERFORMA INTI NUSANTARA",
-            "nama_se": "PINUS SOFTWARE",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13968",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac1c-b9ed-468f-9e28-a558c13be5c0",
-            "nama_pse": "ASIA TRADE POINT FUTURES",
-            "nama_se": "CLIENT AREA ASIATRADEFX",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-02-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13969",
-            "website": "asiatradefx.com"
-        },
-        {
-            "id": "9cb1ac1c-bcae-4861-a5af-e032fd9155d2",
-            "nama_pse": "SEGITIGA SAMA SISI",
-            "nama_se": "SIMTARU",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13970",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac2f-4bd0-4bea-863b-d479a1e5db10",
-            "nama_pse": "TRADO LOGISTIK CUAN",
-            "nama_se": "TRADO",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2023-02-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13972",
-            "website": "trado.id"
-        },
-        {
-            "id": "9cb1ac2f-4f30-45a5-a55b-d56649084e88",
-            "nama_pse": "AKSESTANI AGRITECH INDONESIA",
-            "nama_se": "AKSESTANI",
-            "sektor": "Sektor Perdagangan, Sektor Pangan",
-            "tanggal_terbit": "2023-02-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13971",
-            "website": "aksestani.com"
-        },
-        {
-            "id": "9cb1ac3e-cb5a-4797-9068-182db1838548",
-            "nama_pse": "BALABOOM TECHNOLOGY INDONESIA",
-            "nama_se": "VIDDUP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13974",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac1c-c1f7-4beb-b0f7-bac57977e983",
-            "nama_pse": "ZOBORD DIGITAL SOLUSINDO",
-            "nama_se": "PICK N BLAST",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13975",
-            "website": "picknblast.com"
-        },
-        {
-            "id": "9cb1ac1c-9d6c-47ea-9adf-d883911264b3",
-            "nama_pse": "PASARIBOE MANDIRI BERKARYA",
-            "nama_se": "KOREKSI NEWS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13947",
-            "website": "koreksinews.com"
-        },
-        {
-            "id": "9cb1ac1c-a08b-4afe-8130-a8125df64fe5",
-            "nama_pse": "GREENERATION INDONESIA",
-            "nama_se": "ECOXYZTEM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13954",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 2,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 152,
     "totalPages": 383

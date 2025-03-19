@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac37-13de-4fe2-ade0-9280e14da7da",
+            "nama_pse": "MUHAMMAD IQBAL",
+            "nama_se": "𝐒𝐚𝐦𝐚𝐫𝐢𝐧𝐝𝐚 𝐊𝐨𝐥𝐚𝐛𝐨𝐫𝐚𝐬𝐢",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-07-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15190",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac37-0512-4ca2-8a42-735bb8044806",
+            "nama_pse": "FARMANESIA TEKNOLOGI INOVASI",
+            "nama_se": "FARMANESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-07-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15174",
+            "website": "farmanesia.my.id"
+        },
+        {
+            "id": "9cb1ac37-008c-478c-8a33-3363fc5175bf",
+            "nama_pse": "LEGAL DOCUMENT SERVICE",
+            "nama_se": "PERIKLANAN ONLINE / OFFLINE  ( DIGITAL MARKETING )",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15170",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac46-9430-46a1-bae0-09a67e7a8093",
+            "nama_pse": "RSUD IR SOEKARNO KABUPATEN SUKOHARJO",
+            "nama_se": "MAS-SIRS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15171",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac24-826b-4301-bc43-4ed2a52fb1b0",
+            "nama_pse": "MEDIA IMBANG KOMUNIKASI",
+            "nama_se": "IMBANG.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15172",
+            "website": "imbang.co.id"
+        },
+        {
+            "id": "9cb1ac46-9712-4b49-a4ea-6f8a6ea2c33e",
+            "nama_pse": "ONEWS ONLINE MULTIMEDIA",
+            "nama_se": "ONEWS ONLINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-07-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15173",
+            "website": "onewsonline.com"
+        },
+        {
+            "id": "9cb1ac24-5d3b-49aa-b796-ca35b969159e",
+            "nama_pse": "DYNAMIC ACE GLOBAL INDONESIA",
+            "nama_se": "DYNACE GLOBAL",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15165",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac24-63d1-4c3f-bc19-2e6fae2b7fdc",
+            "nama_pse": "QOLBU INSAN MULIA",
+            "nama_se": "REKAM MEDIK ELEKTRONIK RUMAH SAKIT QIM",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15168",
+            "website": "rsqim.com"
+        },
+        {
+            "id": "9cb1ac46-8503-43e8-acb7-5dadd54a706e",
+            "nama_pse": "SEHATI PRADANA ADHITAMA",
+            "nama_se": "SEHATI SIMKLINIK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15166",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac36-f8da-430a-9848-9c6046b47e41",
+            "nama_pse": "JAYA DINAMIKA DIGITAL",
+            "nama_se": "MASTERING SKILL ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15167",
+            "website": "masteringskill.id"
+        },
+        {
+            "id": "9cb1ac36-fbb8-4202-a810-3acf9770cee9",
+            "nama_pse": "SEKAR TANJUNG SATU",
+            "nama_se": "AKTIVITAS PENEMPATAN TENAGA KERJA DARING (JOB PORTAL)",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2023-06-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15169",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac20-69ab-4a6d-b2c2-3f9bff133280",
             "nama_pse": "RAJIN PANGKAL PANDAI",
             "nama_se": "STUDIO KODE",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-06-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15132",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac46-47b5-43a1-a546-26ceac368463",
-            "nama_pse": "EKOSISTEM KOMUNITAS DIGITAL",
-            "nama_se": "EKOSISTEM KOMUNITAS DIGITAL SUPERAPPS",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-06-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15133",
-            "website": "ekomad.id"
-        },
-        {
-            "id": "9cb1ac36-d7f8-4df9-9e7e-ea0b077b5e45",
-            "nama_pse": "SERUAN HATI NURANI",
-            "nama_se": "SERUNI MEMBANGUN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-06-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15140",
-            "website": "serunimembangun.org"
-        },
-        {
-            "id": "9cb1ac46-3449-48d8-a659-29b363f210ef",
-            "nama_pse": "ORBIS ELITE INDUSTRIES",
-            "nama_se": "ORBISFLIX",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-06-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15121",
-            "website": "orbisflix.com"
-        },
-        {
-            "id": "9cb1ac46-37d3-4e03-acc4-9c43b6870074",
-            "nama_pse": "KUMOLAB TEKNOLOGI INDONESIA",
-            "nama_se": "KUMOLAB",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-06-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15122",
-            "website": "kumolab.io"
-        },
-        {
-            "id": "9cb1ac23-15e4-4074-bf3a-fb5c1b5480cb",
-            "nama_pse": "RSI SITI HAJAR SIDOARJO",
-            "nama_se": "SIMRS RSISH",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15118",
-            "website": "rsi-sitihajar-sidoarjo.com"
-        },
-        {
-            "id": "9cb1ac46-29aa-4749-984b-951f9aa25412",
-            "nama_pse": "RUMAH SAKIT UMUM DAERAH DR. DARSONO KABUPATEN PACITAN",
-            "nama_se": "SIMRS RSUD DR. DARSONO PACITAN",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15117",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac46-2dcc-442a-92e9-ee661acfdf86",
-            "nama_pse": "RUSDI HOSPITAL TECHNOLOGY",
-            "nama_se": "SIMRS HOSPITS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15119",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac46-30e9-4bab-afc4-0a3fcd599ac3",
-            "nama_pse": "ARDIANSYAH",
-            "nama_se": "JAYAFLAZZ TEKNOLOGI INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15120",
-            "website": "jayaflazz.id"
-        },
-        {
-            "id": "9cb1ac45-5efb-48b7-9b06-6d23c1b73e78",
-            "nama_pse": "RSU MUHAMMADIYAH PONOROGO",
-            "nama_se": "SIMRS RSUM PONOROGO",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-06-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15112",
-            "website": "rsumponorogo.com"
-        },
-        {
-            "id": "9cb1ac23-a9e8-4cd3-8371-d13faaa11360",
-            "nama_pse": "SEHAT SEJAHTERA",
-            "nama_se": "SIM RS HARAPAN BUNDA BANDUNG",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-06-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15116",
-            "website": "harapanbunda.com"
-        },
-        {
-            "id": "9cb1ac46-1326-4bc9-a889-3715a4ed72f9",
-            "nama_pse": "RUMAH SAKIT DADI KELUARGA",
-            "nama_se": "SIMRS RSU DADI KELUARGA PURWOKERTO",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-06-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15104",
-            "website": "rsdk-pwt.com"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 134,
     "totalPages": 383

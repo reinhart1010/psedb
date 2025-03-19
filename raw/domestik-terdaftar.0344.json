@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab76-a2a0-4d2f-8891-ecf800313743",
+            "nama_pse": "FINAL IMPIAN NIAGA",
+            "nama_se": "GOCPAY",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-10-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2072",
+            "website": "goc.id"
+        },
+        {
+            "id": "9cb1ab76-a7b2-407a-9041-c01d97df0391",
+            "nama_pse": "MULTIMEDIA ANAK BANGSA",
+            "nama_se": "BLOGGUA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-10-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2061",
+            "website": "bloggua.co.id"
+        },
+        {
+            "id": "9cb1ab76-ae6e-493d-a17b-63502f67f713",
+            "nama_pse": "ASURANSI JIWA INHEALTH INDONESIA",
+            "nama_se": "FITAJA!",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2021-10-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2113",
+            "website": "MANDIRIINHEALTH.CO.ID"
+        },
+        {
+            "id": "9cb1ab76-b6e9-4383-9874-596d8b3960f1",
+            "nama_pse": "OPER BISNIS INDONESIA",
+            "nama_se": "OPERBISNIS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-10-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2149",
+            "website": "operbisnis.id"
+        },
+        {
+            "id": "9cb1ab7f-5680-4323-89f8-9bf6d7a3a4a3",
+            "nama_pse": "PLUANG EMAS SEJAHTERA",
+            "nama_se": "PLUANG EMAS",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-10-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2122",
+            "website": "pluang-emas.com"
+        },
+        {
+            "id": "9cb1ab83-bf34-4f5b-b64b-4b033a2497c7",
+            "nama_pse": "POTRET MEDIATAMA INDONESIA",
+            "nama_se": "PORTAL BERITA WEB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-10-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1998",
+            "website": "potretwarta.co.id"
+        },
+        {
+            "id": "9cb1ab8b-d683-40e2-8050-28efddfee955",
+            "nama_pse": "JELAJAH DATA SEMESTA",
+            "nama_se": "QID REWARDS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-10-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2031",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab7c-143b-43c5-a774-9c0745905815",
+            "nama_pse": "DATASCRIP",
+            "nama_se": "SIPLAH DATASCRIPMALL.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-10-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2060",
+            "website": "siplah.datascripmall.id"
+        },
+        {
+            "id": "9cb1ab7c-8f86-434e-b199-8582d2d1307b",
+            "nama_pse": "SOLUSI INFORMASI DIGITAL UTAMA",
+            "nama_se": "MYKAS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-10-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1999",
+            "website": "mykas.co.id"
+        },
+        {
+            "id": "9cb1ab7c-9cf7-4b59-9d6c-96f48683ecff",
+            "nama_pse": "QUARK INTERNATIONAL INDONESIA",
+            "nama_se": "SO EASY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-10-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2078",
+            "website": "soeasy.id"
+        },
+        {
             "id": "9cb1ab8c-9719-4cba-bf1d-c4052b9cdb8e",
             "nama_pse": "CASHLEZ WORLDWIDE INDONESIA",
             "nama_se": "CASHLEZ",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-10-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2110",
             "website": "icargo.id"
-        },
-        {
-            "id": "9cb1ab87-661e-4d27-bacd-8cfc1e3c6cd7",
-            "nama_pse": "PT.Icargo Digital Logistic",
-            "nama_se": "PLATFORM DIGITAL LOGISTIK",
-            "sektor": "Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2137",
-            "website": "icargo.id"
-        },
-        {
-            "id": "9cb1ab7e-fcb5-4a67-a706-b27eadee8ad0",
-            "nama_pse": "STARGO DIGITAL INDONESIA",
-            "nama_se": "BINTANGO",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2111",
-            "website": "bintango.com"
-        },
-        {
-            "id": "9cb1ab87-6b76-4ba6-aaa1-f3ba1d630f22",
-            "nama_pse": "PT ABLE REMITTANCE",
-            "nama_se": "ABLE REMITTANCE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2112",
-            "website": "ablegroup.co.id"
-        },
-        {
-            "id": "9cb1ab7f-03f7-4036-a3f8-2e67fba56335",
-            "nama_pse": "Sitoen Karya Abadi",
-            "nama_se": "SITOEN",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2118",
-            "website": "sitoen.com"
-        },
-        {
-            "id": "9cb1ab8f-2bf5-4afe-b566-4c8444a7be16",
-            "nama_pse": "PT PEFINDO BIRO KREDIT",
-            "nama_se": "MYIDSCORE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2119",
-            "website": "myidscore.id"
-        },
-        {
-            "id": "9cb1ab7f-0654-4547-ace9-b931b13b8256",
-            "nama_pse": "KRAKATAU INFORMATION TECHNOLOGY",
-            "nama_se": "KRASMART",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2121",
-            "website": "krasmart.com"
-        },
-        {
-            "id": "9cb1ab87-6e4d-4d58-be89-a66f60f348e4",
-            "nama_pse": "PT Handyman Smarttech Indonesia",
-            "nama_se": "HANDYMAN SMART HOME",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2123",
-            "website": "handyman-id.com"
-        },
-        {
-            "id": "9cb1ab7f-0a41-45bf-9f88-373eac1a73d1",
-            "nama_pse": "PT. OSCAR MITRA SUKSES SEJAHTERA",
-            "nama_se": "OSCARLIVING",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2134",
-            "website": "oscarliving.go.id"
-        },
-        {
-            "id": "9cb1ab87-71cc-4486-ace7-7f64c661d33e",
-            "nama_pse": "TOP KARIR INDONESIA",
-            "nama_se": "PT TOP KARIR INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2130",
-            "website": "topkarir.com/"
-        },
-        {
-            "id": "9cb1ab8f-2f8e-485f-8982-93510f4dc080",
-            "nama_pse": "PT.HASBION SHARE INDONESIA",
-            "nama_se": "SHARE2U",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2132",
-            "website": "share2u.digital"
         }
     ],
-    "processingTimeMs": 29,
+    "processingTimeMs": 13,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 344,
     "totalPages": 383

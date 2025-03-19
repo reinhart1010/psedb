@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac3e-c316-466f-b8b1-69fee6fbcd2b",
+            "nama_pse": "POLPOLE DIGITAL INDONESIA",
+            "nama_se": "POLPOLE",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13973",
+            "website": "polpole.id"
+        },
+        {
+            "id": "9cb1ac3e-c78b-4c8f-ade9-faa4738af621",
+            "nama_pse": "ITSEC ASIA",
+            "nama_se": "IT SECURITY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13967",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac2f-479e-4066-b243-a7ab9f914e32",
+            "nama_pse": "PERFORMA INTI NUSANTARA",
+            "nama_se": "PINUS SOFTWARE",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13968",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac1c-b9ed-468f-9e28-a558c13be5c0",
+            "nama_pse": "ASIA TRADE POINT FUTURES",
+            "nama_se": "CLIENT AREA ASIATRADEFX",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13969",
+            "website": "asiatradefx.com"
+        },
+        {
+            "id": "9cb1ac1c-bcae-4861-a5af-e032fd9155d2",
+            "nama_pse": "SEGITIGA SAMA SISI",
+            "nama_se": "SIMTARU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13970",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac2f-4bd0-4bea-863b-d479a1e5db10",
+            "nama_pse": "TRADO LOGISTIK CUAN",
+            "nama_se": "TRADO",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2023-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13972",
+            "website": "trado.id"
+        },
+        {
+            "id": "9cb1ac2f-4f30-45a5-a55b-d56649084e88",
+            "nama_pse": "AKSESTANI AGRITECH INDONESIA",
+            "nama_se": "AKSESTANI",
+            "sektor": "Sektor Perdagangan, Sektor Pangan",
+            "tanggal_terbit": "2023-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13971",
+            "website": "aksestani.com"
+        },
+        {
+            "id": "9cb1ac3e-cb5a-4797-9068-182db1838548",
+            "nama_pse": "BALABOOM TECHNOLOGY INDONESIA",
+            "nama_se": "VIDDUP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13974",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac1c-c1f7-4beb-b0f7-bac57977e983",
+            "nama_pse": "ZOBORD DIGITAL SOLUSINDO",
+            "nama_se": "PICK N BLAST",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13975",
+            "website": "picknblast.com"
+        },
+        {
+            "id": "9cb1ac1c-9d6c-47ea-9adf-d883911264b3",
+            "nama_pse": "PASARIBOE MANDIRI BERKARYA",
+            "nama_se": "KOREKSI NEWS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13947",
+            "website": "koreksinews.com"
+        },
+        {
+            "id": "9cb1ac1c-a08b-4afe-8130-a8125df64fe5",
+            "nama_pse": "GREENERATION INDONESIA",
+            "nama_se": "ECOXYZTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13954",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac2f-1522-4203-b787-d418f5d8fcc5",
             "nama_pse": "ONKLAS PRIMA INDONESIA",
             "nama_se": "INDESA.ID",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-02-23",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13917",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac3e-5073-4db5-8bc2-f66d9ca8eebc",
-            "nama_pse": "ASURANSI TRI PAKARTA",
-            "nama_se": "APLIKASI MOBILE TRIPA SMART",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13911",
-            "website": "tripakarta.co.id"
-        },
-        {
-            "id": "9cb1ac2e-c53f-4908-acac-8e1ec15d5f8c",
-            "nama_pse": "ADHOUSE INDONESIA CIPTA",
-            "nama_se": "ANAK BISNIS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13912",
-            "website": "anakbisnis.com"
-        },
-        {
-            "id": "9cb1ac1c-6bc1-462f-a9a4-c74a4a22c4d9",
-            "nama_pse": "FANA BAKA TEKNOLOGI",
-            "nama_se": "PABRYK",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13908",
-            "website": "pabryk.com"
-        },
-        {
-            "id": "9cb1ac3e-6a3b-4c17-aea8-fd79f55536ad",
-            "nama_pse": "FANA BAKA TEKNOLOGI",
-            "nama_se": "TUKARPAY",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13909",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac1c-6f39-4dbf-9ad5-ea9a88b4c05a",
-            "nama_pse": "APIK EDU INDONESIA",
-            "nama_se": "BLORA BERSATU",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13910",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac1c-76f7-4684-baf3-1429a5c2f831",
-            "nama_pse": "KONSULTAN BISNIS DAN INFORMATIKA",
-            "nama_se": "OLEH OLEH ONLINE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13913",
-            "website": "oleholehonline.id"
-        },
-        {
-            "id": "9cb1ac2e-cd95-4bb5-93f1-2842a7ae50a2",
-            "nama_pse": "BIGS INTEGRASI TEKNOLOGI",
-            "nama_se": "EMESYS",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13914",
-            "website": "emesys.id"
-        },
-        {
-            "id": "9cb1ac2e-d11c-4ac1-905e-f350585a377a",
-            "nama_pse": "KARYA PRIMA PUTERA PERKASA",
-            "nama_se": "AVIAT",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13918",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac1c-7b0b-4b16-aaf5-63ced65cf223",
-            "nama_pse": "BEIDIAN TECHNOLOGY SERVICE",
-            "nama_se": "BEIDIAN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13916",
-            "website": "beidian.com.cn"
-        },
-        {
-            "id": "9cb1ac1c-805b-4141-a376-35b8c85694c1",
-            "nama_pse": "SISTEM KESEHATAN INDONESIA",
-            "nama_se": "SISTEMKESEHATAN.ID",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13919",
-            "website": "sistemkesehatan.id"
-        },
-        {
-            "id": "9cb1ac3e-7732-440c-a976-5f3c3a915454",
-            "nama_pse": "FANA BAKA TEKNOLOGI",
-            "nama_se": "KONNEKIN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-02-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13920",
-            "website": "konnekin.com"
         }
     ],
     "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 153,
     "totalPages": 383

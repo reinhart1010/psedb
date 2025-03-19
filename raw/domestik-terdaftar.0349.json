@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab83-885c-4b16-9491-417ab1a226f5",
+            "nama_pse": "BANK ICBC INDONESIA",
+            "nama_se": "WEBSITE ICBC INDONESIA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-08-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1829",
+            "website": "icbc.co.id"
+        },
+        {
+            "id": "9cb1ab86-516d-4b6a-9def-cc276dcec9d4",
+            "nama_pse": "SHELL INDONESIA",
+            "nama_se": "SHELL GO+",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Energi dan Sumber Daya Mineral",
+            "tanggal_terbit": "2021-08-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1843",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba9-5f1a-4bde-9d01-6009d0cfaa7a",
+            "nama_pse": "LESTARI DIGITAL TEXT",
+            "nama_se": "CLASS CHATTING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-08-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1846",
+            "website": "lestariilmu.id"
+        },
+        {
+            "id": "9cb1ab91-e751-4f79-8fbe-baa68c45c0f0",
+            "nama_pse": "SIMPAN PINJAM JARINGAN USAHA SESAMA",
+            "nama_se": "UANG BULL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2021-08-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1841",
+            "website": "uangbull.id"
+        },
+        {
+            "id": "9cb1ab9f-2785-4928-89d8-725c7ceed35f",
+            "nama_pse": "SIMPAN PINJAM GRAHA SUMBER MAKMUR",
+            "nama_se": "DUIT KEY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2021-08-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1840",
+            "website": "duitkey.id"
+        },
+        {
+            "id": "9cb1ab62-390c-4095-8acf-3c894c3a8741",
+            "nama_pse": "EMOS GLOBAL DIGITAL",
+            "nama_se": "EMOS",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2021-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1797",
+            "website": "emos.id"
+        },
+        {
+            "id": "9cb1ab6a-84bd-43b4-ada1-e69e86d5afdf",
+            "nama_pse": "ADVANCE INTELLIGENCE INDONESIA",
+            "nama_se": "GINEE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1818",
+            "website": "ginee.com"
+        },
+        {
+            "id": "9cb1ab71-d497-45f0-8c13-0ece3a7233a2",
+            "nama_pse": "SACRED ORNAMENTS TATTOO",
+            "nama_se": "SACRED ORNAMENTS TATTOO",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1795",
+            "website": "sacredornamentsbali.com"
+        },
+        {
+            "id": "9cb1ab73-ffa5-4a2c-9f7b-730ef4bf8eb8",
+            "nama_pse": "BANK BUMI ARTA",
+            "nama_se": "INTERNET BANKING CORPORATE (E-BBA)",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1801",
+            "website": "ebanking.bankbba.co.id"
+        },
+        {
+            "id": "9cb1ab6d-9b43-4e74-80b8-0c62abbb33ec",
+            "nama_pse": "BANK BUMI ARTA",
+            "nama_se": "VIRTUAL ACCOUNT BBA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-07-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1802",
+            "website": "va.bankbba.co.id"
+        },
+        {
             "id": "9cb1ab6d-9ee2-4feb-bf44-8377638cda7e",
             "nama_pse": "BANK BUMI ARTA",
             "nama_se": "MOBILE BANKING (BBA MOBILE)",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-07-27",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1777",
             "website": "kayongku.com"
-        },
-        {
-            "id": "9cb1ab69-0b8c-433c-8eb5-50a3ad7472ee",
-            "nama_pse": "ZIPMEX EXCHANGE INDONESIA",
-            "nama_se": "ZIPMEX EXCHANGE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1784",
-            "website": "zipmex.com/id/"
-        },
-        {
-            "id": "9cb1ab75-c9c7-4ecb-af3e-75c3664998d0",
-            "nama_pse": "KARYA INDONESIA CERDAS",
-            "nama_se": "KARYA INDONESIA CERDAS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1785",
-            "website": "karya-indonesia-cerdas.com"
-        },
-        {
-            "id": "9cb1ab69-2083-4cda-99c2-b333ac8da5bc",
-            "nama_pse": "ROUTE MOBILE INDONESIA",
-            "nama_se": "ROUTE MOBILE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1789",
-            "website": "routemobile.com"
-        },
-        {
-            "id": "9cb1ab7c-f0b8-437f-91ca-b7ec62fb47af",
-            "nama_pse": "SMARTFREN TELECOM",
-            "nama_se": "MYLINK",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1779",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab84-f78c-40b0-a177-e73f34b727f8",
-            "nama_pse": "SMARTFREN TELECOM",
-            "nama_se": "SMARTMUSIC",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1780",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab85-04d9-43c2-a965-c8426b4603ac",
-            "nama_pse": "SMARTFREN TELECOM",
-            "nama_se": "MYSF",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1781",
-            "website": "my.smartfren.com/"
-        },
-        {
-            "id": "9cb1ab7c-f310-46b8-99b5-4a9b24f51562",
-            "nama_pse": "SMARTFREN TELECOM",
-            "nama_se": "UANGKU",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1783",
-            "website": "uangku.co.id/"
-        },
-        {
-            "id": "9cb1ab7d-c451-484c-b1eb-00a6abc7a1c7",
-            "nama_pse": "EBELAJAR SEMESTA RAYA",
-            "nama_se": "E-BELAJAR",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1768",
-            "website": "http://e-belajar.id"
-        },
-        {
-            "id": "9cb1aba9-61c7-4799-9215-84f883b6b0ea",
-            "nama_pse": "TRIPUTRA TEKNO SOLUSINDO",
-            "nama_se": "KEREM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1778",
-            "website": "kerem.id"
-        },
-        {
-            "id": "9cb1abae-0a75-475a-bd4c-9bb5ead1100a",
-            "nama_pse": "Lumen Teknoindo",
-            "nama_se": "ABDI DESA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4780",
-            "website": "abdidesa.id"
         }
     ],
     "processingTimeMs": 8,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 349,
     "totalPages": 383

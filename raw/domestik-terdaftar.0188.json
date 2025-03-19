@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac0f-1f29-43a5-9294-a811b2447fdb",
+            "nama_pse": "ERA DIGITAL MEDIA",
+            "nama_se": "XTRIVIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11060",
+            "website": "xtrivia.id"
+        },
+        {
+            "id": "9cb1ac00-708c-4ef8-909a-17e01768a2e2",
+            "nama_pse": "ERA DIGITAL MEDIA",
+            "nama_se": "RODAEMAS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11061",
+            "website": "rodaemas.id"
+        },
+        {
+            "id": "9cb1ac00-770a-4ff6-8430-cf49577b266b",
+            "nama_pse": "ERA DIGITAL MEDIA",
+            "nama_se": "FUNTIME",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11063",
+            "website": "funtime.id"
+        },
+        {
+            "id": "9cb1ac0f-223c-4cac-8e25-89decf0253c6",
+            "nama_pse": "ERA DIGITAL MEDIA",
+            "nama_se": "USTADKU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11065",
+            "website": "ustadku.tv"
+        },
+        {
+            "id": "9cb1ac0f-2631-44f5-8178-103a0d9b8555",
+            "nama_pse": "ERA DIGITAL MEDIA",
+            "nama_se": "FUNTV",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11066",
+            "website": "funtv.id"
+        },
+        {
+            "id": "9cb1ac0f-2c1b-473d-97af-726adafb0137",
+            "nama_pse": "SINARNIAGA SEJAHTERA",
+            "nama_se": "MITRA SNS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11068",
+            "website": "mitrasns.com"
+        },
+        {
+            "id": "9cb1ac0f-2f73-43e9-b846-fdbac72ee381",
+            "nama_pse": "KONEKSI GLOBAL TEKHNOLOGI",
+            "nama_se": "FUNZONE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11069",
+            "website": "funzone.id"
+        },
+        {
+            "id": "9cb1abda-d2a2-4f65-81bc-f29debf41571",
+            "nama_pse": "SUKSES BERKAH KAWAN SEJATI",
+            "nama_se": "WWW.SAFARIMULIA.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11070",
+            "website": "safarimulia.id"
+        },
+        {
+            "id": "9cb1ac0f-322f-4e6c-a539-e29fb91c7ef7",
+            "nama_pse": "SUKSES BERKAH KAWAN SEJATI",
+            "nama_se": "WWW.TOPSTORE.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11071",
+            "website": "topstore.co.id"
+        },
+        {
+            "id": "9cb1ac00-7da8-4dcc-be1e-5efee20c4a35",
+            "nama_pse": "SUKSES BERKAH KAWAN SEJATI",
+            "nama_se": "SAFARIMULIA.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11072",
+            "website": "safarimulia.id"
+        },
+        {
+            "id": "9cb1abfe-da8b-4335-b988-ae94e9828b1b",
+            "nama_pse": "VITA INTI SELARAS",
+            "nama_se": "HTTPS://WWW1.OTELLOGAMING.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10753",
+            "website": "otellogaming.com"
+        },
+        {
             "id": "9cb1abda-0b8e-4151-9dfd-c5a5d714d672",
             "nama_pse": "ATLANTIS INTERNATIONAL",
             "nama_se": "WWW.ATLANTIS-BALI-DIVING.COM",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-09-02",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10992",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac00-0e63-4d85-9793-5838cc2e8f4c",
-            "nama_pse": "FUSINDO SOKA",
-            "nama_se": "PLATFORM INFRASTRUKTUR TRANSFER DANA (REMITANSI)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10993",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac0e-c4f7-47d7-839b-15310760e989",
-            "nama_pse": "DIKRI NALENDRA AMINADIN",
-            "nama_se": "PT. DIKRI NALENDRA AMINADIN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10994",
-            "website": "onlineshopdna.com"
-        },
-        {
-            "id": "9cb1ac0e-c7d7-4c00-b64d-5b03c6af4d40",
-            "nama_pse": "INDONESIA DEVELOPMENT CORNER",
-            "nama_se": "IDEVCORNER.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10995",
-            "website": "idevcorner.co.id"
-        },
-        {
-            "id": "9cb1ac00-1691-4d41-9c21-4c57bd11cf86",
-            "nama_pse": "INTERNUSA OKULUS TAMA",
-            "nama_se": "POLAKATA DIGITAL MEDIA DAN EKATA INTERACTIVE MEDIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10999",
-            "website": "polakata.com"
-        },
-        {
-            "id": "9cb1ac0e-cdf0-4418-83d8-52f747c3dc33",
-            "nama_pse": "SOLARNET ANTAR NETWORK",
-            "nama_se": "TAKEME",
-            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11000",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abda-95d4-48b7-8016-c95da93b190a",
-            "nama_pse": "VIRTU INOVASI DIGITAL",
-            "nama_se": "MONSTER PRO",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11001",
-            "website": "monsterpro.id"
-        },
-        {
-            "id": "9cb1ac0e-9b01-49fb-9f52-ef883c17bdf4",
-            "nama_pse": "RUMAH YATIM ARROHMAN INDONESIA",
-            "nama_se": "DONASI ONLINE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10951",
-            "website": "donasionline.id"
-        },
-        {
-            "id": "9cb1abfe-e7e2-4c33-84d6-c7d3767a69f8",
-            "nama_pse": "META NUSANTARA VICTORI",
-            "nama_se": "ASIX PLUS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10758",
-            "website": "ASIXPLUS.IO"
-        },
-        {
-            "id": "9cb1abd9-eb86-4e7c-ab52-6cbcb7d3b72e",
-            "nama_pse": "META NUSANTARA VICTORI",
-            "nama_se": "ASIX CONNECT",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10864",
-            "website": "ASIXPLUS.IO"
-        },
-        {
-            "id": "9cb1abd9-f644-4110-b08d-9ac005e5d307",
-            "nama_pse": "ARUNA JAYA NUSWANTARA",
-            "nama_se": "ARUNA.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10890",
-            "website": "aruna.id"
-        },
-        {
-            "id": "9cb1abda-5330-4381-ac7c-e812d43ceb7d",
-            "nama_pse": "HMD MOBILE INDONESIA",
-            "nama_se": "HMD SOFTLOCK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10944",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 188,
     "totalPages": 383

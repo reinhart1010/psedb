@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab7f-9dfb-4da6-b806-34d1cb3720eb",
+            "nama_pse": "EBDESK TEKNOLOGI",
+            "nama_se": "EBDESK INQURIO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-01-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3090",
+            "website": "ebdesk.com"
+        },
+        {
+            "id": "9cb1ab78-914b-4434-9743-5e87508abdd7",
+            "nama_pse": "CAKRAWALA NUSANTARA TEKNOLOGI",
+            "nama_se": "ECOMMERCE E-RETAIL TOMONET (TOMONET.CO.ID)",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-01-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3091",
+            "website": "tomonet.co.id"
+        },
+        {
+            "id": "9cb1ab82-0659-440b-b048-106b6c1f9876",
+            "nama_pse": "AKSELERAN KEUANGAN INKLUSIF INDONESIA",
+            "nama_se": "AKSELERAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-01-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3089",
+            "website": "akseleran.co.id"
+        },
+        {
+            "id": "9cb1ab8a-1be3-42fb-aa6e-6804a07105b3",
+            "nama_pse": "HANSEN CHRYSTIAN",
+            "nama_se": "ZENON ELEKTRONIK",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-01-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3083",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab7a-539d-4f0d-a86d-8ed09d93c8fa",
+            "nama_pse": "DOM PIZZA INDONESIA",
+            "nama_se": "DOMINOS.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-01-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3084",
+            "website": "dominos.co.id"
+        },
+        {
+            "id": "9cb1ab82-2317-4448-a60f-af4ead92b2b6",
+            "nama_pse": "PLESIRAN DIGITAL INDONESIA",
+            "nama_se": "PLESIRAN",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi",
+            "tanggal_terbit": "2022-01-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3085",
+            "website": "plesiran.co"
+        },
+        {
+            "id": "9cb1ab7a-63ff-481f-a2cb-68fc2e13f865",
+            "nama_pse": "PLESIRAN DIGITAL INDONESIA",
+            "nama_se": "PLESIRAN TRANSPORTASI",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-01-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3086",
+            "website": "plesiran.co"
+        },
+        {
+            "id": "9cb1ab7a-713a-45f7-bdb4-2f4bb684642a",
+            "nama_pse": "RT/RW INTERNET",
+            "nama_se": "DAUN TECH INDO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-01-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3088",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab9f-0793-4f2d-b60e-e800fee65cfd",
+            "nama_pse": "WELTEK HEALTHIN INDONESIA",
+            "nama_se": "WELTEK HEALTHIN INDONESIA",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-01-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3087",
+            "website": "weltek.id"
+        },
+        {
+            "id": "9cb1ab81-bdd3-4eaf-96cb-d6b0ff46969a",
+            "nama_pse": "CLEVERADS",
+            "nama_se": "HTTP://CLEVERADS.CO.ID/ID/HOME.HTML",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-01-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3081",
+            "website": "http://cleverads.co.id/id/home.html"
+        },
+        {
             "id": "9cb1ab8a-18d9-44a5-8165-0e1390849336",
             "nama_pse": "DENY AGUNG FITRIANTO",
             "nama_se": "LEGALMU DIGITAL INDONESIA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-01-13",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3046",
             "website": "wom.co.id"
-        },
-        {
-            "id": "9cb1ab91-f84f-4bad-b713-8b4557242662",
-            "nama_pse": "POJOK BATAM DIGITAL",
-            "nama_se": "POJOK TIMES",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-01-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3041",
-            "website": "pojoktimes.com"
-        },
-        {
-            "id": "9cb1abaa-e750-46f4-847a-2107e4e245d7",
-            "nama_pse": "TEKNOLOGI PANDU WISATA",
-            "nama_se": "PANDOOIN.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-01-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3038",
-            "website": "pandooin.com"
-        },
-        {
-            "id": "9cb1ab89-be31-4b57-99e6-b427c9816fb5",
-            "nama_pse": "JAKARTA HUBTECH OPERATIONS",
-            "nama_se": "PT JAKARTA HUBTECH OPERATIONS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-01-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3036",
-            "website": "hubster.co.id"
-        },
-        {
-            "id": "9cb1ab89-e146-43f0-9780-31088423393d",
-            "nama_pse": "ZULFI KHARFAREDO",
-            "nama_se": "ZEDOSHOP TOKO ONLINE",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-01-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3032",
-            "website": "zedoshop.com"
-        },
-        {
-            "id": "9cb1ab7a-2f4c-461c-a4cd-43a86efb853b",
-            "nama_pse": "JUARA OPTIMAL STRATEZIQ",
-            "nama_se": "STRATEZIQ",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-01-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3034",
-            "website": "strateziq.id"
-        },
-        {
-            "id": "9cb1ab9f-03e3-493e-83a5-608f6439287c",
-            "nama_pse": "NETRA TEKNIKA CAKRAWALA",
-            "nama_se": "JASA REPARASI KOMPUTER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-01-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3035",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab6a-20a3-4010-9be1-7353d88309bc",
-            "nama_pse": "PIONIR MAHAKARYA TEKNOLOGI",
-            "nama_se": "FINFINI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-01-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3028",
-            "website": "finfini.com"
-        },
-        {
-            "id": "9cb1ab77-da3b-4f95-9ded-210398bb476c",
-            "nama_pse": "CIPTADANA SEKURITAS ASIA",
-            "nama_se": "CITRA",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-01-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3029",
-            "website": "ciptadana.com"
-        },
-        {
-            "id": "9cb1ab7f-d2ea-4eee-8aea-c0f1f2b28488",
-            "nama_pse": "ASURANSI JASA INDONESIA",
-            "nama_se": "EASY.",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-01-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3023",
-            "website": "easyinsurance.id"
-        },
-        {
-            "id": "9cb1ab78-0c73-4759-9e99-2e2e893e2cbc",
-            "nama_pse": "FANATIK TEKNOLOGI INDONESIA",
-            "nama_se": "PINTER",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pangan",
-            "tanggal_terbit": "2022-01-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3021",
-            "website": "pinter.co.id"
         }
     ],
     "processingTimeMs": 7,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 325,
     "totalPages": 383

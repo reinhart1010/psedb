@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac4d-24e2-4c92-9a78-7a01c5a32ec8",
+            "nama_pse": "DUTA ALBA PERS",
+            "nama_se": "DUTAKHABARTERKINI.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16082",
+            "website": "dutakhabarterkini.id"
+        },
+        {
+            "id": "9cb1ac4c-232d-47ac-8ed8-717c8d2bbce8",
+            "nama_pse": "PUTRI ANGGUN SEJAHTERA",
+            "nama_se": "SIM RSIA PUTRI SURABAYA",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16083",
+            "website": "sim.rsiaputri.com"
+        },
+        {
+            "id": "9cb1ac4c-2608-4547-9e3d-d1153a95b2ba",
+            "nama_pse": "RSU PKU MUHAMMADIYAH DELANGGU",
+            "nama_se": "SIMRS RSU PKU MUHAMMADIYAH DELANGGU",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16084",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac60-7190-4018-9be9-254115531c65",
+            "nama_pse": "MEDIATAMA SURYA HUSADA",
+            "nama_se": "SIMRS RSU UNMUH JEMBER",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16085",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4c-2926-4162-a1cc-c1b959670cef",
+            "nama_pse": "YAPINDO JAYA ABADI",
+            "nama_se": "NEO UK PROFESI FISIOTERAPI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16086",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac60-741f-4778-82fb-4d9b22cdaf77",
+            "nama_pse": "YAPINDO JAYA ABADI",
+            "nama_se": "NEO UK STR/D4 RMIK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16087",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4c-2df7-4a9d-bba1-0a2105d54aa9",
+            "nama_pse": "YAPINDO JAYA ABADI",
+            "nama_se": "NEO UK STR/D4 TRP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16088",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac60-768d-4e74-bbcb-162e4ab167e8",
+            "nama_pse": "YAPINDO JAYA ABADI",
+            "nama_se": "NEO UK STR/D4 SANITASI LINGKUNGAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16089",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4d-282d-4d9d-90d0-0e00c0d4ff5a",
+            "nama_pse": "YAPINDO JAYA ABADI",
+            "nama_se": "NEO UK D3 ATLM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16090",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4c-31c7-46fd-8716-854c740d9e94",
+            "nama_pse": "YAPINDO JAYA ABADI",
+            "nama_se": "NEO UK D3 KEPERAWATAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16091",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4c-3516-4148-a5b3-2340dace5e10",
+            "nama_pse": "FINZA COMTECH",
+            "nama_se": "SYSMED.ID",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-09-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16092",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac60-2390-4e68-8ffb-d80be0421b8c",
             "nama_pse": "KECERDASAN DIGITAL INDONESIA",
             "nama_se": "INDOTEK.AI",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-09-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16036",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac4c-ec5b-460b-a03e-7243f024464a",
-            "nama_pse": "VORENT OFFICE INDONESIA",
-            "nama_se": "VORENT OFFICE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16037",
-            "website": "vorentoffice.co.id"
-        },
-        {
-            "id": "9cb1ac60-35f5-4b01-a705-5fb52399c96c",
-            "nama_pse": "VORENT OFFICE INDONESIA",
-            "nama_se": "IZININ",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16038",
-            "website": "izinin.id"
-        },
-        {
-            "id": "9cb1ac4b-fe47-41f9-b117-f7a554c14f08",
-            "nama_pse": "EDRUS EDUKASI UTAMA",
-            "nama_se": "ENTREPRENEURS.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16039",
-            "website": "entrepreneurs.id"
-        },
-        {
-            "id": "9cb1ac4c-ef46-4bf8-8f66-83d0fa9a7e43",
-            "nama_pse": "GUNA DHITA TATTA INFORMATIKA",
-            "nama_se": "PT GUNA DHITA TATTA INFORMATIKA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16040",
-            "website": "dst.technology"
-        },
-        {
-            "id": "9cb1ac60-3905-4aa4-8ff8-5c17fc199d3c",
-            "nama_pse": "PERSEKUTUAN PERDATA LEXJUSTISIA",
-            "nama_se": "IZINKILAT",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16041",
-            "website": "izinkilat.id"
-        },
-        {
-            "id": "9cb1ac60-3bf2-467e-adb0-ad5c17afd0eb",
-            "nama_pse": "HARTA TAHTA USAHA",
-            "nama_se": "ONESPACE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16042",
-            "website": "onespace.id"
-        },
-        {
-            "id": "9cb1ac60-3f2f-44e9-9aac-905702346236",
-            "nama_pse": "LEGALITAS.ORG",
-            "nama_se": "LEGALITAS.ORG",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16043",
-            "website": "Legalitas.org"
-        },
-        {
-            "id": "9cb1ac60-42bd-4f4b-84b6-1cf10d0d8353",
-            "nama_pse": "LAYANAN BISNIS SCBD",
-            "nama_se": "VOSCBD",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16044",
-            "website": "virtualofficescbd.id"
-        },
-        {
-            "id": "9cb1ac4c-f5a3-4ab1-bd51-b0a04acd40cc",
-            "nama_pse": "INSPIRASIEN SRIKANDI INDONESIA",
-            "nama_se": "INSPIRASIEN",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16045",
-            "website": "inspirasien.id"
-        },
-        {
-            "id": "9cb1ac60-4562-49ec-b9d7-17f1d0875e01",
-            "nama_pse": "MEDIKA SOLUSI DIGITAL",
-            "nama_se": "PROFESSIONAL MEDICAL OFFICE",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16046",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4c-feda-421a-94b5-baaf53e81942",
-            "nama_pse": "DILAN TEKNOLOGI INDONESIA",
-            "nama_se": "DILAN HELP CENTER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-09-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16047",
-            "website": "help.dilan.id"
         }
     ],
     "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 117,
     "totalPages": 383

@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac40-a672-4fe5-b9b2-a33572ba626c",
+            "nama_pse": "GOJASAKU DIGITAL INDONESIA",
+            "nama_se": "PT GOJASAKU DIGITAL INDONESIA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14198",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac3e-f687-4e44-914c-d1b616582995",
+            "nama_pse": "MATRICA CONSULTING SERVICE",
+            "nama_se": "MCS MEDIKA",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14173",
+            "website": "matrica.co.id"
+        },
+        {
+            "id": "9cb1ac1d-e58a-4e80-a9ee-2e4369c657f6",
+            "nama_pse": "RUMAH SAKIT UMUM DAERAH PANEMBAHAN SENOPATI KABUPATEN BANTUL",
+            "nama_se": "EMEDIKA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14169",
+            "website": "rsudps.bantulkab.go.id"
+        },
+        {
+            "id": "9cb1ac40-61a8-4d8a-a895-15ff1bd98caf",
+            "nama_pse": "BAYARIND ARTHA INTERNUSA",
+            "nama_se": "BAYARIND TRANSACTION ECOSYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14170",
+            "website": "bayarind.id"
+        },
+        {
+            "id": "9cb1ac30-741d-47bf-bada-4f40d9e99a69",
+            "nama_pse": "LASBON TECHNOLOGY INDONESIA",
+            "nama_se": "LOLYSHOPY.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-03-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14168",
+            "website": "lolyshopy.com"
+        },
+        {
+            "id": "9cb1ac40-7ac3-4a8b-b60a-042461c62281",
+            "nama_pse": "RS JIWA PROF. DR. SOEROYO MAGELANG DITJEN PELAYANAN KESEHATAN KEMENTERIAN KESEHATAN",
+            "nama_se": "SOSMART",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-03-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14171",
+            "website": "soerojohospital.co.id"
+        },
+        {
+            "id": "9cb1ac30-77d8-47aa-9cad-d2f5bede115b",
+            "nama_pse": "GAIDO DIGITAL MEDIKA",
+            "nama_se": "DH MEDZIT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-03-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14172",
+            "website": "digitalhospital.id"
+        },
+        {
+            "id": "9cb1ac30-7c47-4d87-b955-beb85dbeb551",
+            "nama_pse": "MUHAMAD WISNU",
+            "nama_se": "NUSAPEDIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-03-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14174",
+            "website": "nusapedia.tech"
+        },
+        {
+            "id": "9cb1ac40-803d-4888-a965-55ff29b7a0b2",
+            "nama_pse": "ONEMORE INTERNATIONAL ASIA",
+            "nama_se": "WEBSITE ONEMORE INTERNATIONAL ASIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-03-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14175",
+            "website": "onemoreinternational.asia"
+        },
+        {
+            "id": "9cb1ac1e-1147-46b9-9bd8-9aa76a12d4d0",
+            "nama_pse": "SMS VERIFIKASI INDONESIA",
+            "nama_se": "SMS VERIFIKASI INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14176",
+            "website": "smsverifikasi.com"
+        },
+        {
+            "id": "9cb1ac30-8302-4e1f-bb81-fd2c51970167",
+            "nama_pse": "MULTIDAYA TEKNOLOGI NUSANTARA",
+            "nama_se": "EFISHERY AUTOMATIC SMART FEEDER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan",
+            "tanggal_terbit": "2023-03-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14177",
+            "website": "feeder.efishery.com"
+        },
+        {
             "id": "9cb1ac1e-1414-4d22-8707-b8e8d8c14524",
             "nama_pse": "BINA LESTARI USAHA TERPADU",
             "nama_se": "PT BINA LESTARI USAHA TERPADU",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-03-16",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14129",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac40-38ac-4d40-ab4e-b873faf76109",
-            "nama_pse": "BENDAHARA PENGELUARAN RUMKIT TK III CIREMAI",
-            "nama_se": "MOBILE CIREMAI",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14124",
-            "website": "mocie.rsciremai.com"
-        },
-        {
-            "id": "9cb1ac1d-cb93-4c6b-b426-65aecf7e13f7",
-            "nama_pse": "BENDAHARA PENGELUARAN RUMKIT TK III CIREMAI",
-            "nama_se": "MOBILE STAF",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14125",
-            "website": "mosta.rsciremai.com"
-        },
-        {
-            "id": "9cb1ac30-2744-4ec5-aeac-18f62b46f4d1",
-            "nama_pse": "KRISTEN UNTUK KESEHATAN UMUM",
-            "nama_se": "SIM RS BETHESDA YOGYAKARTA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14126",
-            "website": "bethesda.or.id"
-        },
-        {
-            "id": "9cb1ac1d-cec7-4095-9572-a6443062d700",
-            "nama_pse": "BENDAHARA PENGELUARAN RUMKIT TK III CIREMAI",
-            "nama_se": "MOBILE PENUNJANG",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14127",
-            "website": "mojang.rsciremai.com"
-        },
-        {
-            "id": "9cb1ac40-3dcc-4ae7-a6c7-fb18a446b2c0",
-            "nama_pse": "DATACOMM DIANGRAHA",
-            "nama_se": "PT DATACOMM DIANGRAHA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14131",
-            "website": "daatcomm.co.id"
-        },
-        {
-            "id": "9cb1ac30-2aec-4a9f-b610-f2bba18e06fe",
-            "nama_pse": "MANUNGGAL JASA INVESTINDO",
-            "nama_se": "PANGGIL TUKANG",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14130",
-            "website": "panggiltukang.id"
-        },
-        {
-            "id": "9cb1ac30-30e2-4859-9d64-2238be60c8db",
-            "nama_pse": "SKORCARD TEKNOLOGI INDONESIA",
-            "nama_se": "SKORCARD",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14136",
-            "website": "skorcard.app"
-        },
-        {
-            "id": "9cb1ac1d-d1a5-44cb-bcf3-c24434f20994",
-            "nama_pse": "DATACOMM DIANGRAHA",
-            "nama_se": "DATACOMM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14132",
-            "website": "datacomm.co.id"
-        },
-        {
-            "id": "9cb1ac40-4374-4331-bfef-73bdbf88f9fb",
-            "nama_pse": "AGRAPANA BINTANG TEKNOLOGI",
-            "nama_se": "AGRAPANA BINTANG TEKNOLOGI",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14133",
-            "website": "agrapanabintangteknologi.com"
-        },
-        {
-            "id": "9cb1ac1d-d4ff-47fe-8b80-82ce64b05949",
-            "nama_pse": "BIMA TEKNOLOGI SANTOSHA",
-            "nama_se": "BIMA TEKNOLOGI SANTOSHA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14134",
-            "website": "bimateknologisantosha.com"
-        },
-        {
-            "id": "9cb1ac1d-de6f-4800-ba36-8219f51b96ec",
-            "nama_pse": "DAKSA ABHITAH NARARYA",
-            "nama_se": "DAKSA ABHITAH NARARYA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14137",
-            "website": "daksaabhitahnararya.com"
         }
     ],
     "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 149,
     "totalPages": 383

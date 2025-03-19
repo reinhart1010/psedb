@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac05-04e1-4c2e-a041-325d3983c678",
+            "nama_pse": "TOKO VOUCHER INDONESIA",
+            "nama_se": "TOKO VOUCHER INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11954",
+            "website": "member.tokovoucher.id"
+        },
+        {
+            "id": "9cb1ac13-a710-48e4-8864-3640cdebe78a",
+            "nama_pse": "BUKAKIOS TEKNOLOGI INDONESIA",
+            "nama_se": "BUKAKIOS TEKNOLOGI INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11955",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac13-aac7-4ffe-ac9b-83b50aee4bd3",
+            "nama_pse": "BANK PERKREDITAN RAKYAT HASA MITRA JAWA BARAT",
+            "nama_se": "WEBSITE : HASAMITRAJABAR.COM, INSTAGRAM : @HASAMITRA.JABAR, FACEBOOK : HASAMITRA JABAR",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-10-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11956",
+            "website": "hasamitrajabar.com"
+        },
+        {
+            "id": "9cb1ac13-afc3-4f7a-b977-4fe1782d96b9",
+            "nama_pse": "MAJU SELARAS KOMPUTER",
+            "nama_se": "VOGAME",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11958",
+            "website": "vogame.id"
+        },
+        {
+            "id": "9cb1ac05-0c9e-420f-83b4-3b3715121e88",
+            "nama_pse": "XEON TECHNOLOGY INDONESIA",
+            "nama_se": "RUMAHHOST",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11959",
+            "website": "rumahhost.com"
+        },
+        {
+            "id": "9cb1ac05-0f80-4389-982c-831bdff3117a",
+            "nama_pse": "TRUKTOP TEKNOLOGI GLOBAL",
+            "nama_se": "TRUKTOP.COM",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11960",
+            "website": "truktop.com"
+        },
+        {
+            "id": "9cb1abe0-edbc-4ecd-891d-d17efb5daf0d",
+            "nama_pse": "DIGITAL SOLUSI PRATAMA",
+            "nama_se": "NÜPAY",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-10-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11962",
+            "website": "dspratama.co.id"
+        },
+        {
+            "id": "9cb1ac13-b645-4d52-afe8-d5cc934393d5",
+            "nama_pse": "FINETIKS INOVASI INDONESIA",
+            "nama_se": "FINETIKS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11961",
+            "website": "finetiks.com"
+        },
+        {
+            "id": "9cb1abf5-1138-4813-8c54-6c2df1ede39f",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+            "nama_se": "AGREE MART",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9155",
+            "website": "agreeculture.id"
+        },
+        {
+            "id": "9cb1abbe-48fd-433e-b934-9e55af8b1ce6",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+            "nama_se": "PICASO E-KYC",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9156",
+            "website": "picaso.id"
+        },
+        {
+            "id": "9cb1abce-ccbb-4af0-a136-eba86454c9d4",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+            "nama_se": "AGREE MARKET",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9157",
+            "website": "market.agreeculture.id"
+        },
+        {
             "id": "9cb1ac04-e9ef-4fdc-b207-f3dd63826f28",
             "nama_pse": "BISA KITA BANTU OFFICIAL",
             "nama_se": "MALLEE",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-10-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11895",
             "website": "qris.mikropay.co.id"
-        },
-        {
-            "id": "9cb1ac13-4c62-4ffd-92fe-e879b3821113",
-            "nama_pse": "ISOPEDIA DIGITAL MANAJEMEN",
-            "nama_se": "ISOPEDIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-10-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11896",
-            "website": "isopedia.co.id"
-        },
-        {
-            "id": "9cb1ac04-bad1-4365-b799-f408b0a51de9",
-            "nama_pse": "WAWA GEMILANG INTERAKTIF",
-            "nama_se": "WAWA GAMES",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-10-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11897",
-            "website": "wawa.games"
-        },
-        {
-            "id": "9cb1ac04-be02-4920-be46-f73615302fd8",
-            "nama_pse": "BRYTE PELITA INDONESIA",
-            "nama_se": "BRYTE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-10-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11899",
-            "website": "bryte.id"
-        },
-        {
-            "id": "9cb1ac04-c1ba-4e5a-806c-91e5e306728b",
-            "nama_pse": "BIMASAKTI MULTI SINERGI",
-            "nama_se": "EKA PAY",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-10-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11900",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac04-c566-4262-8225-f7e0cf9b9680",
-            "nama_pse": "HEXA ADIDAYA UTAMA",
-            "nama_se": "LIVEINVILLAGE",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-10-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11901",
-            "website": "liveinvillage.id"
-        },
-        {
-            "id": "9cb1ac13-4f76-4dbd-a631-c6dd87d042b3",
-            "nama_pse": "KRISAN PRIMA CONCORDIA",
-            "nama_se": "WEBSITE KIDS PROGRAMMING COURSE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-10-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11903",
-            "website": "kidsprogrammingcourse.com"
-        },
-        {
-            "id": "9cb1ac04-cde6-4cd6-8bf9-fd76c654e411",
-            "nama_pse": "BANGUN INOVASI SEMESTA",
-            "nama_se": "ROEMAH DISKON",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-10-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11905",
-            "website": "roemahdiskon.com"
-        },
-        {
-            "id": "9cb1ac04-d1de-489d-92e0-21234fafc99d",
-            "nama_pse": "BERKAH TANI GEMILANG",
-            "nama_se": "BERKAHTANIGEMILANG.ONLINE",
-            "sektor": "Sektor Perdagangan, Sektor Pangan",
-            "tanggal_terbit": "2022-10-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11907",
-            "website": "berkahtanigemilang.online"
-        },
-        {
-            "id": "9cb1abe0-8dc5-4638-87a5-028790103f4c",
-            "nama_pse": "NEURO TEKNOLOGI INDONESIA",
-            "nama_se": "NEUROPAY.CO.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-10-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11908",
-            "website": "neuropay.co.id"
-        },
-        {
-            "id": "9cb1ac13-3bd2-408e-a109-c02e0a17c2b5",
-            "nama_pse": "MAJU SEJAHTERA BERSINAR",
-            "nama_se": "PT MAJU SEJAHTERA BERSINAR",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-10-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11877",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abe0-5eba-4fe9-ad1c-4372011c98f8",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT SYARIAH ARTHA AMANAH UMMAT",
-            "nama_se": "BPR SYARIAH ARTHA AMANAH UMMAT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-10-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11876",
-            "website": "bprsaau.com"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 37,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 175,
     "totalPages": 383

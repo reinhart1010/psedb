@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac6b-fcc2-4257-82b2-8947ea361b6a",
+            "nama_pse": "PERMATA ENGINERING",
+            "nama_se": "PERMATA ENGINERING RT RW NET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18126",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6b-e0fb-4b05-b555-9442674726c4",
+            "nama_pse": "KELUARGA SEHAT SAMPURNA",
+            "nama_se": "SISTEM INFORMASI RS KELUARGA SEHAT III SEMARANG",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18114",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac56-f59b-46f0-8fea-88846cf25f4a",
+            "nama_pse": "FAHMIDEV INDO FINANCE",
+            "nama_se": "FAHMIDEV INDO FINANCE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18120",
+            "website": "fahmidev.com"
+        },
+        {
+            "id": "9cb1ac17-bb7d-4098-99ac-6871a36e9ecf",
+            "nama_pse": "PAKAR DIGITAL INDO",
+            "nama_se": "ESMARTLINK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18112",
+            "website": "pakar-digital.com"
+        },
+        {
+            "id": "9cb1ac53-7ae7-4503-88db-1c43a5e985ba",
+            "nama_pse": "INVOLVE ASIA INDONESIA",
+            "nama_se": "INVOLVE ASIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18093",
+            "website": "involve.asia"
+        },
+        {
+            "id": "9cb1ac7f-db72-4012-8c04-e5ff8704105a",
+            "nama_pse": "INTI DHARMA GLOBAL INDO",
+            "nama_se": "KLINIK FASTLAB",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-02-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18086",
+            "website": "kusuma.fastlab.id"
+        },
+        {
+            "id": "9cb1ac68-330a-43cf-98e5-95a3fc6b4eab",
+            "nama_pse": "HARMONI UNTUK BERSAMA",
+            "nama_se": "E-SMART CLINIC",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18089",
+            "website": "e-smartclinic.id"
+        },
+        {
+            "id": "9cb1ac6b-c141-460f-8a15-cc35ee3dcfbf",
+            "nama_pse": "UTOMO CHARGEPLUS INDONESIA",
+            "nama_se": "CHARGE+ APP",
+            "sektor": "Sektor Energi dan Sumber Daya Mineral, Sektor Transportasi",
+            "tanggal_terbit": "2024-02-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18085",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac7f-f826-4403-8c70-d12832b9bf7f",
+            "nama_pse": "SUKSES RELOAD PULSA",
+            "nama_se": "BDG PAY DIGITAL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-02-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18084",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6b-be70-42dc-a8ca-af7bed20d22f",
+            "nama_pse": "SUKSES RELOAD PULSA",
+            "nama_se": "SRP RELOAD",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-02-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18083",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac80-03dc-4960-b773-59683098bdb4",
             "nama_pse": "MEDIA SANGIA SULTRA",
             "nama_se": "SANGIASULTRA.ID",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-02-28",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18079",
             "website": "dokterhitzdental.com"
-        },
-        {
-            "id": "9cb1ac6b-bb7a-43f5-838c-73b0df6b0cf8",
-            "nama_pse": "POP JASA INDONESIA",
-            "nama_se": "POP JASA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18078",
-            "website": "popjasaindonesia.com"
-        },
-        {
-            "id": "9cb1ac7f-f3f3-4602-8727-7aa814e62525",
-            "nama_pse": "MEDIA NAVIGASI DUNIA",
-            "nama_se": "NAVIGASIDUNIA.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18082",
-            "website": "navigasidunia.com"
-        },
-        {
-            "id": "9cb1ac69-d8de-4917-8449-cabe9b1cff65",
-            "nama_pse": "FIFIN HERMAWAN",
-            "nama_se": "FIPRO NET",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-02-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18046",
-            "website": "fipronet.id"
-        },
-        {
-            "id": "9cb1ac6a-1583-4d02-be80-de15ee89eff1",
-            "nama_pse": "CAHAYA SEJATI TEKNOLOGI",
-            "nama_se": "TRAVELIN",
-            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18049",
-            "website": "travelintrips.co.id"
-        },
-        {
-            "id": "9cb1ac7f-b405-47bc-8eb6-dfe69944895a",
-            "nama_pse": "SUSJADY",
-            "nama_se": "RELIA ADMINISTRATION APPS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-02-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18042",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6b-83c7-4bf5-bdc0-1bde85b9ed8e",
-            "nama_pse": "EDITTA BHAGYA LAKHSMI",
-            "nama_se": "SISTEM INFORRMASI KLINIK EDIITA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-02-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18037",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac7f-8fa9-4d02-bb23-a5641ced6d3d",
-            "nama_pse": "PASARPOLIS INSURANCE BROKER",
-            "nama_se": "CONTROL PANEL",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-02-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18036",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6b-8c1f-471e-bbc2-02ef9e079f66",
-            "nama_pse": "KAWAN LAMA SOLUSI",
-            "nama_se": "WEBSITE WWW.KAWANLAMA.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-02-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18050",
-            "website": "kawanlama.com"
-        },
-        {
-            "id": "9cb1ac7f-ae29-4986-8c34-a30f38fb4507",
-            "nama_pse": "KAMANIYA DERMA ESTETIKA",
-            "nama_se": "SISTEM MANAGEMENT KAMANIYA CITRA RAYA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-02-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18039",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac56-c3f7-4ddd-8239-fb582bc35929",
-            "nama_pse": "AESEN PUTRA NUGRAHA GROUP",
-            "nama_se": "AESENNEWS.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18040",
-            "website": "aesennews.com"
         }
     ],
     "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 81,
     "totalPages": 383

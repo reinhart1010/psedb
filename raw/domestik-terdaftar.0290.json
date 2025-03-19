@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab9a-85e0-47dc-b8c4-281c35344cf0",
+            "nama_pse": "SIAPBOS BORNEO NUSANTARA",
+            "nama_se": "SIAPBOS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5223",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abaf-5955-4aa3-90b4-a74ff72327d0",
+            "nama_pse": "VROMEDIA INFORMATIKA TEKNOLOGI",
+            "nama_se": "ADVIT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5224",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba5-9b6c-45e4-bdc0-c48bca670804",
+            "nama_pse": "ANILO ADIKARYA SENTOSA",
+            "nama_se": "CONNECTBANK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5225",
+            "website": "connectbank.id"
+        },
+        {
+            "id": "9cb1ab9a-8ad5-439b-8422-8d82c939f49d",
+            "nama_pse": "ANILO ADIKARYA SENTOSA",
+            "nama_se": "TIJAROH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5226",
+            "website": "tijaroh.id"
+        },
+        {
+            "id": "9cb1aba5-9da6-4d6f-bf8a-f4b7b0e3a7ae",
+            "nama_pse": "ANILO ADIKARYA SENTOSA",
+            "nama_se": "INNOVATIONKIT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5228",
+            "website": "innovationkit.id"
+        },
+        {
+            "id": "9cb1ab9a-8d53-4a01-9234-b51cba1fc9dc",
+            "nama_pse": "MEDIATAMA PROMO INDONESIA",
+            "nama_se": "MEDIATAMA PROMO INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5229",
+            "website": "mediatamapro.co.id"
+        },
+        {
+            "id": "9cb1ab9a-9020-4f8b-95eb-0d9030af2ae9",
+            "nama_pse": "ANILO ADIKARYA SENTOSA",
+            "nama_se": "KARYAANILO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5230",
+            "website": "karyaanilo.com"
+        },
+        {
+            "id": "9cb1abaf-5bcc-4574-b7d0-6e6a511b6e9c",
+            "nama_pse": "PITOHUI GLOBAL INDOTEK",
+            "nama_se": "P-CURE NEO",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5231",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab9a-9246-4d92-8940-661033f25816",
+            "nama_pse": "AFIN KARYA AMIGA",
+            "nama_se": "AFIN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5233",
+            "website": "afin.co.id"
+        },
+        {
+            "id": "9cb1abaf-6119-4e95-8e6a-892776b6522f",
+            "nama_pse": "CATURNUSA SEJAHTERA FINANCE",
+            "nama_se": "WEBSITE PT CATURNUSA SEJAHTERA FINANCE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5235",
+            "website": "paylater.co.id"
+        },
+        {
             "id": "9cb1ab9a-9456-46d5-845b-59bc0ea09e7b",
             "nama_pse": "LOTTE CAPITAL INDONESIA",
             "nama_se": "LOTTE CAPITAL INDONESIA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-07",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5182",
             "website": "-"
-        },
-        {
-            "id": "9cb1aba5-4fde-4b05-b58f-250628eec183",
-            "nama_pse": "USAHA PEMBIAYAAN RELIANCEINDONESIA",
-            "nama_se": "RELI-HOME",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5183",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abaf-3d06-45d9-88c5-51bc0760aeca",
-            "nama_pse": "TAMADUN TEKNOLOGI INTERNASIONAL",
-            "nama_se": "NEUROVI MEDICAL SYSTEM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5190",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba5-53f3-43d2-9f2a-5dd9dc1d651a",
-            "nama_pse": "MUSLIMINA INDO PERSADA",
-            "nama_se": "MUSLIMPERGI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5189",
-            "website": "muslimpergi.com"
-        },
-        {
-            "id": "9cb1aba5-55f0-476a-bdd6-8dfa66eb7796",
-            "nama_pse": "ANILO ADIKARYA SENTOSA",
-            "nama_se": "AAS1",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5185",
-            "website": "aas1.id"
-        },
-        {
-            "id": "9cb1aba5-59ba-4a2c-9420-3fa706e40e3c",
-            "nama_pse": "MIDAZPAY DIGITAL INDONESIA",
-            "nama_se": "ROCKET POCKET",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5187",
-            "website": "rocketpocket.id"
-        },
-        {
-            "id": "9cb1abaf-43f0-469f-96bd-a12a5fdb286c",
-            "nama_pse": "MEGATAMA ADIKARYA",
-            "nama_se": "WEBSITE RESMI INDO MEDIKA INTERNATIONAL",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5191",
-            "website": "indomedika.co.id"
-        },
-        {
-            "id": "9cb1ab9a-5a5e-445b-b4e8-1615280179ab",
-            "nama_pse": "ISAN TECHNOLOGY INDONESIA",
-            "nama_se": "AGRION FARMER",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5192",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba5-6197-434f-a554-536af42e3b72",
-            "nama_pse": "RAJAWALI INTI SELULAR",
-            "nama_se": "RISE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5193",
-            "website": "corpsolution.riseteknologi.app"
-        },
-        {
-            "id": "9cb1aba5-647b-4d22-8700-4455aaaab57f",
-            "nama_pse": "D \u0026 W INTERNASIONAL",
-            "nama_se": "TERRAMIX.ID",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5195",
-            "website": "terramix.id"
-        },
-        {
-            "id": "9cb1ab9a-62a8-4cec-a709-6f48577eeec7",
-            "nama_pse": "ALFIE RENALDY",
-            "nama_se": "JAGOSELEB.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5196",
-            "website": "jagoseleb.com"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 290,
     "totalPages": 383

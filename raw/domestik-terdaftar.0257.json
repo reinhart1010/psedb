@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abe5-2347-4246-a438-74ff09a86cf7",
+            "nama_pse": "STUDIO KAMI MANDIRI",
+            "nama_se": "JOUMPA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6761",
+            "website": "joumpa.com"
+        },
+        {
+            "id": "9cb1abc0-b1b1-42d4-93a4-6e1e74c8704f",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT KITA",
+            "nama_se": "IBS USSI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6762",
+            "website": "bprkita.com"
+        },
+        {
+            "id": "9cb1abb5-b5e2-4ecb-af26-7c9e6c3d0116",
+            "nama_pse": "KALS CORPORA INDONESIA",
+            "nama_se": "ZMNOW.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6771",
+            "website": "zmnow.id"
+        },
+        {
+            "id": "9cb1abb5-b7d1-4353-a8ad-06b9bf59f4b1",
+            "nama_pse": "HELPIO GLOVIN TEKNOLOGI",
+            "nama_se": "UBIKLAN.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6774",
+            "website": "ubiklan.com"
+        },
+        {
+            "id": "9cb1abb5-b985-451e-a760-189909c294f1",
+            "nama_pse": "BLA BLA TECH",
+            "nama_se": "ITULOH",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6763",
+            "website": "ituloh.co"
+        },
+        {
+            "id": "9cb1abb5-bc2f-41a5-b0dd-64d0f6c97960",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SINARGUNA SEJAHTERA",
+            "nama_se": "ARCHIPELAGO DIGITAL STUDIO",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6764",
+            "website": "bprsinargunasejahtera.com"
+        },
+        {
+            "id": "9cb1abb5-be10-4685-bdc7-376c6c4eb6a9",
+            "nama_pse": "MUHAMMAD ADAM SANTOSO",
+            "nama_se": "MADOTS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6765",
+            "website": "madots.id"
+        },
+        {
+            "id": "9cb1abc0-b640-4638-8940-abb31f6c42fc",
+            "nama_pse": "ISTANA BANDUNG RAYA MOTOR",
+            "nama_se": "OFFICIAL WEBSITE MAIN DEALER HONDA BANDUNG CENTER",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6767",
+            "website": "hondabandungcenter.com"
+        },
+        {
+            "id": "9cb1abe5-2d50-49f2-bce8-cd47af18f360",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT BUANA AGRIBISNIS",
+            "nama_se": "BANK BUANA AGRIBISNIS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6804",
+            "website": "bprbuanaagribisnis.co.id"
+        },
+        {
+            "id": "9cb1abe5-35bc-4a41-beda-17fb2257c75c",
+            "nama_pse": "ADVO MATRIKS INDONESIA",
+            "nama_se": "ADVOSHIELD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6768",
+            "website": "advoshield.com"
+        },
+        {
             "id": "9cb1abc0-b8c5-491e-8568-b074563a1cf1",
             "nama_pse": "BANK SYARIAH INDONESIA",
             "nama_se": "CUSTOMER SATISFACTION SURVEY BSI (CSS BSI)",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-19",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6814",
             "website": "upg.bankjatim.co.id"
-        },
-        {
-            "id": "9cb1abe5-6f59-4c28-9dab-92734d4df135",
-            "nama_pse": "MEMBERI BERKAT INDONESIA",
-            "nama_se": "DUTALIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6815",
-            "website": "dutalia.membercard.id"
-        },
-        {
-            "id": "9cb1abe5-7406-4908-88a8-4d477e35a108",
-            "nama_pse": "LUTFHY SUSI ANGGRAENY",
-            "nama_se": "WEBPUL.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6817",
-            "website": "webpul.com"
-        },
-        {
-            "id": "9cb1abc0-fcbc-4263-b04e-c1a9308730d0",
-            "nama_pse": "ISTANA BANDUNG RAYA MOTOR",
-            "nama_se": "WEBMAIL CORPORATE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6818",
-            "website": "hondawestjava.com"
-        },
-        {
-            "id": "9cb1abe5-7c4a-4fb0-9665-def4a9b78c87",
-            "nama_pse": "MEMBERI BERKAT INDONESIA",
-            "nama_se": "PANEN SQUARE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6823",
-            "website": "panensquare.membercard.id"
-        },
-        {
-            "id": "9cb1abe5-81de-4b88-b549-d0fa79fe8983",
-            "nama_pse": "TRIYAKOM",
-            "nama_se": "IM3KUISKUOTA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6825",
-            "website": "im3kuiskuota.id"
-        },
-        {
-            "id": "9cb1abc0-ffc2-4190-a933-118ccb38b8f0",
-            "nama_pse": "MOHAMMAD TAUFIQURROHMAN",
-            "nama_se": "APLIKASI PENCATATAN INFORMASI KEUANGAN BLUD PUSKESMAS KABUPATEN DEMAK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6827",
-            "website": "demak.bludpuskesmas.com"
-        },
-        {
-            "id": "9cb1abe5-8530-47f2-b18c-6f22a4252bb2",
-            "nama_pse": "ABD WAFUR",
-            "nama_se": "KANG PULSA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6824",
-            "website": "kangpulsa.my.id"
-        },
-        {
-            "id": "9cb1abc1-02b7-4dff-80dc-fbec8384b9a6",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT PRISMA BALI",
-            "nama_se": "BANKING SMART SYSTEM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6826",
-            "website": "bprprismabali.co.id"
-        },
-        {
-            "id": "9cb1abe5-893d-45a6-b47b-088a8803c3d0",
-            "nama_pse": "IMORA MOTOR",
-            "nama_se": "WEBSITE RESMI MAIN DEALER HONDA JABODETABEK",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6829",
-            "website": "hondajakartacenter.com"
-        },
-        {
-            "id": "9cb1abe5-8dc9-40ba-aa0e-5e04d4073572",
-            "nama_pse": "MEMBERI BERKAT INDONESIA",
-            "nama_se": "ARINGO",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6828",
-            "website": "aringo.co.id"
         }
     ],
     "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 257,
     "totalPages": 383

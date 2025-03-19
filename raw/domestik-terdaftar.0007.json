@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9e3e1f1d-674a-407b-aada-25a92cd257e5",
+            "nama_pse": "PEDULY GOTONG ROYONG",
+            "nama_se": "peduly",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22433",
+            "website": "peduly.com"
+        },
+        {
+            "id": "9e3d3f23-62d2-4df2-ae84-7f6624ed7c7f",
+            "nama_pse": "REGIO NETWORK INDONESIA",
+            "nama_se": "REGIO TRACKING \u0026 MONITORING SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22420",
+            "website": "tracking.regio.id"
+        },
+        {
+            "id": "9e3d4050-9b5c-413b-a0b3-9a291eefdb9a",
+            "nama_pse": "PAKUAN ALAM KARYA DIGITAL",
+            "nama_se": "SATURNNET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22421",
+            "website": "saturnnet.my.id"
+        },
+        {
+            "id": "9cb1ac58-d1d1-466c-a315-9d512c918ac3",
+            "nama_pse": "SURYA JAGAT MANDIRI",
+            "nama_se": "BOOKANDLINK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22422",
+            "website": "bookandlink.com"
+        },
+        {
+            "id": "9e3d06f4-4220-47ed-8659-ee929de8a36b",
+            "nama_pse": "REGIO NETWORK INDONESIA",
+            "nama_se": "TERKONEKSI.NET - DESA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22416",
+            "website": "desa.terkoneksi.net"
+        },
+        {
+            "id": "9e3b1e1f-b8f1-47a9-beb1-06401434d2f9",
+            "nama_pse": "REGIO NETWORK INDONESIA",
+            "nama_se": "REGIO PREDICTIVE AND ANALYTICAL DASHBOARD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22407",
+            "website": "dashboard.regio.id"
+        },
+        {
+            "id": "9e3c0756-45dc-4fb9-9628-c727e64555e9",
+            "nama_pse": "MUH AQILA NAUFAL HAKIM",
+            "nama_se": "SENUSA APP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22411",
+            "website": "senusa.app"
+        },
+        {
+            "id": "9e3ad9aa-b959-484a-8b57-8fb35df22096",
+            "nama_pse": "CARI PENGACARA INDONESIA",
+            "nama_se": "CARILAWYER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22405",
+            "website": "carilawyer.id"
+        },
+        {
+            "id": "9e350cfd-15cc-4c61-a486-2053666695b1",
+            "nama_pse": "ZONA MEDIA INDONESIA",
+            "nama_se": "ZONA MAHASISWA: TEMUKAN FORHAT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22395",
+            "website": "zonamahasiswa.id"
+        },
+        {
+            "id": "9e3567ba-4775-4432-a94d-63f0c7e07eb9",
+            "nama_pse": "KODE DARI HATI",
+            "nama_se": "PENGEMBANGAN WEBSITE DAN APLIKASI BERBASIS WEB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22403",
+            "website": "hypercodesolutions.com"
+        },
+        {
             "id": "9e34f0b6-bab7-4277-aa3b-63bd765d75a3",
             "nama_pse": "DIVA SAGARA MARAJATAMA",
             "nama_se": "BABAYAR",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2025-02-11",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22352",
             "website": "pos.sunlife.co.id"
-        },
-        {
-            "id": "9e2f4657-f3c4-4f2b-8b65-101065119323",
-            "nama_pse": "ASKARA GANTARI NUSANTARA",
-            "nama_se": "ASKARA GANTARI NUSANTARA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22353",
-            "website": "askaragantarinusantara.com"
-        },
-        {
-            "id": "9e2f52a5-1030-413c-860f-1b1f4778aba5",
-            "nama_pse": "MAHA KARYA REKSAWARGA",
-            "nama_se": "VILLAGGIO PRIVILEGE CLUB",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-02-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22354",
-            "website": "-"
-        },
-        {
-            "id": "9e2e88bf-acf7-4572-945e-82ba1d3c35b5",
-            "nama_pse": "DATA DIGITAL INDONESIA",
-            "nama_se": "DEWAHOSTER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22351",
-            "website": "dewahoster.com"
-        },
-        {
-            "id": "9e2f5399-dc23-484c-8116-20f1b9a161b2",
-            "nama_pse": "PUTERA KONSEPINDO",
-            "nama_se": "LESPORTSAC.CO.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-02-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22355",
-            "website": "lesportsac.co.id"
-        },
-        {
-            "id": "9e2f6e4a-e834-4fef-8dd8-1fd11bac4a0e",
-            "nama_pse": "PUTERA KONSEPINDO",
-            "nama_se": "CATLIFESTYLE.CO.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-02-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22356",
-            "website": "catlifestyle.co.id"
-        },
-        {
-            "id": "9e2f7ab9-ed6d-45c5-9a38-d75fb8367ee1",
-            "nama_pse": "DAYTONA AZIA",
-            "nama_se": "DAYTONA INDNESIA SHOPPING STORE",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22357",
-            "website": "shop.daytonaindonesia.com"
-        },
-        {
-            "id": "9e2fd775-a760-4f84-bc24-39a8f5462748",
-            "nama_pse": "ECONEXT VENTURES INDONESIA",
-            "nama_se": "econext ventures",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-02-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22358",
-            "website": "econextventures.com"
-        },
-        {
-            "id": "9e2fda24-3095-4a2a-982c-1d98e613f8b0",
-            "nama_pse": "ITQON MEDIA INDONESIA",
-            "nama_se": "SIMA POLIKLINIK",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2025-02-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22359",
-            "website": "-"
-        },
-        {
-            "id": "9e300607-10ca-4589-85a8-574ce479e3f7",
-            "nama_pse": "WIJAYA LINTAS NUSANTARA",
-            "nama_se": "WIJAYANET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22360",
-            "website": "-"
-        },
-        {
-            "id": "9e2d1a85-a4d2-45a0-a843-de10f913def5",
-            "nama_pse": "HIGH AND LOW",
-            "nama_se": "HIGH \u0026 LOW HEADHUNTERS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22339",
-            "website": "highandlowagency.com"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 7,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abc7-2acb-47fa-be70-8a4a3a9f1f74",
+            "nama_pse": "GLOBAL TUJUH INDONESIA",
+            "nama_se": "AYOSCAN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8007",
+            "website": "g7teknologi.co.id"
+        },
+        {
+            "id": "9cb1abc7-2e28-4e5a-8d9a-5672ce796e51",
+            "nama_pse": "AMAN DEVLOOP INDONESIA",
+            "nama_se": "AMAN DEVELOOP WEBSITE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8074",
+            "website": "develoop.id"
+        },
+        {
+            "id": "9cb1abba-10f6-4940-a413-f5bb28290265",
+            "nama_pse": "INDONESIA SATU TUJUH",
+            "nama_se": "PESTA REWARD WEBSITE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8042",
+            "website": "pestareward.id"
+        },
+        {
+            "id": "9cb1abc7-3129-4776-b765-862ec168ca62",
+            "nama_pse": "BANK PERKREDITAN RAKYAT ARTA KEDATON MAKMUR",
+            "nama_se": "WEBSITE PT. BPR ARTA KEDATON MAKMUR",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8010",
+            "website": "bprartakedatonmakmurpt.co.id"
+        },
+        {
+            "id": "9cb1abed-20f5-40ee-81dd-99984be090bf",
+            "nama_pse": "BANK INA PERDANA",
+            "nama_se": "WEBSITE BANKINA.ID",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8062",
+            "website": "bankina.id"
+        },
+        {
+            "id": "9cb1abed-24c4-49d6-ae5e-399f60df2cd9",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BANK DAERAH BANGLI",
+            "nama_se": "VA H2H PT BPR BANK DAERAH BANGLI (PERSERODA) DAN PT. BPD BALI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8011",
+            "website": "cbs.bankdaerahbangli.co.id"
+        },
+        {
+            "id": "9cb1abc7-33e4-4701-89e2-f59280798ed3",
+            "nama_pse": "TIGA MACAN MULTIMEDIA",
+            "nama_se": "BALAP HOKI PORTAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8013",
+            "website": "balaphoki.timobile.tech"
+        },
+        {
+            "id": "9cb1abc7-3763-4afd-94aa-47cd1f44dc45",
+            "nama_pse": "LISTOPIA TEKNOLOGI INDONESIA",
+            "nama_se": "LISTOPIA.IO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8012",
+            "website": "listopia.io"
+        },
+        {
+            "id": "9cb1abc7-3b14-4e4b-93a7-611de386ae5a",
+            "nama_pse": "EXADATA",
+            "nama_se": "EXADATA ACADEMY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8015",
+            "website": "exadata.academy"
+        },
+        {
+            "id": "9cb1abba-1bd4-4a62-9492-c504e90b386a",
+            "nama_pse": "AMAN DEVLOOP INDONESIA",
+            "nama_se": "MILOV WEBSITE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8014",
+            "website": "milov.id"
+        },
+        {
             "id": "9cb1abba-222d-417e-be87-1a3e9b33b8d4",
             "nama_pse": "BANK SYARIAH INDONESIA",
             "nama_se": "MOBILE COLLECTION SYSTEM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8056",
             "website": "datafarm.bankpapua.co.id"
-        },
-        {
-            "id": "9cb1abba-4ac4-43cd-9663-cdec45c37213",
-            "nama_pse": "BANK PERKREDITAN RAKYAT KOTA BANDUNG",
-            "nama_se": "PERUMDA BPR KOTA BANDUNG",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8061",
-            "website": "wbankbandung.co.id"
-        },
-        {
-            "id": "9cb1abc7-7c3e-4958-bb62-cd75efde8d50",
-            "nama_pse": "SINERGI TEKNOGLOBAL PERKASA",
-            "nama_se": "HTTPS://WWW.SINERGITEKNOGLOBAL.CO.ID/",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8064",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abba-4caf-42e3-9421-1e78bfea8c0f",
-            "nama_pse": "BANK SYARIAH INDONESIA",
-            "nama_se": "BSIMOBILE DEV",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8057",
-            "website": "bsinewdev.bankbsi.co.id"
-        },
-        {
-            "id": "9cb1abc7-8017-4f97-8fdd-b66017767ceb",
-            "nama_pse": "AMAN DEVLOOP INDONESIA",
-            "nama_se": "AMAN DEVELOOP WEBSITE COMPANY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8058",
-            "website": "develoop.id"
-        },
-        {
-            "id": "9cb1abed-61e0-4f8b-86a3-5ea5133b62ba",
-            "nama_pse": "REALTA CHAKRADARMA",
-            "nama_se": "ESS10",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8164",
-            "website": "realta.co.id"
-        },
-        {
-            "id": "9cb1abc7-8433-461a-9564-1e6bd2a10ec6",
-            "nama_pse": "JOGJAKITA MULTI ANDALAN",
-            "nama_se": "DRIVER JOGJAKITA",
-            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8063",
-            "website": "jogjakita.co.id"
-        },
-        {
-            "id": "9cb1abba-4ecc-4d99-a4cc-9851f8d122d2",
-            "nama_pse": "SOLUSI INDOMOBIL PERKASA",
-            "nama_se": "SOLUSI INDOMOBIL PERKASA (COMPANY WEBSITE)",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8065",
-            "website": "sipexpress.co.id"
-        },
-        {
-            "id": "9cb1abed-6630-4d63-a37b-c13e05a95842",
-            "nama_pse": "ASURANSI JIWA BCA",
-            "nama_se": "BCA LIFE MOBILE SERVICES",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8066",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abba-50b2-4098-9f82-b3d45b261774",
-            "nama_pse": "MAHKOTA PERMATA JAYA",
-            "nama_se": "THESERENITYCENTRAL.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8067",
-            "website": "theserenitycentral.com"
-        },
-        {
-            "id": "9cb1abed-6955-4361-bcd5-b9308045ed06",
-            "nama_pse": "REDKENDI ANDALAN MITRA",
-            "nama_se": "KENDIXPRESS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8068",
-            "website": "kendixpress.com"
         }
     ],
     "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 247,
     "totalPages": 383

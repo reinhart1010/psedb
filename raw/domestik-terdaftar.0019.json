@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9db6350f-13b1-4813-b663-e7b20396fde2",
+            "nama_pse": "SAMUDRA MUTIARA SATRIA",
+            "nama_se": "pewarta.tv",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21771",
+            "website": "-"
+        },
+        {
+            "id": "9db615f9-2e0d-4227-8139-181ef625f45b",
+            "nama_pse": "JAMINAN KREDIT INDONESIA",
+            "nama_se": "JAMINAN KREDIT INDONESIA (JAMKRINDO)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21766",
+            "website": "jamkrindo.co.id"
+        },
+        {
+            "id": "9db615a6-e9a9-4ad4-aa88-5535a4039c5d",
+            "nama_pse": "AIA FINANCIAL",
+            "nama_se": "AIA INDONESIA IRECRUIT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21765",
+            "website": "irecruit.aia.id"
+        },
+        {
+            "id": "9db67536-4a2a-4aad-8494-dc98649c21e7",
+            "nama_pse": "MUHAMMAD RIZKI RIJAL",
+            "nama_se": "BAPARKIR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21775",
+            "website": "baparkir.com"
+        },
+        {
+            "id": "9db560ff-ddc2-4ef9-9df3-53b4a6463c62",
+            "nama_pse": "MEDIA LIPUTAN KHATULISTIWA",
+            "nama_se": "liputankhatulistiwa.com",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21764",
+            "website": "liputankhatulistiwa.com"
+        },
+        {
+            "id": "9db72613-c557-4051-bd64-7c915ac0eceb",
+            "nama_pse": "DEDE WIRYANA",
+            "nama_se": "SAGITARIUS HDWIFI",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21785",
+            "website": "-"
+        },
+        {
+            "id": "9db63ce1-0434-4197-9d07-76cf52915c52",
+            "nama_pse": "MAP AKTIF ADIPERKASA",
+            "nama_se": "HOKA INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21772",
+            "website": "hoka.com"
+        },
+        {
+            "id": "9db69afe-fb88-4659-8ff7-b66fe2b04e7f",
+            "nama_pse": "AGUS SURIYADI",
+            "nama_se": "MT NETWORK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21776",
+            "website": "-"
+        },
+        {
+            "id": "9db6a24a-139e-4815-9432-0163e2b0a0ef",
+            "nama_pse": "CAKRAWALA BUMI MENOREH",
+            "nama_se": "PORTAL DAGANG",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21777",
+            "website": "portaldagang.com"
+        },
+        {
+            "id": "9db6ae9b-f433-4204-bbe9-9647eb28ace6",
+            "nama_pse": "SUPARMI",
+            "nama_se": "PT NADIATAMA NETWORK SOLUTIONS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21778",
+            "website": "-"
+        },
+        {
             "id": "9db6540f-62d2-4af5-a4b1-7880c3bddb88",
             "nama_pse": "SIPRAMA CAKRAWALA",
             "nama_se": "CAKRAWALA INTEGRATED SYSTEM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-12-11",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21736",
             "website": "gracia.g4sindonesia.com"
-        },
-        {
-            "id": "9db28828-89a7-4600-8bab-91df2dba2d97",
-            "nama_pse": "ARTHA GEMILANG NUSANTARA",
-            "nama_se": "PENGEMBANGAN MONITORING DIGITAL PERALATAN PENUNJANG PROGRAM HARKAMTIBMAS PADA SATUAN WILAYAH LAMPUNG, RIAU, SUMSEL DAN SUMUT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21724",
-            "website": "sarpras.baharkam.polri.go.id"
-        },
-        {
-            "id": "9db334cd-dbe7-471f-b8c5-3bc8d5add457",
-            "nama_pse": "REKXY SANJAYA PUTRA",
-            "nama_se": "DUA PUTRA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-12-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21738",
-            "website": "duaputraconsultant.com"
-        },
-        {
-            "id": "9db25175-363b-4863-a868-90dc47ec3628",
-            "nama_pse": "BANTU DIGITAL INDONESIA",
-            "nama_se": "BANTU SEHAT",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21719",
-            "website": "bantusehat.id"
-        },
-        {
-            "id": "9db31826-2902-4d7d-b011-9f37c849bbae",
-            "nama_pse": "AKSES ONLINEX INDONESIA",
-            "nama_se": "PULSA ONLINE X",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21737",
-            "website": "-"
-        },
-        {
-            "id": "9db28334-6ef2-4997-a885-3b20109dc501",
-            "nama_pse": "G4S SECURITY SERVICES",
-            "nama_se": "SARAS",
-            "sektor": "Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2024-12-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21723",
-            "website": "sroc.g4sindonesia.com"
-        },
-        {
-            "id": "9db2adb8-65ab-4391-8cca-a97a0a7df25d",
-            "nama_pse": "LANGIT NUSANTARA HUB DIGITAL",
-            "nama_se": "LANGIT NUSANTARA HUB DIGITAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21727",
-            "website": "-"
-        },
-        {
-            "id": "9db0f08c-0b22-486a-b39b-16ede7ea9471",
-            "nama_pse": "DIGITAL VOUCHER MARKET BERSAMA",
-            "nama_se": "SIKASIR",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-12-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21714",
-            "website": "-"
-        },
-        {
-            "id": "9db022d7-a068-4e4c-b490-fb96213133e4",
-            "nama_pse": "CROOS POWER NETWORK",
-            "nama_se": "PT CROSS POWER NETWORK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21706",
-            "website": "-"
-        },
-        {
-            "id": "9db0e9a4-d486-4720-87bf-5ffbf4a6558f",
-            "nama_pse": "DANS MULTI PRO",
-            "nama_se": "eRT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21713",
-            "website": "rtindi.id"
-        },
-        {
-            "id": "9db1412e-45d1-42ac-857d-e90ef0489cd2",
-            "nama_pse": "NAURA NETWORK NUSANTARA",
-            "nama_se": "NAURA NETWORK NUSANTARA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21715",
-            "website": "naura.co.id"
         }
     ],
-    "processingTimeMs": 2,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 19,
     "totalPages": 383

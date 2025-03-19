@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab7c-8353-4678-bbcf-4e99dbfcc012",
+            "nama_pse": "INFOKES INDONESIA",
+            "nama_se": "ECLINIC",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1403",
+            "website": "eclinic.id"
+        },
+        {
+            "id": "9cb1ab8c-2cad-4384-b392-d71f0691bf71",
+            "nama_pse": "INFOKES INDONESIA",
+            "nama_se": "EFARMASI",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1404",
+            "website": "efarmasi.id"
+        },
+        {
+            "id": "9cb1ab8c-321b-4854-8a54-fbc966ab589d",
+            "nama_pse": "INFOKES INDONESIA",
+            "nama_se": "EANTREAN",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1407",
+            "website": "eantrian.id"
+        },
+        {
+            "id": "9cb1ab7c-8764-449e-bff6-40a4f0c9f324",
+            "nama_pse": "INFOKES INDONESIA",
+            "nama_se": "EHOSPITAL",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1408",
+            "website": "ehospital.id"
+        },
+        {
+            "id": "9cb1ab7c-8b38-47ab-a628-ff713235414e",
+            "nama_pse": "INFOKES INDONESIA",
+            "nama_se": "EBIDAN",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1415",
+            "website": "ebidan.id"
+        },
+        {
+            "id": "9cb1ab84-73ce-4486-84ed-cd666a03fc03",
+            "nama_pse": "INFOKES INDONESIA",
+            "nama_se": "EPUSTU",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1416",
+            "website": "epuskesmas.id"
+        },
+        {
+            "id": "9cb1ab8b-86ee-4caa-8d24-db9afdc1fa40",
+            "nama_pse": "DANA RINTIS INDONESIA",
+            "nama_se": "UDANA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1425",
+            "website": "udana.id"
+        },
+        {
+            "id": "9cb1ab85-8c7b-4ca7-adf4-314c34cd2428",
+            "nama_pse": "ASURANSI JIWA GENERALI INDONESIA",
+            "nama_se": "GEN ICLICK",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1391",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab7d-7bbc-4461-a75d-858e15e6e0cc",
+            "nama_pse": "ASURANSI JIWA GENERALI INDONESIA",
+            "nama_se": "ICLICK.GENERALI.CO.ID",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1412",
+            "website": "iclick.generali.co.id"
+        },
+        {
+            "id": "9cb1ab86-4dbc-46e1-ada5-00a8978c86df",
+            "nama_pse": "GERBANG AKSES INDONESIA",
+            "nama_se": "GERBANGAKSES",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1405",
+            "website": "gerbangakses.id"
+        },
+        {
             "id": "9cb1ab9e-f02d-4d76-90bb-cdc3530519fc",
             "nama_pse": "TURBO MITRA PERKASA",
             "nama_se": "TURBO.CO.ID",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-06-02",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1361",
             "website": "netzme.id"
-        },
-        {
-            "id": "9cb1ab6a-c2d1-4db9-8b0f-6cd06a4b9e24",
-            "nama_pse": "NETZME KREASI INDONESIA",
-            "nama_se": "TOKO NETZME",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1367",
-            "website": "netzme.id"
-        },
-        {
-            "id": "9cb1ab71-c917-48ce-a29a-44bb31fd7eb5",
-            "nama_pse": "BANK DIGITAL BCA",
-            "nama_se": "BLU",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1171",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab6a-e2ef-4363-b524-095868358c1e",
-            "nama_pse": "PERLU FINTECH INDONESIA",
-            "nama_se": "ITERNAK",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1092",
-            "website": "iternak.id"
-        },
-        {
-            "id": "9cb1ab6a-eeaa-4fb2-9580-06723c14bbb9",
-            "nama_pse": "NUSA SELARAS INDONESIA",
-            "nama_se": "NU SKIN WEBSITE",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1378",
-            "website": "nuskin.com"
-        },
-        {
-            "id": "9cb1ab6a-fb22-4dc9-b31f-b4e651d80d23",
-            "nama_pse": "JASA BMT EL AMANAH",
-            "nama_se": "BMT EL-AMANAH",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1339",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab6b-01c1-4cca-9ed0-727fae6d7272",
-            "nama_pse": "BIZGITAL INDONESIA JAYA",
-            "nama_se": "BBO",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1158",
-            "website": "bbo.co.id"
-        },
-        {
-            "id": "9cb1ab63-9035-421a-bba9-4c4f9cb0bbd4",
-            "nama_pse": "KARYA KERJA SEJAHTERA",
-            "nama_se": "KKS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1149",
-            "website": "karyaks.com"
-        },
-        {
-            "id": "9cb1ab63-92fd-4866-8cf4-78f8b5b8926d",
-            "nama_pse": "JELAS KARYA WASANTARA",
-            "nama_se": "VERIJELAS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1150",
-            "website": "verijelas.com"
-        },
-        {
-            "id": "9cb1ab6b-0601-486b-807a-39142af6641a",
-            "nama_pse": "ANUGRAH WAHYU TEHNIK",
-            "nama_se": "WWW.ANUGRAHWAHYUTEHNIK.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1145",
-            "website": "ANUGRAHWAHYUTEHNIK.COM"
-        },
-        {
-            "id": "9cb1ab72-25ee-41f8-8fc6-e4cb4b898861",
-            "nama_pse": "VARA INDONESIA HOLD",
-            "nama_se": "BUKUGAJI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1098",
-            "website": "bukugaji.com"
         }
     ],
-    "processingTimeMs": 9,
+    "processingTimeMs": 11,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 357,
     "totalPages": 383

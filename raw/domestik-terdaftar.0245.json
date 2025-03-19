@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb9-a6c2-445d-b031-aac467c2a10a",
+            "nama_pse": "WEB GUE INDONESIA",
+            "nama_se": "WEBGUE.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7898",
+            "website": "webgue.com"
+        },
+        {
+            "id": "9cb1abc6-79a7-4f4e-9b1f-b309867767f1",
+            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH BUMI ARTHA SAMPANG",
+            "nama_se": "ISLAMIC BANKING APPLICATION",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7907",
+            "website": "BUMIARTHASAMPANG.COM"
+        },
+        {
+            "id": "9cb1abc6-7ead-4e57-b4cb-2077970b8591",
+            "nama_pse": "ASURANSI CENTRAL ASIA",
+            "nama_se": "ACA-POCKET.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7900",
+            "website": "aca-pocket.com"
+        },
+        {
+            "id": "9cb1abb9-a8a2-4be4-9971-0d91f0f987c1",
+            "nama_pse": "UNIVERSAL BROKER INDONESIA SEKURITAS",
+            "nama_se": "EZYDEAL 5",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7908",
+            "website": "universalbroker.co.id"
+        },
+        {
+            "id": "9cb1abec-6fd9-444f-b62a-a3aff1d3d82e",
+            "nama_pse": "BANK PERKREDITAN RAKYAT KEPRI BATAM",
+            "nama_se": "PT. BPR KEPRI BATAM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7905",
+            "website": "bprkepribatam.com"
+        },
+        {
+            "id": "9cb1abec-73aa-4e77-beca-70f4ad1c80c6",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT DANA RAYA",
+            "nama_se": "WEBSITE PT. BPR DANA RAYA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7910",
+            "website": "bprdanara.co.id"
+        },
+        {
+            "id": "9cb1abc6-8582-4d06-86a5-316891b86c0f",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN GROGOL PERSERODA",
+            "nama_se": "WEBSITE COMPANY PROFELE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7917",
+            "website": "bprbkkgrogol.co.id"
+        },
+        {
+            "id": "9cb1abb9-ad10-4223-bc91-c878919ba0ec",
+            "nama_pse": "BPR RAMBI ARTHA PUTRA",
+            "nama_se": "PT INTI SARANA SEJAHTERA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7911",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abec-77e8-4faa-b362-ea5c125bead4",
+            "nama_pse": "ASDP INDONESIA FERRY",
+            "nama_se": "FERIZY ONLINE TICKETING",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7914",
+            "website": "ferizy.com"
+        },
+        {
+            "id": "9cb1abc6-88b3-4d68-958e-63a5c6df3237",
+            "nama_pse": "BONAFIT MULTI PAYMENT",
+            "nama_se": "BONAFIT PAYMENT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7912",
+            "website": "bonafitpay.co.id"
+        },
+        {
             "id": "9cb1abc6-8c38-4404-aa96-9026d463444e",
             "nama_pse": "SMART MULTI FINANCE",
             "nama_se": "WEBSITE SMART FINANCE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7957",
             "website": "lngrisk.co.id"
-        },
-        {
-            "id": "9cb1abec-c185-459c-bf53-fda6ac23c517",
-            "nama_pse": "AIA FINANCIAL",
-            "nama_se": "AIA INDONESIA VYMO (BLAST)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7955",
-            "website": "aiablast.lms.getvymo.com"
-        },
-        {
-            "id": "9cb1abec-c628-4159-992d-838d4808989d",
-            "nama_pse": "ASPIRASI HIDUP INDONESIA",
-            "nama_se": "WEBSITE ACE HARDWARE INDONESIA ( WWW.ACEHARDWARE.CO.ID )",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7956",
-            "website": "acehardware.co.id"
-        },
-        {
-            "id": "9cb1abec-ceda-42a1-a2ca-027478814e29",
-            "nama_pse": "ASURANSI CENTRAL ASIA",
-            "nama_se": "ACAINTR.COM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7960",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abec-d2ed-4d1b-9197-04685221e263",
-            "nama_pse": "YOSEFIN CHRISTINA C.K",
-            "nama_se": "MYALKES",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7961",
-            "website": "myalkes.com"
-        },
-        {
-            "id": "9cb1abec-d7fe-470f-a37c-d5c093f6c108",
-            "nama_pse": "PANORAMA JTB TOURS INDONESIA",
-            "nama_se": "WUPI.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7962",
-            "website": "ver2.wupi.id"
-        },
-        {
-            "id": "9cb1abc6-c9ae-49bd-8956-022c71e30010",
-            "nama_pse": "BANK PERKREDITAN RAKYAT MITRA PANDANARAN MANDIRI",
-            "nama_se": "JASA KEUANGAN ONLINE BPR",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7965",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abc6-d054-4630-a293-f5b7e8227db2",
-            "nama_pse": "BANK PERKREDITAN RAKYAT LANGGENGLESTARI BERSAMA",
-            "nama_se": "CORE BANKING SYSTEM IBS GEN2",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7963",
-            "website": "banklanggeng.co.id"
-        },
-        {
-            "id": "9cb1abb9-db24-482d-84c8-e6b5ae3c83f2",
-            "nama_pse": "NUSANTARA BONAPASOGIT",
-            "nama_se": "COMPANY PROFILE NBP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7964",
-            "website": "ptnbp.com"
-        },
-        {
-            "id": "9cb1abec-dda9-4792-8aca-5f6797370e47",
-            "nama_pse": "TIGA MACAN MULTIMEDIA",
-            "nama_se": "BALAP HOKI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8003",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb9-dddb-48a8-a6ab-9f219c7d38ee",
-            "nama_pse": "ALAN MEDIATECH INDONESIA",
-            "nama_se": "ALAN CREATIVE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7966",
-            "website": "alan.co.id"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 245,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac6d-d677-458e-999d-7ada1a7c561a",
+            "nama_pse": "ELMI PERDANA",
+            "nama_se": "ELMI HOTEL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-03-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18477",
+            "website": "elmihotel.co.id"
+        },
+        {
+            "id": "9cb1ac58-ac1c-4f3e-abeb-cb99b353c6e6",
+            "nama_pse": "PUTRA DWI MUKTI",
+            "nama_se": "RELASI CLINIC ERP KMC",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18470",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6d-ce31-4e02-b133-f0e85d133b22",
+            "nama_pse": "DIGITAL SOLUSI GRUP",
+            "nama_se": "DSG",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18474",
+            "website": "dsg.id"
+        },
+        {
+            "id": "9cb1ac58-af1c-47fb-a437-44ba5cf1e9d9",
+            "nama_pse": "MEDIKA DIGITAL INDONESIA",
+            "nama_se": "APLIKASI KLINIK SUNAT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18476",
+            "website": "rumahsunatan.net"
+        },
+        {
+            "id": "9cb1ac82-7eeb-4316-bc78-2b146f64cbd4",
+            "nama_pse": "ALGOSTUDIO",
+            "nama_se": "YARA FARMCARE",
+            "sektor": "Sektor Pangan",
+            "tanggal_terbit": "2024-03-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18478",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac82-7097-4e7c-b958-bad1f1ac2d32",
+            "nama_pse": "GELORA DJAJA",
+            "nama_se": "WHIS.WISMILAK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18464",
+            "website": "whis.wismilak.com"
+        },
+        {
+            "id": "9cb1ac58-9439-4f37-8932-8f65a24283fd",
+            "nama_pse": "JASA KARTINI KLINIKA",
+            "nama_se": "SIM JKK KPJK TASIKMALAYA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18446",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac58-916c-4b88-b443-e726fa9fbb21",
+            "nama_pse": "CIPTA SELARAS MADANI",
+            "nama_se": "CASMEDIC",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18440",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6d-916c-4482-9fb7-d7f982becd56",
+            "nama_pse": "DWI KARYA DIGITAL",
+            "nama_se": "GETCLINIC",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18441",
+            "website": "dkd.co.id"
+        },
+        {
+            "id": "9cb1ac82-635f-4435-a48f-8ace51d4c81f",
+            "nama_pse": "NUSANTARA SEBELAS MEDIKA",
+            "nama_se": "SINUSA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18442",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac6d-9a3b-46ff-af58-ec8f3e7ab807",
             "nama_pse": "VISUAL ALTA NEDA",
             "nama_se": "SIMRS KEPANJEN EYE CENTER",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-03-25",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18410",
             "website": "salira.tv"
-        },
-        {
-            "id": "9cb1ac82-16e7-4aff-b2ac-9e42ae0a47af",
-            "nama_pse": "SUKSES KAYA BERKAH DUNIA AKHIRAT",
-            "nama_se": "POS RME PBC",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18411",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6d-4daf-4f30-8fd4-d55df00d115f",
-            "nama_pse": "SOLUSI MITRA APLIKASI",
-            "nama_se": "PASAR SIMASRIM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-03-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18404",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6d-510c-427a-90b0-81c7b0bf8769",
-            "nama_pse": "RSUD KEPOHBARU",
-            "nama_se": "SIMRS KHANZA RSUD KEPOHBARU",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18405",
-            "website": "rsudkepohbaru.com"
-        },
-        {
-            "id": "9cb1ac6d-5712-4ca0-bd42-10919b8a4d6b",
-            "nama_pse": "VISINDO CITRA MEDIKA",
-            "nama_se": "AMS (AL FATTAH MEDIC SYSTEM)",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18406",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac58-4e77-4ba7-af4a-ef9c1a061d55",
-            "nama_pse": "YANTO",
-            "nama_se": "SISTEM ELEKTROIK SEKTOR INFORMASI DSN KOMUNIKASI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18407",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac82-1d72-4f30-990a-9f9c9ef72b00",
-            "nama_pse": "LIMA TUJUH DELAPAN TEKNOLOGI",
-            "nama_se": "578 PAY",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18408",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac82-214a-4ec7-bcce-9acc266e5bf4",
-            "nama_pse": "DOA SEHAT SEJAHTERA",
-            "nama_se": "REKAM MEDIS KLINIK",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18412",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6d-5dcf-41a5-baca-530100f9d813",
-            "nama_pse": "NUSANTARA INOVASI BERKARYA",
-            "nama_se": "HILEGAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18413",
-            "website": "hilegal.co.id"
-        },
-        {
-            "id": "9cb1ac6d-47f4-4e92-9060-7d6635b5737f",
-            "nama_pse": "DPU BERKAH ABADI",
-            "nama_se": "DPU LEGAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18400",
-            "website": "dpulegal.co.id"
-        },
-        {
-            "id": "9cb1ac58-4b64-4f55-b6c5-3b4a1553c7b9",
-            "nama_pse": "LABDHA TEKNIKA NUSANTARA",
-            "nama_se": "BIOCLARA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18403",
-            "website": "bioclara.id"
         }
     ],
     "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 75,
     "totalPages": 383

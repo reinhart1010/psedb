@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abbd-36a4-49d3-bccc-5dd822fa9e61",
+            "nama_pse": "SEHAT DENGAN OLAHRAGA",
+            "nama_se": "CAUSE ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8915",
+            "website": "cause.id"
+        },
+        {
+            "id": "9cb1abf3-4548-4735-aefe-8cc98bc499a3",
+            "nama_pse": "MDS DIGITAL MEDIA",
+            "nama_se": "DG SOSMED",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8916",
+            "website": "dagangsosmed.com"
+        },
+        {
+            "id": "9cb1abf3-4ac1-47f1-89e8-60b4efe6404d",
+            "nama_pse": "KINIKU MUDA INDONESIA",
+            "nama_se": "INIDOC",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8917",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abcd-5416-4075-88c1-e73d04826d4a",
+            "nama_pse": "KINIKU MUDA INDONESIA",
+            "nama_se": "INIDOC MITRA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8918",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abbd-4897-4c6e-91df-e20d9c6057da",
+            "nama_pse": "KINIKU MUDA INDONESIA",
+            "nama_se": "KITA SEHAT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8919",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abcd-583b-4174-93cc-12d1781878aa",
+            "nama_pse": "ANNORA MULTI INTECH",
+            "nama_se": "KATALOG HEMATECH",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8920",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abbd-53ca-45d3-bd70-595105758011",
+            "nama_pse": "ANNORA MULTI INTECH",
+            "nama_se": "ANNORA AIR QUALITY MONITORING SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2022-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8921",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abbd-5651-4799-ad08-627f3380ec7f",
+            "nama_pse": "KINIKU MUDA INDONESIA",
+            "nama_se": "GOJAY DRIVER",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8922",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abbd-595b-454c-a18f-c1d35eb53886",
+            "nama_pse": "KINIKU MUDA INDONESIA",
+            "nama_se": "GOJAY MITRA",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8923",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abf3-4e03-4a4d-b6d9-3ff1c4ed8003",
+            "nama_pse": "KINIKU MUDA INDONESIA",
+            "nama_se": "KERJA SEHAT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8924",
+            "website": "-"
+        },
+        {
             "id": "9cb1abcd-5e6f-40d7-b03d-90cb0b6f6151",
             "nama_pse": "MDS DIGITAL MEDIA",
             "nama_se": "INDOHIT MEDIA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-22",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8736",
             "website": "bangilidaman.co.id"
-        },
-        {
-            "id": "9cb1abcc-5820-4696-a64c-faf2677bb52b",
-            "nama_pse": "RADITYA ALKADEMI DIGITAL",
-            "nama_se": "ALKADEMI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8737",
-            "website": "alkademi.id"
-        },
-        {
-            "id": "9cb1abcc-5e2d-495f-9d3a-7c21a7a88b7d",
-            "nama_pse": "HASANAH JARIYAH APLIKANUSA",
-            "nama_se": "PASIFAMAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8738",
-            "website": "pasifamal.id"
-        },
-        {
-            "id": "9cb1abf2-30cd-4070-97b8-a5db4afc28c2",
-            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH AMANAHSEJAHTERA",
-            "nama_se": "AMANAH MOBILE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8739",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abcc-61f5-4eb7-b80a-39b7fda1bcd5",
-            "nama_pse": "BANK PERKREDITAN RAKYAT DEWATA CANDRADANA",
-            "nama_se": "PT BANK PERKREDITAN RAKYAT DEWATA CANDRADANA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8740",
-            "website": "bprcandra.com"
-        },
-        {
-            "id": "9cb1abbc-9472-44ae-9712-7b19d1a1ce2d",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT BADAN KREDIT KECAMATAN TASIKMADU PERSERODA KABUPATEN KARANGANYAR",
-            "nama_se": "PEMBAYARAN PBB",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8742",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abf2-3503-4d0b-8c69-1926ce155836",
-            "nama_pse": "PLN INDONESIA POWER SERVICES",
-            "nama_se": "MROLINE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8743",
-            "website": "MROline.cogindo.co.id"
-        },
-        {
-            "id": "9cb1abcc-6604-4eaa-a13a-706ab062e7fa",
-            "nama_pse": "MAKARA MAS",
-            "nama_se": "MAJA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8744",
-            "website": "dashboard.maja.id"
-        },
-        {
-            "id": "9cb1abcc-6969-4c82-9c13-a00b0d77a63e",
-            "nama_pse": "DARMAWATI",
-            "nama_se": "NOVAPAY",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8746",
-            "website": "novapay.bukaolshop.site"
-        },
-        {
-            "id": "9cb1abf2-39c3-47f5-bb65-b569566c45e2",
-            "nama_pse": "REAL ESTATE TEKNOLOGI",
-            "nama_se": "RENTFIX.COM",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8747",
-            "website": "rentfix.com"
-        },
-        {
-            "id": "9cb1abbc-97e1-4c3c-8555-6764566c53fb",
-            "nama_pse": "HASANAH JARIYAH APLIKANUSA",
-            "nama_se": "DUTAWAKAF",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8748",
-            "website": "pasifamal.id"
         }
     ],
-    "processingTimeMs": 61,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 223,
     "totalPages": 383

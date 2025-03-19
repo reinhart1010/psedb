@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abd2-1223-4ed9-b49c-062b2e048ba2",
+            "nama_pse": "RELIANCE CAPITAL MANAGEMENT",
+            "nama_se": "WEBSITE ECOSYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9514",
+            "website": "relianceku.com"
+        },
+        {
+            "id": "9cb1abf8-911d-4660-a49a-a848bbcec8f1",
+            "nama_pse": "MUHAMMAD AJI PANGESTU",
+            "nama_se": "EMINAT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9515",
+            "website": "eminat.store"
+        },
+        {
+            "id": "9cb1abd2-1777-4e21-a4ed-2dc155fdd55b",
+            "nama_pse": "KOMPAK INDOPOLA",
+            "nama_se": "YOUTUBE KOMPAK INDOPOLA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9516",
+            "website": "kompak.co.id"
+        },
+        {
+            "id": "9cb1abd2-1b5e-42d8-b973-7d3782545525",
+            "nama_pse": "AZZAM DIGITAL MEDIA",
+            "nama_se": "CORONG NUSANTARA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9519",
+            "website": "corongnusantara.com"
+        },
+        {
+            "id": "9cb1abf7-5f48-4d8a-bb0c-2ac0973e3fb4",
+            "nama_pse": "SARANA USAHA SEJAHTERA INSANPALAPA",
+            "nama_se": "MYTELKOMEDIKA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-08-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9520",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abf7-625e-4a51-9069-1f7aa43c4ae5",
+            "nama_pse": "FEDEX EXPRESS INTERNATIONAL",
+            "nama_se": "FEDEX",
+            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9521",
+            "website": "fedex.com"
+        },
+        {
+            "id": "9cb1abd2-1ef9-43a3-ae1a-4808f4569de3",
+            "nama_pse": "KOMPAK INDOPOLA",
+            "nama_se": "TWITTER KOMPAK INDOPOLA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9522",
+            "website": "kompak.co.id"
+        },
+        {
+            "id": "9cb1abf8-93f4-46de-933f-913acce625f0",
+            "nama_pse": "SARANA USAHA SEJAHTERA INSANPALAPA",
+            "nama_se": "WEBSITE TELKOMEDIKA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-08-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9523",
+            "website": "telkomedika.co.id"
+        },
+        {
+            "id": "9cb1abd2-2245-4d2a-b33b-9e11f9db981b",
+            "nama_pse": "KOMPAK INDOPOLA",
+            "nama_se": "LINKEDIN KOMPAK INDOPOLA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9525",
+            "website": "kompak.co.id"
+        },
+        {
+            "id": "9cb1abf7-655d-4a0e-beed-3ed05875793b",
+            "nama_pse": "PEMUDA INOVASI TEKNOLOGI",
+            "nama_se": "CHATBIZ",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9524",
+            "website": "chatbiz.id"
+        },
+        {
             "id": "9cb1abf8-97d2-4784-bd31-2d0b25dcdef5",
             "nama_pse": "DIGITEK MAKMUR PANGESTU",
             "nama_se": "WORKAY",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-31",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9461",
             "website": "presensi.palukota.go.id"
-        },
-        {
-            "id": "9cb1abd1-b0fc-4408-8cae-a4ab11c9b11a",
-            "nama_pse": "ESENSI SOLUSI BUANA",
-            "nama_se": "APLIKASI KASIR ONLINE DAN ESB CORE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9462",
-            "website": "esb.id"
-        },
-        {
-            "id": "9cb1abf8-499d-4116-8744-a5ea38bd74e3",
-            "nama_pse": "HOTEL MURAH TRAVELINDO",
-            "nama_se": "TIKETKERETAAPI.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9467",
-            "website": "tiketkeretaapi.com"
-        },
-        {
-            "id": "9cb1abd1-b40e-4b74-92b0-78594c43d4a0",
-            "nama_pse": "ESENSI SOLUSI BUANA",
-            "nama_se": "APLIKASI ESB GOODS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9463",
-            "website": "esbgoods.co.id"
-        },
-        {
-            "id": "9cb1abf7-2211-406a-9e9a-22126a71dee2",
-            "nama_pse": "MUHAMAD ARIF FIRDAUS T",
-            "nama_se": "CINEVERSE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9464",
-            "website": "cineverse.id"
-        },
-        {
-            "id": "9cb1abd1-b8de-4daf-bcc2-4a197c7ea761",
-            "nama_pse": "DISTRIVE CREATIVE STUDIO",
-            "nama_se": "CV DISTRIVE CREATIVE STUDIO",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9466",
-            "website": "distrive.id"
-        },
-        {
-            "id": "9cb1abf8-4d72-44ea-8cbb-abe4979b056f",
-            "nama_pse": "OKA MAHENDRA",
-            "nama_se": "VPSTRADING.NET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9468",
-            "website": "VPSTrading.net"
-        },
-        {
-            "id": "9cb1abf8-50aa-4ead-8958-fcb2e0624aba",
-            "nama_pse": "NAMA CANTIK ABADI",
-            "nama_se": "NAMA BEAUTY - NAMA",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-07-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9469",
-            "website": "namabeauty.co"
-        },
-        {
-            "id": "9cb1abf7-27f8-4150-b590-84049d00c8c6",
-            "nama_pse": "HARS GRUP KONSULTINDO",
-            "nama_se": "HNG.CO.ID",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9470",
-            "website": "hng.co.id"
-        },
-        {
-            "id": "9cb1abd1-bc77-45d1-a007-336e6c9db76a",
-            "nama_pse": "RICKY GUNAWAN SANTOSA",
-            "nama_se": "INTFIND",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9471",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abf7-2b48-4bc3-b564-9a78af5261dc",
-            "nama_pse": "TEKNOLOGIKA INTEGRATOR INDONESIA",
-            "nama_se": "DUNIAMASAK.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9472",
-            "website": "duniamasak.com"
         }
     ],
-    "processingTimeMs": 9,
+    "processingTimeMs": 6,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 213,
     "totalPages": 383

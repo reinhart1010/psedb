@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac82-16e7-4aff-b2ac-9e42ae0a47af",
+            "nama_pse": "SUKSES KAYA BERKAH DUNIA AKHIRAT",
+            "nama_se": "POS RME PBC",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18411",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6d-4daf-4f30-8fd4-d55df00d115f",
+            "nama_pse": "SOLUSI MITRA APLIKASI",
+            "nama_se": "PASAR SIMASRIM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-03-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18404",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6d-510c-427a-90b0-81c7b0bf8769",
+            "nama_pse": "RSUD KEPOHBARU",
+            "nama_se": "SIMRS KHANZA RSUD KEPOHBARU",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18405",
+            "website": "rsudkepohbaru.com"
+        },
+        {
+            "id": "9cb1ac6d-5712-4ca0-bd42-10919b8a4d6b",
+            "nama_pse": "VISINDO CITRA MEDIKA",
+            "nama_se": "AMS (AL FATTAH MEDIC SYSTEM)",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18406",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac58-4e77-4ba7-af4a-ef9c1a061d55",
+            "nama_pse": "YANTO",
+            "nama_se": "SISTEM ELEKTROIK SEKTOR INFORMASI DSN KOMUNIKASI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18407",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac82-1d72-4f30-990a-9f9c9ef72b00",
+            "nama_pse": "LIMA TUJUH DELAPAN TEKNOLOGI",
+            "nama_se": "578 PAY",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18408",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac82-214a-4ec7-bcce-9acc266e5bf4",
+            "nama_pse": "DOA SEHAT SEJAHTERA",
+            "nama_se": "REKAM MEDIS KLINIK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18412",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6d-5dcf-41a5-baca-530100f9d813",
+            "nama_pse": "NUSANTARA INOVASI BERKARYA",
+            "nama_se": "HILEGAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18413",
+            "website": "hilegal.co.id"
+        },
+        {
+            "id": "9cb1ac6d-47f4-4e92-9060-7d6635b5737f",
+            "nama_pse": "DPU BERKAH ABADI",
+            "nama_se": "DPU LEGAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18400",
+            "website": "dpulegal.co.id"
+        },
+        {
+            "id": "9cb1ac58-4b64-4f55-b6c5-3b4a1553c7b9",
+            "nama_pse": "LABDHA TEKNIKA NUSANTARA",
+            "nama_se": "BIOCLARA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18403",
+            "website": "bioclara.id"
+        },
+        {
             "id": "9cb1ac6c-eaa6-4051-ab62-616b7b5d28dc",
             "nama_pse": "INFO TEKNO SIAGA",
             "nama_se": "ADAPUNDI",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-03-21",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18355",
             "website": "Bhismalearning.com"
-        },
-        {
-            "id": "9cb1ac6d-196d-4b95-8d4f-0947a84bb8d3",
-            "nama_pse": "SOLUPLUS KREASI INDONESIA",
-            "nama_se": "SISTEM INTEGRASI SATU SEHAT",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18357",
-            "website": "soluplus.id"
-        },
-        {
-            "id": "9cb1ac81-dc31-4c97-a467-6413d27e3ee0",
-            "nama_pse": "SAMUDERA MEDIA GROUP",
-            "nama_se": "LINTASATLANTIK.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18360",
-            "website": "lintasatlantik.com"
-        },
-        {
-            "id": "9cb1ac6d-1ce5-4936-8ce3-4cffdeb8ffb8",
-            "nama_pse": "ALFA TARUNA INDONESIA",
-            "nama_se": "RIADEN STORE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-03-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18361",
-            "website": "riadenstore.com"
-        },
-        {
-            "id": "9cb1ac6d-1fc5-4458-9d2b-072df912f23a",
-            "nama_pse": "MALIBU DAMAI SEJAHTERA",
-            "nama_se": "SCARFIFY STORE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-03-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18362",
-            "website": "scarfifystore.com"
-        },
-        {
-            "id": "9cb1ac81-e033-4d19-8a09-9ba9e499f9f4",
-            "nama_pse": "MOSAIK SURYA RAFITA",
-            "nama_se": "DOBUJACK CLOTHES",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-03-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18363",
-            "website": "dobujackclothes.com"
-        },
-        {
-            "id": "9cb1ac58-20eb-4fbd-bb44-e4297ecb196f",
-            "nama_pse": "YOHANA MESTIKA ABADI",
-            "nama_se": "KIZARU WATCH",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-03-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18365",
-            "website": "kizaruwatch.com"
-        },
-        {
-            "id": "9cb1ac6d-22fc-461b-a99a-143c8d40def1",
-            "nama_pse": "PENA JURNALIS GROUP",
-            "nama_se": "BUSERPOLRI.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18366",
-            "website": "buserpolri.com"
-        },
-        {
-            "id": "9cb1ac81-e4ea-4e91-b282-945928003e3d",
-            "nama_pse": "ZIKA SENTRA NUSANTARA",
-            "nama_se": "TENDENCIES HOODIE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-03-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18367",
-            "website": "tendencieshoodie.com"
-        },
-        {
-            "id": "9cb1ac57-f623-4016-b461-f75ca2795d9b",
-            "nama_pse": "NANANG WAHYU SETIO WIMBADI",
-            "nama_se": "KITAHADIR.COM",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18341",
-            "website": "kitahadir.com"
-        },
-        {
-            "id": "9cb1ac57-eced-4e42-8915-bf7bdcf42657",
-            "nama_pse": "WAHANA GEMILANG TEKNOLOGI",
-            "nama_se": "WGT",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-03-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18337",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 76,
     "totalPages": 383

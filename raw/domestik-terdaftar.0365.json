@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab6c-0750-4f18-a6b2-c7b115ba9043",
+            "nama_pse": "BANK ARTHA GRAHA INTERNASIONAL",
+            "nama_se": "AGI PAY",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/994",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab72-a8df-4493-afeb-ebb8835c4963",
+            "nama_pse": "BANK ARTHA GRAHA INTERNASIONAL",
+            "nama_se": "WEBSITE CORPORATE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/995",
+            "website": "arthagraha.com"
+        },
+        {
+            "id": "9cb1ab6c-0ab7-45eb-9ffe-c9efd0ba0fc7",
+            "nama_pse": "LUNARIA ANNUA TEKNOLOGI",
+            "nama_se": "KOINP2P",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/987",
+            "website": "koinp2p.com"
+        },
+        {
+            "id": "9cb1ab64-4d1c-42d1-a2a0-d3476aaaeb0d",
+            "nama_pse": "CUNNINGHAM LINDSEY INDONESIA",
+            "nama_se": "DARWIN CLAIM MANAGEMENT SYSTEM",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/997",
+            "website": "darwinprod.sg.sedgwick.com"
+        },
+        {
+            "id": "9cb1ab7b-c0e1-4ec8-bc2c-67edbfeea09b",
+            "nama_pse": "OTORAJA NETWORK INDONESIA",
+            "nama_se": "OTORAJA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/989",
+            "website": "otoraja.id"
+        },
+        {
+            "id": "9cb1ab7c-60cb-4ef8-9b74-b6128d926cf2",
+            "nama_pse": "MNC DIGITAL INDONESIA",
+            "nama_se": "RCTI+",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/984",
+            "website": "rctiplus.com"
+        },
+        {
+            "id": "9cb1ab84-c4a5-413b-8b47-451286abe6af",
+            "nama_pse": "MASTORE SINERGI UTAMA",
+            "nama_se": "MASTORE.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/983",
+            "website": "mastore.co.id"
+        },
+        {
+            "id": "9cb1ab8c-cede-40d1-ba8c-2dfbb6c0b675",
+            "nama_pse": "KEBAIKAN ANAK INDONESIA",
+            "nama_se": "KIDDO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1003",
+            "website": "kiddo.id"
+        },
+        {
+            "id": "9cb1ab7d-f460-4e03-9879-798f64c1432b",
+            "nama_pse": "BURSA HUKUM DIGITAL DAN TEKNOLOGI",
+            "nama_se": "BURSA LEGAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/985",
+            "website": "bursahukum.co.id/legal"
+        },
+        {
+            "id": "9cb1aba9-0d32-4cbd-877e-81a11229d270",
+            "nama_pse": "GLOBAL URBAN ESENSIAL",
+            "nama_se": "GOAPOTIK",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan, Sektor Kesehatan, Sektor Kesehatan, Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2021-05-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/996",
+            "website": "goapotik.com"
+        },
+        {
             "id": "9cb1ab91-6ea3-4a57-8039-6243e7167856",
             "nama_pse": "XDANA INVESTA INDONESIA",
             "nama_se": "XSAVER - APLIKASI REKSA DANA,  XDANA PRO - APLIKASI REKSA DANA,  XDANA SYARIAH - APLIKASI REKSA DANA, WEB - REKSA DANA ONLINE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-05-11",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/868",
             "website": "infraedukasi.com/"
-        },
-        {
-            "id": "9cb1ab63-7e7d-4006-8bb3-2732cfc4683a",
-            "nama_pse": "INFRASTRUKTUR DIGITAL EDUKASI",
-            "nama_se": "QAMPUS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/869",
-            "website": "infraedukasi.com/"
-        },
-        {
-            "id": "9cb1ab6a-f66a-4bd2-b036-2ad88dbcf9d3",
-            "nama_pse": "OMARCO EDUSAV PRODUK",
-            "nama_se": "EDUSAV",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/914",
-            "website": "edusav.id"
-        },
-        {
-            "id": "9cb1ab71-f7d3-498d-8bd8-97a0b0c9c77d",
-            "nama_pse": "BINTANG PRIMA KARYA BERSAMA",
-            "nama_se": "WWW.NINESTARS.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/948",
-            "website": "ninestars.id"
-        },
-        {
-            "id": "9cb1ab63-89e5-4977-b146-876b382a4f4d",
-            "nama_pse": "ASTRA HONDA MOTOR",
-            "nama_se": "AHM CAREER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/919",
-            "website": "recruitment.astra-honda.com/index.html"
-        },
-        {
-            "id": "9cb1ab63-9702-48e4-a869-79ae5fd65a84",
-            "nama_pse": "MAJU BERSAMA KAFILAH",
-            "nama_se": "KAFILAH.CO.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/858",
-            "website": "kafilah.co.id"
-        },
-        {
-            "id": "9cb1ab63-99f2-4a0b-835e-c870510cab1b",
-            "nama_pse": "MAJU BERSAMA KAFILAH",
-            "nama_se": "KAFILAH.CO.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/960",
-            "website": "kafilah.co.id"
-        },
-        {
-            "id": "9cb1ab72-21cf-4b71-9544-3c1f46983602",
-            "nama_pse": "KONAKAMI DIGITAL INDONESIA",
-            "nama_se": "DIGITALSCOMMUNITY.CO.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/894",
-            "website": "digitalscommunity.co.id"
-        },
-        {
-            "id": "9cb1ab63-a953-424a-8164-91f67898dd93",
-            "nama_pse": "EZEELINK INDONESIA",
-            "nama_se": "EZEELINK",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/888",
-            "website": "ezeelink.co.id"
-        },
-        {
-            "id": "9cb1ab63-b43a-42c7-8d3e-0bc657256599",
-            "nama_pse": "DANA PINJAMAN INKLUSIF",
-            "nama_se": "PINJAMANGO",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/863",
-            "website": "pinjamango.co.id"
-        },
-        {
-            "id": "9cb1ab72-3689-468b-8745-a0ecbf72bb73",
-            "nama_pse": "BANK PERMATA",
-            "nama_se": "PERMATAMOBILE X",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/946",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 9,
+    "processingTimeMs": 8,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 365,
     "totalPages": 383

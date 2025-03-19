@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac7c-9560-4d8f-8f09-019d8afe5935",
+            "nama_pse": "WILMAR CONSULTANCY SERVICES",
+            "nama_se": "FARMER OPERATIONS MANAGEMENT SYSTEM",
+            "sektor": "Sektor Pangan",
+            "tanggal_terbit": "2024-01-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17592",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac7c-98b0-40d1-8d29-9b34d610a2ea",
+            "nama_pse": "DCREO MAKMUR ABADI",
+            "nama_se": "AKTIVITAS KONSULTASI KOMPUTER \u0026 MANAJEMEN FASILITAS KOMPUTER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17591",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac68-782c-4153-84a7-b7ca24f7ecfd",
+            "nama_pse": "DCREO MAKMUR ABADI",
+            "nama_se": "KEGIATAN LAYANAN KONSULTASI, PERANCANGAN DAN PEMBUATAN SOLUSI SISTEM TERINTEGRASI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17593",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac7c-a668-4efa-8348-f8bb7e0c693c",
+            "nama_pse": "KLINIK PRATAMA UNIMUS",
+            "nama_se": "KLINIKPRATAMAMU",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17595",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac68-7bdf-4791-9829-f1dfd83496cb",
+            "nama_pse": "ZIPPY INTER POLAR",
+            "nama_se": "ZIPPY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17596",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac54-9e08-44e4-80fc-039fee0a2d63",
+            "nama_pse": "GRAHADHIKA SARANA PURNAJATI",
+            "nama_se": "MIS : MIRACLE INFORMATION SYSTEM",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17564",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac7c-6319-4d8e-8859-8a598265bfeb",
+            "nama_pse": "TRI NUSA TEKNOLOGI",
+            "nama_se": "WWW.CLINIVE.COM",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17565",
+            "website": "clinive.com"
+        },
+        {
+            "id": "9cb1ac7c-6d4b-4e6a-9186-d08485a1d7a5",
+            "nama_pse": "BIG MEDIA TECHNOLOGY",
+            "nama_se": "MIMO LIVE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17566",
+            "website": "app.mimolive.vip"
+        },
+        {
+            "id": "9cb1ac7c-70a2-4310-8a1f-8d68fe02cac9",
+            "nama_pse": "MASTER GROUP INDONESIA",
+            "nama_se": "MORTGAGE MASTER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17569",
+            "website": "mortgagemaster.co.id"
+        },
+        {
+            "id": "9cb1ac7c-73c9-4cad-9264-f161eb484f1f",
+            "nama_pse": "EXCITECH TEKNOLOGI INDONESIA",
+            "nama_se": "MENU-KITA.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17567",
+            "website": "menu-kita.com"
+        },
+        {
             "id": "9cb1ac54-a0a2-4c5a-90f3-88dcf7f9cb41",
             "nama_pse": "HORIZON TECHNOLOGY DIGITAL",
             "nama_se": "HORIZON GAME",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-01-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17523",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac54-7059-46e3-93e5-a4560ec71a57",
-            "nama_pse": "NETWORK LAPANLAPAN GROUP",
-            "nama_se": "LAPAN LAPAN PONSEL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17524",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac68-1a26-45e6-9ad3-3d7fdda60266",
-            "nama_pse": "SOLUSI FINANSIAL TERINTEGRASI",
-            "nama_se": "KASHOUT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17527",
-            "website": "getkashout.co"
-        },
-        {
-            "id": "9cb1ac54-72e2-4f96-ae25-bdbe4fe2639b",
-            "nama_pse": "DUTAGRAHA AFIAH",
-            "nama_se": "SIMRS",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17525",
-            "website": "rsummi.co.id"
-        },
-        {
-            "id": "9cb1ac68-2073-4b15-88f1-5b4e8b064727",
-            "nama_pse": "ANDINI MEDIKA",
-            "nama_se": "HOSPITAL MANAGEMENT SYSTEM (HMS)",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-01-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17529",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac68-242c-4886-a409-c743b3020b4a",
-            "nama_pse": "BHINNEKA SANGKURIANG TRANSPORT",
-            "nama_se": "BHISA.ID",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2024-01-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17531",
-            "website": "bhisa.id"
-        },
-        {
-            "id": "9cb1ac54-785e-4d24-a083-15aae8e286f6",
-            "nama_pse": "ALPHA TEKNOLOGI MANDIRI",
-            "nama_se": "TBIZ",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-01-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17532",
-            "website": "tbiz.co.id"
-        },
-        {
-            "id": "9cb1ac7c-39dd-4294-b41d-c06bd3e82732",
-            "nama_pse": "GLOBAL INTER KONEKSINDO",
-            "nama_se": "PT GLOBAL INTER KONEKSINDO",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-01-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17533",
-            "website": "glkoneksindo.com"
-        },
-        {
-            "id": "9cb1ac7c-3da1-4c43-b6c6-2d63282250fa",
-            "nama_pse": "TIGA DAYA MULTIMEDIA",
-            "nama_se": "SIKEMAS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-01-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17534",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac54-7ebb-4fc9-8032-356d87d83adf",
-            "nama_pse": "KWIKKU MEDIA NUSANTARA",
-            "nama_se": "KWIKKU",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-01-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17535",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac68-2747-4afa-a8f1-7ac40a42f9dc",
-            "nama_pse": "AGAINDO APLIKASI PULSA",
-            "nama_se": "AGAINDO MOBILE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-01-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17536",
-            "website": "againdo.co.id"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 89,
     "totalPages": 383

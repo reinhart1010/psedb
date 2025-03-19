@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abc1-f60d-4a0c-a574-e51b3dac85df",
+            "nama_pse": "PT. BPR DHANATANI CEPIRING",
+            "nama_se": "PT BPR DHANATANI CEPIRING",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7073",
+            "website": "bprdhanatanicpg.com"
+        },
+        {
+            "id": "9cb1abe7-4102-4ade-8bcd-a2d4396993e9",
+            "nama_pse": "JABARSOFT TEKNOLOGI INDONESIA",
+            "nama_se": "WEBSITE PT JABARSOFT TEKNOLOGI INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7093",
+            "website": "jabarsoft.com"
+        },
+        {
+            "id": "9cb1abc1-f7e0-4fba-8c88-5482f83eeb61",
+            "nama_pse": "BANK SYARIAH INDONESIA",
+            "nama_se": "SISTEM INFORMASI PEGAWAI BANK BSI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7070",
+            "website": "sip.bankbsi.co.id"
+        },
+        {
+            "id": "9cb1abb6-d595-4b0e-a6b7-9f9717de0cb4",
+            "nama_pse": "FIRMANSYAH",
+            "nama_se": "BAGUSPULSA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7072",
+            "website": "baguspulsa.com"
+        },
+        {
+            "id": "9cb1abb6-d746-4f71-8004-8078c57706db",
+            "nama_pse": "GEOKARTA ENGINEERING CONSULTANT",
+            "nama_se": "GEOKARTA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7074",
+            "website": "geokarta-ec.com"
+        },
+        {
+            "id": "9cb1abe7-4655-410b-a27d-b74ee2c27a01",
+            "nama_pse": "GARUDA DIGITAL KREATIF",
+            "nama_se": "GARUDAKU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7080",
+            "website": "garudaku.com"
+        },
+        {
+            "id": "9cb1abe7-4a7f-460d-acb2-94e7c8c55798",
+            "nama_pse": "TRI SAHRIDAYA TEKNOLOGI",
+            "nama_se": "SMS BROADCAST PT TRI SAHRIDAYA TEKNOLOGI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7075",
+            "website": "sms.sahridaya.id"
+        },
+        {
+            "id": "9cb1abb6-d8f5-48f2-b2e9-23548806fede",
+            "nama_pse": "WALT DISNEY INDONESIA",
+            "nama_se": "DISNEY+ HOTSTAR",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7079",
+            "website": "hotstar.com"
+        },
+        {
+            "id": "9cb1abe7-4de8-489c-b081-7f493599156e",
+            "nama_pse": "UNI TOKOPO TEKNOLOGI",
+            "nama_se": "CAMPAIGN #FORCHANGE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7076",
+            "website": "campaign.com"
+        },
+        {
+            "id": "9cb1abe7-5398-4f0b-a66a-e80687845219",
+            "nama_pse": "BOLDE INOVASI GLOBAL",
+            "nama_se": "BOLDE APPS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7085",
+            "website": "boldestore.com"
+        },
+        {
             "id": "9cb1abe7-5764-48af-b3d6-bbe30b1c906d",
             "nama_pse": "BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN PERSERODA",
             "nama_se": "EMPLOYEE HEALTH SERVICE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-19",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7134",
             "website": "eazyin.co.id"
-        },
-        {
-            "id": "9cb1abc2-2471-4bd1-8868-3fb55aec8cc4",
-            "nama_pse": "STEFANUS HARTONO KURNIAWAN",
-            "nama_se": "RAJAWALI RELOAD",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7148",
-            "website": "Rajawalireload.com"
-        },
-        {
-            "id": "9cb1abe7-a112-45df-b812-ea4a84e8ff79",
-            "nama_pse": "CISCO TECHNOLOGIES INDONESIA",
-            "nama_se": "WEBEX",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7147",
-            "website": "webex.com"
-        },
-        {
-            "id": "9cb1abe7-a570-4ba9-96ec-c1f85b9fd43c",
-            "nama_pse": "Wawan Candra Dinata ",
-            "nama_se": "TRAVELDATA: AGEN PULSA \u0026 KUOTA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7136",
-            "website": "traveldata.id"
-        },
-        {
-            "id": "9cb1abe7-a906-478f-a66c-31b48d76d877",
-            "nama_pse": "BANK SMBC INDONESIA",
-            "nama_se": "AKSESBISNIS@BTPN",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7138",
-            "website": "aksesbisnis.btpn.com"
-        },
-        {
-            "id": "9cb1abe7-adfd-4150-b3a8-c2f14776991e",
-            "nama_pse": "STEFANUS HARTONO KURNIAWAN",
-            "nama_se": "RAJAWALI PULSA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7137",
-            "website": "Rajawalireload.com"
-        },
-        {
-            "id": "9cb1abe7-b38a-4ee6-ac98-dd71653d17ba",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH BALI",
-            "nama_se": "E-RETRIBUSI BANK BPD BALI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7142",
-            "website": "eretribusi.bpdbali.co.id"
-        },
-        {
-            "id": "9cb1abc2-2788-4eed-93cb-50e80b956655",
-            "nama_pse": "MOHAMMAD TAUFIQURROHMAN",
-            "nama_se": "APLIKASI PENCATATAN INFORMASI KEUANGAN BLUD RSUD SULTAN FATAH KABUPATEN DEMAK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7143",
-            "website": "blud.rsudsulfat.com"
-        },
-        {
-            "id": "9cb1abe7-b9c8-411d-b867-553ebf99ff90",
-            "nama_pse": "INTI CAKRAWALA CITRA",
-            "nama_se": "STOCK POINT INDOGROSIR (SPI)",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7144",
-            "website": "spi.klikindogrosir.com"
-        },
-        {
-            "id": "9cb1abc2-2cbc-4ad4-9787-ccba05d5e789",
-            "nama_pse": "BANK HSBC INDONESIA",
-            "nama_se": "CORPORATE INTERNET BANKING HSBCNET",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7145",
-            "website": "hsbcnet.com"
-        },
-        {
-            "id": "9cb1abc2-2f49-4ea9-9ad1-ac707349ae7d",
-            "nama_pse": "ENVIPEDIA HARMONI INDONESIA",
-            "nama_se": "ENVIPEDIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7146",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 263,
     "totalPages": 383

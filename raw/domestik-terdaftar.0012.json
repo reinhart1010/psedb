@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9e02c19c-868d-485b-97e3-274193e0494a",
+            "nama_pse": "FASTRATA BUANA",
+            "nama_se": "MITRA FASTMART",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-01-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22140",
+            "website": "grosir.fastmart.id"
+        },
+        {
+            "id": "9e039fb2-ddaa-4ce6-9bcd-301f8d6964a0",
+            "nama_pse": "MILENIAL NUSANTARA CITRA",
+            "nama_se": "GTUNES",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22153",
+            "website": "gtunes.co.id"
+        },
+        {
+            "id": "9e0340a1-ee34-4e75-b670-bc3be52e814e",
+            "nama_pse": "SISTEM KULINER KITCHANOV",
+            "nama_se": "FABINOX",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-01-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22148",
+            "website": "fabinox.co"
+        },
+        {
+            "id": "9e02be32-9396-4507-b01b-27d51d97c3ec",
+            "nama_pse": "SOLUSI MEDIA INDO",
+            "nama_se": "pt solusi media indo",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22139",
+            "website": "solusimediaindo.com"
+        },
+        {
+            "id": "9e03212c-b57f-4fd7-a8de-70f2001b6a96",
+            "nama_pse": "GIT GOW AYO",
+            "nama_se": "MAMIKOS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22146",
+            "website": "mamikos.com"
+        },
+        {
+            "id": "9e02b67e-28df-4061-be36-146ee27fcf94",
+            "nama_pse": "SIDIQ MUSLIM",
+            "nama_se": "LAYANAN INTERNET LOKAL (RT RW NET)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22138",
+            "website": "-"
+        },
+        {
+            "id": "9e035e87-18e1-4b37-b32e-1eaf99736b83",
+            "nama_pse": "SEPTIAN CHAERULLOH",
+            "nama_se": "LAYANAN INTERNET LOCAL (RT RW NET)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22149",
+            "website": "-"
+        },
+        {
+            "id": "9e030948-0e6a-46af-98f9-2fd8ef3ee5d0",
+            "nama_pse": "META JASA GRUP",
+            "nama_se": "metajasa",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-01-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22143",
+            "website": "metajasa.com"
+        },
+        {
+            "id": "9e030d25-d01f-4568-8a5f-2c5cfa6a31ae",
+            "nama_pse": "SULAEMAN SEJAHTERA ABADI",
+            "nama_se": "LAYANAN INTERNET LOKAL ( RT RW NET )",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22144",
+            "website": "-"
+        },
+        {
+            "id": "9e02c8ff-2207-4bfb-9164-3d379e5258ee",
+            "nama_pse": "INDIVARA SEJAHTERA SUKSES MAKMUR",
+            "nama_se": "WOI (WALLET OF INDIVARA)",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22141",
+            "website": "-"
+        },
+        {
             "id": "9e02b607-40fd-464a-abb4-62fcdb348ef9",
             "nama_pse": "HAVRA SELARAS",
             "nama_se": "grupi",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2025-01-14",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22091",
             "website": "-"
-        },
-        {
-            "id": "9df75b43-bb06-459b-933a-ad23055d8f3e",
-            "nama_pse": "SUPARDI NETHANEL HUSAIN",
-            "nama_se": "https://www.zanio.co.id",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-01-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22095",
-            "website": "everes.zanio.co.id"
-        },
-        {
-            "id": "9df77fdf-9f1a-4eea-ae5a-f25d56c383c8",
-            "nama_pse": "AGUNG PRADANA",
-            "nama_se": "LAYANAN INTERNET LOKAL ( RT RW NET )",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22096",
-            "website": "-"
-        },
-        {
-            "id": "9df69ccd-a817-4ab0-8b63-6f45d8a896da",
-            "nama_pse": "HOOPI TEKNOLOGI INDONESIA",
-            "nama_se": "HOOPI APP",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-01-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22089",
-            "website": "-"
-        },
-        {
-            "id": "9df7437b-1fcd-46fa-878a-e5f3506564cd",
-            "nama_pse": "LILI STYLE INDONESIA",
-            "nama_se": "APLIKASI LILI STYLE - FASHION SHOPPING",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-01-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22093",
-            "website": "-"
-        },
-        {
-            "id": "9df74a04-e861-4f97-8811-b1b3d67b6382",
-            "nama_pse": "SYAMSU RIZAL",
-            "nama_se": "KEDAIJASA TEKNOLOGI - JASA PEMBUATAN WEBSITE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22094",
-            "website": "kedaijasa.biz.id"
-        },
-        {
-            "id": "9df6d49d-48c0-4e8a-a569-0285991e46db",
-            "nama_pse": "PURWANTO",
-            "nama_se": "JOGJAJOBS.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22092",
-            "website": "jogjajobs.com"
-        },
-        {
-            "id": "9df69ac0-3c34-47f7-972d-04918d655217",
-            "nama_pse": "PROTINDO MULTI TECHNO",
-            "nama_se": "PROTINDO.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22088",
-            "website": "protindo.com"
-        },
-        {
-            "id": "9df48404-b0f6-4dfc-aa42-6112980f55f8",
-            "nama_pse": "INDONESIA COMNETS PLUS",
-            "nama_se": "CUSTOMER PORTAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22077",
-            "website": "customer.iconpln.co.id"
-        },
-        {
-            "id": "9df4e28b-0e41-4a7d-8dd3-d4fa0207d82b",
-            "nama_pse": "VOLCANO INTERNATIONAL TECHNOLOGY",
-            "nama_se": "TIA JEWELRY",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-01-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22081",
-            "website": "1001jewelrybox.com"
-        },
-        {
-            "id": "9df4b78a-0b84-4662-96ef-922dc010b654",
-            "nama_pse": "MITRA TEKNO MADANI",
-            "nama_se": "PNMDIGI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22078",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 8,
+    "processingTimeMs": 16,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 12,
     "totalPages": 383

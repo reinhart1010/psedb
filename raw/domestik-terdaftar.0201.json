@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac08-1900-404e-b6f9-f3f33542c322",
+            "nama_pse": "BIGO INFORMATION INDONESIA",
+            "nama_se": "IMO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9671",
+            "website": "imo.im"
+        },
+        {
+            "id": "9cb1abd2-efec-42ec-a8fd-6f57e886767c",
+            "nama_pse": "BANK PERKREDITAN RAKYAT TARA DHARMA ARTHA",
+            "nama_se": "PT BPR TARA DHARMA ARTHA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9679",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac08-40a9-497e-9697-05ecc94b6656",
+            "nama_pse": "MIDAZPAY DIGITAL INDONESIA",
+            "nama_se": "WHIZ",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9856",
+            "website": "whiz.id"
+        },
+        {
+            "id": "9cb1ac08-9671-4dca-82e0-a4e6dc47db43",
+            "nama_pse": "BARON BIONDI WILLIAM",
+            "nama_se": "BBW CARDLESS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9781",
+            "website": "bbw.co.id"
+        },
+        {
+            "id": "9cb1abfa-16d4-4a67-9060-6bfa7fa8f4ae",
+            "nama_pse": "TRICOM MITRA MANDIRI",
+            "nama_se": "YUKSHOPPING",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9809",
+            "website": "yukshopping.com"
+        },
+        {
+            "id": "9cb1abfb-a0dc-41f8-8835-442e1667dc5d",
+            "nama_pse": "GLOBAL MEDIA VISUAL",
+            "nama_se": "MOLA RADIO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10186",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abfb-c94b-4380-95d3-ba43160eb050",
+            "nama_pse": "INFOMEDIA NUSANTARA",
+            "nama_se": "PORTAL PROVUE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10157",
+            "website": "precise.sharedvis.co.id"
+        },
+        {
+            "id": "9cb1abfb-f085-42aa-b118-ef860721287c",
+            "nama_pse": "ABDURRAHMAN",
+            "nama_se": "RAYYA IT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10152",
+            "website": "kangaab.my.id"
+        },
+        {
+            "id": "9cb1abd5-fdcd-4fbd-a3ed-2367613c1b08",
+            "nama_pse": "NUR ABYASNU JAYA",
+            "nama_se": "NAJ MULTIMEDIA",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10153",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac0b-0d6e-437a-b122-17a0d8903bd3",
+            "nama_pse": "FOKUS INOVASI FARADISA ABADI",
+            "nama_se": "FIFAPAY FINTECH BUSINESS",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10154",
+            "website": "fifapay.co.id"
+        },
+        {
+            "id": "9cb1abfb-f54e-49a3-a14e-596a72f99d30",
+            "nama_pse": "AHMAD SHOFI HIDAYAT",
+            "nama_se": "PAYON INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10155",
+            "website": "payon.id"
+        },
+        {
             "id": "9cb1ac0b-1046-4e16-9106-b6436a095238",
             "nama_pse": "DAYYAN ONLINE PERKASA",
             "nama_se": "PT DAYYAN ONLINE PERKASA",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-08-10",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10199",
             "website": "sedana.co.id"
-        },
-        {
-            "id": "9cb1abd6-39f4-4d95-bb1b-9aa9762d49a5",
-            "nama_pse": "TITAN MINERAL UTAMA",
-            "nama_se": "PT. TITAN MINERAL UTAMA",
-            "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
-            "tanggal_terbit": "2022-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10200",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abfc-38b7-4940-ac74-ec69b6e2d35b",
-            "nama_pse": "SEDANA PASIFIK SERVISTAMA",
-            "nama_se": "AJK",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10201",
-            "website": "sedana.co.id"
-        },
-        {
-            "id": "9cb1ac0b-40db-447b-820b-6110ae3ef855",
-            "nama_pse": "HOSEA TITI SANJAYA",
-            "nama_se": "PASARKELILING",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10203",
-            "website": "Pasarkeliling.id"
-        },
-        {
-            "id": "9cb1abaf-9ba2-4ff4-8edf-6cdf32b95ba7",
-            "nama_pse": "ANUGERAH PHARMINDO LESTARI",
-            "nama_se": "EZRX",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
-            "tanggal_terbit": "2022-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9059",
-            "website": "ezrx.id"
-        },
-        {
-            "id": "9cb1ab9c-45fd-4ee6-a189-1dc484edc244",
-            "nama_pse": "SARANA SULSEL VENTURA",
-            "nama_se": "SARANA SULSEL VENTURA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5689",
-            "website": "saranasulselventura.id"
-        },
-        {
-            "id": "9cb1aba7-3ef7-4348-a58b-a63aa20056d7",
-            "nama_pse": "AKSELERAN KEUANGAN INKLUSIF INDONESIA",
-            "nama_se": "AKSELERAN APPS (ANDROID \u0026 IOS)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5791",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abc0-b3e7-4829-87c7-3ec24ee9e88d",
-            "nama_pse": "JMD SURYA FILM",
-            "nama_se": "KARCISBOLA.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6909",
-            "website": "karcisbola.id"
-        },
-        {
-            "id": "9cb1abe6-fbe6-4cab-a198-83e935396c5a",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT MERTHA SEDANA",
-            "nama_se": "PT. BANK PERKREDITAN RAKYAT MERTHA SEDANA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7542",
-            "website": "bprmerthasedana.co.id"
-        },
-        {
-            "id": "9cb1abf6-d753-4fd3-a1a0-5ef1d1d7686f",
-            "nama_pse": "GOLKAR INSTITUT SEKOLAH PEMERINTAHAN DAN KEBIJAKAN PUBLIK  disingkat  GOLKAR INSTITUT SPKP",
-            "nama_se": "GOLKARINSTITUTE.ORG",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9420",
-            "website": "golkarinstitute.org"
-        },
-        {
-            "id": "9cb1abfa-42b7-47cc-a8fa-05be2a75d22c",
-            "nama_pse": "MEGAXUS INFOTECH",
-            "nama_se": "AUDITION AYODANCE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10090",
-            "website": "ayodance.com"
-        },
-        {
-            "id": "9cb1abd3-ee70-4e2b-b8e9-7cfd3549b873",
-            "nama_pse": "MEGAXUS INFOTECH",
-            "nama_se": "AUDITION AYODANCE MOBILE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10091",
-            "website": "duniapp.com"
         }
     ],
-    "processingTimeMs": 9,
+    "processingTimeMs": 40,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 201,
     "totalPages": 383

@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac4e-528b-40f5-8b84-1129c7bbfce1",
+            "nama_pse": "IKN NEWS GROUP",
+            "nama_se": "IKNNEWS.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16310",
+            "website": "iknnews.co.id"
+        },
+        {
+            "id": "9cb1ac61-671d-49ac-9d5c-b443dd007bb3",
+            "nama_pse": "ONANMEDIA INTERNASIONAL INDONESIA",
+            "nama_se": "ONANMEDIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16311",
+            "website": "onanmedia.com"
+        },
+        {
+            "id": "9cb1ac75-b5ec-4f2b-95fa-50f0a72605e7",
+            "nama_pse": "DINAMIKA WEB INDONESIA",
+            "nama_se": "RME QLINIQ",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16312",
+            "website": "app.qliniq.id"
+        },
+        {
+            "id": "9cb1ac75-b864-462b-b908-6717c30a3881",
+            "nama_pse": "RAJAERBA INDOCHEM",
+            "nama_se": "REILIS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16313",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac61-69d2-4394-801e-29b34ed39126",
+            "nama_pse": "GLOBAL MEDIA SOLUSI",
+            "nama_se": "LOKAL FILM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-10-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16314",
+            "website": "lokalfilm.id"
+        },
+        {
+            "id": "9cb1ac4e-550a-446f-b207-b3aef5b2dad8",
+            "nama_pse": "MURAH MERIAH NIH",
+            "nama_se": "MURAH NIH",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-10-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16316",
+            "website": "dev.murahnih.id"
+        },
+        {
+            "id": "9cb1ac60-102c-4546-940e-aa8efdb3f4e9",
+            "nama_pse": "RUMAH SAKIT UMUM DAERAH JAMPANG KULON",
+            "nama_se": "HOSPITAL INFORMATION SYSTEM (HIS)",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16294",
+            "website": "rsudjampangkulon.jabarprov.go.id"
+        },
+        {
+            "id": "9cb1ac4e-0cf6-4c05-8de4-f73cd8d25553",
+            "nama_pse": "ROYAL PRIMA JAMBI",
+            "nama_se": "EHEALTSYS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16309",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4e-2d84-4aaf-b319-466bfb2030cc",
+            "nama_pse": "PERMATA MUSTIKA HUSADA",
+            "nama_se": "SIMRS KHANZA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-10-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16298",
+            "website": "permatakeluarga.net"
+        },
+        {
+            "id": "9cb1ac75-a9d4-458a-8abe-7ab2a508ce61",
+            "nama_pse": "JAMINAN PEMBIAYAAN ASKRINDO SYARIAH",
+            "nama_se": "MAASYA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-10-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16296",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4e-3d56-4151-8e1f-fec1c9f60701",
+            "nama_pse": "PAUS BIRU INTERNASIONAL",
+            "nama_se": "PAUS BIRU",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-10-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16303",
+            "website": "ptpausbiruinternasional.com"
+        },
+        {
             "id": "9cb1ac4e-4032-4bf7-a9ab-297948a2d42e",
             "nama_pse": "MADIYONO",
             "nama_se": "APLIKASI KLINIK",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-10-13",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16259",
             "website": "santosa-hospital.com"
-        },
-        {
-            "id": "9cb1ac48-77e2-4b7a-b0b6-34fae2152987",
-            "nama_pse": "KREIGAN DIGITAL WESEL",
-            "nama_se": "NEXTRANS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2023-10-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16243",
-            "website": "nextrans.id"
-        },
-        {
-            "id": "9cb1ac61-17b7-4eb6-8b01-f992a71e79a2",
-            "nama_pse": "BANK OCBC NISP",
-            "nama_se": "OCBC MOBILE INDONESIA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2023-10-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16244",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac61-1a5d-4f94-901c-5e9ee99c0cc3",
-            "nama_pse": "BANK OCBC NISP",
-            "nama_se": "OCBC WEB INDONESIA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2023-10-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16245",
-            "website": "online.ocbc.id"
-        },
-        {
-            "id": "9cb1ac4d-f84a-4af2-a78b-048a153c176f",
-            "nama_pse": "BANK OCBC NISP",
-            "nama_se": "ONBOARDING WEBPORTAL",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2023-10-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16246",
-            "website": "onboarding.ocbc.id"
-        },
-        {
-            "id": "9cb1ac75-4cdb-45a5-9037-14c0048f5e28",
-            "nama_pse": "BANK PERKREDITAN RAKYAT MITRA HARMONI MATARAM",
-            "nama_se": "BPR MITRA HARMONI MATARAM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2023-10-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16247",
-            "website": "bprmh-mataram.com"
-        },
-        {
-            "id": "9cb1ac61-2ca6-4401-b7c3-97c346a6aca4",
-            "nama_pse": "BANK CENTRAL ASIA",
-            "nama_se": "MYBCA BISNIS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2023-10-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16248",
-            "website": "mybcabisnis.co.id"
-        },
-        {
-            "id": "9cb1ac75-5c18-4d95-8c87-47b6da2fea63",
-            "nama_pse": "INDO KOALA REMITTANCE",
-            "nama_se": "APLIKASI JACK",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2023-10-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16249",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4e-1091-4e88-b68e-89ed4e250bac",
-            "nama_pse": "OSHINDO MEDIKA PRATAMA",
-            "nama_se": "MEDILABTEKNO",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16242",
-            "website": "medilabtekno.link"
-        },
-        {
-            "id": "9cb1ac4e-1389-47c7-8c94-3fc584f217ea",
-            "nama_pse": "JUBEL IPRIANTO PANDAPOTAN SIMANUNGKALIT",
-            "nama_se": "SUAN SIBER",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-10-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16251",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac75-6249-404c-a702-2e03c17980c2",
-            "nama_pse": "GALATIKA MEDIA MULTI",
-            "nama_se": "GLEOR.HOSPITAL",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-10-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16252",
-            "website": "gleor.id"
-        },
-        {
-            "id": "9cb1ac61-46e1-45c5-bdac-b79f9e843ebf",
-            "nama_pse": "AKHUL KHAFIDIN",
-            "nama_se": "PD. LINTANG JAYA ELECTROIK",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-10-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16253",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 113,
     "totalPages": 383

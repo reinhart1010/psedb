@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1abd6-39f4-4d95-bb1b-9aa9762d49a5",
+            "nama_pse": "TITAN MINERAL UTAMA",
+            "nama_se": "PT. TITAN MINERAL UTAMA",
+            "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10200",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abfc-38b7-4940-ac74-ec69b6e2d35b",
+            "nama_pse": "SEDANA PASIFIK SERVISTAMA",
+            "nama_se": "AJK",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10201",
+            "website": "sedana.co.id"
+        },
+        {
+            "id": "9cb1ac0b-40db-447b-820b-6110ae3ef855",
+            "nama_pse": "HOSEA TITI SANJAYA",
+            "nama_se": "PASARKELILING",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10203",
+            "website": "Pasarkeliling.id"
+        },
+        {
+            "id": "9cb1abaf-9ba2-4ff4-8edf-6cdf32b95ba7",
+            "nama_pse": "ANUGERAH PHARMINDO LESTARI",
+            "nama_se": "EZRX",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9059",
+            "website": "ezrx.id"
+        },
+        {
+            "id": "9cb1ab9c-45fd-4ee6-a189-1dc484edc244",
+            "nama_pse": "SARANA SULSEL VENTURA",
+            "nama_se": "SARANA SULSEL VENTURA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5689",
+            "website": "saranasulselventura.id"
+        },
+        {
+            "id": "9cb1aba7-3ef7-4348-a58b-a63aa20056d7",
+            "nama_pse": "AKSELERAN KEUANGAN INKLUSIF INDONESIA",
+            "nama_se": "AKSELERAN APPS (ANDROID \u0026 IOS)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5791",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc0-b3e7-4829-87c7-3ec24ee9e88d",
+            "nama_pse": "JMD SURYA FILM",
+            "nama_se": "KARCISBOLA.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6909",
+            "website": "karcisbola.id"
+        },
+        {
+            "id": "9cb1abe6-fbe6-4cab-a198-83e935396c5a",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT MERTHA SEDANA",
+            "nama_se": "PT. BANK PERKREDITAN RAKYAT MERTHA SEDANA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7542",
+            "website": "bprmerthasedana.co.id"
+        },
+        {
+            "id": "9cb1abf6-d753-4fd3-a1a0-5ef1d1d7686f",
+            "nama_pse": "GOLKAR INSTITUT SEKOLAH PEMERINTAHAN DAN KEBIJAKAN PUBLIK  disingkat  GOLKAR INSTITUT SPKP",
+            "nama_se": "GOLKARINSTITUTE.ORG",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9420",
+            "website": "golkarinstitute.org"
+        },
+        {
+            "id": "9cb1abfa-42b7-47cc-a8fa-05be2a75d22c",
+            "nama_pse": "MEGAXUS INFOTECH",
+            "nama_se": "AUDITION AYODANCE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10090",
+            "website": "ayodance.com"
+        },
+        {
+            "id": "9cb1abd3-ee70-4e2b-b8e9-7cfd3549b873",
+            "nama_pse": "MEGAXUS INFOTECH",
+            "nama_se": "AUDITION AYODANCE MOBILE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10091",
+            "website": "duniapp.com"
+        },
+        {
             "id": "9cb1abfa-4894-4066-bdac-e304641cc53c",
             "nama_pse": "MEGAXUS INFOTECH",
             "nama_se": "AUDITION AYODANCE PUZZLES",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-08-09",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10107",
             "website": "nextren.grid.id"
-        },
-        {
-            "id": "9cb1abfb-a7d4-4e25-8452-5d6a0c7f22d2",
-            "nama_pse": "REKSA FINANCE",
-            "nama_se": "REKSA LOAN SYSTEM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10108",
-            "website": "reksafinance.co.id"
-        },
-        {
-            "id": "9cb1ac0a-e77e-4e66-b43c-ca2bfe3beff0",
-            "nama_pse": "WIDEA KALYA TEKNOLOGI",
-            "nama_se": "IZENHO",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10109",
-            "website": "izenho.com"
-        },
-        {
-            "id": "9cb1abfb-aacf-4765-84c4-22c234ecc984",
-            "nama_pse": "TONGDUN TECHNOLOGY INDONESIA",
-            "nama_se": "TONGDUN TECHNOLOGY INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10125",
-            "website": "tongdun.id"
-        },
-        {
-            "id": "9cb1abd5-b6ea-42d4-9e69-20f68feaf06d",
-            "nama_pse": "GLOBAL LOYAL SEJAHTERA",
-            "nama_se": "TSMEDIA.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10110",
-            "website": "tsmedia.id"
-        },
-        {
-            "id": "9cb1ac0a-eb04-4d36-9c34-af2447195d17",
-            "nama_pse": "MONOTARO INDONESIA",
-            "nama_se": "MONOTARO INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10111",
-            "website": "monotaro.id"
-        },
-        {
-            "id": "9cb1abd5-ba86-41d8-9225-d5c683bd25b7",
-            "nama_pse": "CITRA AGUNG MESTIKA",
-            "nama_se": "PT. CITRA AGUNG MESTIKA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10112",
-            "website": "WWW.IP1.CO.ID"
-        },
-        {
-            "id": "9cb1abfb-ae1e-48bf-9402-529b1468ca8c",
-            "nama_pse": "AXA INSURANCE INDONESIA",
-            "nama_se": "ASMIK",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10113",
-            "website": "axa-mandiri.co.id"
-        },
-        {
-            "id": "9cb1ac0a-ee06-4f6f-8744-00571309dfca",
-            "nama_pse": "INDIGO DIGITAL MEDIA",
-            "nama_se": "CUMICUMI.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10114",
-            "website": "cumicumi.com"
-        },
-        {
-            "id": "9cb1abd5-be64-41ff-aafc-0233ce7d1cd1",
-            "nama_pse": "MNC PORTAL INDONESIA",
-            "nama_se": "CELEBRITIES.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10115",
-            "website": "celebrities.id"
-        },
-        {
-            "id": "9cb1ac0a-f127-404f-b587-0f0e345dc192",
-            "nama_pse": "AXA INSURANCE INDONESIA",
-            "nama_se": "AXA MANDIRI MYPAGE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10116",
-            "website": "mypage.axa.co.id"
-        },
-        {
-            "id": "9cb1abfb-b13a-4dbc-94e4-2729e916678f",
-            "nama_pse": "STAR KARLO INDONESIA",
-            "nama_se": "KARLO",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2022-08-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10117",
-            "website": "karlo.id"
         }
     ],
-    "processingTimeMs": 12,
+    "processingTimeMs": 7,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 202,
     "totalPages": 383

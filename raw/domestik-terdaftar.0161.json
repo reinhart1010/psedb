@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac3b-c5d9-4413-8a8b-e826dc2900bc",
+            "nama_pse": "MANDIRI SEKURITAS",
+            "nama_se": "ONLINE ACCOUNT OPENING NON MOBILE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13492",
+            "website": "register.most.co.id"
+        },
+        {
+            "id": "9cb1ac3b-cb4b-4ee8-84a1-4391b2e8d817",
+            "nama_pse": "FIBER MEDIA SEJAHTERA",
+            "nama_se": "PT FIBER MEDIA SEJAHTERA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13485",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac3b-d025-4e70-ba1d-8bb16e7a1784",
+            "nama_pse": "GLOBAL AKSES MEDIKA",
+            "nama_se": "CV GLOBAL AKSES MEDIKA",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+            "tanggal_terbit": "2023-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13486",
+            "website": "Gamedika.com"
+        },
+        {
+            "id": "9cb1ac1a-8222-4dd8-a602-2db8564f2ee8",
+            "nama_pse": "INTERNASIONAL TELEKOMUNIKASI MULTIMEDIA",
+            "nama_se": "PT INTERNASIONAL TELEKOMUNIKASI MULTIMEDIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13488",
+            "website": "hymetlive.com"
+        },
+        {
+            "id": "9cb1ac3b-d3ed-4727-9407-4a57fce8b3b5",
+            "nama_pse": "PUTRA PERMATA PRATAMA",
+            "nama_se": "PT PUTRA PERMATA PRATAMA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13500",
+            "website": "putra-permata.com"
+        },
+        {
+            "id": "9cb1ac1a-84c6-44b7-9e58-16007274ea39",
+            "nama_pse": "INFOTAMA SOLUSINDO",
+            "nama_se": "RUMKIT TK III BALADHIKA HUSADA JEMBER",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13498",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac3b-d9c4-408e-8f47-c8e45bef910b",
+            "nama_pse": "SKALA ESTAT ASIA",
+            "nama_se": "TOKO SULUNG",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13499",
+            "website": "tokosulung.com"
+        },
+        {
+            "id": "9cb1ac2c-1941-48c2-b0a3-e77c18777ae6",
+            "nama_pse": "USSI PINBUK GLOBAL SOLUSI",
+            "nama_se": "IBS MOBILE ON LINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13501",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac1a-8984-4658-b096-a852a4312ec2",
+            "nama_pse": "SKALA ESTAT ASIA",
+            "nama_se": "CRUITA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13502",
+            "website": "cruita.com"
+        },
+        {
+            "id": "9cb1ac1a-8c3b-48aa-aac7-db52f6645648",
+            "nama_pse": "DIMAS AGUNG PRASETYO",
+            "nama_se": "ANGGUN PERCETAKAN FOTOCOPY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13503",
+            "website": "anggunfotocopy.com"
+        },
+        {
+            "id": "9cb1ac3b-e44e-455f-8534-b118c35c952d",
+            "nama_pse": "INFOTAMA SOLUSINDO",
+            "nama_se": "RSUD DR. MOHAMMAD ZYN SAMPANG",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-01-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13504",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac1a-8ec9-4d3a-b032-12a143e356e9",
             "nama_pse": "USSI PINBUK GLOBAL SOLUSI",
             "nama_se": "KOPERASI ONLINE",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-01-06",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13438",
             "website": "bimasoft.web.id"
-        },
-        {
-            "id": "9cb1ac2b-7938-451e-b6fb-04f9abbf380d",
-            "nama_pse": "ANALISIS SIBER",
-            "nama_se": "CV ANALISIS SIBER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13439",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac2b-9887-476f-ae7d-6688f2e11bab",
-            "nama_pse": "BTH UMMAT MANDIRI",
-            "nama_se": "LAYANAN VIRTUAL ACCOUNT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13443",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac2b-9bb1-490b-8009-c7b616d22f4c",
-            "nama_pse": "TAUFIK",
-            "nama_se": "MOBILSIA.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13445",
-            "website": "mobilsia.com"
-        },
-        {
-            "id": "9cb1ac19-550c-4816-b3a4-b87e1d2c8e2e",
-            "nama_pse": "TRIPUTRA PERKASA INDONESIA",
-            "nama_se": "MILD STORE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-01-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13427",
-            "website": "mild-store.com"
-        },
-        {
-            "id": "9cb1ac18-80a8-43bb-8f55-d4c54d0803ac",
-            "nama_pse": "TIGA INTI UTAMA",
-            "nama_se": "TRIV.CO.ID",
-            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13424",
-            "website": "triv.co.id"
-        },
-        {
-            "id": "9cb1ac2b-57c1-4b40-89e0-30460283c648",
-            "nama_pse": "CYBERQUOTE INDONESIA",
-            "nama_se": "WEBSITE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-01-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13422",
-            "website": "indoinfo.co.id"
-        },
-        {
-            "id": "9cb1ac2b-62b4-42c0-a27f-44f2e473c5ce",
-            "nama_pse": "SYARIAH BMT DAARUSSALAAM SERUYAN",
-            "nama_se": "BMT MOBILE ONLINE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13426",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac18-9da2-47da-a544-1666bdb53137",
-            "nama_pse": "NOVAL KUSUMA",
-            "nama_se": "HIBURANKITA.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13429",
-            "website": "hiburankita.id"
-        },
-        {
-            "id": "9cb1ac2b-6591-415b-a8be-efa2928831f1",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT INDUSTRI KERETA API",
-            "nama_se": "WEBSITE PT INKA (PERSERO)",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi",
-            "tanggal_terbit": "2023-01-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13430",
-            "website": "inka.co.id"
-        },
-        {
-            "id": "9cb1ac1a-4fa0-4d97-b31e-e56c840ea303",
-            "nama_pse": "AKSES KEUANGAN INDONESIA",
-            "nama_se": "CREDIPASS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13432",
-            "website": "credipass.id"
-        },
-        {
-            "id": "9cb1ac1a-5258-4492-8bbb-92b7fbe10d83",
-            "nama_pse": "LOKA DIGITAL NIAGA",
-            "nama_se": "WAKOTHEME.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-01-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/13431",
-            "website": "wakotheme.com"
         }
     ],
     "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 161,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb3-e878-481e-a581-b5e50478f81d",
+            "nama_pse": "ZEPETTO INTERACTIVE INDONESIA",
+            "nama_se": "POINT BLANK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6244",
+            "website": "pointblank.id"
+        },
+        {
+            "id": "9cb1abb3-ea1c-4e34-9690-0f3a5dd22d06",
+            "nama_pse": "SURYA SUDECO",
+            "nama_se": "TSMART",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6251",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb3-eccc-4d57-8952-da76c6947aba",
+            "nama_pse": "BANK CENTRAL ASIA",
+            "nama_se": "WEBFORM BANK GARANSI 2",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6246",
+            "website": "webform.bca.co.id"
+        },
+        {
+            "id": "9cb1abb2-dcfb-44a8-b68e-a747b420e90c",
+            "nama_pse": "BANK PERKREDITAN RAKYAT INDRA CANDRA",
+            "nama_se": "INDRA MOBILE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6249",
+            "website": "bprindra.com"
+        },
+        {
+            "id": "9cb1aba8-ba06-4a46-add6-1c7e3e641a17",
+            "nama_pse": "ALI RAJA",
+            "nama_se": "KATAKI SHOP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6247",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba8-bbf4-4db8-8362-07d9bba7ec19",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SUPRA ARTAPERSADA",
+            "nama_se": "E-MAIL BPR SUPRA (2)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6248",
+            "website": "mail.bprsupra.com"
+        },
+        {
+            "id": "9cb1aba8-c0a1-432e-ae7b-d7158360f4b8",
+            "nama_pse": "INTERNUSA TRIBUANA CITRA MULTI FINANCE",
+            "nama_se": "ITCFINANCE.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6254",
+            "website": "itcfinance.com"
+        },
+        {
+            "id": "9cb1abb3-eed3-42c0-ab4c-8a75fca9420b",
+            "nama_pse": "ASURANSI JIWA SEQUIS FINANCIAL",
+            "nama_se": "AJK ONLINE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6250",
+            "website": "AJKONLINE.SEQUIS.CO.ID"
+        },
+        {
+            "id": "9cb1abb3-f0e4-468c-912e-c005adb5654b",
+            "nama_pse": "BANK CENTRAL ASIA",
+            "nama_se": "CLIENT TRADE BCA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6253",
+            "website": "clienttradebca.klikbca.com"
+        },
+        {
+            "id": "9cb1aba8-c2fd-471d-b1bc-1002c8b7d367",
+            "nama_pse": "BOWSPRIT ASSET MANAGEMENT",
+            "nama_se": "WWW.BOWSPRIT-AM.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6252",
+            "website": "bowsprit-am.com"
+        },
+        {
             "id": "9cb1aba8-c530-449a-bc7f-87faf4326b38",
             "nama_pse": "APLIKASI CIPTA MANDIRI",
             "nama_se": "KOOTA MOBILE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-18",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6296",
             "website": "bjbdistributorfinancing.bankbjb.co.id"
-        },
-        {
-            "id": "9cb1abbe-bdc6-4192-a95f-811362b37813",
-            "nama_pse": "ADICIPTA INOVASI TEKNOLOGI",
-            "nama_se": "PROFIND",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6297",
-            "website": "profind.confins.co"
-        },
-        {
-            "id": "9cb1abb4-242a-4005-8082-8190d799eb63",
-            "nama_pse": "PT TOPINDO SOLUSI KOMUNIKA",
-            "nama_se": "TOPINDOKU",
-            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6311",
-            "website": "topindoku.co.id"
-        },
-        {
-            "id": "9cb1abb2-fa56-4380-94f9-af6d080d99cc",
-            "nama_pse": "KARYA BINTANG TEKNOLOGI",
-            "nama_se": "STARME",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6369",
-            "website": "starmakerstudios.com"
-        },
-        {
-            "id": "9cb1abb2-fc9d-4b60-b16d-15ee7c0ddbca",
-            "nama_pse": "BANK RAYA INDONESIA",
-            "nama_se": "PORTAL JAGAT RAYA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6298",
-            "website": "jagatraya.bankraya.co.id"
-        },
-        {
-            "id": "9cb1abb4-289e-48f3-a90c-f3e7e0d90c7b",
-            "nama_pse": "BANK PERKREDITAN RAKYAT YASPIS DANA PRIMA",
-            "nama_se": "SIAB",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6299",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb2-fe6c-4cc0-990b-aacbfbe9a959",
-            "nama_pse": "ANDI ASRIZAL NINGRAWAN",
-            "nama_se": "AGEN OAC",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6300",
-            "website": "agenoacindonesia.bukaolshop.site"
-        },
-        {
-            "id": "9cb1abb4-2a62-46b0-99a0-72a477871e85",
-            "nama_pse": "MANGA TOON GROUP",
-            "nama_se": "MANGATOON",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6301",
-            "website": "mangatoon.mobi"
-        },
-        {
-            "id": "9cb1abb3-0077-4db8-a389-f7c4fa900ea3",
-            "nama_pse": "MANGA TOON GROUP",
-            "nama_se": "AUDIOTOON",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6302",
-            "website": "audiotoon.mobi"
-        },
-        {
-            "id": "9cb1abbe-c4ba-4af6-a822-252a5d0dd953",
-            "nama_pse": "TOURINDO GUIDE INDONESIA",
-            "nama_se": "WWW.PIGIJO.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6303",
-            "website": "pigijo.com"
-        },
-        {
-            "id": "9cb1abb3-024e-45fc-a81d-52cec3e788ee",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-            "nama_se": "SMS BANKING",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6304",
-            "website": "-"
         }
     ],
     "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 271,
     "totalPages": 383

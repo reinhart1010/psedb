@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab9c-fb6a-4e72-8209-07f84363ed72",
+            "nama_pse": "I WAYAN PUTRAYANA,ST",
+            "nama_se": "PAKET KURSUS. COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5938",
+            "website": "paketkursus.com"
+        },
+        {
+            "id": "9cb1aba7-d6e4-4e60-9585-974f02bc3828",
+            "nama_pse": "GLOBAL OTOMAT DIGITAL",
+            "nama_se": "WISENOMIST",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5937",
+            "website": "wisenomist.com"
+        },
+        {
+            "id": "9cb1ab9c-fd2b-4165-8eb9-60467c4ec05c",
+            "nama_pse": "CREATIVE MULTIMEDIA INDONESIA",
+            "nama_se": "COATES INDONESIA TAKE5",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5939",
+            "website": "coatesapp.com"
+        },
+        {
+            "id": "9cb1abb1-8b1d-4d69-add6-897e585eb318",
+            "nama_pse": "MENARA PETSKITA INDONESIA",
+            "nama_se": "PT. MENARA PETSKITA INDONESIA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5940",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb1-8dda-45f1-bc8d-011f48043660",
+            "nama_pse": "CREATIVE MULTIMEDIA INDONESIA",
+            "nama_se": "COATES CONNECT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5941",
+            "website": "ptcoatesconnect.com"
+        },
+        {
+            "id": "9cb1abb1-9009-42a2-8b8f-6261fc7298d9",
+            "nama_pse": "CREATIVE MULTIMEDIA INDONESIA",
+            "nama_se": "C MOBILE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5942",
+            "website": "apps.creativemedia.id"
+        },
+        {
+            "id": "9cb1abb1-925d-4c1e-9711-d2a2f6b32c08",
+            "nama_pse": "DEWANTARA SANCAKA GUNDALA",
+            "nama_se": "DEWANTARA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5943",
+            "website": "dewantara.net"
+        },
+        {
+            "id": "9cb1abb1-94b1-45e5-a30d-6c2ea65249b0",
+            "nama_pse": "DEWANTARA SANCAKA GUNDALA",
+            "nama_se": "PETAPOLITIKA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5944",
+            "website": "petapolitika.com"
+        },
+        {
+            "id": "9cb1ab9c-ff09-4cb1-94ba-2c39243d6c26",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SURYA ARTHA UTAMA",
+            "nama_se": "WEBSITE BANKSURYAARTHAUTAMA.CO.ID",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5945",
+            "website": "banksuryaarthautama.co.id"
+        },
+        {
+            "id": "9cb1ab9d-00ce-442a-ac74-de1d7438b83e",
+            "nama_pse": "CREATIVE MULTIMEDIA INDONESIA",
+            "nama_se": "CREATIVE MULTIMEDIA INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5946",
+            "website": "creativemultimedia.id"
+        },
+        {
             "id": "9cb1aba7-d953-44cf-8e3e-97f47a1582e9",
             "nama_pse": "BANK PERKREDITAN RAKYAT ARTHA KRAMAT",
             "nama_se": "BPR ARTHA KRAMAT",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-15",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5701",
             "website": "Dextion.com"
-        },
-        {
-            "id": "9cb1ab9c-4c23-4d70-9d36-9ad4b20b40dd",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
-            "nama_se": "QRIS BANK SULSELBAR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5690",
-            "website": "qris.banksulsebar.co.id"
-        },
-        {
-            "id": "9cb1ab9c-4fb4-4292-b635-f18f6d0fe935",
-            "nama_pse": "SINAR SOSRO",
-            "nama_se": "SKY ORDER",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5691",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab9c-5390-4d03-ba74-71c4b129b93b",
-            "nama_pse": "BANK MULTIARTA SENTOSA",
-            "nama_se": "WWW.BANKMAS.CO.ID",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5745",
-            "website": "bankmas.co.id"
-        },
-        {
-            "id": "9cb1aba6-f08d-4b74-aed9-29535bb30e6a",
-            "nama_pse": "ISAN TECHNOLOGY INDONESIA",
-            "nama_se": "AGRION MILL",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5692",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb0-b77c-44af-82fd-3d7fb9dcc65b",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
-            "nama_se": "APLIKASI E-PROCUREMENT BANK SULSELBAR",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5693",
-            "website": "eproc.banksulselbar.co.id"
-        },
-        {
-            "id": "9cb1aba6-f28b-4fa0-b00b-d54c696b3e88",
-            "nama_pse": "PAYID DIGITAL SOLUTION",
-            "nama_se": "AGEN PULSA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5694",
-            "website": "isipulsa.web.id"
-        },
-        {
-            "id": "9cb1abb0-b92f-4e98-8707-67ee4ddb565c",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH KALIMANTAN SELATAN PERSERODA",
-            "nama_se": "BANK KALSEL ONLINE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5696",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb0-bad4-4034-a298-00c1dc8c3488",
-            "nama_pse": "LAMPUNG BERKAH FINANSIAL TEKNOLOGI",
-            "nama_se": "LAHAN SIKAM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5695",
-            "website": "lahansikam.co.id"
-        },
-        {
-            "id": "9cb1ab9c-55ee-4894-868b-5fe7edd88c22",
-            "nama_pse": "MNC LIFE ASSURANCE",
-            "nama_se": "MNCLIFE.COM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5697",
-            "website": "mnclife.com"
-        },
-        {
-            "id": "9cb1aba6-f4b8-4ed6-ad23-710871ee87b2",
-            "nama_pse": "SERVER NUSANTARA SOLUSINDO",
-            "nama_se": "FAMILY PULSA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5698",
-            "website": "familypulsa.net"
         }
     ],
-    "processingTimeMs": 17,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 277,
     "totalPages": 383

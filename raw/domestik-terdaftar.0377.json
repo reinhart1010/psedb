@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab65-ff31-49fd-bdb9-e755d5fa3ecd",
+            "nama_pse": "BANK CTBC INDONESIA",
+            "nama_se": "CTBC DIGITAL LENDING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/342",
+            "website": "https://eloan.ctbcbank.co.id/danacinta; (landing page) Ktadigital.com, Ktainstan.com, Danacintadigital.com"
+        },
+        {
+            "id": "9cb1ab66-01d5-484a-85bb-1222bdd3c070",
+            "nama_pse": "BANK CTBC INDONESIA",
+            "nama_se": "CTBC RETAIL INTERNET BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/344",
+            "website": "ebanking.ctbcbank.co.id/retail/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG\u0026__START_TRAN_FLAG__=Y\u0026__FG_BUTTONS__=LOAD\u0026ACTION.LOAD=Y\u0026AuthenticationFG.LOGIN_FLAG=1\u0026BANK_ID=BCI"
+        },
+        {
+            "id": "9cb1ab61-7d21-400e-9ebc-bde0da3d6d38",
+            "nama_pse": "BANK CTBC INDONESIA",
+            "nama_se": "CTBC CORPORATE INTERNET BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/345",
+            "website": "ebanking.ctbcbank.co.id/corp/AuthenticationController?__START_TRAN_FLAG__=Y\u0026FORMSGROUP_ID__=AuthenticationFG\u0026__EVENT_ID__=LOAD\u0026FG_BUTTONS__=LOAD\u0026ACTION.LOAD=Y\u0026AuthenticationFG.LOGIN_FLAG=1\u0026BANK_ID=BCI\u0026LANGUAGE_ID=001"
+        },
+        {
+            "id": "9cb1ab61-7f8e-446f-ade9-94960e2ba05e",
+            "nama_pse": "BANK CTBC INDONESIA",
+            "nama_se": "CTBC MOBILE BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/346",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab64-872c-4f07-b2f6-2946ab869965",
+            "nama_pse": "BAKOEL NUSANTARA",
+            "nama_se": "APLIKASI ANDROID PPOB NUSANTARA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/357",
+            "website": "https://play.google.com/store/apps/details?id=id.co.ppobnusantara.ppobnusantara"
+        },
+        {
+            "id": "9cb1ab66-2576-42d1-940c-6b7a10ea38e1",
+            "nama_pse": "BAKOEL NUSANTARA",
+            "nama_se": "BOS BILLER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/358",
+            "website": "bosbiller.com"
+        },
+        {
+            "id": "9cb1ab61-c6e7-4b14-9493-8499ea080260",
+            "nama_pse": "ERA MASYARAKAT SEJAHTERA",
+            "nama_se": "EMASJEK",
+            "sektor": "Sektor Transportasi, Sektor Transportasi",
+            "tanggal_terbit": "2021-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/354",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab69-cd90-4633-ba07-09cc4d25cbe7",
+            "nama_pse": "TITIPBELIIN GLOBAL INTERNASIONAL",
+            "nama_se": "JASA PENITIPAN PEMBELIAN MELALUI SISTEM ONLINE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/350",
+            "website": "titipbeliin.com"
+        },
+        {
+            "id": "9cb1ab61-f469-4c8f-b8f3-975dda8814d0",
+            "nama_pse": "AURA INSAN KREATIF",
+            "nama_se": "INSANKREATIF.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/347",
+            "website": "insankreatif.co.id"
+        },
+        {
+            "id": "9cb1ab69-d29e-474e-8341-c49ab9fff08d",
+            "nama_pse": "KRAKATAU KARYA ABADI",
+            "nama_se": "SUPERAPP",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/348",
+            "website": "superapp.id"
+        },
+        {
             "id": "9cb1ab8b-12dc-45ff-91af-8aa6ac1f796a",
             "nama_pse": "PROGRESSIVMEDIA INDONESIA",
             "nama_se": "TEMAN SEHAT - MITRA BISNIS (COM.TEMANSEHAT.PLACE, CO.ACHIKO.TEMANSEHAT-PLACE)",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-03-04",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/309",
             "website": "fello.id"
-        },
-        {
-            "id": "9cb1ab66-3705-4cd3-a6cb-2d14fe18f5f7",
-            "nama_pse": "PERSAUDARAAN LINTAS MANDIRI JAYA",
-            "nama_se": "PLM STORE",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-03-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/316",
-            "website": "store.penawarlegendamaju.co.id"
-        },
-        {
-            "id": "9cb1ab66-3ab8-4b39-a951-f445dd87203d",
-            "nama_pse": "MYDOCTORS INDONESIA NUSANTARA TEKNOLOGI",
-            "nama_se": "MYDOCTORS",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan",
-            "tanggal_terbit": "2021-03-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/315",
-            "website": "mydoctors.id"
-        },
-        {
-            "id": "9cb1ab64-99d8-4a92-b4c7-7341eed08e7d",
-            "nama_pse": "DANA INVESTASI BERSAMA",
-            "nama_se": "FUNDEX",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-03-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/320",
-            "website": "fundex.id"
-        },
-        {
-            "id": "9cb1ab69-c340-4d3c-baf9-daf40f4c4209",
-            "nama_pse": "INTER PROSPEK",
-            "nama_se": "KESATO \u0026 CO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-03-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/323",
-            "website": "kesato.com"
-        },
-        {
-            "id": "9cb1ab83-43ec-4479-989d-6622b1965b07",
-            "nama_pse": "AXA FINANCIAL INDONESIA",
-            "nama_se": "AXA DIRECT",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-03-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/292",
-            "website": "axa.co.id/"
-        },
-        {
-            "id": "9cb1ab83-4dc3-4afa-bf57-4ef9bbb3cef1",
-            "nama_pse": "AXA FINANCIAL INDONESIA",
-            "nama_se": "AFI ONE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-03-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/308",
-            "website": "axa.co.id/"
-        },
-        {
-            "id": "9cb1ab83-508d-4900-a548-e366e70a2dfd",
-            "nama_pse": "MNC TEKNOLOGI NUSANTARA",
-            "nama_se": "MOTIONPAY",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-03-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/306",
-            "website": "motionpay.id"
-        },
-        {
-            "id": "9cb1ab8b-a754-4a2e-822e-b70124629b66",
-            "nama_pse": "MIKRO KAPITAL INDONESIA",
-            "nama_se": "BEESFUNDING",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-03-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/303",
-            "website": "beesfunding.id"
-        },
-        {
-            "id": "9cb1ab8c-3bb3-4e9d-a564-def10f526105",
-            "nama_pse": "LABA KISAH KARUNIA",
-            "nama_se": "LABABOOK",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-03-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/294",
-            "website": "lababook.com"
-        },
-        {
-            "id": "9cb1ab7c-beac-48b4-837c-ba9da10971fd",
-            "nama_pse": "CLOUD COMPUTING INDONESIA",
-            "nama_se": "QINGCLOUD WEBSITE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-03-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/302",
-            "website": "intl.qingcloud.com"
         }
     ],
-    "processingTimeMs": 8,
+    "processingTimeMs": 20,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 377,
     "totalPages": 383

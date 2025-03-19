@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab67-c918-456f-b7de-fe871cd9097f",
+            "nama_pse": "CLOUD HOSTING INDONESIA",
+            "nama_se": "IDCLOUDHOST",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1518",
+            "website": "idcloudhost.com"
+        },
+        {
+            "id": "9cb1ab74-52d3-41b5-aa55-623ac1d3b922",
+            "nama_pse": "KOMUNITAS SAHABAT SEHAT",
+            "nama_se": "KOMUNITASSAHABATSEHAT.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1506",
+            "website": "komunitassahabatsehat.com"
+        },
+        {
+            "id": "9cb1ab67-cb46-4f14-a044-80a6cda36c63",
+            "nama_pse": "UNICORN TECHNOLOGY INDONESIA",
+            "nama_se": "HTTP://UNIKORNTECH.COM/",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1538",
+            "website": "unikorntech.com"
+        },
+        {
+            "id": "9cb1ab67-d001-4a2a-8ff8-79f622cc9616",
+            "nama_pse": "GERBANG BARU TEKSTIL INDONESIA",
+            "nama_se": "MYGBTI",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1525",
+            "website": "gbti.id"
+        },
+        {
+            "id": "9cb1ab6e-0a03-4582-aba4-5966a0e744be",
+            "nama_pse": "KREDITEK FINANCIAL ACCESS",
+            "nama_se": "PACOAJARA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1555",
+            "website": "kreditekfa.co.id"
+        },
+        {
+            "id": "9cb1ab74-5b32-433f-8118-8d39eeb8c8bb",
+            "nama_pse": "SAHABAT SUKSES BANGSA",
+            "nama_se": "SAHABATBANGSA.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1512",
+            "website": "sahabatbangsa.com"
+        },
+        {
+            "id": "9cb1ab67-d1f9-467d-a405-bb0ba721185e",
+            "nama_pse": "TIRA SATRIA NIAGA",
+            "nama_se": "TIRA COMMERCE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1522",
+            "website": "tira-commerce.com"
+        },
+        {
+            "id": "9cb1ab74-6168-4f65-928a-971142269f63",
+            "nama_pse": "TIMKADO SEJAHTERA INDONESIA",
+            "nama_se": "DAISI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1514",
+            "website": "daisi.id"
+        },
+        {
+            "id": "9cb1ab67-d67b-4f5a-90ac-0ffa22e5276b",
+            "nama_pse": "SIWARGA INDO MEDIA",
+            "nama_se": "PASARWARGA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1558",
+            "website": "pasarwarga.com"
+        },
+        {
+            "id": "9cb1ab67-d9bd-4e03-bf6b-e56011f0504f",
+            "nama_pse": "KREATIVA MEDIKA SEJAHTERA",
+            "nama_se": "BIDANG KEGIATAN SPESIFIK:PORTAL WEB DAN/ATAU PLATFORM DIGITAL DENGAN TUJUAN KOMERSIAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1540",
+            "website": "http://klikdialisis.com"
+        },
+        {
             "id": "9cb1ab6e-0c46-4eb2-be21-8e284ad8f404",
             "nama_pse": "KREATIVA MEDIKA SEJAHTERA",
             "nama_se": "BIDANG KEGIATAN SPESIFIK:PORTAL WEB DAN/ATAU PLATFORM DIGITAL DENGAN TUJUAN KOMERSIAL",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-06-24",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1545",
             "website": "kerjaan.co.id"
-        },
-        {
-            "id": "9cb1ab9e-f280-4c99-9272-743fffd93e65",
-            "nama_pse": "CUMA UNTUK ANAK NEGERI",
-            "nama_se": "CFUND",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1562",
-            "website": "cfund.id"
-        },
-        {
-            "id": "9cb1aba9-83cf-4876-b2f2-191afe2b4367",
-            "nama_pse": "CGS International Sekuritas Indonesia",
-            "nama_se": "WWW.CGS-CIMB.CO.ID",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1572",
-            "website": "cgs-cimb.co.id"
-        },
-        {
-            "id": "9cb1ab9f-7d17-4e1f-8cae-4fe630914cce",
-            "nama_pse": "INFO PENA INDONESIA",
-            "nama_se": "JITUNEWS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1588",
-            "website": "jitunews.com"
-        },
-        {
-            "id": "9cb1aba9-d33c-4427-9a7c-d4e4d7b9d346",
-            "nama_pse": "TT TECHNO PARK INDONESIA",
-            "nama_se": "GS-EDI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1503",
-            "website": "gsedi.com"
-        },
-        {
-            "id": "9cb1ab74-7342-4f1a-afe2-f66d0b9a5d61",
-            "nama_pse": "URUN BANGUN NEGERI",
-            "nama_se": "URUN-RI",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1573",
-            "website": "urun-ri.id"
-        },
-        {
-            "id": "9cb1ab74-56bc-4526-ad73-5b8580e67e9a",
-            "nama_pse": "SURYA BUMI RETAILINDO",
-            "nama_se": "CYCLOPEDIA.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1495",
-            "website": "cyclopedia.id"
-        },
-        {
-            "id": "9cb1ab64-d7ea-4a04-8431-6e59bdba4cd2",
-            "nama_pse": "K-LINK NUSANTARA",
-            "nama_se": "K-MART",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-06-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1492",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab65-eca6-4094-b0bb-bc8bb5921de7",
-            "nama_pse": "RAJA SOLUSI KREATIF",
-            "nama_se": "BOSONDERDIL.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-06-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1473",
-            "website": "bosonderdil.com"
-        },
-        {
-            "id": "9cb1ab6c-5aaf-44cf-a70d-e2df9b9fdbca",
-            "nama_pse": "EUREKA BOOKHOUSE",
-            "nama_se": "RAJA CEPAT",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi",
-            "tanggal_terbit": "2021-06-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1462",
-            "website": "rajacepat.com"
-        },
-        {
-            "id": "9cb1ab72-e8d4-42cd-983b-e0f9ad1d92ad",
-            "nama_pse": "EUREKA BOOKHOUSE",
-            "nama_se": "MASTER DISKON",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1463",
-            "website": "masterdiskon.com"
         }
     ],
-    "processingTimeMs": 10,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 354,
     "totalPages": 383

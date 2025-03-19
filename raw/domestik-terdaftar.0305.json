@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abad-4981-4778-acbd-d90a9555a19b",
+            "nama_pse": "YUSUF FAISAL",
+            "nama_se": "KORNET INTER MEDIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4471",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab97-8227-40db-b106-1936fd0b195e",
+            "nama_pse": "PASAR MIKRO GLOBAL",
+            "nama_se": "PASAR MIKRO",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4472",
+            "website": "pasarmikro.id"
+        },
+        {
+            "id": "9cb1aba3-2675-470b-86c7-ac85eacb019f",
+            "nama_pse": "SAKTI KINERJA KOLABORASINDO",
+            "nama_se": "SAKTI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4470",
+            "website": "ptskk.id"
+        },
+        {
+            "id": "9cb1aba2-adf9-491d-a8b6-66a59ff72b6d",
+            "nama_pse": "MEDLINX ASIA TEKNOLOGI",
+            "nama_se": "FARMAZI",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4354",
+            "website": "Farmazi.id"
+        },
+        {
+            "id": "9cb1aba3-1455-457f-9cd3-17d85bfd65f2",
+            "nama_pse": "INMOBI INDONESIA TECHNOLOGIES",
+            "nama_se": "SWISH SHOPPING FOLDER",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-05-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4452",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba3-2085-410a-915a-ee876b0d4da3",
+            "nama_pse": "NINGRAT MUDA MANDIRI",
+            "nama_se": "NINGRAT MUDA MANDIRI",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-05-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4463",
+            "website": "ningratmudamandiri.com"
+        },
+        {
+            "id": "9cb1ab97-799a-4c60-b835-57e5e3120e0d",
+            "nama_pse": "MONEX INVESTINDO FUTURES",
+            "nama_se": "MIFX",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-05-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4464",
+            "website": "mifx.com"
+        },
+        {
+            "id": "9cb1abad-43ba-4e65-9e2c-839f73caedde",
+            "nama_pse": "TOKBAN GRAHA TEKNOLOGI",
+            "nama_se": "TOKBAN",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-05-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4465",
+            "website": "tokban.com"
+        },
+        {
+            "id": "9cb1abad-4799-4f5c-ae9e-f661863abd61",
+            "nama_pse": "KULINER INOVATIF INDONESIA",
+            "nama_se": "DISHSERVE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-05-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4468",
+            "website": "dishserve.com"
+        },
+        {
+            "id": "9cb1aba3-234b-4973-a7c5-89f7e461b8e9",
+            "nama_pse": "TANA HULU TERBAIK",
+            "nama_se": "TANA HULU TERBAIK",
+            "sektor": "Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2022-05-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4469",
+            "website": "-"
+        },
+        {
             "id": "9cb1abac-f929-4e2d-b1aa-eed72257af2f",
             "nama_pse": "TELEAKSES SOLUSINDO",
             "nama_se": "ARTIFICIAL INTELLIGENCE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-05-09",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4427",
             "website": "-"
-        },
-        {
-            "id": "9cb1abad-310e-4608-882b-a7f2a4d15e11",
-            "nama_pse": "METADATA BISNIS INDONESIA",
-            "nama_se": "META BISNIS INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-05-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4428",
-            "website": "calobisnis.com"
-        },
-        {
-            "id": "9cb1ab97-44c0-4acd-b283-767bfb8e5c39",
-            "nama_pse": "INVESTASI CERDAS BERSAMA",
-            "nama_se": "INVESTLY",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-05-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4429",
-            "website": "investly.id"
-        },
-        {
-            "id": "9cb1abad-2820-4212-96ba-f5f8f310bd69",
-            "nama_pse": "CIPTA IZIN INDONESIA",
-            "nama_se": "CIPTA IZIN INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4418",
-            "website": "izin99.com"
-        },
-        {
-            "id": "9cb1aba2-fb58-4666-893d-4386071ee891",
-            "nama_pse": "CIPTA IZIN INDONESIA",
-            "nama_se": "SOLUSI BISNIS INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4419",
-            "website": "izin99.com"
-        },
-        {
-            "id": "9cb1ab97-32f1-4f68-b6bb-1c5b7f4d1c57",
-            "nama_pse": "CIPTA INDAH PERSADA",
-            "nama_se": "CIPTA INDAH PERSADA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4420",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab97-37ff-4a6f-8144-e7b7c3c0321f",
-            "nama_pse": "ZILLION TECH INDONESIA",
-            "nama_se": "ZILLINGO",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4421",
-            "website": "zilingotrade.id/id/"
-        },
-        {
-            "id": "9cb1ab98-16bb-40fb-843e-b4604abe9049",
-            "nama_pse": "BADAN USAHA MILIK NAHDLATUL ULAMA",
-            "nama_se": "BANK BUMNU INDONESIA",
-            "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Transportasi, Sektor Keuangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-05-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4587",
-            "website": "bumnuindonesia.co.id"
-        },
-        {
-            "id": "9cb1aba2-f993-4265-a56c-55452043faac",
-            "nama_pse": "ZURI HOTEL MANAJEMEN",
-            "nama_se": "WWW.ZHMHOTELS.COM",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-05-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4413",
-            "website": "zhmhotels.com"
-        },
-        {
-            "id": "9cb1ab97-28d2-46bc-8da4-5115ef3d6d01",
-            "nama_pse": "CODA INDONESIA",
-            "nama_se": "CODAPAY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-05-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4414",
-            "website": "airtime.codapayments.com"
-        },
-        {
-            "id": "9cb1ab97-2b24-4400-b367-0f377e8b9dd2",
-            "nama_pse": "CODA INDONESIA",
-            "nama_se": "CODASHOP",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-05-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4415",
-            "website": "codashop.com"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 305,
     "totalPages": 383

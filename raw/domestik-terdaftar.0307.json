@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1aba0-a930-468d-818d-dd3f81cbd074",
+            "nama_pse": "GRAHA SUKSES MENDUNIA",
+            "nama_se": "LIFEFORWIN.COM, LIFEFORWIN.CO.ID, LIFEFORWIN.ID, LIFEFORWIN.NET",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4035",
+            "website": "lifeforwin.co.id"
+        },
+        {
+            "id": "9cb1ab94-3437-492d-bc74-61de8d68035c",
+            "nama_pse": "MATAHARI LABS",
+            "nama_se": "INDOBUYBUY.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4039",
+            "website": "indobuybuy.com"
+        },
+        {
+            "id": "9cb1aba0-d0d9-459e-9056-96bbe338ed04",
+            "nama_pse": "ANUGERAH BINTANG UTAMA",
+            "nama_se": "INFINITY TECH",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4044",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abab-63d9-4143-8e22-7c28391bfda7",
+            "nama_pse": "SENTRA FINANSIAL TEKNOLOGI",
+            "nama_se": "SEVIMAPAY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4036",
+            "website": "sentrafinansial.id"
+        },
+        {
+            "id": "9cb1abab-6812-415a-aaa4-e230981a593c",
+            "nama_pse": "ADE SRI MIYANTI",
+            "nama_se": "PT WELLNESS PINK PEONY GARDENIA",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Pangan",
+            "tanggal_terbit": "2022-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4033",
+            "website": "msha.ke/wellnesspinkpeonygardenia"
+        },
+        {
+            "id": "9cb1aba0-eefa-4fc9-8b02-40cc0b4d26a8",
+            "nama_pse": "CHRISTIAN RAHARJO",
+            "nama_se": "SPADA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4045",
+            "website": "spada.id"
+        },
+        {
+            "id": "9cb1ab94-a6c4-4d21-84ff-efd7d60101d5",
+            "nama_pse": "MOCHAMAD IWAN SETIYAWAN",
+            "nama_se": "VENTA COMP",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4032",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abab-8fd8-4a8a-a566-db20b164abcc",
+            "nama_pse": "KAMPOENG DJATI",
+            "nama_se": "OLD AMSTERDAM ANTIQUES",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4040",
+            "website": "oldamsterdamantiques.com"
+        },
+        {
+            "id": "9cb1abab-9ca5-4f08-83b4-5b605cc12842",
+            "nama_pse": "INTERSOFT SOLUTIONS",
+            "nama_se": "ISELLER",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4034",
+            "website": "isellercommerce.com"
+        },
+        {
+            "id": "9cb1aba1-1d4a-44bd-a299-a96762011b43",
+            "nama_pse": "KRISBOW INDONESIA",
+            "nama_se": "KRISBOW INDONESIA E-COMMERCE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4046",
+            "website": "krisbow.com"
+        },
+        {
             "id": "9cb1abab-b7b0-4ba5-b82d-20a4c4f60088",
             "nama_pse": "LIFEPAL TECHNOLOGIES INDONESIA",
             "nama_se": "LIFEPAL",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-04-22",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3997",
             "website": "fullertonhealth.co.id"
-        },
-        {
-            "id": "9cb1abab-c679-4474-b8db-20d31095b0e4",
-            "nama_pse": "MAHKOTA SUKSES INDONESIA",
-            "nama_se": "MY MSI",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-04-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3998",
-            "website": "mymsi.co.id"
-        },
-        {
-            "id": "9cb1abab-d34b-493b-89e6-241b05528996",
-            "nama_pse": "SUMBER TRIJAYA LESTARI",
-            "nama_se": "AKSESMU",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-04-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3999",
-            "website": "aksesmu.id"
-        },
-        {
-            "id": "9cb1ab94-fb05-4561-92b7-40c8bdd55d46",
-            "nama_pse": "CERITA UNTUK ANAK NEGERI",
-            "nama_se": "OCTOPUS UBAH JADI SAMPAH BERHARGA",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-22",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3993",
-            "website": "octopus.co.id"
-        },
-        {
-            "id": "9cb1abaa-f391-49c3-8cdb-ca0ab5fa75a3",
-            "nama_pse": "MITRA SEMERU INDONESIA",
-            "nama_se": "CHANNEL MANAGEMENT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3977",
-            "website": "powercommerce.asia"
-        },
-        {
-            "id": "9cb1aba0-5689-4024-a5de-30148cb50f6c",
-            "nama_pse": "DIGITAL MEDIA NUSANTARA",
-            "nama_se": "TV VOUCHER",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-04-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3966",
-            "website": "tv-voucher.com"
-        },
-        {
-            "id": "9cb1abab-040c-4de4-8cca-a36d2f63616b",
-            "nama_pse": "KOMUNAL SEJAHTERA INDONESIA",
-            "nama_se": "DEPOSITOBPR BY KOMUNAL",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-04-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3968",
-            "website": "depositobpr.id"
-        },
-        {
-            "id": "9cb1aba0-e6a6-4f8e-a3a5-9e2ae21c47d1",
-            "nama_pse": "BANYUASIN MEDIA NETWORK",
-            "nama_se": "WWW.BMNETWORK.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3985",
-            "website": "bmnetwork.co.id"
-        },
-        {
-            "id": "9cb1abab-890d-41fd-87c0-687abb90bcff",
-            "nama_pse": "JAPRIBOS INTI MANDIRI",
-            "nama_se": "MOKAMALL77",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-04-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3972",
-            "website": "mokamall77.com"
-        },
-        {
-            "id": "9cb1aba1-0670-4fde-bc94-1c8c9c6ee4f4",
-            "nama_pse": "DIGITAL APLIKASI SOLUSI",
-            "nama_se": "DIGISERVE MANAGED NETWORK SERVICE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3973",
-            "website": "Digiserve.co.id"
-        },
-        {
-            "id": "9cb1aba1-0863-43eb-927d-e585477ca305",
-            "nama_pse": "DIGITAL APLIKASI SOLUSI",
-            "nama_se": "DIGISERVE MANAGED SECURITY SERVICE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3975",
-            "website": "Digiserve.co.id"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 307,
     "totalPages": 383

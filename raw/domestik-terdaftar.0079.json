@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac80-e633-47f8-b534-df2503ef2b82",
+            "nama_pse": "RUMAH SAKIT GRAHA BUNDA IDI",
+            "nama_se": "SIMRS GRAHA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18233",
+            "website": "rsgrahabunda.com"
+        },
+        {
+            "id": "9cb1ac57-7107-43e6-bb21-0fa78b22d17e",
+            "nama_pse": "UNTUNG BERSAMA TERUS MENERUS",
+            "nama_se": "FAST CLINIC",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18234",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac57-6df2-47b0-83b8-db398dbb04af",
+            "nama_pse": "BABA MARKET NUSANTARA",
+            "nama_se": "BABA MARKET",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-03-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18231",
+            "website": "babamarket.co.id"
+        },
+        {
+            "id": "9cb1ac57-659d-4e68-a591-cb74824f7fca",
+            "nama_pse": "SHEYNA SUKSES SEJAHTERA",
+            "nama_se": "SHEYNA SUKSSES SEJAHTERA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18226",
+            "website": "sheynasutera.com"
+        },
+        {
+            "id": "9cb1ac57-688c-4b48-884f-84463c3ccc40",
+            "nama_pse": "TEKNOLOGI PORTAL BERJUALAN",
+            "nama_se": "AWAN - TASPEN LIFE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18227",
+            "website": "taspen.life"
+        },
+        {
+            "id": "9cb1ac57-5f80-4ba1-85bb-25df784b7fde",
+            "nama_pse": "MITRA KONSULTAN BISNIS",
+            "nama_se": "MITRA KONSULTAN BISNIS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18224",
+            "website": "mitrakonsultanbisnis.com"
+        },
+        {
+            "id": "9cb1ac57-62aa-4288-874c-f2828b2fce76",
+            "nama_pse": "RETRO UPS GROUP",
+            "nama_se": "PT. RETRO UPS GROUP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18225",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6c-6aa7-4d30-8caa-b8629b076ba9",
+            "nama_pse": "TEKNOLOGI PORTAL BERJUALAN",
+            "nama_se": "KARTU DIGITAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18219",
+            "website": "kartu.digital"
+        },
+        {
+            "id": "9cb1ac57-5a71-4387-872f-e30a57f1292e",
+            "nama_pse": "MITRA MUPAY INDONESIA",
+            "nama_se": "MITRA MUPAY INDONESIA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18214",
+            "website": "mitra-mupay.com"
+        },
+        {
+            "id": "9cb1ac6c-650a-4910-a35a-8bfc2e9c8b38",
+            "nama_pse": "JATAYU ENTERTAINMENT GROUP",
+            "nama_se": "HARIANJATIM.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18215",
+            "website": "harianjatim.id"
+        },
+        {
             "id": "9cb1ac80-b68b-4bde-a94a-604b98e6b101",
             "nama_pse": "IMAM SHODIQ",
             "nama_se": "CABNET (HOME INTERNET SERVICE)",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-03-05",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18162",
             "website": "tekab86.com"
-        },
-        {
-            "id": "9cb1ac57-208c-4170-bb8d-5bfef6c7c746",
-            "nama_pse": "AGUNG COMMUNICATION NETWORK",
-            "nama_se": "AGUNG COMMUNICATION NETWORK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18152",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6c-1fc7-45f3-b9f4-959d06a7c116",
-            "nama_pse": "OVN NETWORK NUSANTARA",
-            "nama_se": "OVN NETWORK NUSANTARA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18154",
-            "website": "ovn.my.id"
-        },
-        {
-            "id": "9cb1ac80-5e57-4164-9147-b23734215f83",
-            "nama_pse": "CIPTA FINANSIAL NUSANTARA",
-            "nama_se": "NUSANTARAWALLET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18158",
-            "website": "nusantarawallet.io"
-        },
-        {
-            "id": "9cb1ac80-7031-4f49-9c1c-a81b3d8edf00",
-            "nama_pse": "INTI PRIMA MEDIATAMA",
-            "nama_se": "MEDIA ONLINE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18169",
-            "website": "intip24news.com"
-        },
-        {
-            "id": "9cb1ac80-78cd-4e26-a3f1-e8904db4021e",
-            "nama_pse": "ZARATA DIGITAL TEKNOLOGI",
-            "nama_se": "PT ZARATA DIGITAL TEKNOLOGI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18173",
-            "website": "zarata.co.id"
-        },
-        {
-            "id": "9cb1ac80-6c4b-4f4a-a815-5967f5649a64",
-            "nama_pse": "UNIVERSE AGENCY INDONESIA",
-            "nama_se": "JASA PEMASARAN PRODUK BARANG DAN DIGITAL",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18163",
-            "website": "unvid.pw"
-        },
-        {
-            "id": "9cb1ac6c-25d9-4dbb-bb37-fdc341f1e663",
-            "nama_pse": "ROSA BUNGA MUSTIKA",
-            "nama_se": "SIMRS KHANZA INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18164",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6c-35af-43dc-b1f6-fea97fa8d6e8",
-            "nama_pse": "JEPUN KLINIK",
-            "nama_se": "SISTEM REKAM MEDIS ELEKTRONIK KLINIK JEPUN",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18174",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6c-2c39-478d-9533-3f3189fdca82",
-            "nama_pse": "ROSNATI",
-            "nama_se": "SIMRSPUR",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18166",
-            "website": "rspur.co.id"
-        },
-        {
-            "id": "9cb1ac57-2325-4ae0-b46f-d4f57e7e163a",
-            "nama_pse": "SENI REKA YASA",
-            "nama_se": "PASAR SENI REKAYASA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18167",
-            "website": "pasar.senirekayasa.com"
         }
     ],
-    "processingTimeMs": 23,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 79,
     "totalPages": 383

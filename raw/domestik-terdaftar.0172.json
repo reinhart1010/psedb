@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac14-b313-4b4f-9989-5d4c31b20b3d",
+            "nama_pse": "ANUGRAH TEKNOLOGI DIGITAL",
+            "nama_se": "NUTECH",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12160",
+            "website": "nutechku.com"
+        },
+        {
+            "id": "9cb1abe1-cc3d-489c-973c-0d63f1942bf8",
+            "nama_pse": "PROSPERO OPTIMA SOLUSINDO",
+            "nama_se": "PRO ERMS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12161",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac06-3e2c-43b2-aaa0-8b8b6686906f",
+            "nama_pse": "DWIDAYA GLOBAL WISATA",
+            "nama_se": "DWITOURS.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12162",
+            "website": "dayawisata.com"
+        },
+        {
+            "id": "9cb1ac14-b657-4709-8e67-ab19bdd2289e",
+            "nama_pse": "INSIGHT INVESTMENTS MANAGEMENT",
+            "nama_se": "APLIKASI MOBILE INVESTASIIN",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12169",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac14-ba4f-447d-b778-6dff273e84b7",
+            "nama_pse": "DIGITAL TEKNOLOGI MODERN",
+            "nama_se": "DIGITECHNO",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12163",
+            "website": "digitechno.co.id"
+        },
+        {
+            "id": "9cb1abe1-d17f-4566-a220-31cede538dda",
+            "nama_pse": "SAMSUNG ELECTRONICS INDONESIA",
+            "nama_se": "VD KPI DATA SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12165",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac06-41a8-484f-ac25-76b36ef2926b",
+            "nama_pse": "SAMSUNG ELECTRONICS INDONESIA",
+            "nama_se": "SAMSUNG ACCOUNT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12166",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac14-c30f-4d92-a7b2-f05711d21fe2",
+            "nama_pse": "SAMSUNG ELECTRONICS INDONESIA",
+            "nama_se": "GROUP SHARING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12167",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac14-c711-421c-9f54-d77888f0789e",
+            "nama_pse": "BIG DEAL CREATIVE",
+            "nama_se": "HYPERMEDIA SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12168",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac06-450e-46cd-92a6-271036cf7d3e",
+            "nama_pse": "SAMSUNG ELECTRONICS INDONESIA",
+            "nama_se": "BIXBY VOICE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12170",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac14-cac2-4110-b912-130eccd96e2a",
+            "nama_pse": "SAMSUNG ELECTRONICS INDONESIA",
+            "nama_se": "SMART THINGS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12171",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac14-d030-4374-b61a-4b4baf63910e",
             "nama_pse": "LIMA BENUA KONEKSINDO",
             "nama_se": "LIMABENUA.COM",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-11-03",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12107",
             "website": "garudaeleven.com"
-        },
-        {
-            "id": "9cb1ac05-efc8-4ab6-850c-fcf127337226",
-            "nama_pse": "SAMSUNG ELECTRONICS INDONESIA",
-            "nama_se": "FHUB/CALENDAR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12110",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac05-f310-453e-88a3-4f896c547ede",
-            "nama_pse": "KEBENARAN KESEHATAN DARI ALAM",
-            "nama_se": "HTTPS://SESA.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12111",
-            "website": "sesa.id"
-        },
-        {
-            "id": "9cb1abe1-93e4-4019-bacb-24d57547b63d",
-            "nama_pse": "TEMAN SETIA SEJAHTERA",
-            "nama_se": "TSMEDIA.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12112",
-            "website": "tsmedia.id"
-        },
-        {
-            "id": "9cb1abe1-a659-4799-90a2-36f90d991493",
-            "nama_pse": "SAMSUNG ELECTRONICS INDONESIA",
-            "nama_se": "VD SSO (SAMSUNG ACCOUNT FOR SMART TV)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12120",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abe1-aac2-4ecf-b71e-55a2646070d3",
-            "nama_pse": "SAMSUNG ELECTRONICS INDONESIA",
-            "nama_se": "AUTOSETUP - BACKUP AND RESTORE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12121",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac05-f6af-4a11-af09-a237b376e6dc",
-            "nama_pse": "NATURA HERBALIZE INDONESIA",
-            "nama_se": "NATURA HERBALIZE INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12122",
-            "website": "naturaherbalize.com"
-        },
-        {
-            "id": "9cb1aba2-17e5-4bc7-a391-20995a97b15d",
-            "nama_pse": "PUMA SPORTS INDONESIA",
-            "nama_se": "PUMA  SHOES  AND  APPAREL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4202",
-            "website": "id.puma.com"
-        },
-        {
-            "id": "9cb1ac05-c13a-4a47-b4fc-6cbe2b7ab35d",
-            "nama_pse": "ASURANSI INTRA ASIA",
-            "nama_se": "WEBSITE INTRA ASIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12080",
-            "website": "intraasia.id"
-        },
-        {
-            "id": "9cb1ac14-59cc-49ae-bb01-f09dc3ce0776",
-            "nama_pse": "HENNY KARTIKA WATI",
-            "nama_se": "DBUMBU2022",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12081",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac05-c48c-4a47-9a9f-660d82a214a0",
-            "nama_pse": "TERNAK UANG INDONESIA",
-            "nama_se": "TERNAK UANG",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12082",
-            "website": "ternakuang.id"
-        },
-        {
-            "id": "9cb1abe1-83f5-47db-8706-6b821bac29c6",
-            "nama_pse": "APLIKASI LINTAS BANGSA",
-            "nama_se": "EXPENSE MANAGEMENT SYSTEM (EMS)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12083",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 172,
     "totalPages": 383

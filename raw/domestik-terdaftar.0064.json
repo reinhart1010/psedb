@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac5c-0ec5-49a2-960e-82ef1696de08",
+            "nama_pse": "AZRIFIRIZKI ANANDA",
+            "nama_se": "BUYFFISH",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19082",
+            "website": "buyyfish.id"
+        },
+        {
+            "id": "9cb1ac70-f87f-4021-9ded-563114626246",
+            "nama_pse": "YAMISOK PLATFORM INDONESIA",
+            "nama_se": "YAMIPAY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19087",
+            "website": "YAMISOK.COM"
+        },
+        {
+            "id": "9cb1ac86-94ea-430a-8678-c56b0ec1fcc1",
+            "nama_pse": "LAWANG SEWU TEKNOLOGI",
+            "nama_se": "CARTU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19084",
+            "website": "cartu.id"
+        },
+        {
+            "id": "9cb1ac5c-1807-4ccf-a703-34ed672e571d",
+            "nama_pse": "GLOBAL DIGITAL INDOKREASI",
+            "nama_se": "LAPAKGAMING APLIKASI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19085",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5c-1bab-48bb-9527-98d28090e52b",
+            "nama_pse": "RIHLA INNOVATION INDONESIA",
+            "nama_se": "RIHLA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19088",
+            "website": "rihla.co.id"
+        },
+        {
+            "id": "9cb1ac86-a454-4f1f-a323-718051b1689c",
+            "nama_pse": "PANDUMU SUARSUA BARAKA",
+            "nama_se": "MUNAJAT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19089",
+            "website": "munajat.id"
+        },
+        {
+            "id": "9cb1ac86-a741-4876-8332-32baceb28e91",
+            "nama_pse": "TEUKU EDWARD",
+            "nama_se": "KURSUS ONLINE TAMANALQURAN.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19090",
+            "website": "tamanalquran.id"
+        },
+        {
+            "id": "9cb1ac71-0377-4856-97ba-c430cd98a77b",
+            "nama_pse": "SUPERNOVA PALAPA NUSANTARA",
+            "nama_se": "E-PUSKESMAS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19091",
+            "website": "dev.epuskesmas.supernovacorp.ltd"
+        },
+        {
+            "id": "9cb1ac71-0731-4fa9-8ac1-a3b752248170",
+            "nama_pse": "JENOVAC MOUNTAIN CORP",
+            "nama_se": "INDOIZIN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19092",
+            "website": "indoizin.id"
+        },
+        {
+            "id": "9cb1ac85-0cc9-4a48-9cb5-166de1d6acb7",
+            "nama_pse": "JGM MEETQUEST DIGITECH",
+            "nama_se": "MEETQUEST",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19083",
+            "website": "jgmmeetquest.com"
+        },
+        {
             "id": "9cb1ac85-29b3-4a58-97bd-d3ac4231a610",
             "nama_pse": "GLOBAL PRIMA UTAMA",
             "nama_se": "SISTEM INFORMASI RUMAH SAKIT BUKIT MENOREH",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-05-27",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19045",
             "website": "digitalku.net"
-        },
-        {
-            "id": "9cb1ac86-5f31-4a7a-b087-72618f650eaa",
-            "nama_pse": "PUSAT KREASI RAKYAT",
-            "nama_se": "KREYAT CENTER",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19046",
-            "website": "kreyatcenter.com"
-        },
-        {
-            "id": "9cb1ac70-ce06-4416-935a-35219ebaa5ee",
-            "nama_pse": "RISELL MITRA ASIA",
-            "nama_se": "PT RISELL MITRA ASIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19047",
-            "website": "buyvely.com"
-        },
-        {
-            "id": "9cb1ac5b-f274-414c-9bdd-c29dc7a752b3",
-            "nama_pse": "VIRTUAL STAF INDONESIA",
-            "nama_se": "VIRTUAL STAF INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19048",
-            "website": "virtualstaf.com"
-        },
-        {
-            "id": "9cb1ac5b-dca8-485d-897e-8d869e996c3e",
-            "nama_pse": "GEMALA NUSANTARA SOLUTION",
-            "nama_se": "GEMALA NUSANTARA INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19033",
-            "website": "gemalanusantara.com"
-        },
-        {
-            "id": "9cb1ac5b-d768-41b5-8ce4-20acdc251d4b",
-            "nama_pse": "FIKA JAYA NUSANTARA",
-            "nama_se": "TOPIKWIFI",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19023",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac86-1c9b-44d7-b789-3c1243564cc8",
-            "nama_pse": "MUMASA GRUP DIGITAL",
-            "nama_se": "HOSTINGAJA.BIZ.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19024",
-            "website": "Hostingaja.biz.id"
-        },
-        {
-            "id": "9cb1ac86-1fab-46a0-bcb9-8ca0ff14e92d",
-            "nama_pse": "MUMASA GRUP DIGITAL",
-            "nama_se": "RATUBASRENG.COM",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19025",
-            "website": "ratubasreng.com"
-        },
-        {
-            "id": "9cb1ac70-b405-4e86-a019-498eab2e6072",
-            "nama_pse": "AL FURQON AL ISLAMI",
-            "nama_se": "APLIKASI KLINIK AL-IMAN",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-05-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19026",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac86-233e-49be-9ae2-105932456193",
-            "nama_pse": "SIMPLE PAYMENT INDONESIA",
-            "nama_se": "SIMPLEPAY",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19027",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5b-da06-4ff1-9ba6-2f5315c9f8f7",
-            "nama_pse": "BEDAH NUSANTARA GROUP",
-            "nama_se": "BEDAHNUSANTARAINDONESIA.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19028",
-            "website": "bedahnusantaraindonesia.id"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 10,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 64,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb6-034c-4c96-a0d0-b7cbf9e9db09",
+            "nama_pse": "BANK PERKREDITAN RAKYAT DUTA BALI",
+            "nama_se": "BPR DUTA BALI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6873",
+            "website": "bprduta.com"
+        },
+        {
+            "id": "9cb1abb6-07ea-4cf5-998d-d477a0fcb271",
+            "nama_pse": "TRIYAKOM",
+            "nama_se": "FUNKOREA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6874",
+            "website": "funkorea.co.id"
+        },
+        {
+            "id": "9cb1abb6-09c5-4c24-87ed-7e41042f0c3a",
+            "nama_pse": "BANK PERKREDITAN RAKYAT MAS GIRI WANGI",
+            "nama_se": "BANKING SMART SYSTEM (BSS)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6875",
+            "website": "bankgiri.co.id"
+        },
+        {
+            "id": "9cb1abb6-0b67-495a-98ae-7c51acbb18b2",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT JERO ANOM",
+            "nama_se": "GOBALI-IT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6876",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb6-0f85-4231-a3dc-293f31f04537",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SINAR PUTERAMAS",
+            "nama_se": "DEJAYO",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6878",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc1-222e-4113-9d1a-c10b5d844f36",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN JAWA TENGAH PERSERODA",
+            "nama_se": "WEBSITE PERUSAHAAN",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6880",
+            "website": "bkkjateng.co.id"
+        },
+        {
+            "id": "9cb1abe5-f68e-4ff8-9d4c-72d269ac8d8a",
+            "nama_pse": "INSPIRO MEGA IMPRESARIO",
+            "nama_se": "JAKARTA MARATHON APP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6879",
+            "website": "thejakartamarathon.com"
+        },
+        {
+            "id": "9cb1abb6-12a0-48a6-8ab8-791cc10d32a1",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT LESTARI BALI",
+            "nama_se": "LOAN TRACKING",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6881",
+            "website": "loantracking.bprlestari.com"
+        },
+        {
+            "id": "9cb1abc1-2550-41ef-9b24-c305a8ebbc59",
+            "nama_pse": "TRIYAKOM",
+            "nama_se": "LAYAR ANAK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6882",
+            "website": "layaranak.com"
+        },
+        {
+            "id": "9cb1abc1-2d3f-494d-93d2-89ed9eb3c87e",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT LUHUR DAMAI",
+            "nama_se": "PT BANK PERKREDITAN RAKYAT LUHUR DAMAI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6883",
+            "website": "bprluhurdamai.com"
+        },
+        {
             "id": "9cb1abe5-faf7-418e-8409-8d657b8fee8d",
             "nama_pse": "ERATANI TEKNOLOGI NUSANTARA",
             "nama_se": "COMMAND CENTER ERATANI APPS",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-19",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6923",
             "website": "-"
-        },
-        {
-            "id": "9cb1abb6-2d12-4543-9ab5-dafeb2341c58",
-            "nama_pse": "ASIA UTAMA KONSULTAN",
-            "nama_se": "FAC FIRSTCLASS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6943",
-            "website": "firstclass.firstasiaconsultants.com"
-        },
-        {
-            "id": "9cb1abc1-59dd-4d22-a542-40873aed1a4c",
-            "nama_pse": "SAMSUNG ELECTRONICS INDONESIA",
-            "nama_se": "SAMSUNG.COM/ID/",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6927",
-            "website": "samsung.com"
-        },
-        {
-            "id": "9cb1abb6-2f89-4ba7-8954-778982077c01",
-            "nama_pse": "PUNDI MAS BERJAYA",
-            "nama_se": "KITA KERJA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6938",
-            "website": "Kitakerja.com"
-        },
-        {
-            "id": "9cb1abb6-3180-4c10-92ec-78a6e927aac6",
-            "nama_pse": "AGUS SUSANTO",
-            "nama_se": "KONTERZONE.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6924",
-            "website": "konterzone.com"
-        },
-        {
-            "id": "9cb1abe6-6f5e-491d-b0a0-448e701fe7a3",
-            "nama_pse": "BOBOBOBO",
-            "nama_se": "BOBO TOKYO",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6926",
-            "website": "bobotokyo.com"
-        },
-        {
-            "id": "9cb1abb6-3397-4d60-b266-2cfb6382f8f8",
-            "nama_pse": "BOOSTER TEKNOLOGI INDONESIA",
-            "nama_se": "BOOSTR.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6925",
-            "website": "Boostr.id"
-        },
-        {
-            "id": "9cb1abc1-5c16-4418-9918-7e5bb11e42dc",
-            "nama_pse": "MDTV MEDIA DIGITAL",
-            "nama_se": "NETVERSE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6936",
-            "website": "netverse.id"
-        },
-        {
-            "id": "9cb1abc1-5e44-45d6-be7f-917abd837cdf",
-            "nama_pse": "PLAYSHIFT GAMES",
-            "nama_se": "PLAYSHIFT GAMES",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6999",
-            "website": "playshift-games.com"
-        },
-        {
-            "id": "9cb1abb6-356a-4c9c-9dfc-31bf70b0c845",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT BOBATO LESTARI",
-            "nama_se": "INTEGRATED BANKING SYSTEM (IBS)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6930",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb6-372c-49f6-867a-05849d377cde",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
-            "nama_se": "NEW INFO LELANG BRI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6928",
-            "website": "infolelang.bri.co.id"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 259,
     "totalPages": 383

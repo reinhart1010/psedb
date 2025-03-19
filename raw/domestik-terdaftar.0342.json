@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab90-5765-4e86-b6ef-cafe33b3e18f",
+            "nama_pse": "PT. Indo Supply Chain",
+            "nama_se": "PEMBAYARAN",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2211",
+            "website": "iscglobe.com"
+        },
+        {
+            "id": "9cb1ab9e-027d-4e75-a0fb-730ad4abe6e4",
+            "nama_pse": "PT UOB Asset Management Indonesia",
+            "nama_se": "UOB ASSET MANAGEMENT INDONESIA OFFICIAL  WEBSITE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2217",
+            "website": "uobam.co.id"
+        },
+        {
+            "id": "9cb1ab9e-0599-43be-9492-3b72c41f2390",
+            "nama_pse": "FINTEK DIGITAL NUSANTARA",
+            "nama_se": "PAYUNI / PEMBAYARAN UNIVERSAL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2218",
+            "website": "payuni.co.id"
+        },
+        {
+            "id": "9cb1ab90-5b26-4f24-8b88-244b00588c33",
+            "nama_pse": "BANK JASA JAKARTA",
+            "nama_se": "WEB PT. BANK JASA JAKARTA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2245",
+            "website": "bjj.co.id"
+        },
+        {
+            "id": "9cb1ab8f-962e-4dd3-8be9-7fa5d97d8546",
+            "nama_pse": "PT SIGMA SOLUSI SATU",
+            "nama_se": "SARIGURU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2246",
+            "website": "sariguru.com"
+        },
+        {
+            "id": "9cb1ab90-62f3-4231-83e8-532d503717b0",
+            "nama_pse": "PT. BANGUNAN JAYA PRIMA",
+            "nama_se": "BJHOMEOFFICIAL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2247",
+            "website": "bjhomeofficial.com"
+        },
+        {
+            "id": "9cb1ab8f-9ca6-416a-92e7-a146e55966b6",
+            "nama_pse": "PT AGUNG PRATAMA INDOARTHA",
+            "nama_se": "API",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2249",
+            "website": "apindoartha.com"
+        },
+        {
+            "id": "9cb1ab9e-092a-4b47-8cd6-f06676470244",
+            "nama_pse": "BADA ROCK NUSANTARA",
+            "nama_se": "KIDSLOOP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2251",
+            "website": "kidsloop.co.id"
+        },
+        {
+            "id": "9cb1ab8f-a12b-4917-9148-ddc8d9af8e3a",
+            "nama_pse": "Berjoet Media Sipasna",
+            "nama_se": "STATUSRAKYAT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2254",
+            "website": "Statusrakyat.com"
+        },
+        {
+            "id": "9cb1ab8f-a57d-4685-801b-9a2b47f02e38",
+            "nama_pse": "PT ELANG SEJAHTERA NIAGA",
+            "nama_se": "JURAGANCEMILAN.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2021-11-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2256",
+            "website": "juragancemilan.com"
+        },
+        {
             "id": "9cb1ab9e-0c7c-4242-a849-db3b4ded70bc",
             "nama_pse": "TRADING WAKAF CORPORA",
             "nama_se": "PASAR SEDEKAH",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-10-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2012",
             "website": "-"
-        },
-        {
-            "id": "9cb1ab74-97f7-432c-b4c4-7f5d85f91bd1",
-            "nama_pse": "SWIFT SHIPMENT SOLUTIONS",
-            "nama_se": "WMS SWIFT SOLUTIONS",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2016",
-            "website": "wms.swiftsolutions.id/"
-        },
-        {
-            "id": "9cb1ab6e-491b-4c5e-b5d2-8b56d0d4a12e",
-            "nama_pse": "DAILY DINAMIKA KREASI",
-            "nama_se": "FEMALEDAILY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2019",
-            "website": "femaledaily.com"
-        },
-        {
-            "id": "9cb1ab74-d15b-4bb4-bc71-cee4c29bc1ac",
-            "nama_pse": "BANK MEGA",
-            "nama_se": "BANK MEGA EMPLOYEE MOBILE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2014",
-            "website": "memo.bankmega.com"
-        },
-        {
-            "id": "9cb1ab68-1a2e-4d71-b931-59e83af5bd54",
-            "nama_pse": "LAMUDI CLASSIFIEDS INDONESIA",
-            "nama_se": "LAMUDI INDONESIA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2146",
-            "website": "lamudi.co.id"
-        },
-        {
-            "id": "9cb1ab6f-40ef-4739-8fe4-a658790a1145",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-            "nama_se": "SIPLAHTELKOM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2018",
-            "website": "siplahtelkom.com"
-        },
-        {
-            "id": "9cb1ab6f-4392-49b9-978e-04b17d4dfdf1",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-            "nama_se": "TELKOM DIGITAL SOLUTION",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2163",
-            "website": "telkomdigitalsolution.com"
-        },
-        {
-            "id": "9cb1ab6f-80c4-47f8-acbc-f6ba05fc7111",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-            "nama_se": "SMARTBISNIS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2164",
-            "website": "smartbisnis.id"
-        },
-        {
-            "id": "9cb1ab6f-8b40-49c9-90bf-a270ce4b62e4",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-            "nama_se": "INDIHOME",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2165",
-            "website": "indihome.co.id"
-        },
-        {
-            "id": "9cb1ab75-da11-449e-bee5-5b7583fdc7c2",
-            "nama_pse": "FAJAR MITRA INDAH",
-            "nama_se": "FAMILYMART SHOP",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2057",
-            "website": "familymartshop.id"
-        },
-        {
-            "id": "9cb1ab6f-e501-4ff2-8e8c-caea2b968b4f",
-            "nama_pse": "HAGO KREATIF INDONESIA",
-            "nama_se": "HAGO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-10-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2064",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 21,
+    "processingTimeMs": 8,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 342,
     "totalPages": 383

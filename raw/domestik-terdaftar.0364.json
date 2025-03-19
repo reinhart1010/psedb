@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab71-cd8d-45c1-905d-5511aa459705",
+            "nama_pse": "IZI DATA INDONESIA",
+            "nama_se": "IZIDATA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1005",
+            "website": "creditizi.id"
+        },
+        {
+            "id": "9cb1ab63-65dc-4083-ab43-9e5626cf81e1",
+            "nama_pse": "ASURANSI JIWA MANULIFE INDONESIA",
+            "nama_se": "MIINFO",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1012",
+            "website": "miinfo.manulife.co.id/idcws/login"
+        },
+        {
+            "id": "9cb1ab63-67c0-4c5e-b792-99377a0d6232",
+            "nama_pse": "HERBA PENAWAR ALWAHIDA INDONESIA",
+            "nama_se": "HNI.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1010",
+            "website": "hni.id"
+        },
+        {
+            "id": "9cb1ab63-6dc5-4827-a35f-72413067fbf8",
+            "nama_pse": "HARMONI NIAGA INFORMATIKA",
+            "nama_se": "HALMALL",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1006",
+            "website": "halmall.id"
+        },
+        {
+            "id": "9cb1ab63-9c76-4249-9473-6a266f6c4fe9",
+            "nama_pse": "FWD INSURANCE INDONESIA",
+            "nama_se": "CORPORATE WEB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1029",
+            "website": "fwd.co.id"
+        },
+        {
+            "id": "9cb1ab6b-0867-4aae-8d59-ddb1171d1b9b",
+            "nama_pse": "FWD INSURANCE INDONESIA",
+            "nama_se": "FWD SMART/NEW BUSINESS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1032",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab63-9eb0-430b-9846-7e96f2176600",
+            "nama_pse": "FWD INSURANCE INDONESIA",
+            "nama_se": "FWD MOBILE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1033",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab72-02b8-48bc-84e5-f4d291de078a",
+            "nama_pse": "FWD INSURANCE INDONESIA",
+            "nama_se": "CORPORATE CARE PORTALS",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1034",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6b-0b84-451e-b2f7-cb9e35b9b712",
+            "nama_pse": "FWD INSURANCE INDONESIA",
+            "nama_se": "IFWD",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1036",
+            "website": "ifwd.co.id"
+        },
+        {
+            "id": "9cb1ab63-a11b-4f7f-8f7e-3913782fc948",
+            "nama_pse": "FWD INSURANCE INDONESIA",
+            "nama_se": "FWD MAX",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-05-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1038",
+            "website": "-"
+        },
+        {
             "id": "9cb1ab72-0580-4576-878b-c830eb43c69f",
             "nama_pse": "FWD INSURANCE INDONESIA",
             "nama_se": "CUSTOMER PORTAL",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-05-17",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/993",
             "website": "-"
-        },
-        {
-            "id": "9cb1ab6c-0750-4f18-a6b2-c7b115ba9043",
-            "nama_pse": "BANK ARTHA GRAHA INTERNASIONAL",
-            "nama_se": "AGI PAY",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/994",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab72-a8df-4493-afeb-ebb8835c4963",
-            "nama_pse": "BANK ARTHA GRAHA INTERNASIONAL",
-            "nama_se": "WEBSITE CORPORATE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/995",
-            "website": "arthagraha.com"
-        },
-        {
-            "id": "9cb1ab6c-0ab7-45eb-9ffe-c9efd0ba0fc7",
-            "nama_pse": "LUNARIA ANNUA TEKNOLOGI",
-            "nama_se": "KOINP2P",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/987",
-            "website": "koinp2p.com"
-        },
-        {
-            "id": "9cb1ab64-4d1c-42d1-a2a0-d3476aaaeb0d",
-            "nama_pse": "CUNNINGHAM LINDSEY INDONESIA",
-            "nama_se": "DARWIN CLAIM MANAGEMENT SYSTEM",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-05-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/997",
-            "website": "darwinprod.sg.sedgwick.com"
-        },
-        {
-            "id": "9cb1ab7b-c0e1-4ec8-bc2c-67edbfeea09b",
-            "nama_pse": "OTORAJA NETWORK INDONESIA",
-            "nama_se": "OTORAJA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-05-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/989",
-            "website": "otoraja.id"
-        },
-        {
-            "id": "9cb1ab7c-60cb-4ef8-9b74-b6128d926cf2",
-            "nama_pse": "MNC DIGITAL INDONESIA",
-            "nama_se": "RCTI+",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-05-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/984",
-            "website": "rctiplus.com"
-        },
-        {
-            "id": "9cb1ab84-c4a5-413b-8b47-451286abe6af",
-            "nama_pse": "MASTORE SINERGI UTAMA",
-            "nama_se": "MASTORE.CO.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-05-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/983",
-            "website": "mastore.co.id"
-        },
-        {
-            "id": "9cb1ab8c-cede-40d1-ba8c-2dfbb6c0b675",
-            "nama_pse": "KEBAIKAN ANAK INDONESIA",
-            "nama_se": "KIDDO.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-05-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1003",
-            "website": "kiddo.id"
-        },
-        {
-            "id": "9cb1ab7d-f460-4e03-9879-798f64c1432b",
-            "nama_pse": "BURSA HUKUM DIGITAL DAN TEKNOLOGI",
-            "nama_se": "BURSA LEGAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-05-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/985",
-            "website": "bursahukum.co.id/legal"
-        },
-        {
-            "id": "9cb1aba9-0d32-4cbd-877e-81a11229d270",
-            "nama_pse": "GLOBAL URBAN ESENSIAL",
-            "nama_se": "GOAPOTIK",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan, Sektor Kesehatan, Sektor Kesehatan, Sektor Kesehatan, Sektor Kesehatan",
-            "tanggal_terbit": "2021-05-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/996",
-            "website": "goapotik.com"
         }
     ],
-    "processingTimeMs": 37,
+    "processingTimeMs": 38,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 364,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abf0-3525-4954-83dc-a14557bd97a0",
+            "nama_pse": "KASIR PINTAR INTERNASIONAL",
+            "nama_se": "KASIR PINTAR",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8514",
+            "website": "kasirpintar.co.id"
+        },
+        {
+            "id": "9cb1abca-2166-40f6-b6e5-a26f90f43944",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BALI ARTHA ANUGRAH",
+            "nama_se": "BPRANUGRAH.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8439",
+            "website": "bpranugrah.com"
+        },
+        {
+            "id": "9cb1abbb-9da1-4b3e-9545-26d1579b787d",
+            "nama_pse": "SAMUEL SEKURITAS INDONESIA",
+            "nama_se": "SAHAM RAKYAT (SUR)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8440",
+            "website": "sahamrakyat.com"
+        },
+        {
+            "id": "9cb1abf0-389f-4808-9723-f6ae9c50b035",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SARI SEDANA",
+            "nama_se": "IBS CORE BANKING SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8442",
+            "website": "banksarisedana.com"
+        },
+        {
+            "id": "9cb1abf0-3ccd-49f6-b87b-1d8ae97e5ced",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SURYAJAYA KUBUTAMBAHAN",
+            "nama_se": "PT BPR SURYAJAYA KUBUTAMBAHAN",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8441",
+            "website": "bprsuryajaya.com"
+        },
+        {
+            "id": "9cb1abbb-9fba-4704-8b88-45dada72c92b",
+            "nama_pse": "BANK PERKREDITAN RAKYAT PRIMA MULTI MAKMUR",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8443",
+            "website": "bprprimamultimakmur.blogspot.com"
+        },
+        {
+            "id": "9cb1abf0-4060-4944-8df3-89d94b326ad7",
+            "nama_pse": "QEON INTERACTIVE",
+            "nama_se": "RRQ",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8445",
+            "website": "teamrrq.com"
+        },
+        {
+            "id": "9cb1abca-3371-4356-a48e-c949a7eb8eff",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT LOPOKGANDA",
+            "nama_se": "PT. BANK PERKREDITAN RAKYAT LOPOK GANDA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8444",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abca-3be3-4f5a-bcbe-2e8234876e69",
+            "nama_pse": "VEXANIUM TEKNOLOGI NUSANTARA",
+            "nama_se": "VEXANIUM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8446",
+            "website": "vexanium.com"
+        },
+        {
+            "id": "9cb1abf0-4370-4773-9145-1472c0a9c823",
+            "nama_pse": "BANK PERKREDITAN RAKYAT CITRA DARMA WANGSA",
+            "nama_se": "BANK PERKREDITAN RAKYAT CITRA DARMA WANGSA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8448",
+            "website": "bprcitradarmawangsa.com"
+        },
+        {
             "id": "9cb1abca-3fa0-49d1-a2a1-f9c2d9a3ae5b",
             "nama_pse": "TRI DIGITAL PERKASA",
             "nama_se": "VOLANTIS",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-21",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8516",
             "website": "banklokadana.com"
-        },
-        {
-            "id": "9cb1abca-9e7e-4864-b832-45b4b5144945",
-            "nama_pse": "INCORE SYSTEMS SOLUTIONS",
-            "nama_se": "TUGAS ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8518",
-            "website": "tugas.id"
-        },
-        {
-            "id": "9cb1abf0-b423-4829-86c0-4cce9a6c1be2",
-            "nama_pse": "BANK PERKREDITAN RAKYAT MAROBA ITE",
-            "nama_se": "PT BPR MAROBA ITE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8517",
-            "website": "bpr-marobaite.co.id"
-        },
-        {
-            "id": "9cb1abca-a343-44ca-bbc5-a4f1623e4836",
-            "nama_pse": "INOVASI TEKNOLOGI MAKMUR",
-            "nama_se": "PT INOVASI TEKNOLOGI MAKMUR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8520",
-            "website": "itm.co.id"
-        },
-        {
-            "id": "9cb1abbb-c7ed-404f-8fc6-d001f823edf2",
-            "nama_pse": "RUANG RAYA INDONESIA",
-            "nama_se": "RUANGKERJA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8521",
-            "website": "ruangkerja.id"
-        },
-        {
-            "id": "9cb1abbb-c9cb-4ce2-a677-efd0ea2f2247",
-            "nama_pse": "FUNDO SUKSES BERSAMA",
-            "nama_se": "FUNDO",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8522",
-            "website": "FUNDO.ID"
-        },
-        {
-            "id": "9cb1abf0-ba8c-43c3-a1e3-4ceefa36abdf",
-            "nama_pse": "REALTA CHAKRADARMA",
-            "nama_se": "RHAPSODY HOSPITALITY MANAGEMENT SYSTEM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8534",
-            "website": "cloud.co.id"
-        },
-        {
-            "id": "9cb1abf0-bf5a-4037-b388-b7eddaaa308b",
-            "nama_pse": "BANK PERKREDITAN RAKYAT TANJUNG PRATAMA",
-            "nama_se": "BANK PERKREDITAN RAKYAT TANJUNG PRATAMA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8524",
-            "website": "bprtanjungpratama.com"
-        },
-        {
-            "id": "9cb1abbb-cbe0-4c20-8dc6-149c8bd371ad",
-            "nama_pse": "HYUNDAI MOTORS INDONESIA",
-            "nama_se": "HGCX (HYUNDAI GLOBAL CUSTOMER EXPERIENCE)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8523",
-            "website": "ap.hyundaiglobalcx.com"
-        },
-        {
-            "id": "9cb1abf0-c855-43af-921e-d0eb2c8738cf",
-            "nama_pse": "MERKHA TEKNOLOGI INDONESIA",
-            "nama_se": "MERKHA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8525",
-            "website": "merkha.com"
-        },
-        {
-            "id": "9cb1abca-a84a-4ac6-9f2b-1e141f60d6fb",
-            "nama_pse": "L7 SYSTEMS",
-            "nama_se": "VENDIS SFA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8526",
-            "website": "l7systems.net"
         }
     ],
     "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 228,
     "totalPages": 383

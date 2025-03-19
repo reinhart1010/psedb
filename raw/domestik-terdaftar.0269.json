@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb2-44c3-4e11-b785-535fff50650a",
+            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+            "nama_se": "BJB VIRTUAL ACCOUNT DEBIT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6124",
+            "website": "bjbva.bankbjb.co.id"
+        },
+        {
+            "id": "9cb1abb2-4d3b-489b-87f2-be38497f2693",
+            "nama_pse": "AG INDONESIA",
+            "nama_se": "ALTIUSPEOPLE FOUNDATION",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6125",
+            "website": "hr.altius.id"
+        },
+        {
+            "id": "9cb1abb2-52c7-4274-bd8d-7f174784ff06",
+            "nama_pse": "SAMUEL SEKURITAS INDONESIA",
+            "nama_se": "STAR (SAMUEL TRADING ACTIVE REALTIME)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6126",
+            "website": "samuel.co.id"
+        },
+        {
+            "id": "9cb1aba8-4da3-4b59-a1ae-233250393c43",
+            "nama_pse": "ABADI SELARAS CENDERAWASIH",
+            "nama_se": "AIDO HEALTH",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6239",
+            "website": "Aido.id"
+        },
+        {
+            "id": "9cb1ab9d-b721-4468-b615-bc5df489c19c",
+            "nama_pse": "BANK PERKREDITAN RAKYAT GUNUNG MERBABU",
+            "nama_se": "PT BPR GUNUNG MERBABU",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6128",
+            "website": "bprgunungmerbabu.com"
+        },
+        {
+            "id": "9cb1aba8-506b-4878-8557-e2d2f14ae447",
+            "nama_pse": "PUNDI MAS BERJAYA",
+            "nama_se": "JAYARENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6132",
+            "website": "Jayarent.com"
+        },
+        {
+            "id": "9cb1aba8-545d-4044-bbb9-39b9cb2711a1",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
+            "nama_se": "RETRIBUSI NON BILLING BPD DIY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6129",
+            "website": "saget.bpddiy.co.id"
+        },
+        {
+            "id": "9cb1abb2-5529-44c1-afb7-6d75338e1c79",
+            "nama_pse": "KONTER PULSA NETINDO",
+            "nama_se": "KONTER PULSA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6130",
+            "website": "konterpulsa.net"
+        },
+        {
+            "id": "9cb1abb2-57ff-435f-a49a-9e0725773d84",
+            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+            "nama_se": "APLIKASI SOCIAL FUND TRANSFER (SFT)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6131",
+            "website": "sft.bankbjb.co.id"
+        },
+        {
+            "id": "9cb1aba8-591b-4706-8901-799c38dac5b7",
+            "nama_pse": "AG INDONESIA",
+            "nama_se": "ALTIUSPEOPLE ENTERPRISE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6136",
+            "website": "enterprise.altius.id"
+        },
+        {
             "id": "9cb1aba8-5bc9-4cce-a0aa-1eb4a3a0986d",
             "nama_pse": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
             "nama_se": "APLIKASI E-WARONG BPD DIY",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-18",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6185",
             "website": "bantuan.smsfinance.co.id"
-        },
-        {
-            "id": "9cb1abb2-8393-4299-a177-605f3edf14a4",
-            "nama_pse": "BANK NAGARI",
-            "nama_se": "NAGARI HOSPITAL INFORMATION SYSTEM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6181",
-            "website": "n-his.banknagari.co.id"
-        },
-        {
-            "id": "9cb1aba8-98ab-4978-8270-926d1e804a9c",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SEDANA MURNI",
-            "nama_se": "PT. BPR SEDANA MURNI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6182",
-            "website": "banksedanamurni.com"
-        },
-        {
-            "id": "9cb1abb2-88e5-434f-b85d-62dae0547fbf",
-            "nama_pse": "BANK PERKREDITAN RAKYAT PASARRAYA KUTA",
-            "nama_se": "PT BANK PERKREDITAN RAKYAT PASARRAYA KUTA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6186",
-            "website": "bankrayakuta.co.id"
-        },
-        {
-            "id": "9cb1abb2-8b9d-48af-a566-588d9a87020d",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH BALI",
-            "nama_se": "INTERNET BANKING BPD BALI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6187",
-            "website": "ibank.bpdbali.id"
-        },
-        {
-            "id": "9cb1abb2-8e15-4eb1-8c54-51434796be8b",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT DANA PUTRA",
-            "nama_se": "PT BPR DANA PUTRA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6188",
-            "website": "bprdanaputra.com"
-        },
-        {
-            "id": "9cb1ab9d-cc6e-4451-aeec-0c897f40ad6d",
-            "nama_pse": "AGUNG DIAN SAPUTRA",
-            "nama_se": "CHECKPOINT",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6189",
-            "website": "aroundus.my.id"
-        },
-        {
-            "id": "9cb1abb2-9521-434b-8330-3456f029294e",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH BALI",
-            "nama_se": "INTERNET BANKING KORPORASI BPD BALI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6191",
-            "website": "ibank.bpdbali.id"
-        },
-        {
-            "id": "9cb1ab9d-cea4-40a3-acaa-17fa7eb0938c",
-            "nama_pse": "MODUIT DIGITAL INDONESIA",
-            "nama_se": "MODUIT",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6193",
-            "website": "moduit.id"
-        },
-        {
-            "id": "9cb1ab9d-d08f-452b-9b57-7dd199a739d4",
-            "nama_pse": "REALTA CHAKRADARMA",
-            "nama_se": "PASTI: PCR, ANTIGEN, SEROLOGY, TESTING INTEGRITY",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6192",
-            "website": "bumame.cloud.co.id"
-        },
-        {
-            "id": "9cb1aba8-9b0c-4e66-bd2c-117e4f2f4a03",
-            "nama_pse": "ADITAMA FINANCE",
-            "nama_se": "ADITAMA MOBILE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6194",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 8,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 269,
     "totalPages": 383

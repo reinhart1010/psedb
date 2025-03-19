@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1abe2-7fbc-4c63-9025-967e796582cf",
+            "nama_pse": "UPBIT EXCHANGE INDONESIA",
+            "nama_se": "PLATFORM PERDAGANGAN ASET KRIPTO PT UPBIT EXCHANGE INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12287",
+            "website": "upbit.com"
+        },
+        {
+            "id": "9cb1ac15-793b-49bd-8f01-438516ab1dba",
+            "nama_pse": "MULIA BERKAT SENTOSA",
+            "nama_se": "MBS-INDONESIA.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12292",
+            "website": "mbs-indonesia.id"
+        },
+        {
+            "id": "9cb1ac15-7ca3-4aac-a8ec-a878faa59891",
+            "nama_pse": "BIC PONSEL PERKASA",
+            "nama_se": "DISPENSER PERTAMINI",
+            "sektor": "Sektor Energi dan Sumber Daya Mineral",
+            "tanggal_terbit": "2022-11-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12295",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac07-198a-46ca-836b-b495a4838571",
+            "nama_pse": "IDEXPRESS LOGISTIK INDONESIA",
+            "nama_se": "IDEXPRESS LOGISTIK INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12296",
+            "website": "idexpress.com"
+        },
+        {
+            "id": "9cb1abe2-845d-4462-b249-18bd8b2cbf63",
+            "nama_pse": "MULAI WEB INDONESIA",
+            "nama_se": "RSSWEB.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12297",
+            "website": "rssweb.id"
+        },
+        {
+            "id": "9cb1abe2-8aca-4d0f-b6ad-f1baeb0a57f7",
+            "nama_pse": "BOOURAC INTERNASIONAL INDONESIA",
+            "nama_se": "WWW.BOOURAC.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12298",
+            "website": "boourac.com"
+        },
+        {
+            "id": "9cb1ac07-2117-4e69-9693-e1142826ba12",
+            "nama_pse": "ARAH SENTRAL SOLUSINDO",
+            "nama_se": "WEBSITE SENTRE LEGAL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12299",
+            "website": "sentrelegal.com"
+        },
+        {
+            "id": "9cb1abe2-95a5-4e01-8af9-c158bff448e8",
+            "nama_pse": "BUANA CIPTA CHAHRA",
+            "nama_se": "CHAHRA EVENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12300",
+            "website": "chahraevent.id"
+        },
+        {
+            "id": "9cb1ac07-2558-48d5-9139-847c1d209384",
+            "nama_pse": "QUIPPER EDUKASI INDONESIA",
+            "nama_se": "QUIPPER VIDEO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12303",
+            "website": "quipper.com"
+        },
+        {
+            "id": "9cb1ac07-2bdb-4671-9609-04ca6e5c60c1",
+            "nama_pse": "YRS GAMING SHOP",
+            "nama_se": "YRS GAMING SHOP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-11-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12302",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac15-804f-4f37-9a0f-d1994f79e9f8",
+            "nama_pse": "QUIPPER EDUKASI INDONESIA",
+            "nama_se": "QUIPPER SCHOOL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-11-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12304",
+            "website": "quipper.com"
+        },
+        {
             "id": "9cb1ac07-2f96-455c-b14a-361be4e54737",
             "nama_pse": "AYOPOP TEKNOLOGI INDONESIA",
             "nama_se": "AYOPOP",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-11-11",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12239",
             "website": "lari.id"
-        },
-        {
-            "id": "9cb1ac15-3e26-4a6f-b493-6929ab2880a0",
-            "nama_pse": "SAMSUNG ELECTRONICS INDONESIA",
-            "nama_se": "SAMSUNG GLOBAL GOALS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12240",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abe2-12bb-4600-9b28-419c4ea8af87",
-            "nama_pse": "SAMSUNG ELECTRONICS INDONESIA",
-            "nama_se": "SAMSUNG FREE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12241",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac15-4230-46a9-9ab0-59dfa96398a3",
-            "nama_pse": "ALPHA LEGAL ULTIMA",
-            "nama_se": "IZIN-GO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12242",
-            "website": "izingo.id"
-        },
-        {
-            "id": "9cb1ac06-d1f4-44ce-a236-d5c31725594c",
-            "nama_pse": "KARYA CREATIVE MEDIA UTAMA",
-            "nama_se": "SAPAPEDULI.ORG INDONESIA'S CROWDFUNDING PLATFORM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12236",
-            "website": "sapapeduli.org"
-        },
-        {
-            "id": "9cb1abe1-7ece-4567-a00c-68d857a8c81b",
-            "nama_pse": "IDTECH SOLUSI MANDIRI",
-            "nama_se": "YUKFIT",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12214",
-            "website": "yukfit.id"
-        },
-        {
-            "id": "9cb1ac06-943d-4706-8944-620753cf34a4",
-            "nama_pse": "AKAR INTI SOLUSI",
-            "nama_se": "ES CORE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12202",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abe1-eed6-48d7-b363-f298fba24df5",
-            "nama_pse": "MARKA INTERNUSA MEDIA INDONESIA",
-            "nama_se": "MARKA BERITA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12207",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac06-9a6f-432a-8ef3-c3f99d1e2075",
-            "nama_pse": "MANFAAT DIGITAL INDONESIA",
-            "nama_se": "DIGIFREN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12208",
-            "website": "digifren.tech"
-        },
-        {
-            "id": "9cb1ac06-a3a6-409e-80ef-d39a0578376a",
-            "nama_pse": "PRIMACOM INTERBUANA",
-            "nama_se": "PRIMAWIFI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-11-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12209",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abe1-f77a-41dd-9175-028447cfd473",
-            "nama_pse": "USAHA INSAN AKSARA",
-            "nama_se": "LONTARA APP",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12210",
-            "website": "lontara.app"
-        },
-        {
-            "id": "9cb1ac06-a6d9-467f-8488-56298ba84d47",
-            "nama_pse": "KEVA KOSMETIK RETAIL",
-            "nama_se": "ESQACOSMETICS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-11-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/12211",
-            "website": "esqacosmetics.com"
         }
     ],
-    "processingTimeMs": 31,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 170,
     "totalPages": 383

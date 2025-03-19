@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abab-c679-4474-b8db-20d31095b0e4",
+            "nama_pse": "MAHKOTA SUKSES INDONESIA",
+            "nama_se": "MY MSI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3998",
+            "website": "mymsi.co.id"
+        },
+        {
+            "id": "9cb1abab-d34b-493b-89e6-241b05528996",
+            "nama_pse": "SUMBER TRIJAYA LESTARI",
+            "nama_se": "AKSESMU",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3999",
+            "website": "aksesmu.id"
+        },
+        {
+            "id": "9cb1ab94-fb05-4561-92b7-40c8bdd55d46",
+            "nama_pse": "CERITA UNTUK ANAK NEGERI",
+            "nama_se": "OCTOPUS UBAH JADI SAMPAH BERHARGA",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3993",
+            "website": "octopus.co.id"
+        },
+        {
+            "id": "9cb1abaa-f391-49c3-8cdb-ca0ab5fa75a3",
+            "nama_pse": "MITRA SEMERU INDONESIA",
+            "nama_se": "CHANNEL MANAGEMENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3977",
+            "website": "powercommerce.asia"
+        },
+        {
+            "id": "9cb1aba0-5689-4024-a5de-30148cb50f6c",
+            "nama_pse": "DIGITAL MEDIA NUSANTARA",
+            "nama_se": "TV VOUCHER",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3966",
+            "website": "tv-voucher.com"
+        },
+        {
+            "id": "9cb1abab-040c-4de4-8cca-a36d2f63616b",
+            "nama_pse": "KOMUNAL SEJAHTERA INDONESIA",
+            "nama_se": "DEPOSITOBPR BY KOMUNAL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-04-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3968",
+            "website": "depositobpr.id"
+        },
+        {
+            "id": "9cb1aba0-e6a6-4f8e-a3a5-9e2ae21c47d1",
+            "nama_pse": "BANYUASIN MEDIA NETWORK",
+            "nama_se": "WWW.BMNETWORK.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3985",
+            "website": "bmnetwork.co.id"
+        },
+        {
+            "id": "9cb1abab-890d-41fd-87c0-687abb90bcff",
+            "nama_pse": "JAPRIBOS INTI MANDIRI",
+            "nama_se": "MOKAMALL77",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3972",
+            "website": "mokamall77.com"
+        },
+        {
+            "id": "9cb1aba1-0670-4fde-bc94-1c8c9c6ee4f4",
+            "nama_pse": "DIGITAL APLIKASI SOLUSI",
+            "nama_se": "DIGISERVE MANAGED NETWORK SERVICE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3973",
+            "website": "Digiserve.co.id"
+        },
+        {
+            "id": "9cb1aba1-0863-43eb-927d-e585477ca305",
+            "nama_pse": "DIGITAL APLIKASI SOLUSI",
+            "nama_se": "DIGISERVE MANAGED SECURITY SERVICE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3975",
+            "website": "Digiserve.co.id"
+        },
+        {
             "id": "9cb1aba1-0b04-42b1-9681-014aa2669074",
             "nama_pse": "DIGITAL APLIKASI SOLUSI",
             "nama_se": "DIGISERVE PROFESSIONAL SERVICE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-04-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3959",
             "website": "-"
-        },
-        {
-            "id": "9cb1aba3-ad65-4252-b456-d8fd5d1280b5",
-            "nama_pse": "DONDON OOKIKU NARU",
-            "nama_se": "DONDON HARU JAPAN",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4595",
-            "website": "dondonharu.jp"
-        },
-        {
-            "id": "9cb1ab93-aa1d-455c-9da1-eb68ee8797b9",
-            "nama_pse": "ROEDY RUSTAM",
-            "nama_se": "SIDEKA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3918",
-            "website": "Sideka.id"
-        },
-        {
-            "id": "9cb1aba0-5830-4970-9196-be228ea0c5ca",
-            "nama_pse": "BASISTA TEAMWORK",
-            "nama_se": "WARUNG KITA MERCHANT",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3938",
-            "website": "warungkita.info"
-        },
-        {
-            "id": "9cb1aba0-b574-4144-8578-9e7f56db84e0",
-            "nama_pse": "TIRA SATRIA NIAGA",
-            "nama_se": "WEBSITE TIRA-SF.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3935",
-            "website": "tira-sf.id"
-        },
-        {
-            "id": "9cb1ab94-3cb3-433f-a3db-0f051eaa0259",
-            "nama_pse": "FANAGO INTI PERKASA",
-            "nama_se": "FANAGO",
-            "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Keuangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3927",
-            "website": "fanago.net"
-        },
-        {
-            "id": "9cb1ab94-639b-4128-bc04-1d2ac01badf3",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH KALIMANTAN BARAT",
-            "nama_se": "MOBILE BANKING BANK KALBAR",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3923",
-            "website": "bankkalbar.co.id"
-        },
-        {
-            "id": "9cb1ab94-6f4b-4eb3-b7d7-09633ab47da8",
-            "nama_pse": "HENDI RIAN MAULANA",
-            "nama_se": "BANK PUSAKA ALAM NUSANTARA",
-            "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Transportasi, Sektor Keuangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3933",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abab-4ac2-4cb4-b99b-09c72eb9d352",
-            "nama_pse": "APLIKASI BERKAH BERSAMA",
-            "nama_se": "USYARIAH",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3921",
-            "website": "usyariah.com"
-        },
-        {
-            "id": "9cb1abab-5a75-46b7-be3b-0e4a1b7f86f1",
-            "nama_pse": "SOLUTAMA SINERGI DATA",
-            "nama_se": "THAMA WEB SERVICES",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3912",
-            "website": "thama.co.id"
-        },
-        {
-            "id": "9cb1ab94-86ed-4198-b8de-1bba769b8cf7",
-            "nama_pse": "SOLUTAMA SINERGI DATA",
-            "nama_se": "SMARTHAMA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3934",
-            "website": "thama.id"
         }
     ],
-    "processingTimeMs": 78,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 308,
     "totalPages": 383

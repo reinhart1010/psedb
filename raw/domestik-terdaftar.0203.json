@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1abfb-a7d4-4e25-8452-5d6a0c7f22d2",
+            "nama_pse": "REKSA FINANCE",
+            "nama_se": "REKSA LOAN SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10108",
+            "website": "reksafinance.co.id"
+        },
+        {
+            "id": "9cb1ac0a-e77e-4e66-b43c-ca2bfe3beff0",
+            "nama_pse": "WIDEA KALYA TEKNOLOGI",
+            "nama_se": "IZENHO",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10109",
+            "website": "izenho.com"
+        },
+        {
+            "id": "9cb1abfb-aacf-4765-84c4-22c234ecc984",
+            "nama_pse": "TONGDUN TECHNOLOGY INDONESIA",
+            "nama_se": "TONGDUN TECHNOLOGY INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10125",
+            "website": "tongdun.id"
+        },
+        {
+            "id": "9cb1abd5-b6ea-42d4-9e69-20f68feaf06d",
+            "nama_pse": "GLOBAL LOYAL SEJAHTERA",
+            "nama_se": "TSMEDIA.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10110",
+            "website": "tsmedia.id"
+        },
+        {
+            "id": "9cb1ac0a-eb04-4d36-9c34-af2447195d17",
+            "nama_pse": "MONOTARO INDONESIA",
+            "nama_se": "MONOTARO INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10111",
+            "website": "monotaro.id"
+        },
+        {
+            "id": "9cb1abd5-ba86-41d8-9225-d5c683bd25b7",
+            "nama_pse": "CITRA AGUNG MESTIKA",
+            "nama_se": "PT. CITRA AGUNG MESTIKA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10112",
+            "website": "WWW.IP1.CO.ID"
+        },
+        {
+            "id": "9cb1abfb-ae1e-48bf-9402-529b1468ca8c",
+            "nama_pse": "AXA INSURANCE INDONESIA",
+            "nama_se": "ASMIK",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10113",
+            "website": "axa-mandiri.co.id"
+        },
+        {
+            "id": "9cb1ac0a-ee06-4f6f-8744-00571309dfca",
+            "nama_pse": "INDIGO DIGITAL MEDIA",
+            "nama_se": "CUMICUMI.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10114",
+            "website": "cumicumi.com"
+        },
+        {
+            "id": "9cb1abd5-be64-41ff-aafc-0233ce7d1cd1",
+            "nama_pse": "MNC PORTAL INDONESIA",
+            "nama_se": "CELEBRITIES.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10115",
+            "website": "celebrities.id"
+        },
+        {
+            "id": "9cb1ac0a-f127-404f-b587-0f0e345dc192",
+            "nama_pse": "AXA INSURANCE INDONESIA",
+            "nama_se": "AXA MANDIRI MYPAGE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10116",
+            "website": "mypage.axa.co.id"
+        },
+        {
+            "id": "9cb1abfb-b13a-4dbc-94e4-2729e916678f",
+            "nama_pse": "STAR KARLO INDONESIA",
+            "nama_se": "KARLO",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10117",
+            "website": "karlo.id"
+        },
+        {
             "id": "9cb1abfb-b471-42be-8b51-94810c3e33d8",
             "nama_pse": "ALDIRACITA SEKURITAS INDONESIA",
             "nama_se": "STRIVE",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-08-08",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10015",
             "website": "et-consultant.com"
-        },
-        {
-            "id": "9cb1ac0a-685f-48a4-9708-1ca84a4315eb",
-            "nama_pse": "TOMISUI AFILIASI GLOBAL",
-            "nama_se": "TOMISUI.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10016",
-            "website": "tomisui.id"
-        },
-        {
-            "id": "9cb1ac0a-6b92-48c2-bfe4-94625e066335",
-            "nama_pse": "QODE TECH INDONESIA",
-            "nama_se": "QODE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10017",
-            "website": "qode.co.id"
-        },
-        {
-            "id": "9cb1abd5-325d-4ca3-9ff5-6259c03e5475",
-            "nama_pse": "LAKON CIPTA BUDAYA",
-            "nama_se": "PT LAKON CIPTA BUDAYA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10018",
-            "website": "lakonindonesia.com"
-        },
-        {
-            "id": "9cb1abd5-3762-4cd8-89e8-96b634806d93",
-            "nama_pse": "PENERBITAN SARANA BOBO",
-            "nama_se": "WWW.BOBO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10019",
-            "website": "bobo.grid.id"
-        },
-        {
-            "id": "9cb1abfb-30da-4304-99ec-d2e27119f973",
-            "nama_pse": "ERA AWAN DIGITAL",
-            "nama_se": "SELF SERVICE PORTAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10020",
-            "website": "eranyacloud.com"
-        },
-        {
-            "id": "9cb1ac0a-6e9e-4311-b00d-19d7acf1f729",
-            "nama_pse": "INFOMETRO MEDIATAMA",
-            "nama_se": "WWW.FOTOKITA.NET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10021",
-            "website": "fotokita.grid.id"
-        },
-        {
-            "id": "9cb1ac0a-71ca-4870-afb8-b2a1f0979d4f",
-            "nama_pse": "PRIMA INFOSARANA MEDIA",
-            "nama_se": "WWW.ADJAR.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10022",
-            "website": "adjar.grid.id"
-        },
-        {
-            "id": "9cb1ac0a-74d1-43d2-b2f8-19d6c04c7378",
-            "nama_pse": "FORSTOK TEKNOLOGI INDONESIA",
-            "nama_se": "FORSTOK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10023",
-            "website": "forstok.com"
-        },
-        {
-            "id": "9cb1abfb-3402-47ca-b830-7ec7747e6391",
-            "nama_pse": "PRIMA INFOSARANA MEDIA",
-            "nama_se": "WWW.BOLANAS.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10024",
-            "website": "bolanas.bolaspot.com"
-        },
-        {
-            "id": "9cb1ac0a-77eb-4182-8590-24f12c60a59f",
-            "nama_pse": "PRIMA INFOSARANA MEDIA",
-            "nama_se": "WWW.BOLASPORT.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10025",
-            "website": "bolasport.com"
-        },
-        {
-            "id": "9cb1ac0a-7b3f-4ded-b951-15957931c627",
-            "nama_pse": "PRIMA INFOSARANA MEDIA",
-            "nama_se": "WWW.BOLASTYLO.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10026",
-            "website": "bolastylo.bolasport.com"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 203,
     "totalPages": 383

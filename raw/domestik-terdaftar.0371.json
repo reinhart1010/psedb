@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab62-d069-4360-9b5e-6ed70c8201a8",
+            "nama_pse": "FIA KURNIA GRUP",
+            "nama_se": "SIPLAH",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/537",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab62-dbd1-471e-a1b8-f4ff19e41fda",
+            "nama_pse": "FIA KURNIA GRUP",
+            "nama_se": "SIPLAH KEMENDIKBUD",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/543",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab65-d4cd-4fcc-8b13-c6e211d56069",
+            "nama_pse": "FIA KURNIA GRUP",
+            "nama_se": "SIPLAH",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/562",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab71-3c30-46cd-8762-087094d60e7b",
+            "nama_pse": "DELTAMAS MANDIRI SEJAHTERA",
+            "nama_se": "TOKO1001",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/567",
+            "website": "toko1001.id"
+        },
+        {
+            "id": "9cb1ab71-3e16-43fd-859f-b9975a322606",
+            "nama_pse": "BIBIT TUMBUH BERSAMA",
+            "nama_se": "BIBIT",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/588",
+            "website": "bibit.id"
+        },
+        {
+            "id": "9cb1ab62-e40c-49f3-8263-146dbc95e4b1",
+            "nama_pse": "BIBIT TUMBUH BERSAMA",
+            "nama_se": "STOCKBIT",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/635",
+            "website": "stockbit.com/"
+        },
+        {
+            "id": "9cb1ab62-e68c-4ff2-a1bd-f2d70e427c94",
+            "nama_pse": "PANEN WANGI ABADI",
+            "nama_se": "SEPHORA.CO.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/566",
+            "website": "sephora.co.id"
+        },
+        {
+            "id": "9cb1ab62-eba8-459b-b177-34c623b1d4a9",
+            "nama_pse": "SUPERMAMA KARYA INDONESIA",
+            "nama_se": "SUPERMAMA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/701",
+            "website": "supermama.id"
+        },
+        {
+            "id": "9cb1ab62-edc8-472f-9b31-24192b061931",
+            "nama_pse": "SIMPAN PINJAM SIMPANAN LANCAR INDONESIA",
+            "nama_se": "KSP SUKU PLANET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/548",
+            "website": "sukuplanetapp.com"
+        },
+        {
+            "id": "9cb1ab71-427e-472a-ba2e-b595c7f42c9e",
+            "nama_pse": "KILAT DIGITAL INDONESIA",
+            "nama_se": "KILAT DIGITAL INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/581",
+            "website": "sedang dalam pembuatan"
+        },
+        {
             "id": "9cb1ab65-e373-435d-b22e-d86cf444a88c",
             "nama_pse": "SATRIO JAYA PERSADA",
             "nama_se": "TREE+",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-04-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/695",
             "website": "amartha.com"
-        },
-        {
-            "id": "9cb1ab6a-a2f6-48e6-9ec5-d300c7307969",
-            "nama_pse": "AMARTHA MIKRO FINTEK",
-            "nama_se": "CORE BANKING",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/697",
-            "website": "NA (Private IP)"
-        },
-        {
-            "id": "9cb1ab6a-a793-439f-9e9b-2e7836de814c",
-            "nama_pse": "AMARTHA MIKRO FINTEK",
-            "nama_se": "BP APP",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/698",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab63-2f21-4066-a49b-4a525e1a9919",
-            "nama_pse": "AMARTHA MIKRO FINTEK",
-            "nama_se": "LENDER APP",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/700",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab63-3142-4c3b-8355-f537b0650bbc",
-            "nama_pse": "GLINTS INDONESIA GROUP",
-            "nama_se": "GLINTS INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/676",
-            "website": "glints.com/id"
-        },
-        {
-            "id": "9cb1ab71-b291-45db-b40d-75316a1ba6e9",
-            "nama_pse": "INDOGOLD SOLUSI GADAI",
-            "nama_se": "INDOGOLD",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/703",
-            "website": "indogold.id"
-        },
-        {
-            "id": "9cb1ab71-b5b1-4f2e-ab4c-1fbc07fcabb8",
-            "nama_pse": "KOPERASI ALUMNI PENDUDUK GANESHA",
-            "nama_se": "APGAN",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/684",
-            "website": "apgan.id"
-        },
-        {
-            "id": "9cb1ab63-3e8e-484f-975c-5a7b9d2bf47b",
-            "nama_pse": "TRISNA YOGA PUTRA",
-            "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT (SIMRS) TRISNA MEDIKA",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/719",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab63-436e-4b8f-9465-9fdf886b9cea",
-            "nama_pse": "PUNGGAWA NUSANTARA ABADI",
-            "nama_se": "SANG FAJAR",
-            "sektor": "Sektor Transportasi, Sektor Transportasi",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/694",
-            "website": "sangfajar.com"
-        },
-        {
-            "id": "9cb1ab63-4b7f-45ae-912e-3859aa5de6d2",
-            "nama_pse": "EXRUSH DIGITAL NUSANTARA",
-            "nama_se": "ELOZA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/699",
-            "website": "eloza.com"
-        },
-        {
-            "id": "9cb1ab6a-bfda-473a-bebf-d44ea07f745e",
-            "nama_pse": "CAZH TEKNOLOGI INOVASI",
-            "nama_se": "CARDS",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/704",
-            "website": "cards.co.id"
         }
     ],
-    "processingTimeMs": 20,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 371,
     "totalPages": 383

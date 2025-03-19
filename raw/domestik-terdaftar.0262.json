@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb6-a669-4984-9906-6281fc1e4a25",
+            "nama_pse": "KODELOKUS SOAREKA INDONESIA",
+            "nama_se": "KAMUSKU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7025",
+            "website": "kodelokus.com"
+        },
+        {
+            "id": "9cb1abb6-a8e1-4651-858f-106fcedaf082",
+            "nama_pse": "BIMASAKTI MULTI SINERGI",
+            "nama_se": "MEGA PAY",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7024",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb6-aaa8-41a7-8324-bd9307584164",
+            "nama_pse": "BANK RAYA INDONESIA",
+            "nama_se": "API PINANG RITEL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7026",
+            "website": "api.pinang-ritel.bankraya.co.id"
+        },
+        {
+            "id": "9cb1abe6-dd93-4875-9a60-0c4ab6f5a4aa",
+            "nama_pse": "RUMAHWEB INDONESIA",
+            "nama_se": "RUMAHWEB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7028",
+            "website": "rumahweb.com"
+        },
+        {
+            "id": "9cb1abc1-ca91-45e5-97a8-7dd56500a0f0",
+            "nama_pse": "INTI CAKRAWALA CITRA",
+            "nama_se": "TOKO MANDIRI INDOGROSIR",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7027",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abe6-e479-4813-98da-8fdde076713f",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT TRIHASTA PRASODJO",
+            "nama_se": "WEBSITE BPR TRIHASTA PRASODJO",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7030",
+            "website": "bprtrihasta.co.id"
+        },
+        {
+            "id": "9cb1abe6-e994-4426-a147-8d8d4276d76e",
+            "nama_pse": "BANK PERKREDITAN RAKYAT MITRA PARAHYANGAN",
+            "nama_se": "BPR MITRA PARAHYANGAN",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7031",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abe6-eea6-453f-b2a2-30f6b919f1a9",
+            "nama_pse": "APRILLIA DWI DAYANI",
+            "nama_se": "BUMIGORASHOP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7047",
+            "website": "bumigorashop.com"
+        },
+        {
+            "id": "9cb1abb6-aecd-4ae0-9ff1-2793f897ed28",
+            "nama_pse": "BUSINESS ECLOUD INDONESIA INFORMATION TECHNOLOGY",
+            "nama_se": "WEB ELECTRONIC DATA INTERCHANGE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7034",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc1-ccaf-4ace-bc53-99d6abb93028",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BUMI BANDUNG KENCANA",
+            "nama_se": "WEBSITE PT. BPR BUMI BANDUNG KENCANA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7037",
+            "website": "bprbbk.com"
+        },
+        {
             "id": "9cb1abc1-cf9d-437f-b32c-72d2511b3426",
             "nama_pse": "YAKIN BERTUMBUH SEKURITAS",
             "nama_se": "SIMPLIFIKASI ONLINE OPENING ACCOUNT JUC SEKURITAS",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-19",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7071",
             "website": "-"
-        },
-        {
-            "id": "9cb1abc1-f60d-4a0c-a574-e51b3dac85df",
-            "nama_pse": "PT. BPR DHANATANI CEPIRING",
-            "nama_se": "PT BPR DHANATANI CEPIRING",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7073",
-            "website": "bprdhanatanicpg.com"
-        },
-        {
-            "id": "9cb1abe7-4102-4ade-8bcd-a2d4396993e9",
-            "nama_pse": "JABARSOFT TEKNOLOGI INDONESIA",
-            "nama_se": "WEBSITE PT JABARSOFT TEKNOLOGI INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7093",
-            "website": "jabarsoft.com"
-        },
-        {
-            "id": "9cb1abc1-f7e0-4fba-8c88-5482f83eeb61",
-            "nama_pse": "BANK SYARIAH INDONESIA",
-            "nama_se": "SISTEM INFORMASI PEGAWAI BANK BSI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7070",
-            "website": "sip.bankbsi.co.id"
-        },
-        {
-            "id": "9cb1abb6-d595-4b0e-a6b7-9f9717de0cb4",
-            "nama_pse": "FIRMANSYAH",
-            "nama_se": "BAGUSPULSA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7072",
-            "website": "baguspulsa.com"
-        },
-        {
-            "id": "9cb1abb6-d746-4f71-8004-8078c57706db",
-            "nama_pse": "GEOKARTA ENGINEERING CONSULTANT",
-            "nama_se": "GEOKARTA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7074",
-            "website": "geokarta-ec.com"
-        },
-        {
-            "id": "9cb1abe7-4655-410b-a27d-b74ee2c27a01",
-            "nama_pse": "GARUDA DIGITAL KREATIF",
-            "nama_se": "GARUDAKU",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7080",
-            "website": "garudaku.com"
-        },
-        {
-            "id": "9cb1abe7-4a7f-460d-acb2-94e7c8c55798",
-            "nama_pse": "TRI SAHRIDAYA TEKNOLOGI",
-            "nama_se": "SMS BROADCAST PT TRI SAHRIDAYA TEKNOLOGI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7075",
-            "website": "sms.sahridaya.id"
-        },
-        {
-            "id": "9cb1abb6-d8f5-48f2-b2e9-23548806fede",
-            "nama_pse": "WALT DISNEY INDONESIA",
-            "nama_se": "DISNEY+ HOTSTAR",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7079",
-            "website": "hotstar.com"
-        },
-        {
-            "id": "9cb1abe7-4de8-489c-b081-7f493599156e",
-            "nama_pse": "UNI TOKOPO TEKNOLOGI",
-            "nama_se": "CAMPAIGN #FORCHANGE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7076",
-            "website": "campaign.com"
-        },
-        {
-            "id": "9cb1abe7-5398-4f0b-a66a-e80687845219",
-            "nama_pse": "BOLDE INOVASI GLOBAL",
-            "nama_se": "BOLDE APPS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7085",
-            "website": "boldestore.com"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 262,
     "totalPages": 383

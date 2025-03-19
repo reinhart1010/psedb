@@ -1,6 +1,15 @@
 {
     "hits": [
         {
+            "id": "9cb1ab6a-c6c5-4101-98ce-01a540939ad3",
+            "nama_pse": "INDO KOALA REMITTANCE",
+            "nama_se": "TRANSFEZ",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1443",
+            "website": "transfez.com"
+        },
+        {
             "id": "9cb1ab6b-91fd-40fc-9c8e-922694a00998",
             "nama_pse": "UANGME FINTEK INDONESIA",
             "nama_se": "UANGME.ID",
@@ -426,7 +435,7 @@
     ],
     "processingTimeMs": 1,
     "query": "",
-    "totalHits": 247,
+    "totalHits": 248,
     "hitsPerPage": 50,
     "page": 5,
     "totalPages": 5

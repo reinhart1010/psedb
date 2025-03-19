@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab94-a8b8-48ed-9b3b-0ead74a135b5",
+            "nama_pse": "SAKTI PERKAKAS NUSANTARA",
+            "nama_se": "SAKTITOOLS.COM",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3779",
+            "website": "saktitools.com"
+        },
+        {
+            "id": "9cb1aba1-2a12-4340-a174-3ca8c5e4c66d",
+            "nama_pse": "DIMO PAY INDONESIA",
+            "nama_se": "VERIFICATION AND IDENTIFICATION AGGREGATOR SERVICE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3769",
+            "website": "dimo.co.id"
+        },
+        {
+            "id": "9cb1ab94-f88f-44c2-8b60-7989ddaaac8f",
+            "nama_pse": "JATI NEGARA TEKNOLOGI INDONESIA",
+            "nama_se": "PLATFORM ELECTRONIC PEER TO PEER OPERATIONAL",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3780",
+            "website": "peppo.co.id"
+        },
+        {
+            "id": "9cb1aba0-4975-4844-ba31-cee3dd9d0b42",
+            "nama_pse": "SUMBER INFORMASI TERPERINCI",
+            "nama_se": "SUMINTER.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3767",
+            "website": "suminter.id"
+        },
+        {
+            "id": "9cb1ab93-dfbb-4c86-91ee-e45ea7682cb8",
+            "nama_pse": "WIDIA EVA SARI",
+            "nama_se": "WIDIA EVA SARI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3762",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab94-0317-40d1-9c18-9f333690531f",
+            "nama_pse": "MOTION CRYPTO TECHNOLOGY",
+            "nama_se": "MOTION CRYPTO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3768",
+            "website": "motioncrypto.id"
+        },
+        {
+            "id": "9cb1ab94-0608-4191-b857-713dfa19d799",
+            "nama_pse": "TEKNOLOGI ASET DIGITAL",
+            "nama_se": "SISTEM ELEKTRONIK BLOCKNOM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3763",
+            "website": "blocknom.com"
+        },
+        {
+            "id": "9cb1ab94-08ac-40f3-ad52-2134daefd296",
+            "nama_pse": "GLOBAL CARS INDONESIA",
+            "nama_se": "CAR24.CO.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3764",
+            "website": "car24.co.id"
+        },
+        {
+            "id": "9cb1abab-3c79-46b9-8fb0-dd420901b267",
+            "nama_pse": "PLUANG EMAS SEJAHTERA",
+            "nama_se": "PLUANG",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3761",
+            "website": "pluang.com"
+        },
+        {
+            "id": "9cb1abab-5807-4db0-ac0e-3f811acdd0d3",
+            "nama_pse": "GOPAPUA CARSTENZ SISTEGRA",
+            "nama_se": "OPPA",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3765",
+            "website": "-"
+        },
+        {
             "id": "9cb1abab-7b9e-49ea-b8d4-6bb87138cf54",
             "nama_pse": "TOEKOKU NIAGA DIGITAL",
             "nama_se": "TOEKOKU",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-03-31",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3715",
             "website": "lingkarjateng.id"
-        },
-        {
-            "id": "9cb1aba0-0101-4d35-acb1-40ee7c50a700",
-            "nama_pse": "LINGKAR MEDIA PERS",
-            "nama_se": "LINGKAR TV",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3716",
-            "website": "lingkartv.com"
-        },
-        {
-            "id": "9cb1abaa-7ef8-4250-83d1-aae3f2457b77",
-            "nama_pse": "TOLONG TRANSFER PAMAN RYAN",
-            "nama_se": "PIRO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3713",
-            "website": "Piro.id"
-        },
-        {
-            "id": "9cb1ab92-f0bb-4c29-83a5-a50452c1feb5",
-            "nama_pse": "KELOLA TAGIHAN BERSAMA",
-            "nama_se": "PRONOTA.ID",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3726",
-            "website": "Pronota.id"
-        },
-        {
-            "id": "9cb1abaa-a506-4e86-9b23-6df0c75b858d",
-            "nama_pse": "LUMBUNG BUMI PERCUT",
-            "nama_se": "WWW.LUMBUNGBUMIPERCUT.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pangan",
-            "tanggal_terbit": "2022-03-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3727",
-            "website": "lumbungbumipercut.com"
-        },
-        {
-            "id": "9cb1abaa-a735-4cfc-8fab-e864761e6aed",
-            "nama_pse": "LUMBUNG BUMI PERCUT",
-            "nama_se": "WWW.LUMBUNGBUMI.NEWS",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3729",
-            "website": "lumbungbumi.news"
-        },
-        {
-            "id": "9cb1abaa-b885-42e9-8bd5-69b705cd02cf",
-            "nama_pse": "GRAMEDIA",
-            "nama_se": "MYVALUE",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-03-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3725",
-            "website": "myvalue.id"
-        },
-        {
-            "id": "9cb1ab93-3c17-45a4-a750-16fae8d6a01f",
-            "nama_pse": "KRIYA TEKNOLOGI MAKMUR",
-            "nama_se": "GETCRAFT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3721",
-            "website": "getcraft.com"
-        },
-        {
-            "id": "9cb1aba0-34f4-41e0-9861-36f699df5dc7",
-            "nama_pse": "ASURANSI BRI LIFE",
-            "nama_se": "MICROSITE BRI LIFE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-03-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3728",
-            "website": "cmicrosite.brilife.co.id"
-        },
-        {
-            "id": "9cb1aba9-bc26-4069-998c-78c42d68c453",
-            "nama_pse": "ASA TECHNOVASINDO",
-            "nama_se": "SOFTWARE DEVELOPMENT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3710",
-            "website": "asatechnovasindo.com"
-        },
-        {
-            "id": "9cb1ab92-8a2a-4f8f-a1bd-49aec32ef7ce",
-            "nama_pse": "AYOREAL FINANSIAL TEKNOLOGI",
-            "nama_se": "AYOREAL",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3708",
-            "website": "ayoreal.com"
         }
     ],
-    "processingTimeMs": 85,
+    "processingTimeMs": 7,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 312,
     "totalPages": 383

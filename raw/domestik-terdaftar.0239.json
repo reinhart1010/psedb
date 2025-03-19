@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abea-a407-4990-801a-48901753162c",
+            "nama_pse": "AIA FINANCIAL",
+            "nama_se": "AIA INDONESIA DPLK EACCESS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7600",
+            "website": "aia-financial.co.id"
+        },
+        {
+            "id": "9cb1abc4-5e35-42d2-8613-2595087edccb",
+            "nama_pse": "SUZUKI INDOMOBIL SALES",
+            "nama_se": "WEBSITE SUZUKI INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7611",
+            "website": "Suzuki.co.id"
+        },
+        {
+            "id": "9cb1abc4-6175-4a84-b6d4-ae9a31d03c40",
+            "nama_pse": "BANK PERKREDITAN RAKYAT ARMINDO KENCANA",
+            "nama_se": "PT BPR ARMINDO KENCANA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7599",
+            "website": "bprarmindokencana.co.id"
+        },
+        {
+            "id": "9cb1abea-a88a-4d82-860c-60593bba2169",
+            "nama_pse": "BANK KB BUKOPIN",
+            "nama_se": "VIOLA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8108",
+            "website": "bukopin.co.id"
+        },
+        {
+            "id": "9cb1abb8-8ace-4505-ab33-b5cbf094c8c4",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH JAWA TENGAH",
+            "nama_se": "INTERNET BANKING PERSONAL DAN BUSINESS BANK JATENG",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7882",
+            "website": "ibanking.bankjateng.co.id"
+        },
+        {
+            "id": "9cb1abb8-8cd1-4c29-a514-c2d25989b487",
+            "nama_pse": "RUMAH JUARA INDONESIA",
+            "nama_se": "RUMAH JUARA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7603",
+            "website": "rumahjuara.id"
+        },
+        {
+            "id": "9cb1abb8-8ea2-454d-9f90-d029597e9183",
+            "nama_pse": "BANK KB BUKOPIN",
+            "nama_se": "KB BUKOPIN E-FORM LAYANAN NASBAH",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7604",
+            "website": "etf.bukopin.co.id"
+        },
+        {
+            "id": "9cb1abc4-71c3-4e0e-ad9f-9ffd0be23d7f",
+            "nama_pse": "MITLA ITLABORATORY INDONESIA",
+            "nama_se": "HELLO BABY PROGRAM INDONESIA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7606",
+            "website": "mitla.co.id"
+        },
+        {
+            "id": "9cb1abb8-9069-49c0-9f16-556912d6288b",
+            "nama_pse": "RUMAH GADAI BANDUNG",
+            "nama_se": "RUMAH GADAI BANDUNG",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7605",
+            "website": "rumahgadaibandung.com"
+        },
+        {
+            "id": "9cb1abea-ac03-4d4c-acdd-fb811e86d8a2",
+            "nama_pse": "BPR BANK PASAR KABUPATEN TEMANGGUNG",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7613",
+            "website": "bankpasartemanggung.co.id"
+        },
+        {
             "id": "9cb1abea-b162-4cbe-a987-df41206da36a",
             "nama_pse": "KRIDA UPAYA TUNGGAL",
             "nama_se": "KRIDA UPAYA TUNGGAL",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7643",
             "website": "-"
-        },
-        {
-            "id": "9cb1abea-e8ba-4235-a861-ab02751955a5",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
-            "nama_se": "WEBSITE BANK KALTENG",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7645",
-            "website": "bankkalteng.co.id"
-        },
-        {
-            "id": "9cb1abea-ec04-4614-a543-fa5d030a8994",
-            "nama_pse": "BANK PERKREDITAN RAKYAT RINI BHAKTINUSA",
-            "nama_se": "BPR RINI BHAKTINUSA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7650",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abc4-badc-4403-82e3-9491e54bf9ce",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT CELEBES MITRA PERDANA",
-            "nama_se": "WEBSITE BPR",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7646",
-            "website": "bprcelebes.co.id"
-        },
-        {
-            "id": "9cb1abc4-bf2f-4540-9e50-93116a9e5261",
-            "nama_pse": "ASURANSI CENTRAL ASIA",
-            "nama_se": "KLIKACA.COM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7647",
-            "website": "klikaca.com"
-        },
-        {
-            "id": "9cb1abea-eee5-4847-89b3-d1a54e74e988",
-            "nama_pse": "AIA FINANCIAL",
-            "nama_se": "AIA INDONESIA IPOS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7649",
-            "website": "dc2.aia-financial.co.id"
-        },
-        {
-            "id": "9cb1abea-f282-4370-8903-210eebab96f0",
-            "nama_pse": "LANCAR SUKSES LANGGENG",
-            "nama_se": "FOOD TRAVEL GALLERY (LANCAR SUKSES LANGGENG)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7648",
-            "website": "lawrentechnologyindonesia.com"
-        },
-        {
-            "id": "9cb1abea-f599-4992-8f3a-7852fb17371b",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT DANA RAYA JAWA TIMUR",
-            "nama_se": "PT. BPR DANA RAYA JAWA TIMUR",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7651",
-            "website": "danarayajatim.co.id"
-        },
-        {
-            "id": "9cb1abea-f901-4910-9894-f0e4096e12c4",
-            "nama_pse": "BANK SYARIAH INDONESIA",
-            "nama_se": "SABI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7653",
-            "website": "sabihasanahku.bankbsi.co.id"
-        },
-        {
-            "id": "9cb1abb8-a6af-46c8-b301-283d213efe37",
-            "nama_pse": "BANK PERKREDITAN RAKYAT MITRA PATI MANDIRI",
-            "nama_se": "PT BPR MITRA PATI MANDIRI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7656",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb8-a9e5-4722-bed9-80def24160d2",
-            "nama_pse": "BANK KB BUKOPIN",
-            "nama_se": "BCONNECT",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8080",
-            "website": "bconnect.bukopin.co.id"
         }
     ],
-    "processingTimeMs": 7,
+    "processingTimeMs": 28,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 239,
     "totalPages": 383

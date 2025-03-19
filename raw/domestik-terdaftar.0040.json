@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9d0548c8-c6e9-4322-a038-d8d4e1548db5",
+            "nama_pse": "GOOGLE INDONESIA",
+            "nama_se": "GOOGLE MENYEDIAKAN LAYANAN DARING TERMASUK APLIKASI MOBILE YOUTUBE, PT GOOGLE INDONESIA ADALAH PERUSAHAAN LOKAL GOOGLE UNTUK KEGIATAN YANG DILAKUKAN DI INDONESIA YG MENCAKUP PENYEDIAAN LAYANAN PEMASARAN \u0026 DUKUNGAN DI INDONESIA UTK LAYANAN DARING DI ATAS.",
+            "sektor": "Sektor Energi dan Sumber Daya Mineral, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20405",
+            "website": "-"
+        },
+        {
+            "id": "9d043831-0ac4-4af6-ac1e-ad8feff4603c",
+            "nama_pse": "SOKRATECH TEKNOLOGI INDONESIA",
+            "nama_se": "SOKRATECH",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20402",
+            "website": "sokratech.id"
+        },
+        {
+            "id": "9d01264c-f57f-4afe-9dd7-83fe785bf33f",
+            "nama_pse": "JEJAK KASUS GROUP",
+            "nama_se": "jejakperkara.id",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20400",
+            "website": "jejakperkara.id"
+        },
+        {
+            "id": "9d01eba7-eb00-4004-a186-3277ce470bcb",
+            "nama_pse": "SAUMATA TEKNOSAINS GLOBAL",
+            "nama_se": "QASSA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20401",
+            "website": "qassa.id"
+        },
+        {
+            "id": "9cff6adf-13cb-4270-8b08-071e68d6ba9f",
+            "nama_pse": "SARANA SUMATERA BARAT VENTURA",
+            "nama_se": "www.sumbarventura.co.id",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-09-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20384",
+            "website": "sumbarventura.co.id"
+        },
+        {
+            "id": "9cff478e-3a89-4964-9e2d-9dfc246c8716",
+            "nama_pse": "MAJA INDO CRAFT",
+            "nama_se": "MAJA INDO CRAFT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-09-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20382",
+            "website": "majaindocraft.com"
+        },
+        {
+            "id": "9cff0096-170a-45af-bda5-141ef2372caf",
+            "nama_pse": "FIRST FAMILY NETWORK",
+            "nama_se": "LAYANAN INTERNET LOKAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20377",
+            "website": "-"
+        },
+        {
+            "id": "9cff2cec-11cf-46f2-bb83-76d3843e797b",
+            "nama_pse": "AP\u0026M INDONESIA",
+            "nama_se": "IDN FINANCIALS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20379",
+            "website": "idnfinancials.com"
+        },
+        {
+            "id": "9cff245d-6b6e-4887-a322-e92fb2494755",
+            "nama_pse": "MEYZ BUSINESS STRATEGY",
+            "nama_se": "MEYZ DMS",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-09-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20378",
+            "website": "-"
+        },
+        {
+            "id": "9cff6bb9-452a-4b15-8cb3-37d96afa2ce5",
+            "nama_pse": "JASA",
+            "nama_se": "MJASA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-09-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20386",
+            "website": "kospinjasa.com"
+        },
+        {
             "id": "9cff6479-437b-4026-80fa-2f7b286eeb8d",
             "nama_pse": "DAILY DINAMIKA KREASI",
             "nama_se": "FEMALE DAILY STUDIO",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-09-12",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20353",
             "website": "agriliteknologi.com"
-        },
-        {
-            "id": "9cfae8b1-a1ce-4471-b5c6-c496f486d87e",
-            "nama_pse": "IMTIYAZ RIHLAH WISATA",
-            "nama_se": "IMTIYAZ UMRAH",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20335",
-            "website": "imtiyazumrah.com"
-        },
-        {
-            "id": "9ced6014-84f9-406d-b793-b47a182c3648",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
-            "nama_se": "SATUNADI HIX",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20348",
-            "website": "hix.satunadi.id"
-        },
-        {
-            "id": "9cfc3fcc-fef8-4f28-af40-9e8825361cd2",
-            "nama_pse": "RINDI NURIS VELAROSDELA",
-            "nama_se": "BERITAKOREA.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20352",
-            "website": "-"
-        },
-        {
-            "id": "9cb3bdde-cce9-416d-83ed-d0c01b7803cf",
-            "nama_pse": "CERAH TEKNOLOGI BERSAMA",
-            "nama_se": "TOPUPLEGEND",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-09-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20350",
-            "website": "topuplegend.com"
-        },
-        {
-            "id": "9cfaf20a-67e6-4380-bb75-fe9f90626f57",
-            "nama_pse": "ANUGERAH BERSAMA TEKNOLOGI",
-            "nama_se": "OPET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20336",
-            "website": "-"
-        },
-        {
-            "id": "9cfb4b1c-4da7-46e7-97fb-550c6c63a693",
-            "nama_pse": "RESERVASI MULTI TEKNOLOGI",
-            "nama_se": "ADDTIX.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20338",
-            "website": "addtix.id"
-        },
-        {
-            "id": "9cfb6411-e565-4b34-8285-3a4bad5b3fde",
-            "nama_pse": "RADIO BOSS KARYA MANDIRI",
-            "nama_se": "RADIO BOSS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20344",
-            "website": "radiobossfm.com"
-        },
-        {
-            "id": "9cfb6448-2c6e-4699-bb15-8c5f2ed96ed8",
-            "nama_pse": "SATRIA KENCANA MEDIKA",
-            "nama_se": "emedic.id",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-09-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20345",
-            "website": "emedic.id"
-        },
-        {
-            "id": "9cfb685f-18e0-499f-9dca-de504a180e36",
-            "nama_pse": "GOOD DOCTOR TECHNOLOGY INDONESIA",
-            "nama_se": "APLIKASI GOOD DOCTOR",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-09-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20346",
-            "website": "-"
-        },
-        {
-            "id": "9cfb8712-9553-4eee-ac52-dc35300b7760",
-            "nama_pse": "INTAN SOLUSI NUSANTARA",
-            "nama_se": "GP PAYMENT",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-09-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20347",
-            "website": "garutprospectindonesia.com"
         }
     ],
     "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 40,
     "totalPages": 383

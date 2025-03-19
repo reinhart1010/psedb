@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb3-ae8b-4f11-85b8-14fc89199a42",
+            "nama_pse": "LAZTER COM INDONESIA",
+            "nama_se": "LAZTER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6491",
+            "website": "lazter.com"
+        },
+        {
+            "id": "9cb1abb3-b073-4ab8-b9b2-7bde0c8ca421",
+            "nama_pse": "SEKITAR TEKNOLOGI NUSANTARA",
+            "nama_se": "SETOKO",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6492",
+            "website": "setoko.co"
+        },
+        {
+            "id": "9cb1abbf-9b00-4e2f-a68c-36fb2ff086b6",
+            "nama_pse": "INSPIRASI MEDIA KREATIF",
+            "nama_se": "INSPIRASIBIZ",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6493",
+            "website": "inspirasi.biz"
+        },
+        {
+            "id": "9cb1abb4-d94c-417b-94d4-e968d5216c49",
+            "nama_pse": "TB HADYANSYAH",
+            "nama_se": "LAYAR FILM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6494",
+            "website": "layarfilm.com"
+        },
+        {
+            "id": "9cb1abb3-b35a-42a4-a8bd-6ec62b94c969",
+            "nama_pse": "USAHA KARYA BINA MANDIRI",
+            "nama_se": "BPR APPS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6495",
+            "website": "ebpr.co.id"
+        },
+        {
+            "id": "9cb1abb3-b53f-4901-ba5b-b34d1324bd3c",
+            "nama_pse": "ANANDA RAUF MAUDUDI",
+            "nama_se": "MEDIA PENGEMBANGAN TEKNOLOGI INDONESIA JAYA(TECH MEDIA DEVELOPMENT)",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6496",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb3-b745-4138-9c82-c0ba424e8606",
+            "nama_pse": "TB HADYANSYAH",
+            "nama_se": "KPOP TODAY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6497",
+            "website": "kpop.today"
+        },
+        {
+            "id": "9cb1abbf-a58e-4a63-b328-66ec92c45959",
+            "nama_pse": "ASURANSI ALLIANZ LIFE INDONESIA",
+            "nama_se": "ALLIANZ LIFECHANGER PORTAL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6499",
+            "website": "allianzlifechanger.com"
+        },
+        {
+            "id": "9cb1abb4-df9e-4ff2-b3e5-f031a0e3f9bb",
+            "nama_pse": "VESPERIA GLOBAL MERDEKA",
+            "nama_se": "VESPERIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6500",
+            "website": "vesperia.id"
+        },
+        {
+            "id": "9cb1abb4-f271-40e8-968f-dce55ff975e9",
+            "nama_pse": "ADITAMA",
+            "nama_se": "PANDAVA MEDIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6501",
+            "website": "pandavamedia.net"
+        },
+        {
             "id": "9cb1abb4-f48a-49b9-b868-d67cf1c09604",
             "nama_pse": "TRIMEGAH ASSET MANAGEMENT",
             "nama_se": "ITRAM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-17",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5993",
             "website": "carik.id"
-        },
-        {
-            "id": "9cb1abb1-ce1b-4234-996d-bbf33e00568b",
-            "nama_pse": "MULTI KIRANA ABADI",
-            "nama_se": "OKA SYAHPUTRA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5997",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb1-d17c-4a07-b73b-5484f2f9bc28",
-            "nama_pse": "MULTI KIRANA ABADI",
-            "nama_se": "PT. MULTI KIRANA ABADI",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5998",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb1-d4d6-4c9a-bc1a-3ad9b65dfab0",
-            "nama_pse": "ACEH MULTI PAYMENT",
-            "nama_se": "ACEH MULTI PAYMENT",
-            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5999",
-            "website": "ahafidstore.jualan.me"
-        },
-        {
-            "id": "9cb1abb1-d7e0-462c-abbe-45ff2f2166fa",
-            "nama_pse": "MULTI KIRANA ABADI",
-            "nama_se": "MULTI KIRANA ABADI",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6000",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba8-00be-4364-8a08-c0ca6b709d6c",
-            "nama_pse": "MUHAMMAD IRSYAD AZHAR",
-            "nama_se": "ASTOREPAY",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6001",
-            "website": "astoree.my.id"
-        },
-        {
-            "id": "9cb1ab9d-28dd-4ab7-824c-2fecc4372a61",
-            "nama_pse": "CAHAYA MULTI SOLUTION",
-            "nama_se": "ISTANA RELOAD",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6002",
-            "website": "istanareload.id"
-        },
-        {
-            "id": "9cb1aba8-041f-4e51-b59f-031a4d43babf",
-            "nama_pse": "MUHAMMAD YUSUF RIFALDI",
-            "nama_se": "TOPUP STORE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6003",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab9d-2c12-4c23-bc31-124ad7b7995e",
-            "nama_pse": "CAHAYA MULTI SOLUTION",
-            "nama_se": "JELITA RELOAD",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6004",
-            "website": "jelitareload.id"
-        },
-        {
-            "id": "9cb1aba8-05f3-46f8-80b6-e20a00371e88",
-            "nama_pse": "CLASNET",
-            "nama_se": "SISTEM INFORMASI DESA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6005",
-            "website": "banjarnegara-desa.id"
-        },
-        {
-            "id": "9cb1aba8-080e-4d92-ac04-2b57dedf2f50",
-            "nama_pse": "FARID ARIS P",
-            "nama_se": "NURULPAY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6006",
-            "website": "nurulpay.com"
         }
     ],
     "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 275,
     "totalPages": 383

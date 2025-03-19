@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9e25f5d1-bce9-4169-83e4-b58ac0fff8aa",
+            "nama_pse": "DITEC SOLID NETWORKING",
+            "nama_se": "PT DITEC SOLID NETWORKING",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22313",
+            "website": "-"
+        },
+        {
+            "id": "9e24eb86-afb1-4632-9c20-23f88e5ff0df",
+            "nama_pse": "HUMMA TEKNOLOGI INDONESIA",
+            "nama_se": "HUMMATECH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22298",
+            "website": "hummatech.com"
+        },
+        {
+            "id": "9e2529ec-911a-4691-a2e3-0aafbe4c6dfe",
+            "nama_pse": "LENTERA INSPIRASI TEKNOLOGI",
+            "nama_se": "LIT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22304",
+            "website": "lit-techs.com"
+        },
+        {
+            "id": "9e252d38-00ec-45ad-a829-c6db75dab7e4",
+            "nama_pse": "JAWA INTI SEJAHTERA",
+            "nama_se": "PT. JAWA INTI SEJAHTERA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22305",
+            "website": "-"
+        },
+        {
+            "id": "9e252d89-c669-4db4-9066-7291ee14d552",
+            "nama_pse": "BIO MEDIKA MANDIRI JAYA",
+            "nama_se": "KLINIK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2025-02-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22306",
+            "website": "klinik.biomedika.co.id"
+        },
+        {
+            "id": "9e25334f-bf30-4f6f-951f-b7711454468f",
+            "nama_pse": "DAS MAP INDONESIA",
+            "nama_se": "DASMAP.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22309",
+            "website": "dasmap.com"
+        },
+        {
+            "id": "9e253ee2-4684-430c-9fd6-d5cc33082179",
+            "nama_pse": "SINTESA JAYA NET",
+            "nama_se": "LAYANAN INTERNET LOKAL ( RT RW NET )",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22310",
+            "website": "-"
+        },
+        {
+            "id": "9e25091b-e384-4fc9-a524-efc557d44563",
+            "nama_pse": "BAMBANG SUHENDRO",
+            "nama_se": "FLAZZGAME",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-02-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22301",
+            "website": "flazzgame.shop"
+        },
+        {
+            "id": "9e2424a5-6b20-4d46-b6e3-95dabfedc6e3",
+            "nama_pse": "SLAMET BIN RAKIDIN",
+            "nama_se": "SALAAMNET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22294",
+            "website": "-"
+        },
+        {
+            "id": "9e24a784-b368-4884-803c-bef2333e5347",
+            "nama_pse": "BERRY TRADA MULTIPERSADA",
+            "nama_se": "BERRYLABS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22295",
+            "website": "-"
+        },
+        {
             "id": "9e2521c4-407c-4fd2-88e7-3ae01b8b3ecf",
             "nama_pse": "AKARMAS INTI BUMI",
             "nama_se": "AKARMAS",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2025-02-03",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22257",
             "website": "-"
-        },
-        {
-            "id": "9e1fc19b-b738-4714-b9e7-5f7a72929a16",
-            "nama_pse": "YOSI UTAMA SEJAHTERA",
-            "nama_se": "PT YOSI UTAMA SEJAHTERA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22258",
-            "website": "jurnaldaerah.com"
-        },
-        {
-            "id": "9e1f71f4-597d-4b86-b954-6b826ef63bd8",
-            "nama_pse": "SARANA TRANSFORMASI DIGITAL",
-            "nama_se": "midnusa",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22256",
-            "website": "midnusa.com"
-        },
-        {
-            "id": "9e1e0131-6f4f-4b3b-b5d2-1909b79c06b7",
-            "nama_pse": "RISE GRAFIKA",
-            "nama_se": "RISE GRAFIKA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22242",
-            "website": "rfrise.com"
-        },
-        {
-            "id": "9e1e0122-731e-4ecc-8cee-1ca236e6aed6",
-            "nama_pse": "KARYA LAKON UTAMA",
-            "nama_se": "LAKON",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22241",
-            "website": "lakonesia.com"
-        },
-        {
-            "id": "9e1ee516-925a-40e8-a8c0-f141a8b8afa8",
-            "nama_pse": "FANRUAN SOFTWARE INDONESIA",
-            "nama_se": "PT FANRUAN SOFTWARE INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22247",
-            "website": "fanruan.com"
-        },
-        {
-            "id": "9e1ec6f0-41bb-421e-9a6b-88dd71e65106",
-            "nama_pse": "ROSITA",
-            "nama_se": "APIGAMEHUB",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22246",
-            "website": "apigamehub.com"
-        },
-        {
-            "id": "9e1eadbf-e0ee-420f-a9fa-897e2f20706f",
-            "nama_pse": "INDONESIA DIGITAL EXCHANGE",
-            "nama_se": "DIGITALEXCHANGE.ID",
-            "sektor": "Sektor Perdagangan, Sektor Keuangan",
-            "tanggal_terbit": "2025-02-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22244",
-            "website": "digitalexchange.id"
-        },
-        {
-            "id": "9e1ead69-776a-4636-be2b-91713f4e44e3",
-            "nama_pse": "PROTEMUS DANA BERSAMA",
-            "nama_se": "PRODANA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2025-02-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22243",
-            "website": "prodana.id"
-        },
-        {
-            "id": "9e1ec1b2-23a4-4927-a87e-b6292f1e3c3b",
-            "nama_pse": "ALDHITYA PRASETYA",
-            "nama_se": "WARUNG KODING",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22245",
-            "website": "warungkoding.com"
-        },
-        {
-            "id": "9e1fc3fc-5c15-440b-a7f0-c4c4a5c7c393",
-            "nama_pse": "HERRU HARDIYANSAH",
-            "nama_se": "seibukm.com",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22259",
-            "website": "sribukm.com"
         }
     ],
     "processingTimeMs": 0,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 9,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9d3ff32d-d31f-4005-b863-81464343ddf5",
+            "nama_pse": "XYNEXIS INTERNATIONAL",
+            "nama_se": "PT XYNEXIS INTERNATIONAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20781",
+            "website": "xynexis.com"
+        },
+        {
+            "id": "9d3feb3f-8f3f-4342-9263-34e9280e6ff4",
+            "nama_pse": "ANUGERAH DIGITAL INDONESIA",
+            "nama_se": "SOLUSIKU",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-10-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20780",
+            "website": "solusi-ku.id"
+        },
+        {
+            "id": "9d3f9a81-91e9-491f-aae2-376dd3312356",
+            "nama_pse": "COSMORIA SOLUSI BISNIS",
+            "nama_se": "cosmoria.biz.id",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20771",
+            "website": "cosmoria.biz.id"
+        },
+        {
+            "id": "9d404826-441a-4a3c-b886-b929d128283c",
+            "nama_pse": "GALIH ROSWANDI",
+            "nama_se": "BAYWIRA MAJU BERSAMA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20784",
+            "website": "kedain.roswandi.com"
+        },
+        {
+            "id": "9cb1ac86-51ee-461b-8809-d0d7c8865ce3",
+            "nama_pse": "RUSUNDA MEDIKA ABADI",
+            "nama_se": "EMR RUSUNDA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-10-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20776",
+            "website": "emrrusunda.com"
+        },
+        {
+            "id": "9d3e1b5c-20c9-486d-958d-280df9ab21ef",
+            "nama_pse": "GLOBAL UNGGUL MANDIRI",
+            "nama_se": "PAXEL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-10-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20764",
+            "website": "-"
+        },
+        {
+            "id": "9d3d86ed-958a-40c9-9d45-6257929da845",
+            "nama_pse": "CANGGU VACATION AGENT",
+            "nama_se": "CANGGU VACATION AGENT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-10-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20756",
+            "website": "cangguagency.com"
+        },
+        {
+            "id": "9d3e01a2-4eee-47b0-b8a8-54a7a2837351",
+            "nama_pse": "DWIE KOMPUTER JABAR",
+            "nama_se": "LAYANAN INTERNET LOKAL (RT RW NET) DWIE KOMPUTER JABAR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20761",
+            "website": "-"
+        },
+        {
+            "id": "9d3df64a-e2f2-40ae-a829-95058fd707bf",
+            "nama_pse": "GINESIA DIGITAL INDONESIA",
+            "nama_se": "GINESIA DIGITAL INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20760",
+            "website": "pustakadigital.id"
+        },
+        {
+            "id": "9d3e1b75-68ae-4810-83b8-f7f838b36b50",
+            "nama_pse": "GLOBAL UNGGUL MANDIRI",
+            "nama_se": "PAXELMARKET.CO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-10-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20765",
+            "website": "paxelmarket.co"
+        },
+        {
             "id": "9d3d579f-d2e3-4e5c-a5ef-829c7eb2800c",
             "nama_pse": "HUNTER SMITH NUSANTARA",
             "nama_se": "HUNTER",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-10-10",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20718",
             "website": "wanda-dealer.wahanaartha.com"
-        },
-        {
-            "id": "9d3585c4-6047-4b52-992d-b03c79e8b553",
-            "nama_pse": "SERAYA MAKMUR INDONESIA",
-            "nama_se": "SMI",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-10-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20715",
-            "website": "-"
-        },
-        {
-            "id": "9d358ac7-5d4f-4102-9699-60c3610ba8b5",
-            "nama_pse": "RIZKISTA ICHSAN HARNANTO",
-            "nama_se": "EMR RIVVANA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-10-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20717",
-            "website": "-"
-        },
-        {
-            "id": "9d35826f-6e71-4939-8106-5f524cda53a4",
-            "nama_pse": "MUSTIKA MEDIA NUSANTARA",
-            "nama_se": "ontv.co.id",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20712",
-            "website": "ontv.co.id"
-        },
-        {
-            "id": "9d355831-b435-46c4-a976-cc5c7551ba7d",
-            "nama_pse": "DANA KINI FINANCE",
-            "nama_se": "MOBILE APPS DANAKINI FINANCE BERBASIS IOS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-10-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20711",
-            "website": "-"
-        },
-        {
-            "id": "9d35e7cf-b75c-4dde-97aa-5b37cc496f4a",
-            "nama_pse": "TRANSFORMASI RUMAH DIGITAL",
-            "nama_se": "VOLGY",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20724",
-            "website": "volgy.ai"
-        },
-        {
-            "id": "9d35dcf6-81e1-41dd-83fd-09d182d3fcbe",
-            "nama_pse": "PARAMA TRIPTA RAKSA",
-            "nama_se": "ORBAN TELEMEDICINE",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-10-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20723",
-            "website": "-"
-        },
-        {
-            "id": "9d35f9fc-2a84-4197-9628-46e732d681b2",
-            "nama_pse": "EBIZ PRIMA NUSA",
-            "nama_se": "WEBSITE EBIZMARK",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20725",
-            "website": "ebizmark.id"
-        },
-        {
-            "id": "9d35fcb3-fc1f-4157-8510-5c82606bfd53",
-            "nama_pse": "HYBRID LEARNING OCEAN",
-            "nama_se": "iBlooming.ai",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20726",
-            "website": "iblooming.ai"
-        },
-        {
-            "id": "9d3584e2-8f43-470d-8c66-8510d394a7a8",
-            "nama_pse": "RANDEGANSARI HUSADA BAROKAH",
-            "nama_se": "SIMRS KHANZA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-10-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20714",
-            "website": "rsrandegansari.com"
-        },
-        {
-            "id": "9d358286-a48d-44fb-a8d8-590986bdb9b0",
-            "nama_pse": "NALAGENETIK RISET INDONESIA",
-            "nama_se": "NALA CLINICAL DECISION SUPPORT™ CORE",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
-            "tanggal_terbit": "2024-10-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20713",
-            "website": "portal.nalagenetics.com"
         }
     ],
-    "processingTimeMs": 6,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 33,
     "totalPages": 383

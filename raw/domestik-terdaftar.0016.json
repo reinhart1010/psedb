@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9dd47509-b96c-4acf-9bfd-ddf35a86ba64",
+            "nama_pse": "NUR WAHYU WICAKSONO",
+            "nama_se": "KOTANOPAN TECHNO ELT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21938",
+            "website": "kotanopan.co.id"
+        },
+        {
+            "id": "9dd42f39-e0de-489a-a44c-85a1c041a5eb",
+            "nama_pse": "AMAR NETWORK MEDIA",
+            "nama_se": "PT AMAR NETWORK MEDIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21936",
+            "website": "-"
+        },
+        {
+            "id": "9dd3acf5-116b-45d8-b2db-da3321100182",
+            "nama_pse": "ARUNIKA INDO MIRATAMA",
+            "nama_se": "AIM CONSULTANT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21935",
+            "website": "aim-consultant.id"
+        },
+        {
+            "id": "9dd2f8a6-737f-4eeb-95af-3ae496f4359a",
+            "nama_pse": "SPEAKLAH CREATIVE HUB",
+            "nama_se": "SPEAKLAH CREATIVE HUB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21932",
+            "website": "-"
+        },
+        {
+            "id": "9dd26480-d2eb-4f71-ad90-7a9c0d6e7880",
+            "nama_pse": "VICTORIA INVESTAMA",
+            "nama_se": "MY VICTORIA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-12-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21929",
+            "website": "myvictoria.co.id"
+        },
+        {
+            "id": "9dd2ef7b-ada7-48ad-b9ce-3bcc54a17e6d",
+            "nama_pse": "BLUD SMK 2 KOLAKA",
+            "nama_se": "BLUD SMK 2 KOLAKA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21931",
+            "website": "-"
+        },
+        {
+            "id": "9dd2ba32-799a-43da-9039-6261d0b4e4e8",
+            "nama_pse": "CREDIT SOLUTIONS INDONESIA",
+            "nama_se": "CSI DIGITAL COLLECTION SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21930",
+            "website": "-"
+        },
+        {
+            "id": "9dd30296-af63-46e0-94bd-6199b9c20089",
+            "nama_pse": "BERSAMA LEBIH SEMANGAT SEJAHTERA",
+            "nama_se": "IRWAN EDWARD URLOLO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21933",
+            "website": "squad.co.id"
+        },
+        {
+            "id": "9dd24bd4-9ea5-48ed-9dbe-2dc1c73f3e0e",
+            "nama_pse": "MULTI MEDIKA MAHADATA",
+            "nama_se": "dokteremr",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-12-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21927",
+            "website": "dokteremr.com"
+        },
+        {
+            "id": "9dd258f2-24bd-48e6-982f-7f44a1ed4185",
+            "nama_pse": "SUPARDI NETHANEL HUSAIN",
+            "nama_se": "SUPARDI NETHANEL HUSAIN",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21928",
+            "website": "zanio.co.id"
+        },
+        {
             "id": "9dd31d90-e6eb-4c9c-9d29-e1fde4193449",
             "nama_pse": "CIPTA KARYA MINING TRADER",
             "nama_se": "PT. CIPTA KARYA MINING TRADER",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-12-21",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21885",
             "website": "sahabatpolri.id"
-        },
-        {
-            "id": "9dc61f07-5479-4159-baf6-b7b75be46d68",
-            "nama_pse": "ABDULLAH RASJID K",
-            "nama_se": "R-NET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21882",
-            "website": "-"
-        },
-        {
-            "id": "9dc6323f-78cf-426e-bbc0-0e154896452d",
-            "nama_pse": "TEKNO GLOBAL CYBER INDO",
-            "nama_se": "PT TEKNO GLOBAL CYBER INDO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21883",
-            "website": "-"
-        },
-        {
-            "id": "9dc63844-e62f-4554-9d43-6f9adfae9b22",
-            "nama_pse": "RUMAH SAKIT ISLAM SURABAYA",
-            "nama_se": "TELERADIOLOGI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21884",
-            "website": "-"
-        },
-        {
-            "id": "9dc72df2-a1f6-42ef-87b7-1cbb8068f6d3",
-            "nama_pse": "AMRIN",
-            "nama_se": "TEKNIK SUKSES JAYA NET TEKNOLOGI INFORMASI DAN KOMUNIKASI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21887",
-            "website": "-"
-        },
-        {
-            "id": "9dc6ebd1-5c4d-4359-86a3-32cddea623c1",
-            "nama_pse": "LINKBOT TECH INDONESIA",
-            "nama_se": "JASA PENYALUR TENAGA KERJA JARAK JAUH",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-12-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21886",
-            "website": "-"
-        },
-        {
-            "id": "9dc73fe3-8dac-42d4-8fc5-6084f1220eee",
-            "nama_pse": "YUANQUAN STEEL INDONESIA",
-            "nama_se": "YUANQUAN STEEL INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21888",
-            "website": "-"
-        },
-        {
-            "id": "9dc4c677-34a8-4e89-a1f1-26f0e0c0636e",
-            "nama_pse": "RODA EXPRESS SUKSES MANDIRI",
-            "nama_se": "PT RODA EKSPRESS SUKSES MANDIRI",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi",
-            "tanggal_terbit": "2024-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21876",
-            "website": "binuii.com"
-        },
-        {
-            "id": "9dc4216e-12c7-4ae3-8284-2739f1d9994c",
-            "nama_pse": "TOKOTUA FURQAN NETWORK",
-            "nama_se": "PT TOKOTUA FURQAN NETWORK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21866",
-            "website": "-"
-        },
-        {
-            "id": "9dc4a04f-1c07-44ce-ab01-338b8a876858",
-            "nama_pse": "RISAL",
-            "nama_se": "KIOS ORANJE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21874",
-            "website": "-"
-        },
-        {
-            "id": "9dc49ce9-db6e-41b6-8e6c-f913479a065c",
-            "nama_pse": "PURI DIGITAL OUTPUT",
-            "nama_se": "SMART SYSTEM FIDUSIA (SSF)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-12-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21872",
-            "website": "ssf.co.id"
         }
     ],
-    "processingTimeMs": 175,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 16,
     "totalPages": 383

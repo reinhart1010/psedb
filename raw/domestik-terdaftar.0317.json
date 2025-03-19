@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab9e-57ca-4ea3-88cc-065e8fa4167d",
+            "nama_pse": "MULTI PRATAMA ASIA",
+            "nama_se": "MULTI PRATAMA ASIA - MPA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3517",
+            "website": "multijasasolusindo.id"
+        },
+        {
+            "id": "9cb1ab9e-59d4-45a0-91e0-08a76655f515",
+            "nama_pse": "TEKNOLOGI PERDANA INDONESIA",
+            "nama_se": "MAXIM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3513",
+            "website": "id.taximaxim.com"
+        },
+        {
+            "id": "9cb1ab9e-5bb7-482f-a3a3-06158c05a69b",
+            "nama_pse": "QONTAK TUMBUH MAKMUR",
+            "nama_se": "QONTAK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3515",
+            "website": "qontak.com"
+        },
+        {
+            "id": "9cb1ab86-f41e-4e60-ae2e-6a7a870e2000",
+            "nama_pse": "DOCTOR ANYWHERE INDONESIA",
+            "nama_se": "DOCTOR ANYWHERE",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3498",
+            "website": "doctoranywhere.com"
+        },
+        {
+            "id": "9cb1ab8e-afe3-4efb-8825-63d9dd84015c",
+            "nama_pse": "TOKENIZE INDO UTAMA",
+            "nama_se": "TOKENIZE XCHANGE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3501",
+            "website": "tokenize.id"
+        },
+        {
+            "id": "9cb1ab87-160d-43eb-9dcc-3469ca1873bc",
+            "nama_pse": "TEES PRATAMA INDONESIA",
+            "nama_se": "OFFICEBEE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3502",
+            "website": "Officebee.co"
+        },
+        {
+            "id": "9cb1ab7e-b9fb-4830-be9d-e5bce924fd7f",
+            "nama_pse": "ARTHA TEKNOLOGI MAHAKARYA",
+            "nama_se": "KAMPUSKITA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3503",
+            "website": "kampuskita.co"
+        },
+        {
+            "id": "9cb1ab87-25a5-4176-a16b-87ec98be0b77",
+            "nama_pse": "DELAPAN BERUANG MADU",
+            "nama_se": "BEETU",
+            "sektor": "Sektor Transportasi, Sektor Transportasi",
+            "tanggal_terbit": "2022-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3500",
+            "website": "beetu.id"
+        },
+        {
+            "id": "9cb1ab7e-bce6-46eb-916d-19559adf8a9c",
+            "nama_pse": "CODEHOUSE TEKNOLOGI OASE",
+            "nama_se": "CODEHOUSE TEKNOLOGI OASE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3499",
+            "website": "codehouse.id"
+        },
+        {
+            "id": "9cb1ab8e-b92f-4926-8c99-54f05550341b",
+            "nama_pse": "BUANA CAPITAL SEKURITAS",
+            "nama_se": "TREN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-03-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3504",
+            "website": "buanacapital.com"
+        },
+        {
             "id": "9cb1ab87-2d81-4804-8bb1-c85587215451",
             "nama_pse": "BUANA CAPITAL SEKURITAS",
             "nama_se": "TRE N",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-03-08",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3465",
             "website": "pasarnow.com"
-        },
-        {
-            "id": "9cb1ab8e-999a-4414-871e-de13bfabc60e",
-            "nama_pse": "SARI PIZZA INDONESIA",
-            "nama_se": "PIZZAMARZANO.CO.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-03-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3468",
-            "website": "pizzamarzano.co.id"
-        },
-        {
-            "id": "9cb1ab8e-a044-4615-b404-a36d8ee7b564",
-            "nama_pse": "HATATA ECOMMERCE TECHNOLOGY",
-            "nama_se": "HATATA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-03-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3470",
-            "website": "sailors.id"
-        },
-        {
-            "id": "9cb1ab90-05ba-430a-82f1-4276f53d3e17",
-            "nama_pse": "KOLAM DATA INDONESIA",
-            "nama_se": "DATAPOOL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3458",
-            "website": "datapool.ai"
-        },
-        {
-            "id": "9cb1ab90-0bab-4b3f-958c-5bd9bc5b91f2",
-            "nama_pse": "HYUNDAI MOTORS INDONESIA",
-            "nama_se": "HYUNDAI SERVICE POINT SYSTEM REGISTRATION",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3464",
-            "website": "hyundai-bs.com"
-        },
-        {
-            "id": "9cb1ab9e-51ad-47b8-b907-8f01093f013c",
-            "nama_pse": "TREEDOTS GROUP INDONESIA",
-            "nama_se": "TREEDOTS PLATFORM SUITE",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pangan, Sektor Pangan, Sektor Pangan",
-            "tanggal_terbit": "2022-03-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3466",
-            "website": "thetreedots.com"
-        },
-        {
-            "id": "9cb1ab9e-53ea-4e63-b349-83b22d457def",
-            "nama_pse": "DROOM TECHNOLOGY INDONESIA",
-            "nama_se": "DROOM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-03-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3467",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab86-8eb7-4fe8-b182-23ae9f7661ab",
-            "nama_pse": "ARSATYA JAYA MEDIKA",
-            "nama_se": "KAMIRAWAT",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3440",
-            "website": "kamirawat.com"
-        },
-        {
-            "id": "9cb1ab8e-1901-4854-b267-bbcde7013419",
-            "nama_pse": "ZEST HOTELS INDONESIA",
-            "nama_se": "WEBSITE ONLINE BOOKING",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-03-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3441",
-            "website": "swiss-belhotel.com"
-        },
-        {
-            "id": "9cb1ab86-92c3-455c-bbfb-cdf56e7172dd",
-            "nama_pse": "ARTHA PERSADA KREATIF",
-            "nama_se": "SATURDAYS LIFESTYLE",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-03-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3451",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab8e-6187-4bf1-a2ee-ed7e42e2892f",
-            "nama_pse": "DIGITAL TANDATANGAN ASLI",
-            "nama_se": "TANDA TANGAN DIGITAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3449",
-            "website": "xignature.co.id"
         }
     ],
-    "processingTimeMs": 8,
+    "processingTimeMs": 10,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 317,
     "totalPages": 383

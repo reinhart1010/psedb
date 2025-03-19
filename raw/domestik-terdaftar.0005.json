@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9e4eff30-ea21-4477-b138-34ccbfff7b63",
+            "nama_pse": "ERA TUNAS HARAPAN",
+            "nama_se": "ERA TUNAS HARAPAN PLS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22514",
+            "website": "-"
+        },
+        {
+            "id": "9e4f095c-de31-44a9-a508-b376c746fa7a",
+            "nama_pse": "TRIBUNE MEDIA INDONESIA",
+            "nama_se": "TRIBUNEINDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22516",
+            "website": "tribuneindonesia.com"
+        },
+        {
+            "id": "9e4f0c5b-8b07-4f28-be61-4c0e42776b0a",
+            "nama_pse": "SURYA REZEKI INDAH",
+            "nama_se": "SURYA REZEKI INDAH",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22517",
+            "website": "-"
+        },
+        {
+            "id": "9e4f3d14-9b0c-4d7a-8923-c3f10a9ed9e8",
+            "nama_pse": "ECOE DIGITAL PERDANA",
+            "nama_se": "ECOELITE",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22525",
+            "website": "ecoelite.id"
+        },
+        {
+            "id": "9e4f4e2b-84ed-49c5-983b-b79ad74ba812",
+            "nama_pse": "NIAGA ANEKA MODE",
+            "nama_se": "ROTELLI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22526",
+            "website": "rotellishoes-fashion.com"
+        },
+        {
+            "id": "9e4f529a-3e7d-49ef-88a7-fb72e386b7c5",
+            "nama_pse": "PANCA SAMUDRA BUMI",
+            "nama_se": "IZINPEDIA",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22527",
+            "website": "izinpedia.com"
+        },
+        {
+            "id": "9e4fe4bf-73dc-4a45-9055-de37d155ab33",
+            "nama_pse": "MISBAH GROUP TELEKOMUNIKASI",
+            "nama_se": "MISBAH GROUP TELEKOMUNIKASI  PT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22540",
+            "website": "-"
+        },
+        {
+            "id": "9e4feb42-3655-4129-b3a7-a8f0b6932807",
+            "nama_pse": "MISBAH GROUP TELEKOMUNIKASI",
+            "nama_se": "MISBAH GROUP TELEKOMUNIKASI PT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22541",
+            "website": "-"
+        },
+        {
+            "id": "9e4ffea8-ead6-4709-b265-640eb3ac5980",
+            "nama_pse": "JARINGAN ARTHA SAMUDRA",
+            "nama_se": "SAMUDRA CHANDLER",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-02-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22542",
+            "website": "samudrachandler.com"
+        },
+        {
+            "id": "9e4d32e9-1b90-4b24-ba0a-d108de7794a7",
+            "nama_pse": "MEDIATAMA NAGARI NUSANTARA",
+            "nama_se": "SOROT ISTANA NEWS.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22496",
+            "website": "sorotistananews.com"
+        },
+        {
             "id": "9e4d7fb8-d888-48b5-a0ec-789a8770bc76",
             "nama_pse": "OCTAF CIPTA KREASI",
             "nama_se": "OCTAF CIPTA KREASI",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2025-02-24",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22466",
             "website": "kuliner.biz"
-        },
-        {
-            "id": "9e4927bb-cbee-4a31-a690-eddf508fd404",
-            "nama_pse": "KOKEK",
-            "nama_se": "SIPENDI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22467",
-            "website": "sipendi.id"
-        },
-        {
-            "id": "9e493be3-e17a-49e7-a2f7-09139c77e61b",
-            "nama_pse": "INTERAKTIF INTERNASIONAL",
-            "nama_se": "INTERACTIVE SOLUSI RETAIL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22468",
-            "website": "solusiretail.com"
-        },
-        {
-            "id": "9e4953fa-281f-40a3-bf00-1676497aba35",
-            "nama_pse": "INOVASI PEREMPUAN SEHATI",
-            "nama_se": "FILMORE MEDICAL CENTER",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2025-02-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22469",
-            "website": "emr.filmorepharma.com"
-        },
-        {
-            "id": "9e495496-efd0-40c4-8d7d-9e54dcffa951",
-            "nama_pse": "FLIK TEKNOLOGI INDONESIA",
-            "nama_se": "FLIK: SHOP AND GET REWARDS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-02-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22470",
-            "website": "-"
-        },
-        {
-            "id": "9e436763-c85d-40be-a091-1a388a93b192",
-            "nama_pse": "NETMEDIA DIGITAL INDONESIA",
-            "nama_se": "NETLEAD",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22462",
-            "website": "netlead.id"
-        },
-        {
-            "id": "9e4162a0-eeac-4ffe-8ba9-7f2fc4eb5425",
-            "nama_pse": "SINERGITAS UNTUK NEGERI",
-            "nama_se": "JURNAL DIGITAL - JDCOOP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22461",
-            "website": "jurnaldigital.id"
-        },
-        {
-            "id": "9e43bc5e-8c9c-4b1d-b660-189d8f3ab932",
-            "nama_pse": "ALIF DENAWA TRANS",
-            "nama_se": "denawa trans",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2025-02-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22463",
-            "website": "-"
-        },
-        {
-            "id": "9e433070-09c0-47c1-bb59-d563a8a82b29",
-            "nama_pse": "TAUFIK",
-            "nama_se": "malut.my.id",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22460",
-            "website": "malut.my.id"
-        },
-        {
-            "id": "9e42e99a-c626-477b-9c44-88facfeab9ff",
-            "nama_pse": "MEDIA MANGGOPOH JAYA GROUP",
-            "nama_se": "BERKABARNUSA.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22459",
-            "website": "berkabarnusa.com"
-        },
-        {
-            "id": "9e40f5af-8096-4c7a-84fa-ad6625b4a28d",
-            "nama_pse": "SOLUSI DIGITAL KLIK",
-            "nama_se": "KLOUDIA AI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22449",
-            "website": "kloudia.ai"
         }
     ],
-    "processingTimeMs": 34,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 5,
     "totalPages": 383

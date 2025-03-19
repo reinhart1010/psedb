@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9d6bf42a-c777-4c18-b0e8-1e45afee99ba",
+            "nama_pse": "CIPTA ITININDO MAKMUR",
+            "nama_se": "ciptafintax.com",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21067",
+            "website": "ciptafintax.com"
+        },
+        {
+            "id": "9d6c05b1-abae-4d22-88c0-6dc411880ece",
+            "nama_pse": "EMPAT DHARMA",
+            "nama_se": "LAYANAN INTERNET LOKAL (RT RW NET)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21068",
+            "website": "-"
+        },
+        {
+            "id": "9d6c5f49-3f6e-4803-b50d-44d9b62d0a89",
+            "nama_pse": "TOKO MIRING BERJAYA",
+            "nama_se": "TOKO MIRING",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21075",
+            "website": "tokomiring.id"
+        },
+        {
+            "id": "9d69e933-e231-4d0c-b5b2-d79586edb1d9",
+            "nama_pse": "BENOA SEA LEGEND",
+            "nama_se": "PT BENOA SEA LEGEND",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21050",
+            "website": "newstarstravel.com"
+        },
+        {
+            "id": "9d69f6cf-51ee-4d24-8d8f-456311d4f468",
+            "nama_pse": "RAKADEA DIGITAL GROUP",
+            "nama_se": "TOKO GAMING PEDIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21051",
+            "website": "tokogamingpedia.com"
+        },
+        {
+            "id": "9d6a05c1-3efc-4dd6-a4b1-ff62a110f400",
+            "nama_pse": "ADE JAGAW SOLUSINDO",
+            "nama_se": "ARP PLS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21052",
+            "website": "-"
+        },
+        {
+            "id": "9d6a190c-4dcc-4fc0-b61c-f77afc030f05",
+            "nama_pse": "CIPTA MENTARI BENOA",
+            "nama_se": "CV. CIPTA MENTARI BENOA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21053",
+            "website": "supernovaholiday.com"
+        },
+        {
+            "id": "9d69e380-fdea-4bb3-9df7-22610f48c13d",
+            "nama_pse": "BOIM KARYA SEJATI",
+            "nama_se": "PT. BOIM KARYA SEJATI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21049",
+            "website": "southvolcano.com"
+        },
+        {
+            "id": "9d6a56d9-e969-4187-b6b8-953e6b8e72ce",
+            "nama_pse": "HARTADINATA ABADI",
+            "nama_se": "EMASKU",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21055",
+            "website": "emasku.co.id"
+        },
+        {
+            "id": "9d6a547e-53a2-42ca-92bc-62fd4182ff97",
+            "nama_pse": "OBHY NETWORK INDONESIA",
+            "nama_se": "PT OBHY NETWORK INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-05",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21054",
+            "website": "obhy.net"
+        },
+        {
             "id": "9d69083e-db86-4f65-b3e7-f6c212f439f6",
             "nama_pse": "KREASI ANAK GEMILANG",
             "nama_se": "KAGEMI.ID",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-11-01",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21012",
             "website": "wakafquran.org"
-        },
-        {
-            "id": "9d61cf7b-4fbf-46df-87f2-c752ff84f438",
-            "nama_pse": "BMW INDONESIA",
-            "nama_se": "BMW CONNECTED DRIVE DAN MINI CONNECTED DRIVE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21007",
-            "website": "bmw.co.id"
-        },
-        {
-            "id": "9d6188ea-5bbe-4d46-8d13-64a9b851e0ae",
-            "nama_pse": "SUGENG RIYANTO",
-            "nama_se": "dentsoftware",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-11-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21004",
-            "website": "dentsoftware.com"
-        },
-        {
-            "id": "9d625e17-1516-45a5-8f1f-a22c75e44c73",
-            "nama_pse": "ROYALTY MANAGEMENT SYSTEM",
-            "nama_se": "SMR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21013",
-            "website": "-"
-        },
-        {
-            "id": "9d61ec18-957d-4e26-b94c-02334e307082",
-            "nama_pse": "DANA KINI FINANCE",
-            "nama_se": "MOBILE APPS DANAKINI FINANCE BERBASIS ANDROID",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-11-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21009",
-            "website": "-"
-        },
-        {
-            "id": "9d5fc27b-c693-4bc1-9d40-ce021c4c0d41",
-            "nama_pse": "AMANAH KARYA INDONESIA",
-            "nama_se": "BERBAGI.LINK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20991",
-            "website": "berbagi.link"
-        },
-        {
-            "id": "9d5fcc2f-4392-485b-8c36-523f4dd0ad89",
-            "nama_pse": "MAHIR MEMBANGUN NEGERI",
-            "nama_se": "MAHIR CLINIC",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20992",
-            "website": "buildwithmahir.com"
-        },
-        {
-            "id": "9d5feb07-ce68-4cd2-a4f6-79c3ac504205",
-            "nama_pse": "MAHAKARYA DIGITAL BISNIS INTEGRA",
-            "nama_se": "zenbytes",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20995",
-            "website": "zenbytes.id"
-        },
-        {
-            "id": "9d60129c-e55c-45e1-94d6-f4b13d8d84c6",
-            "nama_pse": "ROSHELINE MOTOR INDONESIA",
-            "nama_se": "WULING INDUSTRI",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20998",
-            "website": "wulingindustri.id"
-        },
-        {
-            "id": "9d6034e7-3ddf-4961-b7b2-9d293161ba55",
-            "nama_pse": "NUSANTARA MEGAH LESTARI",
-            "nama_se": "REKAN HALAL",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20999",
-            "website": "rekanhalal.org"
-        },
-        {
-            "id": "9d603c91-a8d8-4d54-a6d6-f84f8d027d60",
-            "nama_pse": "DOCUMENTA CORPORA TECHNOLOGY",
-            "nama_se": "documenta.id",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-31",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21000",
-            "website": "documenta.id"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 7,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 28,
     "totalPages": 383

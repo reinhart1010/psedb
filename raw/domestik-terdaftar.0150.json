@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac40-38ac-4d40-ab4e-b873faf76109",
+            "nama_pse": "BENDAHARA PENGELUARAN RUMKIT TK III CIREMAI",
+            "nama_se": "MOBILE CIREMAI",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14124",
+            "website": "mocie.rsciremai.com"
+        },
+        {
+            "id": "9cb1ac1d-cb93-4c6b-b426-65aecf7e13f7",
+            "nama_pse": "BENDAHARA PENGELUARAN RUMKIT TK III CIREMAI",
+            "nama_se": "MOBILE STAF",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14125",
+            "website": "mosta.rsciremai.com"
+        },
+        {
+            "id": "9cb1ac30-2744-4ec5-aeac-18f62b46f4d1",
+            "nama_pse": "KRISTEN UNTUK KESEHATAN UMUM",
+            "nama_se": "SIM RS BETHESDA YOGYAKARTA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14126",
+            "website": "bethesda.or.id"
+        },
+        {
+            "id": "9cb1ac1d-cec7-4095-9572-a6443062d700",
+            "nama_pse": "BENDAHARA PENGELUARAN RUMKIT TK III CIREMAI",
+            "nama_se": "MOBILE PENUNJANG",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14127",
+            "website": "mojang.rsciremai.com"
+        },
+        {
+            "id": "9cb1ac40-3dcc-4ae7-a6c7-fb18a446b2c0",
+            "nama_pse": "DATACOMM DIANGRAHA",
+            "nama_se": "PT DATACOMM DIANGRAHA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14131",
+            "website": "daatcomm.co.id"
+        },
+        {
+            "id": "9cb1ac30-2aec-4a9f-b610-f2bba18e06fe",
+            "nama_pse": "MANUNGGAL JASA INVESTINDO",
+            "nama_se": "PANGGIL TUKANG",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14130",
+            "website": "panggiltukang.id"
+        },
+        {
+            "id": "9cb1ac30-30e2-4859-9d64-2238be60c8db",
+            "nama_pse": "SKORCARD TEKNOLOGI INDONESIA",
+            "nama_se": "SKORCARD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14136",
+            "website": "skorcard.app"
+        },
+        {
+            "id": "9cb1ac1d-d1a5-44cb-bcf3-c24434f20994",
+            "nama_pse": "DATACOMM DIANGRAHA",
+            "nama_se": "DATACOMM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14132",
+            "website": "datacomm.co.id"
+        },
+        {
+            "id": "9cb1ac40-4374-4331-bfef-73bdbf88f9fb",
+            "nama_pse": "AGRAPANA BINTANG TEKNOLOGI",
+            "nama_se": "AGRAPANA BINTANG TEKNOLOGI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14133",
+            "website": "agrapanabintangteknologi.com"
+        },
+        {
+            "id": "9cb1ac1d-d4ff-47fe-8b80-82ce64b05949",
+            "nama_pse": "BIMA TEKNOLOGI SANTOSHA",
+            "nama_se": "BIMA TEKNOLOGI SANTOSHA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14134",
+            "website": "bimateknologisantosha.com"
+        },
+        {
+            "id": "9cb1ac1d-de6f-4800-ba36-8219f51b96ec",
+            "nama_pse": "DAKSA ABHITAH NARARYA",
+            "nama_se": "DAKSA ABHITAH NARARYA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-03-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14137",
+            "website": "daksaabhitahnararya.com"
+        },
+        {
             "id": "9cb1ac30-3457-4842-83ff-2c72d3adc185",
             "nama_pse": "MANALAGI TEKNOLOGI MULTIBUSSINES",
             "nama_se": "JURAGAN DIGITAL - PULSA \u0026 PPOB",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-03-14",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14098",
             "website": "oneclinic.id"
-        },
-        {
-            "id": "9cb1ac3f-eebc-4e36-bb83-ff5786a8505e",
-            "nama_pse": "BIN ARIS CORP",
-            "nama_se": "SIMRS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-03-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14099",
-            "website": "sim.rsciremai.com"
-        },
-        {
-            "id": "9cb1ac3f-0e76-4f2f-944d-56edf2828e5f",
-            "nama_pse": "NEW ASIA SERVICE",
-            "nama_se": "HTTPS://NEWASIA.FLUTTERFLOW.APP/",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-03-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14067",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac3f-5dac-403a-91b0-6803a9985df3",
-            "nama_pse": "ZULU ALPHA PAPA",
-            "nama_se": "ZAPCLINIC",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
-            "tanggal_terbit": "2023-03-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14068",
-            "website": "zapclinic.com"
-        },
-        {
-            "id": "9cb1ac1d-4922-40c1-ae06-12441d19718c",
-            "nama_pse": "GAWEAN CIPTA KERJA",
-            "nama_se": "GAWEAN INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-03-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14066",
-            "website": "gawean.id"
-        },
-        {
-            "id": "9cb1ac3f-66ce-489d-aafe-cb86c43e493e",
-            "nama_pse": "WIDEA IZI FINANSIAL",
-            "nama_se": "IZZYFIN",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-03-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14072",
-            "website": "izzyfin.com"
-        },
-        {
-            "id": "9cb1ac2f-ce5d-4724-a515-0e0c0cf42406",
-            "nama_pse": "WIRAWORKS FIAFARU SEJAHTERA",
-            "nama_se": "WIRAWORKS.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-03-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14058",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac1d-60b5-437c-80b5-efcd3c5f41b8",
-            "nama_pse": "SINAR MITRA SEPADAN FINANCE",
-            "nama_se": "WEBSITE AGENT DASHBOARD PT SINAR MITRA SEPADAN FINANCE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2023-03-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14059",
-            "website": "agent.smsfinance.co.id"
-        },
-        {
-            "id": "9cb1ac1d-643d-4af3-883c-f880ac2a85e5",
-            "nama_pse": "SINAR MITRA SEPADAN FINANCE",
-            "nama_se": "WEBSITE PRODUK PT SINAR MITRA SEPADAN FINANCE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2023-03-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14060",
-            "website": "produk.smsfinance.co.id"
-        },
-        {
-            "id": "9cb1ac3f-7eca-4758-a492-4bdfb433c42a",
-            "nama_pse": "SISFO MEDIKA",
-            "nama_se": "SMART SIMRS",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-03-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14070",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac1d-670f-4d99-b086-071b22b0bece",
-            "nama_pse": "TIKOM",
-            "nama_se": "DIGIS PKM",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-03-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14073",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac3f-8bb6-4f77-811b-e3c24885949a",
-            "nama_pse": "JUVA SKIN INDONESIA",
-            "nama_se": "JUVA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-03-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14071",
-            "website": "juvabyzap.com"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 150,
     "totalPages": 383

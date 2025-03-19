@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac7e-8cc9-47d0-a597-528bf2f94033",
+            "nama_pse": "FIVE GEN CREATIVE",
+            "nama_se": "MESINTOPUP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17886",
+            "website": "mesintopup.id"
+        },
+        {
+            "id": "9cb1ac55-c71f-4f74-8bc7-68321bf6506d",
+            "nama_pse": "DUTA NUR AFIAH",
+            "nama_se": "SIM KLINIK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-02-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17851",
+            "website": "klinik-nurhuda.online"
+        },
+        {
+            "id": "9cb1ac69-0526-4443-9f30-90a9459c1fe2",
+            "nama_pse": "HENDRY STEVEN LIM",
+            "nama_se": "SISTEM KLINIK ENTREE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17857",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6a-6c4d-4608-810b-6111fea7ad66",
+            "nama_pse": "DIGITAL BUSINESSCARD INTERNATIONAL",
+            "nama_se": "DIGITAL BUSINESS CARD",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-02-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17866",
+            "website": "home.dbc.network"
+        },
+        {
+            "id": "9cb1ac7e-46bb-4d9a-b097-74102621445b",
+            "nama_pse": "UNITEK TIMUR INDONESIA",
+            "nama_se": "EASTERN UNION",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-02-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17850",
+            "website": "eunionwire.com"
+        },
+        {
+            "id": "9cb1ac55-c13f-456c-b4cc-2f6d913395ee",
+            "nama_pse": "KREASI POTENSI INDONESIA",
+            "nama_se": "YOUTZ MEDIA - KREASI POTENSI INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17849",
+            "website": "youtzmedia.id"
+        },
+        {
+            "id": "9cb1ac55-c453-4948-b3b9-c88d64bf4be3",
+            "nama_pse": "PERCETAKAN NEGARA RI",
+            "nama_se": "CETAKEUN",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17852",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6a-a155-4916-ac10-1a28951d215a",
+            "nama_pse": "CALYSTA PRIMA ESTETIK",
+            "nama_se": "E-BILCALYSTA.COM",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-02-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17854",
+            "website": "e-bilcalysta.com"
+        },
+        {
+            "id": "9cb1ac55-c9d7-47b8-9901-f7ba31df3503",
+            "nama_pse": "MEDIKA KESEHATAN KERJA",
+            "nama_se": "RME MOHC",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-02-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17856",
+            "website": "m-ohc.id"
+        },
+        {
+            "id": "9cb1ac7e-60cb-4508-8979-d06daca70065",
+            "nama_pse": "MEDIKA DIGITALISASI INDONESIA",
+            "nama_se": "MEDICORD",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-02-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17858",
+            "website": "medicord.id"
+        },
+        {
             "id": "9cb1ac7e-6581-4bdb-a38e-69ade629d570",
             "nama_pse": "REGENT TEKNOLOGI GUNALOKA",
             "nama_se": "BUNGKOES",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-02-15",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17795",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac55-7a28-4237-8165-9536c189d7d6",
-            "nama_pse": "MIRAE ASSET SEKURITAS INDONESIA",
-            "nama_se": "M-STOCK",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-02-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17796",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6a-4a5f-4808-8831-efcf0b2687e2",
-            "nama_pse": "BUGIS MITRA DISTRIBUSI",
-            "nama_se": "BUGIS PAY",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17811",
-            "website": "bugisstore.id"
-        },
-        {
-            "id": "9cb1ac6a-3961-4022-97bd-2a6dc08b10de",
-            "nama_pse": "DIA PERKASA TEKNOLOGI",
-            "nama_se": "AIANDYOU.IO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17798",
-            "website": "aiandyou.io"
-        },
-        {
-            "id": "9cb1ac7d-f14e-4d2d-ac9f-3dff3020b565",
-            "nama_pse": "BOEDI PRIJATNO",
-            "nama_se": "SIMRS RS KHUSUS BEDAH HASTA HUSADA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-02-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17799",
-            "website": "rs-hastahusada.com"
-        },
-        {
-            "id": "9cb1ac55-8600-4ffe-a72a-ef4901ece400",
-            "nama_pse": "EMIRA RELOAD PAYMENT",
-            "nama_se": "SAHABAT TRONIK AUTOREFILL",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17800",
-            "website": "sahabattronik.cekreport.com"
-        },
-        {
-            "id": "9cb1ac7d-f435-437e-8e58-9f5e4c2ff72c",
-            "nama_pse": "MEDIA DETIK KALBAR",
-            "nama_se": "DETIKKALBAR.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17802",
-            "website": "detikkalbar.id"
-        },
-        {
-            "id": "9cb1ac55-8bfe-40ca-9362-2d3464c2c470",
-            "nama_pse": "PRIMERA DELTA NIAGA",
-            "nama_se": "TOKENKU-POWER MANAGER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17803",
-            "website": "powermanager.my.id"
-        },
-        {
-            "id": "9cb1ac7d-f795-49f0-92b7-14f803e3b681",
-            "nama_pse": "SUGIYONO",
-            "nama_se": "PROLADI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17804",
-            "website": "proladi.com"
-        },
-        {
-            "id": "9cb1ac6a-3cff-4841-b872-88a6e4ce065d",
-            "nama_pse": "INFINITI PUTERA OMEGA",
-            "nama_se": "DASBOARD BI",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17805",
-            "website": "dasboardbi.id"
-        },
-        {
-            "id": "9cb1ac6a-43aa-4fd0-82de-762824606f26",
-            "nama_pse": "JELAJAH INOVASI TEKNOLOGI",
-            "nama_se": "MARKET PLACE KALIKAN",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-02-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17810",
-            "website": "kalikan.id"
         }
     ],
-    "processingTimeMs": 2,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 84,
     "totalPages": 383

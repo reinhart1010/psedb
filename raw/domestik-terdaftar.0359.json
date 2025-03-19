@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab64-5ac8-487c-8d2f-035c97dc3045",
+            "nama_pse": "KGI SEKURITAS INDONESIA",
+            "nama_se": "KGETS",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1129",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab72-c78c-4848-bb3a-facea4bbfc79",
+            "nama_pse": "OKE PTOP INDONESIA",
+            "nama_se": "OK!P2P",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1078",
+            "website": "okp2p.co.id"
+        },
+        {
+            "id": "9cb1ab72-cb62-4304-b474-6f734153ad91",
+            "nama_pse": "KOMUNIKA LINTAS MAYA",
+            "nama_se": "SOCIABUZZ",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1062",
+            "website": "sociabuzz.com"
+        },
+        {
+            "id": "9cb1ab64-5d49-43fa-a49f-56843e492057",
+            "nama_pse": "DANA AGUNA NUSANTARA",
+            "nama_se": "DANAMART",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1091",
+            "website": "danamart.id"
+        },
+        {
+            "id": "9cb1ab64-5f71-4c2c-ae9e-29f4eaf0bcae",
+            "nama_pse": "GRADANA TEKNORUCI INDONESIA",
+            "nama_se": "GRADANA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1134",
+            "website": "gradana.co.id"
+        },
+        {
+            "id": "9cb1ab72-d24a-4452-8523-b714ba0f9602",
+            "nama_pse": "ALFA FINTECH INDONESIA",
+            "nama_se": "IT PLATFORM KREDITCEPAT",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Keuangan, Sektor Keuangan, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1104",
+            "website": "kreditcepat.co.id"
+        },
+        {
+            "id": "9cb1ab66-4288-49cc-9a2b-5822b82320b3",
+            "nama_pse": "BANK RESONA PERDANIA",
+            "nama_se": "WEBSITE  BANK RESONA PERDANIA",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1143",
+            "website": "perdania.co.id"
+        },
+        {
+            "id": "9cb1ab72-d6d1-4733-93ff-4f8ad7187ef6",
+            "nama_pse": "BANK RESONA PERDANIA",
+            "nama_se": "PERDANIA DIRECT INTERNET BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1144",
+            "website": "pdirect.perdania.co.id/sslvpn/Login/Login"
+        },
+        {
+            "id": "9cb1ab72-d920-4fe2-9cd0-f1b1cbb7624b",
+            "nama_pse": "TRICATHA SEMPITERNAL ASIA",
+            "nama_se": "HELP RENAKTA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1342",
+            "website": "https://play.google.com/store/apps/details?id=com.renakta.help"
+        },
+        {
+            "id": "9cb1ab72-dc41-4711-be71-48f00ec8a992",
+            "nama_pse": "BANK GANESHA",
+            "nama_se": "GANESHA ONLINE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-06-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1101",
+            "website": "ganeshaonline.bankganesha.co.id"
+        },
+        {
             "id": "9cb1ab6c-5087-45e9-88cd-198a6a8391b6",
             "nama_pse": "BANK GANESHA",
             "nama_se": "BANGGA (MOBILE BANKING)",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-06-02",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1292",
             "website": "-"
-        },
-        {
-            "id": "9cb1ab66-6c26-4c62-a919-4162ab482299",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-            "nama_se": "BNI TAPCASH GO",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1294",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab66-6e24-4341-aa06-92a1da3e6ddc",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-            "nama_se": "AGEN46 MOBILE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1295",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab6c-cdb9-4e8f-af78-0125137fa408",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-            "nama_se": "BNI CREDIT CARD MOBILE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1296",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab6c-d137-4eec-a25e-7bd6dac63a8c",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-            "nama_se": "BNI PEMBUKAAN REKENING DIGITAL",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1297",
-            "website": "bukarekening.bni.co.id/simpanan/home"
-        },
-        {
-            "id": "9cb1ab73-2384-4baa-9055-11eb1acb91f5",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-            "nama_se": "BNI SIMPONI MOBILE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1298",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab6c-d508-456a-8399-e4ac9116cddc",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-            "nama_se": "BNI CONTACT CENTER VIRTUAL ASSISTANT/BNI CALL",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1300",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab6c-d833-4015-8c37-0b0dcf1aa9f6",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-            "nama_se": "BNI INTERNET BANKING",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1301",
-            "website": "ibank.bni.co.id"
-        },
-        {
-            "id": "9cb1ab73-27c3-41aa-9ead-80b5ec3fda2f",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-            "nama_se": "BNI INTERNET BANKING CORPORATE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1302",
-            "website": "bnidirect.bni.co.id"
-        },
-        {
-            "id": "9cb1ab73-2a48-482e-a517-2c3171244a18",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-            "nama_se": "BNI SMART REMITTANCE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1314",
-            "website": "sr.bni.co.id/"
-        },
-        {
-            "id": "9cb1ab73-2cd6-43a0-a65c-deeba6733e84",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) BANK NEGARA INDONESIA",
-            "nama_se": "BNI LOYALTY PROGRAM (POIN+)",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1319",
-            "website": "poinplus.bni.co.id/"
         }
     ],
     "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 359,
     "totalPages": 383

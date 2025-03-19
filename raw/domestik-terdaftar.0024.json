@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9d88693c-5579-4c00-b84c-f13530f16b89",
+            "nama_pse": "SYNGENTA SEED INDONESIA",
+            "nama_se": "SMSCROPS SYNGENTA",
+            "sektor": "Sektor Pangan",
+            "tanggal_terbit": "2024-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21282",
+            "website": "entry.smscrops.com"
+        },
+        {
+            "id": "9d888fae-8819-4bc9-82bb-68f951c641f9",
+            "nama_pse": "KINETIKUM INDO SOLUSI",
+            "nama_se": "INDOHRM - A BETTER HUMAN RESOURCE MANAGEMENT SYSTEM SOFTWARE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21284",
+            "website": "indohrm.com"
+        },
+        {
+            "id": "9d88c452-d59c-4cbc-877a-5edce7466d1f",
+            "nama_pse": "PRO KONTRA MEDIA",
+            "nama_se": "prokontra.id",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21286",
+            "website": "prokontra.id"
+        },
+        {
+            "id": "9d88d8f0-e3df-48f2-b358-b3d82bf1ba84",
+            "nama_pse": "ANDREAS",
+            "nama_se": "YVA TECHNOLOGY",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21287",
+            "website": "-"
+        },
+        {
+            "id": "9d88e533-fb75-4650-96b0-2e6e73e6525a",
+            "nama_pse": "PUJI WIDODO",
+            "nama_se": "puji widodo Tachyon",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21289",
+            "website": "-"
+        },
+        {
+            "id": "9d88e825-2fcb-476e-9289-6648307b74d1",
+            "nama_pse": "DUTA CAKRA MAHENDRA",
+            "nama_se": "DUTA CAKRA MAHENDRA",
+            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21290",
+            "website": "cakrajourney.com"
+        },
+        {
+            "id": "9d88e9a2-8aa9-4658-892d-dd799970641f",
+            "nama_pse": "REPORTASE TIMES MEDIA",
+            "nama_se": "reportasetimes.com",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21291",
+            "website": "reportasetimes.com"
+        },
+        {
+            "id": "9d890e78-94ce-49f3-85c3-236daa0cb3a0",
+            "nama_pse": "DAFARA CIPTA MANDIRI",
+            "nama_se": "DCKONSULTAN DIGITAL PLATFORM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21293",
+            "website": "dckonsultan.com"
+        },
+        {
+            "id": "9d890b8a-1f8f-45f0-9c63-e86a147b7032",
+            "nama_pse": "PAHAM DATA INDONESIA",
+            "nama_se": "INTELLIGO ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21292",
+            "website": "intelligo.id"
+        },
+        {
+            "id": "9d88585a-b9dd-4497-9915-a4f74879af34",
+            "nama_pse": "JAWA POS GRUP MULTIMEDIA",
+            "nama_se": "JAWAPOS.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21281",
+            "website": "jawapos.com"
+        },
+        {
             "id": "9d8652f4-05d9-44c0-9457-72e918887c2b",
             "nama_pse": "PARA PEMUDA KREATIF",
             "nama_se": "PEMUDA.NET",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-11-16",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21232",
             "website": "silancar.biz.id"
-        },
-        {
-            "id": "9d7ff17e-3e14-42be-aec6-6a9b6db176ef",
-            "nama_pse": "ALPHA DINAMIK SOLUSI",
-            "nama_se": "ALPHADISI",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21234",
-            "website": "alphadisi.biz.id"
-        },
-        {
-            "id": "9d8078ce-56cc-4232-b6fd-ab8e3f908709",
-            "nama_pse": "HENGKI TORNADO",
-            "nama_se": "STARLINK WIFI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21236",
-            "website": "-"
-        },
-        {
-            "id": "9d7deaf3-c2c5-425a-87e3-397ede91da14",
-            "nama_pse": "MAMPU INOVASI DIGITAL",
-            "nama_se": "MOPAYU",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21215",
-            "website": "mopayu.com"
-        },
-        {
-            "id": "9d7e37fe-2a71-451c-9278-433998ee13a1",
-            "nama_pse": "MUSTIKA SANGSAKA MEDIKA",
-            "nama_se": "MUSTIKA SANGSAKA MEDIKA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21224",
-            "website": "-"
-        },
-        {
-            "id": "9d7e2422-dd0d-48ec-8d8a-0dda0420e6fb",
-            "nama_pse": "HANDRIA",
-            "nama_se": "SUPERNOVA GAME",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21221",
-            "website": "supernovagame.shop"
-        },
-        {
-            "id": "9d7e034b-90fe-45c2-a75e-4532d31d43e5",
-            "nama_pse": "SATYA GLOBAL DIGITAL",
-            "nama_se": "E-COMMERCE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21219",
-            "website": "digitalteknik.id"
-        },
-        {
-            "id": "9d7e5c43-865d-4cc3-b155-a6b145026183",
-            "nama_pse": "JAYA CIPTA DIGITAL",
-            "nama_se": "LAYANAN INTERNET LOKAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21228",
-            "website": "jayaciptadigital.com"
-        },
-        {
-            "id": "9d7ded87-2c8c-40b3-905e-f382855005e8",
-            "nama_pse": "PIXA TEKNOLOGI INDONESIA",
-            "nama_se": "PIXA TEKNOLOGI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21216",
-            "website": "pixa.co.id"
-        },
-        {
-            "id": "9d7df378-9484-49ff-b69f-9f65f20d30e0",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT MAHKOTA ARTHA SEJAHTERA",
-            "nama_se": "e-mas",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21217",
-            "website": "bprmas.com"
-        },
-        {
-            "id": "9d7e2269-8c6e-4c72-b7a0-21f4b6fd36f0",
-            "nama_pse": "REYBEN MULTIMEDIA INTERNATIONAL",
-            "nama_se": "ASPIRASI DONATUR NOVI DAN AGUS SALIM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21220",
-            "website": "suaraku.co.id"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 24,
     "totalPages": 383

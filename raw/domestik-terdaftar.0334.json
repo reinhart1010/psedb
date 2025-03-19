@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab6b-5eab-4cd5-a7f6-fb4c138d65c1",
+            "nama_pse": "BANK CENTRAL ASIA",
+            "nama_se": "EBRANCH",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2612",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab6e-0f6c-4b0b-b398-1ec06cdf0514",
+            "nama_pse": "KREATIVA MEDIKA SEJAHTERA",
+            "nama_se": "KLIKDIALISIS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2595",
+            "website": "klikdialisis.com"
+        },
+        {
+            "id": "9cb1ab76-1793-4097-8f9d-a1d232088f21",
+            "nama_pse": "NALANIRA NUSWANTARA MEDIKA",
+            "nama_se": "HAMILKU.ID",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2597",
+            "website": "hamilku.id"
+        },
+        {
+            "id": "9cb1ab77-51de-43ba-be9d-5458107e7b4b",
+            "nama_pse": "MITRA ERA GLOBAL",
+            "nama_se": "WWW.MALESER.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2586",
+            "website": "maleser.com"
+        },
+        {
+            "id": "9cb1ab77-3be2-48f8-ac70-3b6b934ec915",
+            "nama_pse": "PANEN TATAGRIYA INDONESIA",
+            "nama_se": "HTTPS://WWW.ILM.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-12-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2592",
+            "website": "ilm.id"
+        },
+        {
+            "id": "9cb1ab78-09aa-439c-a8bd-ea4ddf82d2d7",
+            "nama_pse": "ASURANSI JASA INDONESIA",
+            "nama_se": "APLIKASI SIAP",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2608",
+            "website": "siap.asuransijasindo.co.id"
+        },
+        {
+            "id": "9cb1ab87-aea9-4551-9261-9e664f755583",
+            "nama_pse": "ASURANSI JASA INDONESIA",
+            "nama_se": "SIMANTEP",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2611",
+            "website": "simantep.asuransijasindo.co.id"
+        },
+        {
+            "id": "9cb1ab7f-cffa-4455-9037-04bc5b4a7e54",
+            "nama_pse": "ASURANSI JASA INDONESIA",
+            "nama_se": "APLIKASI MEDCARE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2021-12-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2615",
+            "website": "medcare.asuransijasindo.co.id"
+        },
+        {
+            "id": "9cb1ab78-72fe-4fad-9ed2-4836a0ce77a3",
+            "nama_pse": "SENTRA VIDYA UTAMA",
+            "nama_se": "SIAKAD CLOUD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2584",
+            "website": "siakadcloud.com"
+        },
+        {
+            "id": "9cb1ab78-8958-4c79-922c-2d3f8fb71e5d",
+            "nama_pse": "NURCHOLIS",
+            "nama_se": "CEMPLUNG.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2588",
+            "website": "cemplung.com"
+        },
+        {
             "id": "9cb1ab80-5062-4944-8c96-511df0a35695",
             "nama_pse": "NURCHOLIS",
             "nama_se": "INDOPLACES.COM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-12-01",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2573",
             "website": "klikbca.com"
-        },
-        {
-            "id": "9cb1ab69-8f1e-413e-9119-1cd837319bef",
-            "nama_pse": "SAVVIX DIGITAL BLOCKCHAIN",
-            "nama_se": "SAVVIX BLOCKCHAIN",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-12-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2567",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab77-c34a-4429-93cd-80f49bc8889c",
-            "nama_pse": "DOMPET VOUCHER INDONESIA",
-            "nama_se": "MYDOVI",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-12-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2568",
-            "website": "mydovi.com"
-        },
-        {
-            "id": "9cb1ab77-efa3-43dd-b807-ea24e1863b56",
-            "nama_pse": "ANDAL TUNGGAL ABADI",
-            "nama_se": "ANDAL ABADI",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Kesehatan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pangan",
-            "tanggal_terbit": "2021-12-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2552",
-            "website": "andalabadi.co.id"
-        },
-        {
-            "id": "9cb1ab80-05fa-4dd9-b663-35677edaa37f",
-            "nama_pse": "NURI GAYA CITRA",
-            "nama_se": "SMARTFREN.SHOP",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-12-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2557",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab78-8bbb-434c-adae-ca98c6c860f6",
-            "nama_pse": "INFOBIP TECHNOLOGY INDONESIA",
-            "nama_se": "IP CORE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2566",
-            "website": "infobip.co.id"
-        },
-        {
-            "id": "9cb1ab88-4dae-4e13-b291-2d273a8a1ecf",
-            "nama_pse": "SELERA TUAN NYONYA",
-            "nama_se": "TUAN NYONYA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pangan",
-            "tanggal_terbit": "2021-12-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2551",
-            "website": "tuannyonya.id"
-        },
-        {
-            "id": "9cb1ab80-69b9-4b7c-a5d6-e81406f7d858",
-            "nama_pse": "CAKRAWALA NUSANTARA TEKNOLOGI",
-            "nama_se": "SOFTWARE DEVELOPMENT",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2570",
-            "website": "cakratech.co.id"
-        },
-        {
-            "id": "9cb1ab88-522f-468b-a0a5-c9bee1b06834",
-            "nama_pse": "MITRA LAJU ABADI",
-            "nama_se": "TOPUPIN",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-12-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2574",
-            "website": "topupin.com"
-        },
-        {
-            "id": "9cb1ab78-941c-4c21-834a-24ef3d08be84",
-            "nama_pse": "KUSTODIAN SENTRAL EFEK INDONESIA",
-            "nama_se": "EASY.KSEI",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-12-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2575",
-            "website": "easy.ksei.co.id"
-        },
-        {
-            "id": "9cb1ab80-6de9-4c57-8a3d-c3a0decbff0c",
-            "nama_pse": "KUSTODIAN SENTRAL EFEK INDONESIA",
-            "nama_se": "AKSES.KSEI",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-12-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2576",
-            "website": "akses.ksei.co.id"
         }
     ],
-    "processingTimeMs": 8,
+    "processingTimeMs": 11,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 334,
     "totalPages": 383

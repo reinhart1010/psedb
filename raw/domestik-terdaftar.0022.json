@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9da22a00-02ad-418f-b732-78c44e1e5d3a",
+            "nama_pse": "MOUNT SCOPUS INDONESIA",
+            "nama_se": "THE HARVEST CAKES OFFICIAL WEBSITE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21398",
+            "website": "harvestcakes.com"
+        },
+        {
+            "id": "9da22adc-36bb-4135-9fe4-b3e54da4d3e3",
+            "nama_pse": "MITRA BAKUL DIGITAL",
+            "nama_se": "KTA D BRNR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21399",
+            "website": "-"
+        },
+        {
+            "id": "9da2336c-a28e-4f4d-a2b7-de615052392a",
+            "nama_pse": "HAKIM EKSPRES BERKAH",
+            "nama_se": "ICAN DELIV",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21400",
+            "website": "ican.id"
+        },
+        {
+            "id": "9da2339e-2ba9-4302-8f1b-fa922b9cec1c",
+            "nama_pse": "MOUNT SCOPUS INDONESIA",
+            "nama_se": "THE HARVEST CAKES OFFICIAL MOBILE APPS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21401",
+            "website": "-"
+        },
+        {
+            "id": "9da2366f-d722-4254-8404-11de88fe777e",
+            "nama_pse": "LUNA MEDIA SOLUSI",
+            "nama_se": "LUNANET PORTAL CLIENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21403",
+            "website": "lunanet.id"
+        },
+        {
+            "id": "9da23804-dbfb-4faf-9d58-a23ebf949bf0",
+            "nama_pse": "MCIDEAS WORK DIGITAL",
+            "nama_se": "WROTELS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21405",
+            "website": "wrotels.com"
+        },
+        {
+            "id": "9da23db6-0e98-4007-8e3b-6ea9ac0b67ba",
+            "nama_pse": "ALPHA CENTAURI BERJANGKA",
+            "nama_se": "ALPHA CENTAURI BERJANGKA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21406",
+            "website": "alphacentauriberjangka.com"
+        },
+        {
+            "id": "9da27b79-a7b7-43ec-a28d-6f99c4bf12c4",
+            "nama_pse": "INDOSAT",
+            "nama_se": "TRI ID (3) WEBSITE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21410",
+            "website": "tri.co.id"
+        },
+        {
+            "id": "9da2541f-05b9-474b-9395-d8693d9bf807",
+            "nama_pse": "MOUNT SCOPUS INDONESIA",
+            "nama_se": "THE FOOD CHAIN OFFICIAL MOBILE APPS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-12-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21408",
+            "website": "-"
+        },
+        {
+            "id": "9da03ea2-62c8-48af-b86e-242694d81fe8",
+            "nama_pse": "PANJINASIONAL MEDIA INDONESIA",
+            "nama_se": "panjinasionalnews.com",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-12-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21384",
+            "website": "panjinasionalnews.com"
+        },
+        {
             "id": "9da01ee4-57c4-49b5-abf0-518c12e0019f",
             "nama_pse": "SMART METER INDONESIA",
             "nama_se": "SMART TOKEN",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-11-25",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21331",
             "website": "sidrapdigital.my.id"
-        },
-        {
-            "id": "9d925303-f2b8-43b3-b23e-04ad7b4ae0b4",
-            "nama_pse": "MEDIA CHANNEL PRISTIWA",
-            "nama_se": "pristiwa.com",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21336",
-            "website": "pristiwa.com"
-        },
-        {
-            "id": "9d922b02-894e-4125-9753-1e814af86fea",
-            "nama_pse": "VINTECH GAME ASIA",
-            "nama_se": "GLORY OF WAR 2025",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21332",
-            "website": "gow.indogow.com"
-        },
-        {
-            "id": "9d9200f9-de66-434d-b72b-5c081bb413ed",
-            "nama_pse": "PAGEANT STUDIO INTERNATIONAL",
-            "nama_se": "WEBSITE PAGEANT STUDIO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21330",
-            "website": "-"
-        },
-        {
-            "id": "9d91dc78-6be8-4a16-affa-e6fa43e3b97b",
-            "nama_pse": "BEDAH NUSANTARA GROUP",
-            "nama_se": "hariannet.co.id",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21328",
-            "website": "hariannet.co.id"
-        },
-        {
-            "id": "9d91f229-07d7-4e4f-bec6-27d3684130b6",
-            "nama_pse": "OSO SEKURITAS INDONESIA",
-            "nama_se": "OSO TRADER",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21329",
-            "website": "oso-securities.com"
-        },
-        {
-            "id": "9d9252c9-5075-45c3-a822-513fe5c556b2",
-            "nama_pse": "SHIFA HANIFAH",
-            "nama_se": "caaszietwt",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21333",
-            "website": "caaszietwt.biz.id"
-        },
-        {
-            "id": "9d9252d5-f4ea-4dd4-a623-122539229f7c",
-            "nama_pse": "KOPI BINTANG INDONESIA",
-            "nama_se": "TOMORO COFFEE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21334",
-            "website": "tomoro-coffee.id"
-        },
-        {
-            "id": "9d930182-1b34-497a-86a2-b0eaa098477c",
-            "nama_pse": "TOKOPEDIA",
-            "nama_se": "merchant-id.tokopedia.com",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21340",
-            "website": "merchant-id.tokopedia.com"
-        },
-        {
-            "id": "9d92abe7-138a-41a2-904a-e3d0fc37eac7",
-            "nama_pse": "AHMAD AFIFUDIN",
-            "nama_se": "WISNUFARMA REKAM MEDIS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21338",
-            "website": "rekmed.wisnu-farma.com"
-        },
-        {
-            "id": "9d9252f0-682d-4633-90f3-5224911655f1",
-            "nama_pse": "ACHMAD TARICH WIBOWO",
-            "nama_se": "ABUWAFA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21335",
-            "website": "abuwafa.id"
         }
     ],
-    "processingTimeMs": 7,
+    "processingTimeMs": 6,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 22,
     "totalPages": 383

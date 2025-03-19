@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac11-0cc4-4b83-8d55-ae5c7d1bba6a",
+            "nama_pse": "COINJOSS DATA UTAMA",
+            "nama_se": "HTTPS://COINJOSS.COM/",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11494",
+            "website": "coinjoss.com"
+        },
+        {
+            "id": "9cb1ac02-7252-49ca-a134-0aacadc494d9",
+            "nama_pse": "DLN KARYA BANGSA",
+            "nama_se": "MEJADOKTER",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11486",
+            "website": "mejadokter.com"
+        },
+        {
+            "id": "9cb1abdd-e843-419c-afb7-c4f49a98450b",
+            "nama_pse": "INDOTECH GLOBAL UTAMA",
+            "nama_se": "ME12PAY DIGITAL",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11488",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac11-4d8c-41b1-b141-7e502db11607",
+            "nama_pse": "SETIAP HARI DIPAKAI",
+            "nama_se": "POPAKET",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11489",
+            "website": "popaket.com"
+        },
+        {
+            "id": "9cb1abdd-ed2c-447f-ba66-d34306f837c0",
+            "nama_pse": "LUMIO INOVASI TECHNOLOGY",
+            "nama_se": "LUMIO CMS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11490",
+            "website": "lumio.id"
+        },
+        {
+            "id": "9cb1abdd-f208-4c9d-b75a-65ae2cdabb7c",
+            "nama_pse": "SETIAP HARI DIPAKAI",
+            "nama_se": "EVERPRO - KIRIM PAKET \u0026 COD",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11491",
+            "website": "everpro.id"
+        },
+        {
+            "id": "9cb1ac11-507a-4442-8d62-f778d0bb46e9",
+            "nama_pse": "LUMIO INOVASI TECHNOLOGY",
+            "nama_se": "LUMIO AMS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11492",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac02-78a1-4b64-8a77-5e8a7a6aef2b",
+            "nama_pse": "MUSTIKA SHAFWAH SUKSES",
+            "nama_se": "SUKSESKU.COM",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11495",
+            "website": "suksesku.com"
+        },
+        {
+            "id": "9cb1ac11-53da-4007-b2a0-b84371dc93ea",
+            "nama_pse": "CLEOVA INOVASI TEKNOLOGI",
+            "nama_se": "PT CLEOVA INOVASI TEKNOLOGI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11493",
+            "website": "cleova.com"
+        },
+        {
+            "id": "9cb1ac02-7c75-4e7f-a2da-c7f3c2553fb8",
+            "nama_pse": "COINJOSS DATA UTAMA",
+            "nama_se": "COINJOSS.COM",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11496",
+            "website": "coinjoss.com"
+        },
+        {
+            "id": "9cb1abdd-f8c4-412b-bc67-90b8a5ef08c9",
+            "nama_pse": "HOURLOGY INDAH PERKASA",
+            "nama_se": "HOURLOGY ONLINE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-10-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11497",
+            "website": "hourlogy-online.com"
+        },
+        {
             "id": "9cb1abdd-fbf2-4a2a-98f6-9184aaf5efcd",
             "nama_pse": "MAWARINA",
             "nama_se": "PD. KIRANA ELEKTRONIK",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-09-29",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11425",
             "website": "marea.kpei.co.id"
-        },
-        {
-            "id": "9cb1ac10-ea7f-4aac-849b-9b0409668b9a",
-            "nama_pse": "DEUTSCHE BANK AG",
-            "nama_se": "DEUTSCHE BANK  INDONESIA COUNTRY WEBSITE",
-            "sektor": "Sektor Perdagangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-09-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11426",
-            "website": "country.db.com"
-        },
-        {
-            "id": "9cb1abdd-8928-499f-8f6a-2d1790cbb610",
-            "nama_pse": "BINTANG INTI MEDIA AGUNG",
-            "nama_se": "BINTANG.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11427",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abdd-8c35-48b5-9936-d87849a95b95",
-            "nama_pse": "REDBY MEDIA GROUP",
-            "nama_se": "REDBY JEK",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2022-09-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11428",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac10-eda4-4e28-a5cf-a339bd3e6e8d",
-            "nama_pse": "ARAH QIBLA NUSANTARA",
-            "nama_se": "ARAH MUSLIM",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11429",
-            "website": "arahmuslim.id"
-        },
-        {
-            "id": "9cb1ac10-f76e-4af4-92cb-071e59c32fe4",
-            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH SINDANGLAYA KOTANOPAN",
-            "nama_se": "PT BANK PEMBIAYAAN RAKYAT SYARIAH SINDANGLAYA KOTANOPAN",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-09-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11432",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac10-fa2f-4132-8ab1-865e071532f9",
-            "nama_pse": "DESA TECH NUSANTARA",
-            "nama_se": "SISTEM MANAJEMEN INFORMASI KOPERASI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11433",
-            "website": "smik.id"
-        },
-        {
-            "id": "9cb1abdd-61ab-4ae7-b4aa-c0f7b63e86df",
-            "nama_pse": "FASTRATA BUANA",
-            "nama_se": "WWW.KAPALAPISTORE.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11398",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abdd-4011-4849-973b-66ef88d1e716",
-            "nama_pse": "SAMUDERA MANGKUPALAS INDONESIA",
-            "nama_se": "TRACE REPORT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11400",
-            "website": "tracereport.id"
-        },
-        {
-            "id": "9cb1ac10-b942-45a4-b4d2-daa806781541",
-            "nama_pse": "ANNYEONG SOFTWARE INTERNATIONAL",
-            "nama_se": "ANSIM HOSPITAL SYSTEM",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-09-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11397",
-            "website": "simrs.kr"
-        },
-        {
-            "id": "9cb1ac10-bbcb-45b2-9d17-9c5c1403a3d8",
-            "nama_pse": "BULLION ECOSYSTEM INTERNATIONAL",
-            "nama_se": "SISTEM LIKUIDITAS PERDAGANGAN FISIK EMAS DIGITAL DALAM BURSA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11399",
-            "website": "kinesis.money"
-        },
-        {
-            "id": "9cb1ac10-becb-49b9-bc8e-9d424da0b7d4",
-            "nama_pse": "FAMINDO DIGITAL INDONESIA",
-            "nama_se": "DOYANREBAHAN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11401",
-            "website": "doyanrebahan.com"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 180,
     "totalPages": 383

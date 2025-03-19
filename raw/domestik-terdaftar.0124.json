@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac27-a813-4561-9f9e-26cadc0d0fc6",
+            "nama_pse": "RUMAH SAKIT UMUM DAERAH LIMPUNG",
+            "nama_se": "SIMRS RSUD LIMPUNG",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15689",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac49-966b-427c-ad8a-bbdd06b273a9",
+            "nama_pse": "NOVRAN ADITIA",
+            "nama_se": "UMKM BENGKULU",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15690",
+            "website": "umkmbengkulu.com"
+        },
+        {
+            "id": "9cb1ac49-99b2-4215-9c7a-e9e047b622be",
+            "nama_pse": "BHAKTI MULIA PERSADA",
+            "nama_se": "SIMRS RSMM",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15692",
+            "website": "rsmedikamulia.com"
+        },
+        {
+            "id": "9cb1ac3a-4c83-46fd-8f08-b57e429c44e1",
+            "nama_pse": "ROLAS NUSANTARA MEDIKA",
+            "nama_se": "SIMRS RSU KALIWATES",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15693",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac49-9cc7-442d-ab21-f2d4326fcb2d",
+            "nama_pse": "RUMAH SAKIT UMUM DAERAH HJ. ANNA LASMANAH KABUPATEN BANJARNEGARA",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT RSUD HJ. ANNA LASMANAH BANJARNEGARA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15696",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac49-9fdd-4363-8629-a402ecae95e9",
+            "nama_pse": "BP BLUD MARGONO SOEKARJO",
+            "nama_se": "SMARTMEDIKA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15695",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac49-a24d-49fc-b117-50c87be549bc",
+            "nama_pse": "ROLAS NUSANTARA MEDIKA",
+            "nama_se": "SIMRS BHAKTI HUSADA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15694",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac49-a68b-47d6-b5b6-edc984b6930e",
+            "nama_pse": "RSUD R.A KARTINI KABUPATEN JEPARA",
+            "nama_se": "SIMRS RSUD R.A. KARTINI",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15698",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac27-ac14-43e1-ab84-6eb8cea0db10",
+            "nama_pse": "DEWI SRI PIRANTI SYIFA PERSADA",
+            "nama_se": "SIMRSRME RSDS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15697",
+            "website": "rs-dewisri.co.id"
+        },
+        {
+            "id": "9cb1ac49-aa88-4312-8136-73802d02de06",
+            "nama_pse": "PERTAMINA BINA MEDIKA IHC",
+            "nama_se": "SIRUP - SISTEM INFORMASI RUMAH SAKIT PERTAMEDIKA RSP PLAJU",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15699",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac27-b1bc-406f-85ce-2342a1f97071",
+            "nama_pse": "RUMAH SAKIT UMUM DAERAH dr. M. THOMSEN NIAS",
+            "nama_se": "SIM RSUD DR. M. THOMSEN NIAS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15702",
+            "website": "rsud.niaskab.go.id"
+        },
+        {
             "id": "9cb1ac3a-4f47-463d-bea6-fa7c9c9f9b72",
             "nama_pse": "RSUD DR. H. MARSIDI JUDONO",
             "nama_se": "SIMRS MEDISMART",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-08-23",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15658",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac49-72f2-486f-8771-99160b567206",
-            "nama_pse": "PRESTASI RETAIL INNOVATION",
-            "nama_se": "PIEROINDONESIA.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15659",
-            "website": "pieroindonesia.com"
-        },
-        {
-            "id": "9cb1ac3a-2742-4cdc-b90b-04999580cc04",
-            "nama_pse": "SOLUSI EONE BYTE",
-            "nama_se": "EONE",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15660",
-            "website": "eone.biz.id"
-        },
-        {
-            "id": "9cb1ac49-758d-491c-a418-0791627e5816",
-            "nama_pse": "SARANA KREATOR TEKNOLOGI",
-            "nama_se": "SLICE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15668",
-            "website": "slice.id"
-        },
-        {
-            "id": "9cb1ac27-96ef-4b1a-a325-9b0fe4ad2d1b",
-            "nama_pse": "PENERBIT BUKU ERLANGGA MAHAMERU",
-            "nama_se": "ERLANGGAPEDIA.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18117",
-            "website": "erlanggapedia.id"
-        },
-        {
-            "id": "9cb1ac3a-31fa-479c-96fa-2b3267f3240f",
-            "nama_pse": "RAKSA BAKSYA SANDIKA",
-            "nama_se": "SOFTMEDIX - HASPRO HOSPITAL ASSISTANT PRO",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15665",
-            "website": "softmedix.com"
-        },
-        {
-            "id": "9cb1ac49-7903-407b-97f9-944580ba95be",
-            "nama_pse": "TEKNO INSAN MANDIRI",
-            "nama_se": "TARADMC",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15667",
-            "website": "taradmc.com"
-        },
-        {
-            "id": "9cb1ac3a-34ca-4595-b5b3-33dd2019c269",
-            "nama_pse": "RUMAH SAKIT PELABUHAN",
-            "nama_se": "SIMOP RS PELABUHAN CIREBON",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15669",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac49-7c0c-4b88-8eba-9e4c1f6c71bc",
-            "nama_pse": "RAKSA BAKSYA SANDIKA",
-            "nama_se": "SOFTMEDIX - LAB. ASSISTANT PRO LASPRO",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15670",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac3a-3785-445a-862c-20dbf357c02f",
-            "nama_pse": "RAKSA BAKSYA SANDIKA",
-            "nama_se": "SOFTMEDIX - RAD. ASSISTANT PRO RASPRO",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15671",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac3a-3c7a-4f3f-bfc3-4306c354e930",
-            "nama_pse": "APRIANIL SESTI RANGGA",
-            "nama_se": "CLOSA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15672",
-            "website": "closa.me"
-        },
-        {
-            "id": "9cb1ac49-81c9-4535-87a1-1cee06c475f5",
-            "nama_pse": "NUSANTARA MEDIKA UTAMA",
-            "nama_se": "HIS SIMFONIA PT NMU",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-23",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15673",
-            "website": "rsgatoel.co.id"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 124,
     "totalPages": 383

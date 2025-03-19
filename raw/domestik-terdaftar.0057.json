@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac5d-fd8e-49a2-828b-5deed53cf0a2",
+            "nama_pse": "MEDIA PUTRA NUSANTARA",
+            "nama_se": "IDN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19465",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac89-8e1f-482a-bfdb-80987c4a3e85",
+            "nama_pse": "AFTAR AFIFA NETWORK",
+            "nama_se": "LAYANAN INTERNET LOKAL ( RT RW NET)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19474",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5d-f506-413f-9870-fe074c8929b1",
+            "nama_pse": "MEDENTA SINERGI INDONESIA",
+            "nama_se": "MY DENTMATE",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19461",
+            "website": "dentmate.id"
+        },
+        {
+            "id": "9cb1ac5d-f7d8-4004-9769-0ba87cc39270",
+            "nama_pse": "DINAMIKA MITRA TERDEPAN",
+            "nama_se": "BILLER5",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-07-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19462",
+            "website": "biller5.com"
+        },
+        {
+            "id": "9cb1ac5e-0003-459f-b1b6-1dac4fe1e1cd",
+            "nama_pse": "DIGI GLOBAL PRATAMA",
+            "nama_se": "DIGIGLOBAL.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19468",
+            "website": "digiglobal.id"
+        },
+        {
+            "id": "9cb1ac89-87c1-452a-aaed-b74abfd9b7c6",
+            "nama_pse": "DIGI GLOBAL PRATAMA",
+            "nama_se": "PRATAMADIGITAL.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19470",
+            "website": "pratamadigital.id"
+        },
+        {
+            "id": "9cb1ac5e-035b-4445-afc5-a3ce87e015fd",
+            "nama_pse": "DIGI GLOBAL PRATAMA",
+            "nama_se": "GLOBALPRATAMA.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19469",
+            "website": "globalpratama.id"
+        },
+        {
+            "id": "9cb1ac5e-0671-4528-8465-8b04c72b556e",
+            "nama_pse": "PENINTA BRAMANTYA INDONESIA",
+            "nama_se": "SALING BAUR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19473",
+            "website": "baur.salingsae.id"
+        },
+        {
+            "id": "9cb1ac73-35f1-4772-a641-169213d44fa4",
+            "nama_pse": "ELECTRIC VEHICLE SOLUSI NUSANTARA",
+            "nama_se": "EVOLTZ.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19472",
+            "website": "evoltz.id"
+        },
+        {
+            "id": "9cb1ac5e-0967-41b9-87bf-64f12f6e1c46",
+            "nama_pse": "ALL MEDIA INDO",
+            "nama_se": "ALL MEDIA INDO",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-11",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19475",
+            "website": "allmediaindo.com"
+        },
+        {
             "id": "9cb1ac73-3146-44c2-ad30-bc9010e695c2",
             "nama_pse": "FORTACE DIAGNOSTICS INDONESIA",
             "nama_se": "FORTACEDX SISTEM INFORMASI LABORATORIUM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-07-09",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19439",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac5d-d1f8-4c83-b122-591a07ecd13d",
-            "nama_pse": "APRIYANTI MUSTIKA DEWI",
-            "nama_se": "APP.ATHREE.ID",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
-            "tanggal_terbit": "2024-07-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19425",
-            "website": "athree.id"
-        },
-        {
-            "id": "9cb1ac89-1025-474e-af5b-31b568de1f54",
-            "nama_pse": "PUTRA MEDIKA",
-            "nama_se": "KLINIK PUTRA MEDIKA 2",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-07-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19404",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac72-d7d4-418b-8a8f-a5c45d13919c",
-            "nama_pse": "AIR MAS PERKASA",
-            "nama_se": "AYOOSTORE",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19414",
-            "website": "ayoostore.id"
-        },
-        {
-            "id": "9cb1ac89-0751-4ee1-bb86-0f7c22c82283",
-            "nama_pse": "SECURE DATA DIGITAL CYBER",
-            "nama_se": "SECURE DATA DIGITAL CYBER",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19400",
-            "website": "ptsddc.com"
-        },
-        {
-            "id": "9cb1ac89-0baf-44b5-923d-de15a08434ab",
-            "nama_pse": "SMART EDUKASI INDONESIA",
-            "nama_se": "SMARTCPNS",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19401",
-            "website": "smartcpns.id"
-        },
-        {
-            "id": "9cb1ac5d-a788-4f04-8be5-3ef108bd4e35",
-            "nama_pse": "SMART EDUKASI INDONESIA",
-            "nama_se": "SMARTCPNS APP",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19402",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5d-aa54-4ad4-966e-8ba60ba9953c",
-            "nama_pse": "PUTRA MEDIKA",
-            "nama_se": "KLINIK PUTRA MEDIKA 1",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-07-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19403",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac89-14b0-452f-9a90-8fefde4a4d2e",
-            "nama_pse": "PUTRA MEDIKA",
-            "nama_se": "KLINIK PUTRA MEDIKA SUKAMAHI",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-07-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19406",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5d-acec-4629-815f-e4a0e9ba994e",
-            "nama_pse": "PUTRA MEDIKA",
-            "nama_se": "KLINIK PUTRA MEDIKA 3",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-07-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19405",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5d-b287-46b9-a074-00d55a5af3b4",
-            "nama_pse": "PUTRA MEDIKA",
-            "nama_se": "KLINIK PUTRA MEDIKA CIBENDA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-07-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19407",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 36,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 57,
     "totalPages": 383

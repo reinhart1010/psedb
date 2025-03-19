@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9ccf2c46-010a-4aa2-a420-bb7615fd6150",
+            "nama_pse": "CAHAYA GERBANG MUTIARA",
+            "nama_se": "CAHAYA GERBANG MUTIARA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20023",
+            "website": "cahayagerbangmutiara.com"
+        },
+        {
+            "id": "9cce3936-9c8f-4353-ba98-c8ad7e433923",
+            "nama_pse": "PUNYA RETAIL BERSAMA",
+            "nama_se": "SANCTUARY FOOTWEAR",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20014",
+            "website": "sanctuaryfootwear.com"
+        },
+        {
+            "id": "9cce1f36-468e-453c-b741-8ee9a91375d2",
+            "nama_pse": "SINAR BINTANG RETAIL",
+            "nama_se": "LILIE WEAR",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20010",
+            "website": "liliewear.com"
+        },
+        {
+            "id": "9cce3dda-d313-45d6-b0f6-8fb25f04de95",
+            "nama_pse": "GAYA BARU KITA",
+            "nama_se": "ELITE77",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20016",
+            "website": "elite77sneakers.com"
+        },
+        {
+            "id": "9cce3b4d-3e9f-4082-a835-ef9111b1b621",
+            "nama_pse": "BERDUA KITA MAJU",
+            "nama_se": "PARAMOUNT CLOTHES",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20015",
+            "website": "paramountclothes.com"
+        },
+        {
+            "id": "9cce2cea-0e38-4094-a207-ab8d3b53e7da",
+            "nama_pse": "SINAR BARU KITA",
+            "nama_se": "RINJANI APPAREL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20011",
+            "website": "rinjaniapparel.com"
+        },
+        {
+            "id": "9cce313a-ff1f-4d4b-adf6-2418a3e9ed5b",
+            "nama_pse": "BINTANG MAJU BERDUA",
+            "nama_se": "37 Project",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20012",
+            "website": "37project.com"
+        },
+        {
+            "id": "9cce35c6-741c-4724-a81c-5b3ed6170755",
+            "nama_pse": "INTINYA MANDIRI SUKSES",
+            "nama_se": "tiramishoes",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20013",
+            "website": "tiramishoes.com"
+        },
+        {
+            "id": "9cce3fec-a417-4fdd-9935-ec69903fd0f5",
+            "nama_pse": "BERSAMA CANTIK KITA",
+            "nama_se": "STRIDE PUMPS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20017",
+            "website": "stridepumps.com"
+        },
+        {
+            "id": "9ccf2daf-685a-4719-be78-78371a40fc50",
+            "nama_pse": "CIPTA MULTI DANARTA",
+            "nama_se": "SETLARY APPS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20024",
+            "website": "-"
+        },
+        {
             "id": "9ccf62a9-8ca1-4054-a5a6-675c92e4fb18",
             "nama_pse": "DOMINIC DIGITAL TECHNOLOGY",
             "nama_se": "ONE STOP GPS",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-08-17",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19961",
             "website": "jawaraproperty.com"
-        },
-        {
-            "id": "9cc93130-457f-4bd4-8938-ae0ead20c79f",
-            "nama_pse": "MOH. MUFLIKH ARDIAN",
-            "nama_se": "JUBER",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19965",
-            "website": "Juber.co.id"
-        },
-        {
-            "id": "9cc9267e-9575-4258-b836-a16314156886",
-            "nama_pse": "MEDIA DETIK HARIAN",
-            "nama_se": "detikhariannews.com",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19964",
-            "website": "detikhariannews.com"
-        },
-        {
-            "id": "9cc8eb64-ddb5-453b-a2b1-441520665bb2",
-            "nama_pse": "TRISULA YUDHA MEDIA",
-            "nama_se": "detikharianpos.com",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19963",
-            "website": "detikharianpos.com"
-        },
-        {
-            "id": "9cc9ceac-c318-402c-9e0e-12daf96395c0",
-            "nama_pse": "JEJAK KASUS GROUP",
-            "nama_se": "jejakkasusindonesia.id",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19978",
-            "website": "jejakkasusindonesia.id"
-        },
-        {
-            "id": "9cc9d890-2c6b-4139-9694-e014f694e1ab",
-            "nama_pse": "MEDIA KOMUNIKASI INFORMASI",
-            "nama_se": "siaplapor.com",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19980",
-            "website": "siaplapor.com"
-        },
-        {
-            "id": "9cc9f09d-dd52-4be5-a139-4f4738043376",
-            "nama_pse": "MEDIA KOMUNIKASI INFORMASI",
-            "nama_se": "siaptayang.com",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19983",
-            "website": "siaptayang.com"
-        },
-        {
-            "id": "9cc9d657-5373-43d9-b126-eede6048da5a",
-            "nama_pse": "SOLUSI DIGITAL GRESINDO",
-            "nama_se": "CVPULSA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19979",
-            "website": "cvpulsa.id"
-        },
-        {
-            "id": "9cc794b1-6994-48c0-8638-bdeb18736680",
-            "nama_pse": "JEJAK KASUS GROUP",
-            "nama_se": "jejakkasusgroup.co.id",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19947",
-            "website": "jejakkasusgroup.co.id"
-        },
-        {
-            "id": "9cc79fa7-3f45-4c42-a974-da732da6855e",
-            "nama_pse": "JEJAK KASUS GROUP",
-            "nama_se": "007news.id",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19949",
-            "website": "007news.id"
-        },
-        {
-            "id": "9cc76d2b-e0cf-4093-b21e-acc655eb7d24",
-            "nama_pse": "UEMKAEM GLOBAL MANDIRI",
-            "nama_se": "digitalnexus.id",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19946",
-            "website": "digitalnexus.id"
         }
     ],
     "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 47,
     "totalPages": 383

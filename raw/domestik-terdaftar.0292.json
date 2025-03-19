@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abaf-110e-46b1-9c50-c4e69caf57f1",
+            "nama_pse": "MALEO EDUKASI TEKNOLOGI",
+            "nama_se": "EDUCOURSE FOR SCHOOL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5139",
+            "website": "school.educourse.id"
+        },
+        {
+            "id": "9cb1abaf-12f9-44b9-bf34-809ea0baf485",
+            "nama_pse": "ADIRA DINAMIKA MULTI FINANCE",
+            "nama_se": "MOSERVICE.ID",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5141",
+            "website": "moservice.id"
+        },
+        {
+            "id": "9cb1abaf-14df-4dc8-914c-ca21b790d1dc",
+            "nama_pse": "LONTAR TALI MEDIA",
+            "nama_se": "PAJAK.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5143",
+            "website": "pajak.com"
+        },
+        {
+            "id": "9cb1aba5-2763-410e-a4ed-eaa516a9b8d0",
+            "nama_pse": "ADIRA DINAMIKA MULTI FINANCE",
+            "nama_se": "MOSERVICE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5142",
+            "website": "moservice.id"
+        },
+        {
+            "id": "9cb1abaf-169f-4ff5-9233-bf0434fca97d",
+            "nama_pse": "PERTA LIFE INSURANCE",
+            "nama_se": "APLIKASI DIGITAL MARKETING",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5145",
+            "website": "pertalife.com"
+        },
+        {
+            "id": "9cb1aba5-2987-40c3-bdd9-60f925e9f46b",
+            "nama_pse": "BENTARA FRAKTAL INDONESIA TEKNOLOGI",
+            "nama_se": "PERPUSTAKAAN DIGITAL BUDAYA INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5144",
+            "website": "budaya-indonesia.org"
+        },
+        {
+            "id": "9cb1ab9a-354a-4e47-8f73-025375ae32c2",
+            "nama_pse": "ASTRA INTERNASIONAL",
+            "nama_se": "KOPERASI ASTRA APPS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5146",
+            "website": "koperasi-astra.com"
+        },
+        {
+            "id": "9cb1aba5-2c04-4da7-aeee-f0444ea66ce4",
+            "nama_pse": "DIKA ADITYA PRATAMA",
+            "nama_se": "SISTEM PENUNJANG PERDAGANGAN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5147",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abaf-186d-4528-8a75-5ccfd2cdb2cd",
+            "nama_pse": "MANPRO TEKNOLOGI INDONESIA",
+            "nama_se": "MANPRO TEKNOLOGI INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5148",
+            "website": "manpro.id"
+        },
+        {
+            "id": "9cb1abaf-1a65-46a9-a570-7b9d4bdb8dd8",
+            "nama_pse": "MOBILKU DOTCOM SEJAHTERA",
+            "nama_se": "MOBILKU.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-06",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5149",
+            "website": "mobilku.com"
+        },
+        {
             "id": "9cb1abaf-1c83-41c5-83c8-7970182085c5",
             "nama_pse": "YOEL ANDREAS MANOPPO",
             "nama_se": "GHIBRANTRAVEL",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-04",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5045",
             "website": "net.life.id"
-        },
-        {
-            "id": "9cb1abae-c1e9-4997-9b04-a65f1d2dbbb8",
-            "nama_pse": "DANA UNICO FINANCE",
-            "nama_se": "PT DANA UNICO FINANCE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5047",
-            "website": "danafinance.com"
-        },
-        {
-            "id": "9cb1aba4-de50-46fe-9fb6-e113d55be06d",
-            "nama_pse": "ADIFA MEDIA KARYA",
-            "nama_se": "AMK WEBHOSTING",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5048",
-            "website": "amk.webi.id"
-        },
-        {
-            "id": "9cb1ab99-e334-4222-8afa-37c5bbb5953a",
-            "nama_pse": "EQUITY LIFE INDONESIA",
-            "nama_se": "MYELIFE (MOBILE APP)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5052",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abae-d067-4792-a6a5-0ae5e44f3d0e",
-            "nama_pse": "CHINA LIFE INSURANCE INDONESIA",
-            "nama_se": "WEBSITE CHINALIFE INSURANCE INDONESIA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5067",
-            "website": "chinalife.co.id"
-        },
-        {
-            "id": "9cb1aba4-e0a2-4306-8a6b-809a9a731005",
-            "nama_pse": "KREDITKU TEKNOLOGI INDONESIA",
-            "nama_se": "KREDINESIA - PINJAMAN ONLINE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5056",
-            "website": "kredinesia.id"
-        },
-        {
-            "id": "9cb1abae-d2ae-463e-995d-aeaf7365cc60",
-            "nama_pse": "EQUITY LIFE INDONESIA",
-            "nama_se": "MYEBENEFIT (MOBILE APP)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5054",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab99-e533-4f77-adaf-dcaae61d304c",
-            "nama_pse": "MESIN OTOMATIS INDONESIA",
-            "nama_se": "MESINOTOMATIS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5055",
-            "website": "mesinotomatis.com"
-        },
-        {
-            "id": "9cb1ab99-e7dd-417f-b96f-df0455c8084d",
-            "nama_pse": "TEKNOLOGI MERLIN SEJAHTERA",
-            "nama_se": "UKU",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5057",
-            "website": "ukuindo.com"
-        },
-        {
-            "id": "9cb1aba4-e33d-4608-b5db-d5401c650431",
-            "nama_pse": "TEKNOLOGI DIGITAL BERSAMA",
-            "nama_se": "PT TEKNOLOGI DIGITAL BERSAMA",
-            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5059",
-            "website": "meltipay.com"
-        },
-        {
-            "id": "9cb1abae-d6b2-4f23-85f1-b4c3ebcaa3b4",
-            "nama_pse": "EQUITY LIFE INDONESIA",
-            "nama_se": "WEB PORTAL WWW.EQUITY.CO.ID",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5061",
-            "website": "equity.co.id"
         }
     ],
     "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 292,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab6e-9def-4080-a453-b1dfdec60cc7",
+            "nama_pse": "LAUT SELATAN TEKNOLOGI",
+            "nama_se": "LAUT SELATAN TEKNOLOGI",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1657",
+            "website": "lautselatan.id"
+        },
+        {
+            "id": "9cb1ab68-57f3-4e18-ad56-fd63a36c7cf6",
+            "nama_pse": "AUTENTIKA DIGITAL INDONESIA",
+            "nama_se": "AUTENTIKA DIGITAL SOLUTIONS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1674",
+            "website": "autentika.id"
+        },
+        {
+            "id": "9cb1ab68-5bb0-4719-8067-ea0bfe31ad1d",
+            "nama_pse": "BANK MESTIKA DHARMA",
+            "nama_se": "WEBSITE PERUSAHAAN",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1681",
+            "website": "bankmestika.co.id"
+        },
+        {
+            "id": "9cb1ab68-61db-4677-8fcd-edee52f15643",
+            "nama_pse": "TEKNOLOGI USAHA NUSANTARA",
+            "nama_se": "BROOM.ID",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1675",
+            "website": "broom.id"
+        },
+        {
+            "id": "9cb1ab75-2131-4172-9a03-00cd8f6079cf",
+            "nama_pse": "SIMPAN PINJAM TEKNOLOGI SEJAHTERA BERSAMA",
+            "nama_se": "KSPTESA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1663",
+            "website": "ksptesa.id"
+        },
+        {
+            "id": "9cb1ab6e-ca7d-41a3-b951-3220a1abf385",
+            "nama_pse": "TENNET DEPOSITORY INDONESIA",
+            "nama_se": "DEPOSITORY",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1677",
+            "website": "depository.id"
+        },
+        {
+            "id": "9cb1ab83-68d0-4302-b828-6d6a81a59436",
+            "nama_pse": "ZONA EDUKASI NUSANTARA",
+            "nama_se": "ZENIUS UNTUK GURU (ZENRU)",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1671",
+            "website": "https://www.guru.zenius.com atau https://www.guru.zenius.net"
+        },
+        {
+            "id": "9cb1ab7d-52eb-4040-afc7-5ea5a5641fab",
+            "nama_pse": "SYDECO",
+            "nama_se": "ALL IN ONE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1666",
+            "website": "syde.co"
+        },
+        {
+            "id": "9cb1ab85-ccea-45f0-9f5f-c20e599c21ba",
+            "nama_pse": "EBELAJAR SEMESTA RAYA",
+            "nama_se": "E-BELAJAR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1654",
+            "website": "e-belajar.id/"
+        },
+        {
+            "id": "9cb1ab85-cf31-40a6-a7e9-5ed0eaf9fbd5",
+            "nama_pse": "EBELAJAR SEMESTA RAYA",
+            "nama_se": "TIDESA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1673",
+            "website": "tidesa.id"
+        },
+        {
             "id": "9cb1ab8d-7f5f-4216-b8ef-ec2393383969",
             "nama_pse": "SINERGI INFORMATIKA SEMEN INDONESIA",
             "nama_se": "AKSESTOKO",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-07-01",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1618",
             "website": "magicalladin.com"
-        },
-        {
-            "id": "9cb1ab68-52a0-428c-afa1-1aeda83d5443",
-            "nama_pse": "PACIFIC CAPITAL INVESTMENT",
-            "nama_se": "WWW.PCINVESTMENT.CO.ID, WW.PCINV.CO.ID",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-07-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1630",
-            "website": "pcinvestment.co.id"
-        },
-        {
-            "id": "9cb1ab75-023d-44e1-9bc8-532ef24d2abb",
-            "nama_pse": "SAHABAT MIKRO FINTEK",
-            "nama_se": "SAMIR",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-07-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1628",
-            "website": "samir.co.id"
-        },
-        {
-            "id": "9cb1ab6e-7dcc-467a-b7a5-e6c57412c372",
-            "nama_pse": "INDO CAPITAL SEKURITAS",
-            "nama_se": "OTIS - ONLINE TRADING INDOCAPITAL SEKURITAS",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-07-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1627",
-            "website": "indocapital.co.id"
-        },
-        {
-            "id": "9cb1ab6e-83e8-45dd-985b-0450143c53f0",
-            "nama_pse": "BNI SEKURITAS",
-            "nama_se": "BIONS - BNI SEKURITAS INNOVATIVE ONLINE TRADING SYSTEM",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-07-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1623",
-            "website": "bions.id"
-        },
-        {
-            "id": "9cb1ab6e-89b2-4701-926a-a91b4eef302d",
-            "nama_pse": "BNI SEKURITAS",
-            "nama_se": "BIONS - BNI SEKURITAS INNOVATIVE ONLINE TRADING SYSTEM",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-07-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1624",
-            "website": "bions.id"
-        },
-        {
-            "id": "9cb1ab6e-94c4-4f8a-abcf-854386da4206",
-            "nama_pse": "MAHAKARYA INTI TECHNOLOGY",
-            "nama_se": "YOLORI",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-07-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1633",
-            "website": "yolori.com"
-        },
-        {
-            "id": "9cb1ab83-9b9b-4a68-baff-5dda295ec2e3",
-            "nama_pse": "MSIG LIFE INSURANCE INDONESIA",
-            "nama_se": "ORION BY PT ASURANSI JIWA SINARMAS MSIG TBK.",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-07-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1637",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba9-b407-409b-9924-6315ddd7b922",
-            "nama_pse": "MASA DEPAN SIBER INDONESIA",
-            "nama_se": "JAGEL.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-07-01",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1605",
-            "website": "web.jagel.id/id/cara-membuat-aplikasi"
-        },
-        {
-            "id": "9cb1ab65-c6b2-4342-9fe8-6d21eb8fbac3",
-            "nama_pse": "VELA INOVASI TEKNOLOGI",
-            "nama_se": "CREDINEX",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-06-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1601",
-            "website": "credinex.id"
-        },
-        {
-            "id": "9cb1ab6c-7a10-42bd-bae9-1b9c0f2a7a81",
-            "nama_pse": "TEKNOLOGI INDONESIA SENTOSA",
-            "nama_se": "ONE HOPE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1600",
-            "website": "onehope.co.id"
         }
     ],
     "processingTimeMs": 10,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 352,
     "totalPages": 383

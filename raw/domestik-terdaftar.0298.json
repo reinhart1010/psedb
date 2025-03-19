@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab98-9edd-4dfa-b787-e343f999e63a",
+            "nama_pse": "PORTAL BUANA MEDIA",
+            "nama_se": "PORTAL BUANA MEDIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4713",
+            "website": "PORTALBUANANEW.COM"
+        },
+        {
+            "id": "9cb1aba3-fc0e-4e0a-bc09-4f524e338750",
+            "nama_pse": "USAHA KITA MILYARAN",
+            "nama_se": "KELASBERBAYAR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4714",
+            "website": "kelasberbayar.com"
+        },
+        {
+            "id": "9cb1abad-e7a5-472f-b867-e56abf51c182",
+            "nama_pse": "SOLUSI KREATIF ANAK INDONESIA",
+            "nama_se": "SLEEKTIV.COM \u0026 SLEEKTIV PRO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4715",
+            "website": "sleektiv.com"
+        },
+        {
+            "id": "9cb1ab98-a4ec-4aa6-827d-78424e2475bc",
+            "nama_pse": "DUA CERITA INDOMEDIA",
+            "nama_se": "PT DUA CERITA INDOMEDIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4716",
+            "website": "wartaduta.com"
+        },
+        {
+            "id": "9cb1ab98-a745-4542-bbce-3d67367de34c",
+            "nama_pse": "DUA CERITA INDOMEDIA",
+            "nama_se": "DUA CERITA INDOMEDIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4717",
+            "website": "wartaduta.com"
+        },
+        {
+            "id": "9cb1aba3-fe5f-46f4-94ad-023b8f763460",
+            "nama_pse": "DUA CERITA INDOMEDIA",
+            "nama_se": "WARTADUTA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4718",
+            "website": "wartaduta.com"
+        },
+        {
+            "id": "9cb1ab98-a9b6-44c0-a490-2bb19a221cd3",
+            "nama_pse": "DIGITAL ONLINE TERUS",
+            "nama_se": "GARENG TOPUP",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-06-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4719",
+            "website": "garengtopup.com"
+        },
+        {
+            "id": "9cb1ab98-62f0-4fb2-9804-815f401280dc",
+            "nama_pse": "ASTRA DIGITAL ARTA",
+            "nama_se": "ASTRAPAY",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-06-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4655",
+            "website": "astrapay.com"
+        },
+        {
+            "id": "9cb1abac-a060-4adf-8560-1f505492ec9b",
+            "nama_pse": "INOVASI TERDEPAN NUSANTARA",
+            "nama_se": "360KREDI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-06-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4657",
+            "website": "360kredi.id"
+        },
+        {
+            "id": "9cb1aba3-d56b-47b5-a719-2241e1517ec3",
+            "nama_pse": "SEMAR DIGITALISASI NEGERI",
+            "nama_se": "RAJADINGIN",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Kesehatan",
+            "tanggal_terbit": "2022-06-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4652",
+            "website": "rajadingin.com"
+        },
+        {
             "id": "9cb1abad-c886-4080-bbdf-3c0f79aa0e9c",
             "nama_pse": "SIMPAN PINJAM MAKMUR KARYA SEJAHTERA",
             "nama_se": "EZKOP",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-06-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4617",
             "website": "arsapersada.com"
-        },
-        {
-            "id": "9cb1aba3-bfd5-49c6-8d9c-1491d6ad8d5d",
-            "nama_pse": "KIOSON KOMERSIAL INDONESIA",
-            "nama_se": "KIOSON MOBILE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4618",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abad-ab40-4809-8650-09ec720cf1c4",
-            "nama_pse": "TEKNOLOGI KARYA DIGITAL NUSA",
-            "nama_se": "TKDN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4619",
-            "website": "tkdn.co.id"
-        },
-        {
-            "id": "9cb1abad-adc0-42fb-942b-d66520142ead",
-            "nama_pse": "TEKNOLOGI KARYA DIGITAL NUSA",
-            "nama_se": "TEKNOLOGI KARYA DIGITAL NUSA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4620",
-            "website": "tkdn.co.id"
-        },
-        {
-            "id": "9cb1ab98-35b0-4cc1-9256-75158e86d03e",
-            "nama_pse": "L`OREAL INDONESIA",
-            "nama_se": "WEBSITE – SFCC PLATFORM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-06-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4621",
-            "website": "yslbeauty.co.id"
-        },
-        {
-            "id": "9cb1aba3-c1c3-4dd7-8866-230841a811ad",
-            "nama_pse": "GAGAT APLIKASI WISATA",
-            "nama_se": "GOWISATA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-06-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4622",
-            "website": "gagataplikasiwisata.com"
-        },
-        {
-            "id": "9cb1ab98-37c1-45a3-af51-c159ac054ebc",
-            "nama_pse": "KENALINKED INDONESIA GRUP",
-            "nama_se": "KENALINKED INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4623",
-            "website": "kenalinked.com"
-        },
-        {
-            "id": "9cb1ab98-39d4-40bb-960e-0a4576ef424b",
-            "nama_pse": "SARANA BERITA NUSANTARA",
-            "nama_se": "KALTENGONLINE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4624",
-            "website": "kaltengonline.com"
-        },
-        {
-            "id": "9cb1abad-afef-47bd-8d85-c852ddc0257b",
-            "nama_pse": "JENDELA AKSES SEHAT",
-            "nama_se": "FARMACARE",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
-            "tanggal_terbit": "2022-06-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4625",
-            "website": "app.farmacare.id"
-        },
-        {
-            "id": "9cb1ab98-3cf6-400f-a88b-66e8c3c93e2d",
-            "nama_pse": "WISE PAYMENTS INDONESIA",
-            "nama_se": "WISE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-06-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4627",
-            "website": "wise.com"
-        },
-        {
-            "id": "9cb1abad-b1eb-41e3-9c9a-8d16bed2e9e9",
-            "nama_pse": "PARFUM INDONESIA RAYA",
-            "nama_se": "REY DE PARFUM",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-06-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4626",
-            "website": "reydeparfum.com"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 298,
     "totalPages": 383

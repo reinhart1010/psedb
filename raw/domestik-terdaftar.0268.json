@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb2-1243-4e77-b760-283ba9406767",
+            "nama_pse": "BERSAMA KREATIF TEKNOLOGI",
+            "nama_se": "SEAFRESHING",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6073",
+            "website": "seafreshing.com"
+        },
+        {
+            "id": "9cb1abb2-140b-481d-b1ce-da87d6e2afec",
+            "nama_pse": "BANK PERKREDITAN RAKYAT ARTHA MANDIRI SEJAHTERA",
+            "nama_se": "CORE BANKING SYSTEM PT. BPR ARTHA MANDIRI SEJAHTERA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6074",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba8-385f-40c4-8707-1e53e53d3b71",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT MULTIDHANA BERSAMA",
+            "nama_se": "WWW.BANKMULTIDHANA.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6075",
+            "website": "bankmultidhana.com"
+        },
+        {
+            "id": "9cb1abb2-15ec-4df2-9b93-507e9b1bf24c",
+            "nama_pse": "INDOFUN DIGITAL TECHNOLOGY",
+            "nama_se": "INDOFUN GAMES",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6084",
+            "website": "indofungames.com"
+        },
+        {
+            "id": "9cb1ab9d-8301-43c2-be66-a944b9e81369",
+            "nama_pse": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 18",
+            "nama_se": "PT. BPR NUSANTARA BONA PASOGIT 18",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6077",
+            "website": "bprnbp18.co.id"
+        },
+        {
+            "id": "9cb1ab9d-8545-49bc-afb0-31b07e43386e",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SATYADHANA ARTHA",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6078",
+            "website": "bprsatyadhanaartha.com"
+        },
+        {
+            "id": "9cb1abb2-17d3-463b-adeb-969778c11325",
+            "nama_pse": "DAYALIMA ABISATYA",
+            "nama_se": "KLOB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6080",
+            "website": "klob.id"
+        },
+        {
+            "id": "9cb1ab9d-886b-4f03-89a8-9c7bc3d8f154",
+            "nama_pse": "PUTERA KONSEPINDO",
+            "nama_se": "9TO9 ONLINE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6079",
+            "website": "9to9.co.id"
+        },
+        {
+            "id": "9cb1ab9d-8ad9-4451-b05a-3e75e2c1d451",
+            "nama_pse": "EVERGREEN SEKURITAS INDONESIA",
+            "nama_se": "BACKOFFICE SAS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6081",
+            "website": "evergreensekuritas.co.id"
+        },
+        {
+            "id": "9cb1ab9d-8d76-493c-bea0-1c4a06a23666",
+            "nama_pse": "MNC ASURANSI INDONESIA",
+            "nama_se": "MNCINSURANCE.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6112",
+            "website": "mnc-insurance.com"
+        },
+        {
             "id": "9cb1ab9d-8ffe-4096-ad3b-297eca839049",
             "nama_pse": "INDOSAT",
             "nama_se": "IOH WEBSITE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-18",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6127",
             "website": "amantara.com"
-        },
-        {
-            "id": "9cb1abb2-44c3-4e11-b785-535fff50650a",
-            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
-            "nama_se": "BJB VIRTUAL ACCOUNT DEBIT",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6124",
-            "website": "bjbva.bankbjb.co.id"
-        },
-        {
-            "id": "9cb1abb2-4d3b-489b-87f2-be38497f2693",
-            "nama_pse": "AG INDONESIA",
-            "nama_se": "ALTIUSPEOPLE FOUNDATION",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6125",
-            "website": "hr.altius.id"
-        },
-        {
-            "id": "9cb1abb2-52c7-4274-bd8d-7f174784ff06",
-            "nama_pse": "SAMUEL SEKURITAS INDONESIA",
-            "nama_se": "STAR (SAMUEL TRADING ACTIVE REALTIME)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6126",
-            "website": "samuel.co.id"
-        },
-        {
-            "id": "9cb1aba8-4da3-4b59-a1ae-233250393c43",
-            "nama_pse": "ABADI SELARAS CENDERAWASIH",
-            "nama_se": "AIDO HEALTH",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6239",
-            "website": "Aido.id"
-        },
-        {
-            "id": "9cb1ab9d-b721-4468-b615-bc5df489c19c",
-            "nama_pse": "BANK PERKREDITAN RAKYAT GUNUNG MERBABU",
-            "nama_se": "PT BPR GUNUNG MERBABU",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6128",
-            "website": "bprgunungmerbabu.com"
-        },
-        {
-            "id": "9cb1aba8-506b-4878-8557-e2d2f14ae447",
-            "nama_pse": "PUNDI MAS BERJAYA",
-            "nama_se": "JAYARENT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6132",
-            "website": "Jayarent.com"
-        },
-        {
-            "id": "9cb1aba8-545d-4044-bbb9-39b9cb2711a1",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH DAERAH ISTIMEWA YOGYAKARTA",
-            "nama_se": "RETRIBUSI NON BILLING BPD DIY",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6129",
-            "website": "saget.bpddiy.co.id"
-        },
-        {
-            "id": "9cb1abb2-5529-44c1-afb7-6d75338e1c79",
-            "nama_pse": "KONTER PULSA NETINDO",
-            "nama_se": "KONTER PULSA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6130",
-            "website": "konterpulsa.net"
-        },
-        {
-            "id": "9cb1abb2-57ff-435f-a49a-9e0725773d84",
-            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
-            "nama_se": "APLIKASI SOCIAL FUND TRANSFER (SFT)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6131",
-            "website": "sft.bankbjb.co.id"
-        },
-        {
-            "id": "9cb1aba8-591b-4706-8901-799c38dac5b7",
-            "nama_pse": "AG INDONESIA",
-            "nama_se": "ALTIUSPEOPLE ENTERPRISE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6136",
-            "website": "enterprise.altius.id"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 18,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 268,
     "totalPages": 383

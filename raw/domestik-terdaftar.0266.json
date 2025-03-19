@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abc2-a7f1-4d3d-b0aa-0776c2b0e531",
+            "nama_pse": "BANK KB BUKOPIN",
+            "nama_se": "KB BUKOPIN REPORT PPOB",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7243",
+            "website": "ppob-report.bukopin.co.id"
+        },
+        {
+            "id": "9cb1abe8-51b8-467e-b6be-c3dffb790e94",
+            "nama_pse": "XL AXIATA",
+            "nama_se": "REGISTRASI RUPS XL AXIATA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7239",
+            "website": "registrasirups.xlaxiata.co.id"
+        },
+        {
+            "id": "9cb1abe8-55f7-438e-b90b-cb2d8339b844",
+            "nama_pse": "KELVIN DIMASTAKA",
+            "nama_se": "BOSKU.ID-BISNIS KONTER",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7240",
+            "website": "Bosku.id"
+        },
+        {
+            "id": "9cb1abb7-7a7e-4b28-921e-89b53cdbe02f",
+            "nama_pse": "BANK SYARIAH INDONESIA",
+            "nama_se": "INFOLELANG BANK BSI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7241",
+            "website": "infolelang.bankbsi.co.id"
+        },
+        {
+            "id": "9cb1abb7-7c41-4b87-b537-615a8f69e4dc",
+            "nama_pse": "HANIF HERDI SUPRAPTO",
+            "nama_se": "W RELOAD",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7242",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abe8-60b6-4cd6-87dc-a2c09f256afb",
+            "nama_pse": "BANK KB BUKOPIN",
+            "nama_se": "KB BUKOPIN PPOB WEB SERVICE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7244",
+            "website": "ppob-wsprd.bukopin.co.id"
+        },
+        {
+            "id": "9cb1abc2-aed6-4ec7-9f1f-de55c8b801a0",
+            "nama_pse": "LINTAS DATA INTERNASIONAL",
+            "nama_se": "JAGOANSERVER.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7245",
+            "website": "jagoanserver.com"
+        },
+        {
+            "id": "9cb1abc2-b1cc-4484-8edb-8d9aa74a19e5",
+            "nama_pse": "ALTON MITRA SEJAHTERA",
+            "nama_se": "GAUL IB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7246",
+            "website": "site.alt-on.net"
+        },
+        {
+            "id": "9cb1abb7-7fa9-46bf-8331-5c47e18a16fe",
+            "nama_pse": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 3",
+            "nama_se": "NBPSYS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7247",
+            "website": "bprnbp3.co.id"
+        },
+        {
+            "id": "9cb1abb7-818e-4893-96a4-8ee3f623ec52",
+            "nama_pse": "TRIJAYA DIGITAL GRUP",
+            "nama_se": "P-STORE.NET",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7249",
+            "website": "p-store.net"
+        },
+        {
             "id": "9cb1abb7-836c-4af5-91b7-c2d887801416",
             "nama_pse": "KHAIRUL FAUZI",
             "nama_se": "ABYPAY",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-18",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6366",
             "website": "-"
-        },
-        {
-            "id": "9cb1aba7-dbf3-4a4f-a627-d544e3d6ac8d",
-            "nama_pse": "SYARIAH KOIN INDONESIA",
-            "nama_se": "SHARIACOIN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6452",
-            "website": "shariacoin.co.id"
-        },
-        {
-            "id": "9cb1ab9d-16cc-4cf7-968f-b55d6fc53e77",
-            "nama_pse": "INTI PRIMA MANDIRI UTAMA",
-            "nama_se": "IPAYMU",
-            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6076",
-            "website": "ipaymu.com"
-        },
-        {
-            "id": "9cb1abb1-b754-4354-9c9e-ead6c6d63a72",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
-            "nama_se": "CPANEL BANK SULSELBAR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6029",
-            "website": "cpanel.banksulselbar.co.id"
-        },
-        {
-            "id": "9cb1aba7-fb0e-47ed-9b29-21e260142e4a",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
-            "nama_se": "WHISTLEBLOWER SYSTEM BANK SULSELBAR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6030",
-            "website": "wbs.banksulselbar.co.id"
-        },
-        {
-            "id": "9cb1abb1-eb94-43b8-856e-4d7eb938b30d",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
-            "nama_se": "WEBSITE BSG",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6464",
-            "website": "banksulutgo.co.id"
-        },
-        {
-            "id": "9cb1aba8-1254-410a-a3e9-5388d58ab53e",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
-            "nama_se": "PORTAL BANK SULUTGO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6463",
-            "website": "banksulutgo.co.id"
-        },
-        {
-            "id": "9cb1ab9d-5918-44f4-babc-0815cae59f57",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
-            "nama_se": "KNOWLEDGE MANAGEMENT SYSTEM (KMS)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6462",
-            "website": "banksulutgo.co.id"
-        },
-        {
-            "id": "9cb1abb1-efc5-40ab-a0d9-3529e9fa357f",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
-            "nama_se": "E-ABSEN BANK SULUTGO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6461",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb1-f315-4a73-8f86-4124a09de89c",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
-            "nama_se": "E-LEARNING BSG",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6460",
-            "website": "banksulutgo.co.id"
-        },
-        {
-            "id": "9cb1abb1-f50f-4bc2-82a2-f41421b7b091",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI UTARA GORONTALO",
-            "nama_se": "E-SPTPD",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6459",
-            "website": "banksulutgo.co.id"
         }
     ],
-    "processingTimeMs": 7,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 266,
     "totalPages": 383

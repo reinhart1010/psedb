@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abcb-656e-4e71-a959-f4c302b3e6dc",
+            "nama_pse": "NUSANTARA BONAPASOGIT",
+            "nama_se": "TRANSFER OBOX NBP",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8623",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abbc-30f5-46b4-a5bf-451df6ebd78a",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BADAN KREDIT KECAMATAN BOYOLALI",
+            "nama_se": "APLIKASI CORE BANKING SYSTEM BPR BKK BOYOLALI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8624",
+            "website": "bprbkkboyolali.com"
+        },
+        {
+            "id": "9cb1abbc-329c-45c8-b9e9-9325df1e2cc8",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SURYA KENCANA",
+            "nama_se": "BANKSURYAKENCANA.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8625",
+            "website": "banksuryakencana.com"
+        },
+        {
+            "id": "9cb1abcb-694c-42fb-abd3-25a7563a5801",
+            "nama_pse": "BANK PERKREDITAN RAKYAT MITRADANA MADANI",
+            "nama_se": "BPR MITRADANA MADANI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8628",
+            "website": "bprmm.com"
+        },
+        {
+            "id": "9cb1abcb-6cf3-4509-9d68-449d0503d250",
+            "nama_pse": "CIPTA INVESTASI TERDEPAN",
+            "nama_se": "AYOVEST",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8627",
+            "website": "ayovest.id"
+        },
+        {
+            "id": "9cb1abcb-70aa-4629-8ede-7fbc7a7d5a53",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+            "nama_se": "DG BANKALTIMTARA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8626",
+            "website": "ib.bankaltimtara.co.id"
+        },
+        {
+            "id": "9cb1abcb-76b8-42b7-bede-fe10f6f6e50f",
+            "nama_pse": "KONTAKPERKASA FUTURES",
+            "nama_se": "REGOLKPF",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8629",
+            "website": "regol.kontak-perkasa-futures.co.id"
+        },
+        {
+            "id": "9cb1abbc-3631-4af0-a8d9-7bf5bd85b61b",
+            "nama_pse": "VISIDATA ANUGERAH MITRA",
+            "nama_se": "TABLEAU BI",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8634",
+            "website": "visidata1.co.id"
+        },
+        {
+            "id": "9cb1abcb-7deb-411c-8582-36d2e48f7e17",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
+            "nama_se": "CMS BANKALTIMTARA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8630",
+            "website": "cms.bankaltimtara.co.id"
+        },
+        {
+            "id": "9cb1abbc-3833-4e2b-829d-ac53a3d2755c",
+            "nama_pse": "BANK PERKREDITAN RAKYAT POLATAMA KUSUMA",
+            "nama_se": "BPR POLATAMA KUSUMA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8632",
+            "website": "bprpolatamakusuma.com"
+        },
+        {
             "id": "9cb1abbc-3ac9-4b24-b12a-dfc41e171f34",
             "nama_pse": "DELAPAN BELAS HOLE",
             "nama_se": "18HOLE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-21",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8676",
             "website": "megainsurance.id"
-        },
-        {
-            "id": "9cb1abf1-c3e1-424c-b9ae-47acd78a5df1",
-            "nama_pse": "BANK PERKREDITAN RAKYAT BANK DAERAH KARANGANYAR PERSERODA",
-            "nama_se": "WEBSITE COMPANY PT. BPR BANK DAERAH KARANGANYAR (PERSERODA)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8673",
-            "website": "bankdaerah.co.id"
-        },
-        {
-            "id": "9cb1abf1-c748-47a7-9063-c0c77a489811",
-            "nama_pse": "BANK PERKREDITAN RAKYAT BANK GIRI SUKA DANA WONOGIRI PERSERODA",
-            "nama_se": "VA BANK GIRI SUKA DANA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8675",
-            "website": "girisukadana.co.id"
-        },
-        {
-            "id": "9cb1abf1-cd39-4c8e-8f53-362ed08b4d29",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT DUTA PARAMARTA",
-            "nama_se": "PT BANK PERKREDITAN RAKYAT DUTA PARAMARTA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8674",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abcb-d3d4-4d63-9a6e-e87ae6c96bbc",
-            "nama_pse": "WAHANA MEDITEK INDONESIA",
-            "nama_se": "BACKOFFICE.PERIKSAIN.ID",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8677",
-            "website": "backoffice.periksain.id"
-        },
-        {
-            "id": "9cb1abcb-dcc9-4739-a7dd-5731c682406a",
-            "nama_pse": "MEDIA MATA WAKTU",
-            "nama_se": "MATAWAKTU.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8679",
-            "website": "matawaktu.co.id"
-        },
-        {
-            "id": "9cb1abcb-e140-4742-8e1b-4d3373a827aa",
-            "nama_pse": "WAHANA MEDITEK INDONESIA",
-            "nama_se": "PARTNER.PERIKSAIN.ID",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8680",
-            "website": "partner.periksain.id"
-        },
-        {
-            "id": "9cb1abf1-d61b-419a-a1d1-78bb6fc7b273",
-            "nama_pse": "WAHANA MEDITEK INDONESIA",
-            "nama_se": "SERVICE.DEV.PERIKSAIN.ID",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8681",
-            "website": "service.dev.periksain.id"
-        },
-        {
-            "id": "9cb1abf1-e28b-44a2-8b77-94c114cff1f4",
-            "nama_pse": "BANK PERKREDITAN RAKYAT BANK DAERAH KARANGANYAR PERSERODA",
-            "nama_se": "BDK MOBILE PT. BPR BANK DAERAH KARANGANYAR (PERSERODA)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8682",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abcb-e659-43bc-acd7-dff22a99fedb",
-            "nama_pse": "WAHANA MEDITEK INDONESIA",
-            "nama_se": "SERVICE.PERIKSAIN.ID",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8683",
-            "website": "service.periksain.id"
-        },
-        {
-            "id": "9cb1abbc-5202-4050-b17d-6eea92e6e525",
-            "nama_pse": "PUNCAK AKSES FINANSIAL",
-            "nama_se": "ISCORE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8685",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 9,
+    "processingTimeMs": 16,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 231,
     "totalPages": 383

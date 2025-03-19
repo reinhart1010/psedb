@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab8d-f653-4f92-a26f-4a478d0e57a6",
+            "nama_pse": "MANDIRI MANAJEMEN INVESTASI",
+            "nama_se": "MOINVES",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-31",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2936",
+            "website": "moinves.co.id"
+        },
+        {
+            "id": "9cb1ab88-f188-4b3f-83db-2ce82311a34a",
+            "nama_pse": "NGALI BUSTHOMI",
+            "nama_se": "DIGITESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2929",
+            "website": "digitesia.com"
+        },
+        {
+            "id": "9cb1ab89-3162-4394-abf5-31d3ec663fb9",
+            "nama_pse": "INTEGRASI SINAPTIQ",
+            "nama_se": "EASY BILLS 2C2P",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2927",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab79-72d5-445b-87fb-ea76abac739b",
+            "nama_pse": "DUA PULUH EMPAT JAM ONLINE",
+            "nama_se": "SJLV2",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2926",
+            "website": "unipin.com"
+        },
+        {
+            "id": "9cb1ab89-8036-4657-9f6f-8ab61c2a8a15",
+            "nama_pse": "LIPPO GENERAL INSURANCE",
+            "nama_se": "MYPROTECTION",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2922",
+            "website": "myprotection.id"
+        },
+        {
+            "id": "9cb1ab89-839b-4087-970e-fb993c12131c",
+            "nama_pse": "LIPPO GENERAL INSURANCE",
+            "nama_se": "AGENCY.LIPPOINSURANCE.COM",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-12-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2924",
+            "website": "agency.lippoinsurance.com"
+        },
+        {
+            "id": "9cb1ab81-7940-4436-b69c-05ce6a1e6775",
+            "nama_pse": "KITA KELUARGA INDONESIA",
+            "nama_se": "KITA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2021-12-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2925",
+            "website": "keluargakita.id"
+        },
+        {
+            "id": "9cb1ab89-8f5c-4591-8135-2d9ec9923cb6",
+            "nama_pse": "Asriadi Karim Maulana",
+            "nama_se": "ZONA MULTIMEDIA MAKASSAR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2920",
+            "website": "lontaraph.wordpress.com"
+        },
+        {
+            "id": "9cb1ab81-8a9a-4b1e-8805-3089c8aede38",
+            "nama_pse": "BIRO HERIYANTO JAYA",
+            "nama_se": "BIRO HERIYANTO JAYA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2921",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab79-cc23-4f35-93c6-4e17403357ee",
+            "nama_pse": "CIPTA DAYA JAYA",
+            "nama_se": "CIPTA DAYA SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-12-30",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2923",
+            "website": "ahlikomputer.com"
+        },
+        {
             "id": "9cb1ab81-8cb1-4e8d-a70c-fd177340dc97",
             "nama_pse": "GRATIS ONGKIR",
             "nama_se": "GRATIS ONGKIR",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-12-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2880",
             "website": "-"
-        },
-        {
-            "id": "9cb1ab89-74f2-4801-9cff-14ceae4f40c2",
-            "nama_pse": "D' FAMILY TECHNOLOGY",
-            "nama_se": "CV DFAMILY TECHNOLOGY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2881",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab89-786a-47c8-aab1-3dcbe771e4d1",
-            "nama_pse": "D' FAMILY TECHNOLOGY",
-            "nama_se": "AKTIVITAS PENGOLAHAN DATA CV DFAMILY TECHNOLOGY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2882",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab81-652d-4498-9b77-c44c34d4d047",
-            "nama_pse": "D' FAMILY TECHNOLOGY",
-            "nama_se": "JASA KONTEN SMS PREMIUM CV DFAMILY TECHNOLOGY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2883",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab79-a777-41d5-b523-776656f1cf55",
-            "nama_pse": "D' FAMILY TECHNOLOGY",
-            "nama_se": "AKTIVITAS KONSULTASI KOMPUTER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2884",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab7e-40ca-4fce-87a6-562579316e64",
-            "nama_pse": "MOCHAMAD IWAN SETIYAWAN",
-            "nama_se": "VENTA COMPUTINDI",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2879",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab79-354f-4a6e-a6e2-6585d819153f",
-            "nama_pse": "TEKNOLOGI KITA SEJAHTERA",
-            "nama_se": "EKSIST",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2878",
-            "website": "eksist.id"
-        },
-        {
-            "id": "9cb1ab79-9995-41e5-ba44-9ea098b72c89",
-            "nama_pse": "PANACEA TECHNOLOGY INDONESIA",
-            "nama_se": "WWW.PTPANACEA.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2876",
-            "website": "ptpanacea.id"
-        },
-        {
-            "id": "9cb1ab89-7090-4ecb-882a-ed3d1dcd35e2",
-            "nama_pse": "OXYGEN TECHNOLOGY INDONESIA",
-            "nama_se": "WWW.PTOXYGEN.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2877",
-            "website": "ptoxygen.id"
-        },
-        {
-            "id": "9cb1ab65-0c5f-4049-9823-ea95e341da8b",
-            "nama_pse": "SRC INDONESIA SEMBILAN",
-            "nama_se": "MY AYO BY SRC",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-12-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2875",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab70-9320-48d1-b09b-4830ec25c245",
-            "nama_pse": "SENTRA TEKNOLEGAL INDONESIA",
-            "nama_se": "WWW.LEGALSPACE.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-12-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2872",
-            "website": "legalspace.id"
         }
     ],
-    "processingTimeMs": 8,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 328,
     "totalPages": 383

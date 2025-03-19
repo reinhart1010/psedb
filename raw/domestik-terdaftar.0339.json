@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab7f-4682-42a3-9916-f32fc73573f9",
+            "nama_pse": "ASURANSI JIWA INHEALTH INDONESIA",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2021-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2296",
+            "website": "MANDIRIINHEALTH.CO.ID"
+        },
+        {
+            "id": "9cb1ab7f-510a-4c6e-9949-a73f3d034668",
+            "nama_pse": "LIMA SATU TIGA GLOBAL TEL-ACCESS",
+            "nama_se": "LAYANAN CLOUD COMMUNICATION - VOXNET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2276",
+            "website": "voxnet.id"
+        },
+        {
+            "id": "9cb1ab77-751d-484b-b810-b7afe32d346d",
+            "nama_pse": "EZLINK SYSTEM SOLUTIONS",
+            "nama_se": "DINEIN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2360",
+            "website": "hostingceria.com"
+        },
+        {
+            "id": "9cb1ab7f-6044-4492-9c65-c70d059593c4",
+            "nama_pse": "EZLINK SYSTEM SOLUTIONS",
+            "nama_se": "KTRIP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2361",
+            "website": "hostingceria.com"
+        },
+        {
+            "id": "9cb1ab76-b995-4041-aec6-6d031509cd36",
+            "nama_pse": "EZLINK SYSTEM SOLUTIONS",
+            "nama_se": "TOKOPO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2362",
+            "website": "hostingceria.com"
+        },
+        {
+            "id": "9cb1ab7f-64f4-42c4-b18b-0c59e7b66cc1",
+            "nama_pse": "OMAH TEKNOLOGI INDONESIA",
+            "nama_se": "BELANJA24",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2344",
+            "website": "omah-ti.com"
+        },
+        {
+            "id": "9cb1ab7f-6adf-4eb0-abb6-e528489c7d8c",
+            "nama_pse": "ADAM TEKNOLOGI INDONESIA",
+            "nama_se": "GAJIANONDEMAND",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2322",
+            "website": "jojonomic.com"
+        },
+        {
+            "id": "9cb1ab76-c742-453a-8a46-785df6c31fb5",
+            "nama_pse": "SINAR12 BUKIT BARISAN",
+            "nama_se": "SINAR12",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2271",
+            "website": "sinar12.co.id"
+        },
+        {
+            "id": "9cb1ab7f-72ad-402e-83a8-8b5ef2c8efb4",
+            "nama_pse": "INDO SEUNGLI MAKMUR",
+            "nama_se": "ISTYLE.ID",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2305",
+            "website": "iStyle.id"
+        },
+        {
+            "id": "9cb1ab76-cb97-4062-9933-fcb4cf5e5b27",
+            "nama_pse": "COINBIT DIGITAL INDONESIA",
+            "nama_se": "COINBIT",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2310",
+            "website": "coinbit.id/"
+        },
+        {
             "id": "9cb1ab77-821c-421f-9eed-c6e333f693b9",
             "nama_pse": "ESGI INDONESIA BERKELANJUTAN",
             "nama_se": "ESG INTELLIGENCE",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-11-08",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2358",
             "website": "cwbmedical.com"
-        },
-        {
-            "id": "9cb1ab90-9859-463c-b200-5aae67cf3cc3",
-            "nama_pse": "PT Internusa Digital Investasi",
-            "nama_se": "INTERFUND",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2359",
-            "website": "internusacapital.com"
-        },
-        {
-            "id": "9cb1ab9e-2c45-458c-b845-726629927fc0",
-            "nama_pse": "PT Teknologi Pintar Solusindo",
-            "nama_se": "KEBUNALI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan, Sektor Pangan",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2363",
-            "website": "hostingceria.com"
-        },
-        {
-            "id": "9cb1ab90-a0d5-4396-893f-f571d870fcae",
-            "nama_pse": "PT Teknologi Pintar Solusindo",
-            "nama_se": "PINTAR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2364",
-            "website": "hostingceria.com"
-        },
-        {
-            "id": "9cb1ab9e-2e02-4607-a2e8-56af246f2c85",
-            "nama_pse": "SOLUSI SIRKULAR INDONESIA",
-            "nama_se": "KOINPACK",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2365",
-            "website": "koinpack.id"
-        },
-        {
-            "id": "9cb1ab9e-2fd1-43bf-825d-479d1dd719cc",
-            "nama_pse": "PT GIAT BANGUN INDONESIA",
-            "nama_se": "PAZEMO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2366",
-            "website": "pazemo.com"
-        },
-        {
-            "id": "9cb1ab9e-3226-417c-a54d-c66630f2d614",
-            "nama_pse": "PT. Delapan Delapan News",
-            "nama_se": "88NEWS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2367",
-            "website": "medan88news.com"
-        },
-        {
-            "id": "9cb1ab90-a334-4808-8e02-06f379a70eef",
-            "nama_pse": "PT. Delapan Delapan News",
-            "nama_se": "88NEWS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2368",
-            "website": "medan88news.com"
-        },
-        {
-            "id": "9cb1ab9e-3407-4f43-9431-e4432a35057d",
-            "nama_pse": "PT PERUPA SIBER INFORMATIKA",
-            "nama_se": "PERUPA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2371",
-            "website": "perupa.co"
-        },
-        {
-            "id": "9cb1aba8-efef-46d6-86a7-fe77d6433ca6",
-            "nama_pse": "GEMANUSA SENTRA TEKNOLOGI",
-            "nama_se": "WANIPIRO",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2321",
-            "website": "wanipiro.com"
-        },
-        {
-            "id": "9cb1ab91-3c58-4c5f-a9eb-9be617f475a7",
-            "nama_pse": "KREDIT UTAMA FINTECH INDONESIA",
-            "nama_se": "LOGIN RUPIAH CEPAT",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-11-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/2369",
-            "website": "kufi.rupiahcepatweb.com/login"
         }
     ],
-    "processingTimeMs": 10,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 339,
     "totalPages": 383

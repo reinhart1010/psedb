@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb2-8393-4299-a177-605f3edf14a4",
+            "nama_pse": "BANK NAGARI",
+            "nama_se": "NAGARI HOSPITAL INFORMATION SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6181",
+            "website": "n-his.banknagari.co.id"
+        },
+        {
+            "id": "9cb1aba8-98ab-4978-8270-926d1e804a9c",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SEDANA MURNI",
+            "nama_se": "PT. BPR SEDANA MURNI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6182",
+            "website": "banksedanamurni.com"
+        },
+        {
+            "id": "9cb1abb2-88e5-434f-b85d-62dae0547fbf",
+            "nama_pse": "BANK PERKREDITAN RAKYAT PASARRAYA KUTA",
+            "nama_se": "PT BANK PERKREDITAN RAKYAT PASARRAYA KUTA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6186",
+            "website": "bankrayakuta.co.id"
+        },
+        {
+            "id": "9cb1abb2-8b9d-48af-a566-588d9a87020d",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH BALI",
+            "nama_se": "INTERNET BANKING BPD BALI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6187",
+            "website": "ibank.bpdbali.id"
+        },
+        {
+            "id": "9cb1abb2-8e15-4eb1-8c54-51434796be8b",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT DANA PUTRA",
+            "nama_se": "PT BPR DANA PUTRA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6188",
+            "website": "bprdanaputra.com"
+        },
+        {
+            "id": "9cb1ab9d-cc6e-4451-aeec-0c897f40ad6d",
+            "nama_pse": "AGUNG DIAN SAPUTRA",
+            "nama_se": "CHECKPOINT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6189",
+            "website": "aroundus.my.id"
+        },
+        {
+            "id": "9cb1abb2-9521-434b-8330-3456f029294e",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH BALI",
+            "nama_se": "INTERNET BANKING KORPORASI BPD BALI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6191",
+            "website": "ibank.bpdbali.id"
+        },
+        {
+            "id": "9cb1ab9d-cea4-40a3-acaa-17fa7eb0938c",
+            "nama_pse": "MODUIT DIGITAL INDONESIA",
+            "nama_se": "MODUIT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6193",
+            "website": "moduit.id"
+        },
+        {
+            "id": "9cb1ab9d-d08f-452b-9b57-7dd199a739d4",
+            "nama_pse": "REALTA CHAKRADARMA",
+            "nama_se": "PASTI: PCR, ANTIGEN, SEROLOGY, TESTING INTEGRITY",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6192",
+            "website": "bumame.cloud.co.id"
+        },
+        {
+            "id": "9cb1aba8-9b0c-4e66-bd2c-117e4f2f4a03",
+            "nama_pse": "ADITAMA FINANCE",
+            "nama_se": "ADITAMA MOBILE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6194",
+            "website": "-"
+        },
+        {
             "id": "9cb1aba8-9d5a-4281-ac70-882373b0679f",
             "nama_pse": "SOLUSI STARTUP INDONESIA",
             "nama_se": "SEKOLAH STARTUP",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-18",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6243",
             "website": "mail.bprsupra.com"
-        },
-        {
-            "id": "9cb1abb3-e878-481e-a581-b5e50478f81d",
-            "nama_pse": "ZEPETTO INTERACTIVE INDONESIA",
-            "nama_se": "POINT BLANK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6244",
-            "website": "pointblank.id"
-        },
-        {
-            "id": "9cb1abb3-ea1c-4e34-9690-0f3a5dd22d06",
-            "nama_pse": "SURYA SUDECO",
-            "nama_se": "TSMART",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6251",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb3-eccc-4d57-8952-da76c6947aba",
-            "nama_pse": "BANK CENTRAL ASIA",
-            "nama_se": "WEBFORM BANK GARANSI 2",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6246",
-            "website": "webform.bca.co.id"
-        },
-        {
-            "id": "9cb1abb2-dcfb-44a8-b68e-a747b420e90c",
-            "nama_pse": "BANK PERKREDITAN RAKYAT INDRA CANDRA",
-            "nama_se": "INDRA MOBILE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6249",
-            "website": "bprindra.com"
-        },
-        {
-            "id": "9cb1aba8-ba06-4a46-add6-1c7e3e641a17",
-            "nama_pse": "ALI RAJA",
-            "nama_se": "KATAKI SHOP",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6247",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba8-bbf4-4db8-8362-07d9bba7ec19",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SUPRA ARTAPERSADA",
-            "nama_se": "E-MAIL BPR SUPRA (2)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6248",
-            "website": "mail.bprsupra.com"
-        },
-        {
-            "id": "9cb1aba8-c0a1-432e-ae7b-d7158360f4b8",
-            "nama_pse": "INTERNUSA TRIBUANA CITRA MULTI FINANCE",
-            "nama_se": "ITCFINANCE.COM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6254",
-            "website": "itcfinance.com"
-        },
-        {
-            "id": "9cb1abb3-eed3-42c0-ab4c-8a75fca9420b",
-            "nama_pse": "ASURANSI JIWA SEQUIS FINANCIAL",
-            "nama_se": "AJK ONLINE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6250",
-            "website": "AJKONLINE.SEQUIS.CO.ID"
-        },
-        {
-            "id": "9cb1abb3-f0e4-468c-912e-c005adb5654b",
-            "nama_pse": "BANK CENTRAL ASIA",
-            "nama_se": "CLIENT TRADE BCA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6253",
-            "website": "clienttradebca.klikbca.com"
-        },
-        {
-            "id": "9cb1aba8-c2fd-471d-b1bc-1002c8b7d367",
-            "nama_pse": "BOWSPRIT ASSET MANAGEMENT",
-            "nama_se": "WWW.BOWSPRIT-AM.COM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6252",
-            "website": "bowsprit-am.com"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 270,
     "totalPages": 383

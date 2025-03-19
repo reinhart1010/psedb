@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac79-b8d4-4b4a-84f6-c9a4212f8b04",
+            "nama_pse": "TESENA INOVINDO",
+            "nama_se": "KLIK IN THIS",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17089",
+            "website": "klikinthis.id"
+        },
+        {
+            "id": "9cb1ac79-bc6d-488a-bd66-ecf3e53a5869",
+            "nama_pse": "KALS BERSAMA HAWA",
+            "nama_se": "GERAI HAWA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-12-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17093",
+            "website": "geraihawa.co.id"
+        },
+        {
+            "id": "9cb1ac65-c7c9-4b37-ace9-b90e8a6de664",
+            "nama_pse": "MINDSET DIGITAL CORP",
+            "nama_se": "MINDSET TECHNOLOGY",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17094",
+            "website": "mindsetdigital.id"
+        },
+        {
+            "id": "9cb1ac65-cb44-467f-a4b2-6af084b21537",
+            "nama_pse": "MEVIN GIGANTEA HANDOYO",
+            "nama_se": "SIMEDIK.NET",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-12-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17095",
+            "website": "simedik.net"
+        },
+        {
+            "id": "9cb1ac52-4bf0-49e7-8da7-84d5c453e368",
+            "nama_pse": "INOVATIF TUJUH DELAPAN",
+            "nama_se": "INOVATIF TUJUH DELAPAN",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17096",
+            "website": "inovatif78.com"
+        },
+        {
+            "id": "9cb1ac65-da0f-4d76-89d3-6375233bfe46",
+            "nama_pse": "FERI ADI BURHANI",
+            "nama_se": "DSS MEDIKA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-12-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17098",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac65-dda9-4327-80de-d217abf0b921",
+            "nama_pse": "HAMDAN BURHANUDDIN ST",
+            "nama_se": "SISMEDIS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-12-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17099",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac52-5014-45fd-aa59-ea16edec7d67",
+            "nama_pse": "TEKNOLOGI JARINGAN PRIMA",
+            "nama_se": "TUNNELKU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17100",
+            "website": "tunnelku.com"
+        },
+        {
+            "id": "9cb1ac79-cd86-46a5-94ee-f92f9357e5f8",
+            "nama_pse": "DIAN NUR UTOMO",
+            "nama_se": "LAYANAN INTERNET LOKAL ( RT RW NET )",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17101",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac79-d07b-433c-a3fb-cf966a99e967",
+            "nama_pse": "DARWIS MARHOKOM HUTAGAOL",
+            "nama_se": "LAYANAN INTERNET LOKAL ( RT RW NET )",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-29",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17102",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac65-e151-40b3-b4f6-962935f1018e",
             "nama_pse": "LADIA MEDIKA VISION",
             "nama_se": "SISTEM INFORMASI SILC LASIK CENTER",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2023-12-27",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17063",
             "website": "mataramtour.com"
-        },
-        {
-            "id": "9cb1ac65-a119-4202-9748-5b83900de65f",
-            "nama_pse": "AYO TECHNO IDEA",
-            "nama_se": "RICHBUYER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17064",
-            "website": "richbuyer.co"
-        },
-        {
-            "id": "9cb1ac52-2857-46bd-a3dd-ca6827430899",
-            "nama_pse": "GERAKAN AJIWARAS MELAYANI JAYA",
-            "nama_se": "REKAM MEDIS ELEKTRONIK AJI WARAS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17065",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac65-aef2-49ce-b0f3-44b24f1dfbea",
-            "nama_pse": "ANTARIKSA NETWORK MEDIA DIGITAL",
-            "nama_se": "PRIANGAN ONLINE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17066",
-            "website": "priangan.online"
-        },
-        {
-            "id": "9cb1ac65-b364-4681-898a-34020536befa",
-            "nama_pse": "TSAQIB TECHNOLOGY INDONESIA",
-            "nama_se": "T-MEDIC",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17067",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac79-967f-446b-8f37-fa2fcdad6103",
-            "nama_pse": "AMELIA HUSADA UTAMA",
-            "nama_se": "SISTEM PENOMERAN, SURAT KELUAR, MASUK \u0026 TANDA TANGAN ELEKTRONIK",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17068",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac52-0a0f-43b8-841e-5ba713e22758",
-            "nama_pse": "DATA DESAIN",
-            "nama_se": "DIGITAL MEDIS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17041",
-            "website": "datadesain.com"
-        },
-        {
-            "id": "9cb1ac65-8d5d-402c-b03e-d9abf1a5479a",
-            "nama_pse": "THRESNA MEDICA SEJAHTERA",
-            "nama_se": "SIMRS KHANZA RSIA TRESNA MATARAM",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17042",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac52-0cb1-4dc3-a959-701582a34489",
-            "nama_pse": "META TOUR DESIGN",
-            "nama_se": "PAYMENT GATEWAY",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-12-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17043",
-            "website": "metatourdesign.com"
-        },
-        {
-            "id": "9cb1ac52-12de-4e6c-9443-00b5182aef6a",
-            "nama_pse": "NEO KARYA INTERNASIONAL",
-            "nama_se": "KREDISHOP",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17044",
-            "website": "KrediShop.id"
-        },
-        {
-            "id": "9cb1ac79-7df5-4d7c-9f1d-b95a8db719bc",
-            "nama_pse": "TEXIN PERMATA HUSADA",
-            "nama_se": "SIMRS-MS TARUB",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17045",
-            "website": "mitrasiagatarub.co.id"
         }
     ],
     "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 98,
     "totalPages": 383

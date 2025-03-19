@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abc0-16e6-4db0-8576-165dafabcee8",
+            "nama_pse": "ADMIN PAJAK TEKNOLOGI",
+            "nama_se": "ADMINPAJAK.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6636",
+            "website": "adminpajak.com"
+        },
+        {
+            "id": "9cb1abe4-5f40-4efd-84b5-17cf220d3f93",
+            "nama_pse": "HINO FINANCE INDONESIA",
+            "nama_se": "CORPORATE WEBSITE HINO FINANCE INDONESIA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6632",
+            "website": "hinofinance.co.id"
+        },
+        {
+            "id": "9cb1abb5-520b-4db8-8725-671d7b6acc80",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BERKAH PAKTO",
+            "nama_se": "BPR BERKAH PAKTO",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6634",
+            "website": "BPRBERKAHPAKTO.CO.ID"
+        },
+        {
+            "id": "9cb1abb5-5401-4bbe-aff8-07a5dbd55600",
+            "nama_pse": "BANK PERKREDITAN RAKYAT PARASARI SIBANG",
+            "nama_se": "BANGKING SMART SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6635",
+            "website": "bankparasarisibang.co.id"
+        },
+        {
+            "id": "9cb1abb5-579d-4da3-9b40-6c57066510d2",
+            "nama_pse": "BANK PERKREDITAN RAKYAT TAPA",
+            "nama_se": "BANKING SMART SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6639",
+            "website": "bprtapa.com"
+        },
+        {
+            "id": "9cb1abe4-67e9-4d84-afa4-ce69d0f7253a",
+            "nama_pse": "JAAP NITI SUMITO",
+            "nama_se": "ATRIUM HOSTING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6643",
+            "website": "atriumhosting.com"
+        },
+        {
+            "id": "9cb1abe4-6b7a-4b1b-ab13-4b7ba9fda00e",
+            "nama_pse": "TECHSCAPE DATA CENTER",
+            "nama_se": "TECHSCAPE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6646",
+            "website": "techscape.com"
+        },
+        {
+            "id": "9cb1abb5-5ec6-43ed-b874-9f42980e6977",
+            "nama_pse": "HINO FINANCE INDONESIA",
+            "nama_se": "APLIKASI HINO IN THE BOX",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6645",
+            "website": "hinofinance.co.id"
+        },
+        {
+            "id": "9cb1abc0-1cb3-4f38-8cac-cf5bd7163dd5",
+            "nama_pse": "BANK PERKREDITAN RAKYAT BANK DAERAH GIANYAR",
+            "nama_se": "API BANK DAERAH GIANYAR",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6647",
+            "website": "ssl.bdgianyar.co.id"
+        },
+        {
+            "id": "9cb1abc0-2531-441a-827e-b3e45fcbd2e5",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT HOKI",
+            "nama_se": "IBS BRANCHLESS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6651",
+            "website": "hokibank.co.id"
+        },
+        {
             "id": "9cb1abb5-6183-4c19-bb38-111185f0f272",
             "nama_pse": "MOCH RIZKY NURHAKIM",
             "nama_se": "KIMNOON CELL",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-19",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6770",
             "website": "kururio.co.id"
-        },
-        {
-            "id": "9cb1abb5-8811-44c9-ac25-9b388aca2092",
-            "nama_pse": "ASURANSI ALLIANZ UTAMA INDONESIA",
-            "nama_se": "AZNET",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6699",
-            "website": "aznet.allianz.co.id"
-        },
-        {
-            "id": "9cb1abe4-be01-49e3-80ac-42b2716a4932",
-            "nama_pse": "KUNCIE PINTAR NUSANTARA",
-            "nama_se": "PIXEL NINJA BY KUNCIE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6756",
-            "website": "pixelninja.id"
-        },
-        {
-            "id": "9cb1abe4-c160-4a26-8be7-f4aee627f6db",
-            "nama_pse": "FEDERAL INTERNATIONAL FINANCE",
-            "nama_se": "FIFGROUP MOBILE CUSTOMER (FMC)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6702",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb5-8afa-448a-b394-8f5f42d4a4fc",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT PARIANGAN KOTA BATUSANGKAR",
-            "nama_se": "PT BANK PERKREDITAN RAKYAT PARIANGAN",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6707",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abe4-c532-49a4-9217-5764df81e1cd",
-            "nama_pse": "COGNITIX TIKET INOVASI",
-            "nama_se": "HTTPS://WWW.COGNITIX.ID/",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6712",
-            "website": "cognitix.id"
-        },
-        {
-            "id": "9cb1abb5-8da0-425f-87f3-f12d4ceee9bd",
-            "nama_pse": "KREASI SOLUSI BANGSA",
-            "nama_se": "SMARTLEGAL.ID",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6710",
-            "website": "smartlegal.id"
-        },
-        {
-            "id": "9cb1abe4-c884-40d9-ada8-e19882410502",
-            "nama_pse": "ASURANSI JIWA ASTRA",
-            "nama_se": "AVA EB CLICK",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6711",
-            "website": "ebonline.astralife.co.id"
-        },
-        {
-            "id": "9cb1abb5-90fa-4f7a-8e09-d7c9bd06e8db",
-            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH GAIDO INDONESIA",
-            "nama_se": "USID GATEWAY",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6713",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abc0-68d1-441b-82c0-cf070c73464a",
-            "nama_pse": "BANK PERKREDITAN RAKYAT PUSPITA SARI",
-            "nama_se": "PT BPR PUSPITA SARI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6717",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abc0-6cd1-4535-9cb7-dc0ecbfd4fbd",
-            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH KOTA JUANG",
-            "nama_se": "ALTERNATE APPS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6724",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 8,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 255,
     "totalPages": 383

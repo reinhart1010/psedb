@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab7e-1a58-4af6-a1b0-7b23152c59e3",
+            "nama_pse": "BIGO INFORMATION INDONESIA",
+            "nama_se": "BIGO LIVE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-02-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3251",
+            "website": "bigo.tv"
+        },
+        {
+            "id": "9cb1ab7a-87e9-4a71-af5c-cb76d7076343",
+            "nama_pse": "TRANSMARCO",
+            "nama_se": "9TO9 ONLINE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-02-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3245",
+            "website": "9to9.co.id"
+        },
+        {
+            "id": "9cb1ab7a-b923-490e-956b-c89fe150b4a4",
+            "nama_pse": "TEKNOLOGI PINTAR NUSANTARA",
+            "nama_se": "FINTAR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-02-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3242",
+            "website": "fintar.co.id"
+        },
+        {
+            "id": "9cb1ab8a-90a6-4854-98a6-1c11b3118383",
+            "nama_pse": "INFOVESTA UTAMA",
+            "nama_se": "INVESTDATA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-02-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3249",
+            "website": "infovesta.com"
+        },
+        {
+            "id": "9cb1ab8a-92de-4cc0-be81-76292fcd99e6",
+            "nama_pse": "MAHAKA RADIO DIGITAL",
+            "nama_se": "NOICE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-02-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3243",
+            "website": "noice.id"
+        },
+        {
+            "id": "9cb1ab8a-996b-4473-a9a7-08453a939a14",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BIO FARMA DISINGKAT PT. BIO FARMA (PERSERO)",
+            "nama_se": "MEDEVO",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2022-02-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3244",
+            "website": "medevo.id"
+        },
+        {
+            "id": "9cb1ab82-a872-4cd6-ac0c-1b0fd5ae113f",
+            "nama_pse": "KALYANU SOLUSI OPTIMA",
+            "nama_se": "GAME MERCHANT KALYANU SOLUSI OPTIMA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-02-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3246",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab86-7e5a-4038-89b0-526b09893fe6",
+            "nama_pse": "CITA TEKNOLOGI INDONESIA",
+            "nama_se": "MASWINDOKU",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-02-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3247",
+            "website": "maswindokupay.com"
+        },
+        {
+            "id": "9cb1ab8f-f258-4f19-bbb8-44d9f244f3f6",
+            "nama_pse": "FINACCEL TEKNOLOGI INDONESIA",
+            "nama_se": "HALOKAS.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-02-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3248",
+            "website": "halokas.com"
+        },
+        {
+            "id": "9cb1ab9f-3ef9-4c86-9379-4dac2ca04724",
+            "nama_pse": "HARUNIA JAYA GRUP",
+            "nama_se": "SHOPPY",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Pangan, Sektor Pangan, Sektor Pangan",
+            "tanggal_terbit": "2022-02-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3241",
+            "website": "-"
+        },
+        {
             "id": "9cb1ab8a-9f79-4140-9b77-51f8b0fdfe68",
             "nama_pse": "M SYAMSUL HADI",
             "nama_se": "DANKEDEV WEB DEVELOPMENT",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-02-08",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3191",
             "website": "Property.co.id"
-        },
-        {
-            "id": "9cb1ab8a-499d-4b9d-879e-45d71f6b70d3",
-            "nama_pse": "BWL INDONESIA",
-            "nama_se": "WWW.BWLGROUP.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-02-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3194",
-            "website": "bwlgroup.com"
-        },
-        {
-            "id": "9cb1ab7a-a9fa-4fbc-b7c3-c33fc96c4f3e",
-            "nama_pse": "FAMINDO BURSA INDONESIA",
-            "nama_se": "CRYPTOKUN",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-02-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3196",
-            "website": "cryptokun.com"
-        },
-        {
-            "id": "9cb1ab8a-62b3-4ced-8a0d-84de3c9ada00",
-            "nama_pse": "KARYA TEKNOLOGI ANDALAN",
-            "nama_se": "KELOLAYUK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3192",
-            "website": "Kelolayuk.com"
-        },
-        {
-            "id": "9cb1ab7a-cd32-4dd5-abfe-c2d98b633d41",
-            "nama_pse": "BINA ARTHA VENTURA",
-            "nama_se": "BAVKU",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-02-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3197",
-            "website": "bina-artha.com"
-        },
-        {
-            "id": "9cb1ab82-752b-45d9-af29-0fd89e257c6b",
-            "nama_pse": "META INOVASI DIGITAL",
-            "nama_se": "METAPRO",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-02-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3193",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab82-7a29-4967-bf75-23981e771524",
-            "nama_pse": "MONIT TEKNOLOGI INDONESIA",
-            "nama_se": "MONIT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3198",
-            "website": "monit.id"
-        },
-        {
-            "id": "9cb1ab8a-848f-4579-8925-6f5346c6c4e6",
-            "nama_pse": "SMART TANI SUBAK",
-            "nama_se": "SUBAK TANI",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-02-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3199",
-            "website": "smarttanisubak.id"
-        },
-        {
-            "id": "9cb1ab7a-c81c-446e-b63b-d4216b5f274e",
-            "nama_pse": "GRAMEDIA ASRI MEDIA",
-            "nama_se": "GRAMEDIA.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-02-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3178",
-            "website": "gramedia.com"
-        },
-        {
-            "id": "9cb1ab74-1f97-41ea-b0fb-7cbd42239b56",
-            "nama_pse": "MOKA TEKNOLOGI INDONESIA",
-            "nama_se": "MOKAPOS",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2022-02-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3184",
-            "website": "mokapos.com"
-        },
-        {
-            "id": "9cb1ab7a-8c48-45e5-99fc-00026df0ea1c",
-            "nama_pse": "SOLUSI KREASI DIGITAL",
-            "nama_se": "KENDALI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-02-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3188",
-            "website": "web.kendali.app"
         }
     ],
-    "processingTimeMs": 7,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 322,
     "totalPages": 383

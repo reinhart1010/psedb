@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1abfd-744d-4300-9589-7dba57e2b6cc",
+            "nama_pse": "IDE DEF GHI",
+            "nama_se": "NUPOS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10436",
+            "website": "nupos.id"
+        },
+        {
+            "id": "9cb1abd7-9dd0-46d5-ba1d-fcd6a760b34a",
+            "nama_pse": "CITIBANK, N.A.",
+            "nama_se": "CITIDIRECT BE PORTAL",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10437",
+            "website": "citidirect.com"
+        },
+        {
+            "id": "9cb1ac0c-4f1e-47ad-b1f6-4e75e5879bdc",
+            "nama_pse": "INFORMATIKA TEKNOLOGI INDONESIA",
+            "nama_se": "HRDPINTAR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10438",
+            "website": "hrdpintar.com"
+        },
+        {
+            "id": "9cb1ac0c-5348-413c-825f-736c24d656c3",
+            "nama_pse": "CITIBANK, N.A.",
+            "nama_se": "CITIFX PULSE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10439",
+            "website": "citifxpulse.com"
+        },
+        {
+            "id": "9cb1ac0c-56aa-45da-979d-feb16ae4a09b",
+            "nama_pse": "CITIBANK, N.A.",
+            "nama_se": "CITIBANK ONLINE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10440",
+            "website": "citibank.co.id"
+        },
+        {
+            "id": "9cb1ac0c-5dc1-4d5e-a4b8-6ed65b1e062c",
+            "nama_pse": "IDEMAS SOLUSINDO SENTOSA",
+            "nama_se": "ASETKITA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-08-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10442",
+            "website": "asetkita.id"
+        },
+        {
+            "id": "9cb1abfd-7b98-4636-8378-16849cb972fe",
+            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH FAJAR SEJAHTERA BALI",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10446",
+            "website": "bprsfajarbali.com"
+        },
+        {
+            "id": "9cb1abd7-a576-48ea-96e0-cfe9e6145f6b",
+            "nama_pse": "CITIBANK, N.A.",
+            "nama_se": "GC MOBILE - INDONESIA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10447",
+            "website": "citibank.co.id"
+        },
+        {
+            "id": "9cb1ac0c-6180-4551-b75c-d67cbd3f3152",
+            "nama_pse": "CITIBANK, N.A.",
+            "nama_se": "CHAT CITIBANK",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10448",
+            "website": "citibank.co.id"
+        },
+        {
+            "id": "9cb1abd7-a8de-4f18-9cdb-8c31ea5f544a",
+            "nama_pse": "CITIBANK, N.A.",
+            "nama_se": "CITI.NET",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10449",
+            "website": "citi.net"
+        },
+        {
+            "id": "9cb1abfd-81ca-4373-860f-b8bee37a5465",
+            "nama_pse": "CITIBANK, N.A.",
+            "nama_se": "CITI.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-08-16",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10450",
+            "website": "citi.com"
+        },
+        {
             "id": "9cb1abfd-850d-4a54-bba8-554d2c55ef4b",
             "nama_pse": "PENJAMINAN JAMKRINDO SYARIAH",
             "nama_se": "APLIKASI CEK KEABSAHAN SERTIFIKAT KAFALAH",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-08-15",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10373",
             "website": "Touch-U.id"
-        },
-        {
-            "id": "9cb1abfd-2aa2-4041-afef-ea6c57211cbd",
-            "nama_pse": "TOBANG TEKNOLOGI INDONESIA",
-            "nama_se": "TOBANG MARKETPLACE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10374",
-            "website": "tobang.co.id"
-        },
-        {
-            "id": "9cb1abd7-3062-4108-b9dc-98d7be164777",
-            "nama_pse": "INDONESIA COMNETS PLUS",
-            "nama_se": "CHARGE.IN",
-            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10375",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac0b-f887-4b3c-9792-abaa75f5eb79",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT SYARIAH IHSANUL AMAL",
-            "nama_se": "BANK PEMBIAYAAN RAKYAT SYARIAH",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-08-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10376",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abfd-2dfc-4b7d-a141-578a2ee62a43",
-            "nama_pse": "MUTIARA SAMUDERA PASAI",
-            "nama_se": "SHINE-INDONESIA.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10377",
-            "website": "shine-indonesia.com"
-        },
-        {
-            "id": "9cb1abfd-344c-4248-9cdc-f223cabddf4e",
-            "nama_pse": "LANGIT DATA NUSANTARA",
-            "nama_se": "TWINMIRROR.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10379",
-            "website": "twinmirror.id"
-        },
-        {
-            "id": "9cb1abfd-3717-4075-bf42-631a85cc67aa",
-            "nama_pse": "SOCIOLLA RITEL INDONESIA",
-            "nama_se": "SOCIOLLA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-08-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10380",
-            "website": "sociolla.com"
-        },
-        {
-            "id": "9cb1abfc-bf9b-481f-be42-a8bf5f62f40f",
-            "nama_pse": "ACCESS DIGITAL FRONTIER",
-            "nama_se": "AMBON ACCESS",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10302",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abfc-c2d4-41c1-ad7c-4aa66fc45d03",
-            "nama_pse": "BERANTASTIPIKOR MEDIA PERSADA",
-            "nama_se": "BERANTASTIPIKOR.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10301",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac0b-be21-4001-b89e-9efd802e1cef",
-            "nama_pse": "TRESIA EKA WAHYUNI",
-            "nama_se": "EMINAT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10303",
-            "website": "eminat.store"
-        },
-        {
-            "id": "9cb1abfc-c6f9-44e9-83c3-c57555cf1c9c",
-            "nama_pse": "MUHAMMAD AJI PANGESTU",
-            "nama_se": "UNIT P2S",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10335",
-            "website": "unitp2s.catpesut.online"
-        },
-        {
-            "id": "9cb1ac0b-c158-42b4-8f8c-3ec138dc293b",
-            "nama_pse": "TRESIA EKA WAHYUNI",
-            "nama_se": "EMINAT (MAMI DONAT IBU RERE)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-08-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/10336",
-            "website": "eminat.store"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 198,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cd5a060-a837-403e-ae00-1631c60138c3",
+            "nama_pse": "KASNARIA BR PERANGIN-ANGIN",
+            "nama_se": "LAYANAN INTERNET LOKAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20092",
+            "website": "-"
+        },
+        {
+            "id": "9cd554d2-59fe-45e8-92d9-671edda6913c",
+            "nama_pse": "PRO INT DINAMIKA",
+            "nama_se": "PRO-INT PAYROLL OUTSOURCING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20087",
+            "website": "payouts.pro-int.com"
+        },
+        {
+            "id": "9cd5732c-ae2d-4c1a-9552-653ee7b82483",
+            "nama_pse": "INFORMASI DIGITAL MANDIRI",
+            "nama_se": "JANDOLE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20090",
+            "website": "-"
+        },
+        {
+            "id": "9cd5392a-0189-486e-8be8-092c9bea8d4a",
+            "nama_pse": "PRO INT DINAMIKA",
+            "nama_se": "PRO-INT BUSINESS PROCESS EXCELLENCE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20086",
+            "website": "BPE.pro-int.com"
+        },
+        {
+            "id": "9cd57269-eb52-4c8e-b137-2ac39b8d9d16",
+            "nama_pse": "PANEN KAPITAL BERJANGKA",
+            "nama_se": "PSE PANEN KAPITAL BERJANGKA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20089",
+            "website": "-"
+        },
+        {
+            "id": "9cb3bdde-d4e7-42e5-ad91-0793f03094be",
+            "nama_pse": "ERAFONE ARTHA RETAILINDO",
+            "nama_se": "www.erafone.com",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20088",
+            "website": "erafone.com"
+        },
+        {
+            "id": "9cd51145-786b-4493-826c-ac6c3a323bc5",
+            "nama_pse": "INDITEK GLOBAL MEDIKA",
+            "nama_se": "MENTORE.ID",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20083",
+            "website": "-"
+        },
+        {
+            "id": "9cd53347-a8f0-455b-bc68-189aa93641d3",
+            "nama_pse": "PRO INT DINAMIKA",
+            "nama_se": "PRO-INT PROJECT MANAGEMENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20085",
+            "website": "project.pro-int.com"
+        },
+        {
+            "id": "9cd35802-c789-4db6-a72c-b1fa21ee25bd",
+            "nama_pse": "TEKNOBIT SOLUSINDO",
+            "nama_se": "TEKNOBIT",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20069",
+            "website": "-"
+        },
+        {
+            "id": "9cd2f96d-16b5-4899-86ba-e2cfaf8c2bd2",
+            "nama_pse": "ABIYASA SINERGI SEJAHTERA",
+            "nama_se": ": CV ABIYASA SINERGI SEJAHTERA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20063",
+            "website": "-"
+        },
+        {
             "id": "9cd20dfb-8da7-40dc-9199-0b57bf45aafe",
             "nama_pse": "JAWA NUSANTARA ORGANISATION",
             "nama_se": "JNONEWS.COM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-08-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20019",
             "website": "-"
-        },
-        {
-            "id": "9ccf2c46-010a-4aa2-a420-bb7615fd6150",
-            "nama_pse": "CAHAYA GERBANG MUTIARA",
-            "nama_se": "CAHAYA GERBANG MUTIARA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20023",
-            "website": "cahayagerbangmutiara.com"
-        },
-        {
-            "id": "9cce3936-9c8f-4353-ba98-c8ad7e433923",
-            "nama_pse": "PUNYA RETAIL BERSAMA",
-            "nama_se": "SANCTUARY FOOTWEAR",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20014",
-            "website": "sanctuaryfootwear.com"
-        },
-        {
-            "id": "9cce1f36-468e-453c-b741-8ee9a91375d2",
-            "nama_pse": "SINAR BINTANG RETAIL",
-            "nama_se": "LILIE WEAR",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20010",
-            "website": "liliewear.com"
-        },
-        {
-            "id": "9cce3dda-d313-45d6-b0f6-8fb25f04de95",
-            "nama_pse": "GAYA BARU KITA",
-            "nama_se": "ELITE77",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20016",
-            "website": "elite77sneakers.com"
-        },
-        {
-            "id": "9cce3b4d-3e9f-4082-a835-ef9111b1b621",
-            "nama_pse": "BERDUA KITA MAJU",
-            "nama_se": "PARAMOUNT CLOTHES",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20015",
-            "website": "paramountclothes.com"
-        },
-        {
-            "id": "9cce2cea-0e38-4094-a207-ab8d3b53e7da",
-            "nama_pse": "SINAR BARU KITA",
-            "nama_se": "RINJANI APPAREL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20011",
-            "website": "rinjaniapparel.com"
-        },
-        {
-            "id": "9cce313a-ff1f-4d4b-adf6-2418a3e9ed5b",
-            "nama_pse": "BINTANG MAJU BERDUA",
-            "nama_se": "37 Project",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20012",
-            "website": "37project.com"
-        },
-        {
-            "id": "9cce35c6-741c-4724-a81c-5b3ed6170755",
-            "nama_pse": "INTINYA MANDIRI SUKSES",
-            "nama_se": "tiramishoes",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20013",
-            "website": "tiramishoes.com"
-        },
-        {
-            "id": "9cce3fec-a417-4fdd-9935-ec69903fd0f5",
-            "nama_pse": "BERSAMA CANTIK KITA",
-            "nama_se": "STRIDE PUMPS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20017",
-            "website": "stridepumps.com"
-        },
-        {
-            "id": "9ccf2daf-685a-4719-be78-78371a40fc50",
-            "nama_pse": "CIPTA MULTI DANARTA",
-            "nama_se": "SETLARY APPS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20024",
-            "website": "-"
         }
     ],
     "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 46,
     "totalPages": 383

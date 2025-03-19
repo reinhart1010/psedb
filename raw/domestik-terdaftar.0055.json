@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac74-0ea1-40f2-9038-53da1fc4ceb0",
+            "nama_pse": "BINTANG TRI SUKSES",
+            "nama_se": "BTOLS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-07-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19584",
+            "website": "btols.com"
+        },
+        {
+            "id": "9cb1ac5e-9e6b-4f9e-aa6c-a67d7e9fc29f",
+            "nama_pse": "OCTA INVESTAMA BERJANGKA",
+            "nama_se": "OCTA.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19569",
+            "website": "octa.co.id"
+        },
+        {
+            "id": "9cb1ac73-f37f-4afc-9b0a-40f2280e670b",
+            "nama_pse": "REYHAN SANTOSO GROUP",
+            "nama_se": "KABARNEWSDAY.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19567",
+            "website": "kabarnewsday.com"
+        },
+        {
+            "id": "9cb1ac5e-9baa-436a-b74b-d40c49f9490d",
+            "nama_pse": "ARTI INOVASI INDONESIA",
+            "nama_se": "ORTHOS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19566",
+            "website": "app.orthos.ai"
+        },
+        {
+            "id": "9cb1ac73-fd72-4812-9fa8-8142192dbcf0",
+            "nama_pse": "BUMI NUSA PARAHYANGAN",
+            "nama_se": "BUMI NUSA PARAHYANGAN",
+            "sektor": "Sektor Pangan",
+            "tanggal_terbit": "2024-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19568",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac8a-6cf2-4f3c-8dfe-7314db42f63a",
+            "nama_pse": "KREASI BERDIKARI INFOMEDIA",
+            "nama_se": "SATU KREASI SEHAT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19573",
+            "website": "onekreasi.id"
+        },
+        {
+            "id": "9cb1ac5e-a7e0-4fd3-9699-61e26e4a7927",
+            "nama_pse": "GRATIA JAYA MULYA",
+            "nama_se": "SYAS SISTEM INFORMASI KLINIK",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19570",
+            "website": "gratiajayamulya.co.id"
+        },
+        {
+            "id": "9cb1ac5e-596b-4f1f-9e96-b517577cf6fe",
+            "nama_pse": "KLINIK RATA INDONESIA",
+            "nama_se": "DYNAMIC SYSTEM RATA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19577",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5e-ad59-4654-a3a0-a1617bea0621",
+            "nama_pse": "TELESANDI AJI NEGARA",
+            "nama_se": "RME PDGI ANITA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19576",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5e-b03a-4ba9-98df-247544051efb",
+            "nama_pse": "SERATUSPERSEN ANAK NUSANTARA",
+            "nama_se": "LOGICE WAREHOUSE MANAGEMENT SYSTEM",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Pangan",
+            "tanggal_terbit": "2024-07-23",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19578",
+            "website": "umkm.logiceindonesia.com"
+        },
+        {
             "id": "9cb1ac5e-b34d-4793-95c6-971a0fc05b67",
             "nama_pse": "THREE DEGREES INDONESIA",
             "nama_se": "3 DEGREES",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-07-17",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19526",
             "website": "fuyalive.vip"
-        },
-        {
-            "id": "9cb1ac89-f68d-448b-b0e1-f56ddf020b80",
-            "nama_pse": "MULTICODE SOFTWARE",
-            "nama_se": "E-KLINIK",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19519",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5e-5f2d-489d-9242-036769c576d8",
-            "nama_pse": "LOVE LIFE INDONESIA",
-            "nama_se": "PT. LOVE LIFE INDONESIA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19520",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac73-98c5-489c-b47f-c8fcc9263f32",
-            "nama_pse": "MUHAMMAD FAIZAL",
-            "nama_se": "WWW.KINGHISTORIA.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19518",
-            "website": "kinghistoria.com"
-        },
-        {
-            "id": "9cb1ac5e-61c4-4426-8dfd-fd1abc61a38e",
-            "nama_pse": "WIFIQU INDONESIA NETWORK",
-            "nama_se": "LAYANAN INTERNET LOKAL ( RT RW NET )",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19522",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac8a-0527-420d-a61e-e6fd2916f7a3",
-            "nama_pse": "JEMBATAN USAHA BERSAMA",
-            "nama_se": "JEMBATAN USAHA BERSAMA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19523",
-            "website": "bayarwook.com"
-        },
-        {
-            "id": "9cb1ac73-a3bf-4a09-a840-3575a5f4dff0",
-            "nama_pse": "DWI MANDIRI HUASAN",
-            "nama_se": "FASHIONSFIESTAS.CO.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19525",
-            "website": "fashionsfiestas.com"
-        },
-        {
-            "id": "9cb1ac73-a702-43e7-a5e2-9085493add6d",
-            "nama_pse": "MATRAN MITRA PERSADA",
-            "nama_se": "ODOO MMP",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19524",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5e-44af-425a-bc34-b1cbcc9885fc",
-            "nama_pse": "KARYA MEGA SARANA",
-            "nama_se": "PT KARYA MEGA SARANA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19509",
-            "website": "kamesa.co.id"
-        },
-        {
-            "id": "9cb1ac5e-1789-4424-a4e6-b46ea47b8c2c",
-            "nama_pse": "MODAL VENTURA SYARIAH INDONESIA",
-            "nama_se": "QVERSE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19505",
-            "website": "qverse.id"
-        },
-        {
-            "id": "9cb1ac5e-3892-4434-a8c3-d226c45053cd",
-            "nama_pse": "DUNGO TECH",
-            "nama_se": "BITMEDIS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19507",
-            "website": "-"
         }
     ],
     "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 55,
     "totalPages": 383

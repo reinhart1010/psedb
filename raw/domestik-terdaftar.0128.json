@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac38-c9bd-4481-a7fc-f53486c6b56b",
+            "nama_pse": "CAHAYA HARAPAN ANREG",
+            "nama_se": "CAHAYA LEGALITAS",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15493",
+            "website": "cahayalegalitas.com"
+        },
+        {
+            "id": "9cb1ac38-d0ed-4422-bba4-b5085fa853e5",
+            "nama_pse": "ARTSYS INTEGRASI SOLUSINDO",
+            "nama_se": "ARTSYS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15504",
+            "website": "artsys.id"
+        },
+        {
+            "id": "9cb1ac38-d4cd-4415-9369-8e4f0cf50311",
+            "nama_pse": "BENARI SOLUSINDO SEJAHTERA",
+            "nama_se": "BENARI LINK MED",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15494",
+            "website": "benarilinkmed.com"
+        },
+        {
+            "id": "9cb1ac26-74ab-454e-aef4-22d2aa69eb2e",
+            "nama_pse": "CAHAYA RIZ GROUP",
+            "nama_se": "PUSAT LEGALITAS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15495",
+            "website": "Pusatlegalitas.com"
+        },
+        {
+            "id": "9cb1ac38-dca2-406a-a16d-52d0f55fdd0b",
+            "nama_pse": "FARCHAN MEDIKA UTAMA",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT DAN REKAM MEDIS ELEKRONIK PASIEN RUMAH SAKIT AQIDAH",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15496",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac48-8661-4d60-9b00-b0714cc50e6a",
+            "nama_pse": "MEDIA BERITA NET ONLINE",
+            "nama_se": "HOT NET NEWS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18660",
+            "website": "hotnetnews.co.id"
+        },
+        {
+            "id": "9cb1ac26-7808-4a39-b818-8d432ba10552",
+            "nama_pse": "AIR EMBUN SEHAT",
+            "nama_se": "WWW.AIREMBUN.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15497",
+            "website": "airembun.com"
+        },
+        {
+            "id": "9cb1ac38-e7ea-470a-8e7f-26895476a167",
+            "nama_pse": "CAHAYA RARIYOSYA GRUP",
+            "nama_se": "RARIYOSYA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15498",
+            "website": "rariyosya.com"
+        },
+        {
+            "id": "9cb1ac26-7c16-4359-9a99-8ebf220c5a24",
+            "nama_pse": "MITRA TRANSAKSI INDONESIA",
+            "nama_se": "MTI ACQUIRING AGGREGATOR SERVICES (MAAS)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15499",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac48-88f9-4baa-a5e0-3ee04c959139",
+            "nama_pse": "SANJAYA ASIA UTAMA",
+            "nama_se": "SANJAYA.ASIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15501",
+            "website": "sanjaya.asia"
+        },
+        {
+            "id": "9cb1ac48-8c6c-4c0d-b9be-18bf58df88c5",
+            "nama_pse": "BELANJA PASTI INDONESIA",
+            "nama_se": "EBELANJA.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-08-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15503",
+            "website": "ebelanja.id"
+        },
+        {
             "id": "9cb1ac48-8f56-417a-aa37-793dc6895d3e",
             "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. PERUSAHAAN PENERBANGAN GARUDA INDONESIA",
             "nama_se": "FLYGARUDA",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-08-07",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15466",
             "website": "ccf.co.id"
-        },
-        {
-            "id": "9cb1ac26-3a92-4610-bfdc-87a33e188ac4",
-            "nama_pse": "KRELOSES TEKNOLOGI INDONESIA",
-            "nama_se": "KRELOSES",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15455",
-            "website": "kreloses.com"
-        },
-        {
-            "id": "9cb1ac38-98ef-419e-8b4e-a596cc2bd74b",
-            "nama_pse": "TEKNOLOGI TERBAIK BANGSA",
-            "nama_se": "TEKNOLOGI BANGSA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15456",
-            "website": "teknologiterbaik.com"
-        },
-        {
-            "id": "9cb1ac38-9bc0-4029-aa99-1be0d4d78c7d",
-            "nama_pse": "BINTANG KARUNIA INTERNASIONAL",
-            "nama_se": "TARUMANAGARA NEWS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15457",
-            "website": "tarumanagaranews.online"
-        },
-        {
-            "id": "9cb1ac26-3f32-4f13-aa1e-e529eb400a21",
-            "nama_pse": "LINIMUDA INSPIRASI NEGERI",
-            "nama_se": "CLICKY",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15470",
-            "website": "clicky.id"
-        },
-        {
-            "id": "9cb1ac26-484c-45b0-9040-bf9a185bf570",
-            "nama_pse": "HALALAKU INDO SOLUTION",
-            "nama_se": "HALALAKU INDO SOLUTION",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15459",
-            "website": "halalakusolution.com"
-        },
-        {
-            "id": "9cb1ac38-9f21-4239-8c2e-104ff34f3c50",
-            "nama_pse": "DATA INTEGRASI INOVASI",
-            "nama_se": "NUHA",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15460",
-            "website": "nuha.care"
-        },
-        {
-            "id": "9cb1ac48-62cc-40a5-a212-a94c9e7ca40b",
-            "nama_pse": "GARDA BINA UTAMA",
-            "nama_se": "AYO!PAJAK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15462",
-            "website": "ayopajak.com"
-        },
-        {
-            "id": "9cb1ac38-a2cb-4670-b18d-1c81fc199ee1",
-            "nama_pse": "SARANA AMAL INDONESIA",
-            "nama_se": "UMRAH101",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18639",
-            "website": "dev.umrah101.id"
-        },
-        {
-            "id": "9cb1ac26-4d13-4f2d-999c-4a6f2f44d02d",
-            "nama_pse": "TRAVELSYA WISATA INDONESIA",
-            "nama_se": "TRAVELSYA - TRAVEL DAN LIFESTYLE",
-            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15463",
-            "website": "travelsya.com"
-        },
-        {
-            "id": "9cb1ac26-505f-4f28-a8cc-d213340d8ee2",
-            "nama_pse": "DOTERRA INDONESIA MARKETING",
-            "nama_se": "DOTERRA ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15461",
-            "website": "doterra.id"
-        },
-        {
-            "id": "9cb1ac26-53d7-4c41-a681-10d70dd2ce80",
-            "nama_pse": "PS GLOBAL MEDIA",
-            "nama_se": "KLIKDISKON.COM",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-08-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/15464",
-            "website": "klikdiskon.com"
         }
     ],
-    "processingTimeMs": 2,
+    "processingTimeMs": 26,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 128,
     "totalPages": 383

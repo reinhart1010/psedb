@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9d6fdea8-0c91-4dc7-bea2-d352723c2069",
+            "nama_pse": "MEDIA JAYA TEKNOLOGI",
+            "nama_se": "MEDIA PAYMENT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21103",
+            "website": "mpay.mediapayment.co.id"
+        },
+        {
+            "id": "9d6fce50-947e-42aa-bf0a-253c12c543c7",
+            "nama_pse": "BANGKIT DIGITAL TEKNOLOGI",
+            "nama_se": "smart wave",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21101",
+            "website": "ptbangkitdigitalteknologi.com"
+        },
+        {
+            "id": "9d70b50f-cbeb-49d4-bff5-600d434c9448",
+            "nama_pse": "INTERMEDIA MITRA NUSANTARA",
+            "nama_se": "garut.info",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21118",
+            "website": "-"
+        },
+        {
+            "id": "9d701b7a-afac-4e3e-b83b-ec93d861af12",
+            "nama_pse": "SG DIGITAL SOLUTIONS",
+            "nama_se": "SG5 BOOKING PLATFORM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21111",
+            "website": "sg5.co.id"
+        },
+        {
+            "id": "9d6fcdc7-9406-4ed6-bf80-94accbc65eba",
+            "nama_pse": "DIGITAL MAJU JAYA",
+            "nama_se": "SHOPSENCE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21100",
+            "website": "shopsence.com"
+        },
+        {
+            "id": "9d70b985-bab0-4269-92bd-19efb7ebcd6c",
+            "nama_pse": "INTERMEDIA MITRA NUSANTARA",
+            "nama_se": "simpendapodik",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21120",
+            "website": "-"
+        },
+        {
+            "id": "9d6fc7dd-cd6b-4b6f-a904-6acf1dc73145",
+            "nama_pse": "SOLUSI STRATEGI PRIMA",
+            "nama_se": "LYNX SSP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21098",
+            "website": "portal.lynxssp.com"
+        },
+        {
+            "id": "9d6fb040-17f2-4900-b65f-24769d060273",
+            "nama_pse": "AXA INSURANCE INDONESIA",
+            "nama_se": "AXA MYPAGE MOBILE APLIKASI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21096",
+            "website": "-"
+        },
+        {
+            "id": "9d6fdfa2-0bcb-454d-a5d1-b82847740227",
+            "nama_pse": "DETIK NEWS MEDIA",
+            "nama_se": "portal web tampa tujuan komersil",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21104",
+            "website": "-"
+        },
+        {
+            "id": "9d6fecf3-6795-4a9e-887d-1092cb6b46df",
+            "nama_pse": "PENDEKAR BANGUN PAGI",
+            "nama_se": "PENDEKAR BANGUN PAGI",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-11-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21106",
+            "website": "ptpendekarbangunpagi.com"
+        },
+        {
             "id": "9d70c1f1-a0fc-462e-a934-df1c02e90148",
             "nama_pse": "INTERMEDIA MITRA NUSANTARA",
             "nama_se": "forum.sch.id",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-11-06",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21066",
             "website": "pastibisa.id"
-        },
-        {
-            "id": "9d6bf42a-c777-4c18-b0e8-1e45afee99ba",
-            "nama_pse": "CIPTA ITININDO MAKMUR",
-            "nama_se": "ciptafintax.com",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21067",
-            "website": "ciptafintax.com"
-        },
-        {
-            "id": "9d6c05b1-abae-4d22-88c0-6dc411880ece",
-            "nama_pse": "EMPAT DHARMA",
-            "nama_se": "LAYANAN INTERNET LOKAL (RT RW NET)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21068",
-            "website": "-"
-        },
-        {
-            "id": "9d6c5f49-3f6e-4803-b50d-44d9b62d0a89",
-            "nama_pse": "TOKO MIRING BERJAYA",
-            "nama_se": "TOKO MIRING",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21075",
-            "website": "tokomiring.id"
-        },
-        {
-            "id": "9d69e933-e231-4d0c-b5b2-d79586edb1d9",
-            "nama_pse": "BENOA SEA LEGEND",
-            "nama_se": "PT BENOA SEA LEGEND",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21050",
-            "website": "newstarstravel.com"
-        },
-        {
-            "id": "9d69f6cf-51ee-4d24-8d8f-456311d4f468",
-            "nama_pse": "RAKADEA DIGITAL GROUP",
-            "nama_se": "TOKO GAMING PEDIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21051",
-            "website": "tokogamingpedia.com"
-        },
-        {
-            "id": "9d6a05c1-3efc-4dd6-a4b1-ff62a110f400",
-            "nama_pse": "ADE JAGAW SOLUSINDO",
-            "nama_se": "ARP PLS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21052",
-            "website": "-"
-        },
-        {
-            "id": "9d6a190c-4dcc-4fc0-b61c-f77afc030f05",
-            "nama_pse": "CIPTA MENTARI BENOA",
-            "nama_se": "CV. CIPTA MENTARI BENOA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21053",
-            "website": "supernovaholiday.com"
-        },
-        {
-            "id": "9d69e380-fdea-4bb3-9df7-22610f48c13d",
-            "nama_pse": "BOIM KARYA SEJATI",
-            "nama_se": "PT. BOIM KARYA SEJATI",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21049",
-            "website": "southvolcano.com"
-        },
-        {
-            "id": "9d6a56d9-e969-4187-b6b8-953e6b8e72ce",
-            "nama_pse": "HARTADINATA ABADI",
-            "nama_se": "EMASKU",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-11-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21055",
-            "website": "emasku.co.id"
-        },
-        {
-            "id": "9d6a547e-53a2-42ca-92bc-62fd4182ff97",
-            "nama_pse": "OBHY NETWORK INDONESIA",
-            "nama_se": "PT OBHY NETWORK INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-11-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21054",
-            "website": "obhy.net"
         }
     ],
     "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 27,
     "totalPages": 383

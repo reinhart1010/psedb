@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1aba5-4fde-4b05-b58f-250628eec183",
+            "nama_pse": "USAHA PEMBIAYAAN RELIANCEINDONESIA",
+            "nama_se": "RELI-HOME",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5183",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abaf-3d06-45d9-88c5-51bc0760aeca",
+            "nama_pse": "TAMADUN TEKNOLOGI INTERNASIONAL",
+            "nama_se": "NEUROVI MEDICAL SYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5190",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba5-53f3-43d2-9f2a-5dd9dc1d651a",
+            "nama_pse": "MUSLIMINA INDO PERSADA",
+            "nama_se": "MUSLIMPERGI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5189",
+            "website": "muslimpergi.com"
+        },
+        {
+            "id": "9cb1aba5-55f0-476a-bdd6-8dfa66eb7796",
+            "nama_pse": "ANILO ADIKARYA SENTOSA",
+            "nama_se": "AAS1",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5185",
+            "website": "aas1.id"
+        },
+        {
+            "id": "9cb1aba5-59ba-4a2c-9420-3fa706e40e3c",
+            "nama_pse": "MIDAZPAY DIGITAL INDONESIA",
+            "nama_se": "ROCKET POCKET",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5187",
+            "website": "rocketpocket.id"
+        },
+        {
+            "id": "9cb1abaf-43f0-469f-96bd-a12a5fdb286c",
+            "nama_pse": "MEGATAMA ADIKARYA",
+            "nama_se": "WEBSITE RESMI INDO MEDIKA INTERNATIONAL",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5191",
+            "website": "indomedika.co.id"
+        },
+        {
+            "id": "9cb1ab9a-5a5e-445b-b4e8-1615280179ab",
+            "nama_pse": "ISAN TECHNOLOGY INDONESIA",
+            "nama_se": "AGRION FARMER",
+            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5192",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba5-6197-434f-a554-536af42e3b72",
+            "nama_pse": "RAJAWALI INTI SELULAR",
+            "nama_se": "RISE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5193",
+            "website": "corpsolution.riseteknologi.app"
+        },
+        {
+            "id": "9cb1aba5-647b-4d22-8700-4455aaaab57f",
+            "nama_pse": "D \u0026 W INTERNASIONAL",
+            "nama_se": "TERRAMIX.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5195",
+            "website": "terramix.id"
+        },
+        {
+            "id": "9cb1ab9a-62a8-4cec-a709-6f48577eeec7",
+            "nama_pse": "ALFIE RENALDY",
+            "nama_se": "JAGOSELEB.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5196",
+            "website": "jagoseleb.com"
+        },
+        {
             "id": "9cb1abaf-4650-46a7-8820-750df912850e",
             "nama_pse": "CHRIST BOLUNG NGANTUNG",
             "nama_se": "KRIST.ID",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-06",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5138",
             "website": "brambang.com"
-        },
-        {
-            "id": "9cb1abaf-110e-46b1-9c50-c4e69caf57f1",
-            "nama_pse": "MALEO EDUKASI TEKNOLOGI",
-            "nama_se": "EDUCOURSE FOR SCHOOL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5139",
-            "website": "school.educourse.id"
-        },
-        {
-            "id": "9cb1abaf-12f9-44b9-bf34-809ea0baf485",
-            "nama_pse": "ADIRA DINAMIKA MULTI FINANCE",
-            "nama_se": "MOSERVICE.ID",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5141",
-            "website": "moservice.id"
-        },
-        {
-            "id": "9cb1abaf-14df-4dc8-914c-ca21b790d1dc",
-            "nama_pse": "LONTAR TALI MEDIA",
-            "nama_se": "PAJAK.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5143",
-            "website": "pajak.com"
-        },
-        {
-            "id": "9cb1aba5-2763-410e-a4ed-eaa516a9b8d0",
-            "nama_pse": "ADIRA DINAMIKA MULTI FINANCE",
-            "nama_se": "MOSERVICE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5142",
-            "website": "moservice.id"
-        },
-        {
-            "id": "9cb1abaf-169f-4ff5-9233-bf0434fca97d",
-            "nama_pse": "PERTA LIFE INSURANCE",
-            "nama_se": "APLIKASI DIGITAL MARKETING",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5145",
-            "website": "pertalife.com"
-        },
-        {
-            "id": "9cb1aba5-2987-40c3-bdd9-60f925e9f46b",
-            "nama_pse": "BENTARA FRAKTAL INDONESIA TEKNOLOGI",
-            "nama_se": "PERPUSTAKAAN DIGITAL BUDAYA INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5144",
-            "website": "budaya-indonesia.org"
-        },
-        {
-            "id": "9cb1ab9a-354a-4e47-8f73-025375ae32c2",
-            "nama_pse": "ASTRA INTERNASIONAL",
-            "nama_se": "KOPERASI ASTRA APPS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5146",
-            "website": "koperasi-astra.com"
-        },
-        {
-            "id": "9cb1aba5-2c04-4da7-aeee-f0444ea66ce4",
-            "nama_pse": "DIKA ADITYA PRATAMA",
-            "nama_se": "SISTEM PENUNJANG PERDAGANGAN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5147",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abaf-186d-4528-8a75-5ccfd2cdb2cd",
-            "nama_pse": "MANPRO TEKNOLOGI INDONESIA",
-            "nama_se": "MANPRO TEKNOLOGI INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5148",
-            "website": "manpro.id"
-        },
-        {
-            "id": "9cb1abaf-1a65-46a9-a570-7b9d4bdb8dd8",
-            "nama_pse": "MOBILKU DOTCOM SEJAHTERA",
-            "nama_se": "MOBILKU.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5149",
-            "website": "mobilku.com"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 291,
     "totalPages": 383

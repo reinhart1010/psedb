@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9d52211e-2044-45a1-9ad3-5e53650608a4",
+            "nama_pse": "NASHRINET MADINA NUSANTARA",
+            "nama_se": "JASA LAYANAN PENYEDIA INTERNET LOKAL ( RT / RW NET )",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20892",
+            "website": "-"
+        },
+        {
+            "id": "9d51ce84-3f24-4170-8e79-14eaab01e37a",
+            "nama_pse": "KATALISATOR ASA INDONESIA",
+            "nama_se": "MANUVA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20886",
+            "website": "manuva.com"
+        },
+        {
+            "id": "9d520d3f-2141-46fe-9f03-0ed35443629b",
+            "nama_pse": "NUSANTARA SEHAT BERSAMA TECHNOLOGY",
+            "nama_se": "SIMPRS",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20889",
+            "website": "taratech.site"
+        },
+        {
+            "id": "9d51bb8f-ef16-41de-b79a-3d4b9bfabe9f",
+            "nama_pse": "INOVASI JAYA AKSELERA",
+            "nama_se": "POINT OF SALES (P.O.S)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20885",
+            "website": "-"
+        },
+        {
+            "id": "9d520929-1e97-4a66-b35f-e2cad36a562b",
+            "nama_pse": "DAYA SKYMED INDONESIA",
+            "nama_se": "www.hospimart.id",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20888",
+            "website": "hospimart.id"
+        },
+        {
+            "id": "9d5251cf-b5a6-4f3a-ab58-5e60053d1271",
+            "nama_pse": "CIPTA SENTRA NUSANTARA",
+            "nama_se": "TAKE IT",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20896",
+            "website": "csn.co.id"
+        },
+        {
+            "id": "9d51b7c3-a76d-4fad-8466-36fa6e0e0b02",
+            "nama_pse": "WISMA INOVASI NUSANTARA",
+            "nama_se": "WISMA INOVASI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20884",
+            "website": "wismainovasi.com"
+        },
+        {
+            "id": "9d52160c-504f-4b37-85f1-3e403fe2579a",
+            "nama_pse": "SERTIFIKASI MANAJEMEN MANDIRI",
+            "nama_se": "​SI Mandiri",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20890",
+            "website": "digimindcert.com"
+        },
+        {
+            "id": "9d523559-d99b-4567-be97-48061e7b1f06",
+            "nama_pse": "FUNTASTIC JOURNEY NUSANTARA",
+            "nama_se": "FUN JOURNEY",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2024-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20893",
+            "website": "funjourney.co.id"
+        },
+        {
+            "id": "9d523a7a-1e3a-49a3-ab79-a3fac4db639d",
+            "nama_pse": "BHUMI SUGIH RAHARJA",
+            "nama_se": "HOOMANOID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20894",
+            "website": "hoomano.id"
+        },
+        {
             "id": "9d524802-9833-41af-acc5-643bf49c1489",
             "nama_pse": "CIPTA SENTRA NUSANTARA",
             "nama_se": "EDI SUDENDI",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-10-21",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20856",
             "website": "abanggas.com"
-        },
-        {
-            "id": "9d4c2e25-f952-48e8-815a-34ef13d5f0ab",
-            "nama_pse": "MEGA HARAPAN MULIA",
-            "nama_se": "KELAS.WORK",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20860",
-            "website": "kelas.work"
-        },
-        {
-            "id": "9d4cbd96-df64-4296-8e85-1ffd9994e3d5",
-            "nama_pse": "PUTRA MANDIRI MULTI MEDIA",
-            "nama_se": "pewartabali.com",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20863",
-            "website": "pewartabali.com"
-        },
-        {
-            "id": "9d4bf710-965c-4195-97c5-677480a31d52",
-            "nama_pse": "ANGKUTAN PENGEMUDI TRANSPORTASI NUSANTARA",
-            "nama_se": "KAPTEN TRANSPORTASI",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20849",
-            "website": "-"
-        },
-        {
-            "id": "9d4bdb24-c2f9-4cf6-8e74-92724f24f6f7",
-            "nama_pse": "SURYA CITRA GALLERY",
-            "nama_se": "KLIKNEWS.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20845",
-            "website": "-"
-        },
-        {
-            "id": "9d4ba5a4-f0d9-4b87-a092-68dfa6e4fc87",
-            "nama_pse": "MULTI BINTANG INDONESIA NIAGA",
-            "nama_se": "EAZLE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-10-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20839",
-            "website": "id.eazle.com"
-        },
-        {
-            "id": "9d5e249b-8ab1-4f2f-bbc0-036672fdeebd",
-            "nama_pse": "PLAYSTORE DIGITAL INDONESIA MAJU",
-            "nama_se": "PLAYSTORE DIGITAL INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20975",
-            "website": "playstoredigital.co.id"
-        },
-        {
-            "id": "9d4c3b97-5496-40de-aec8-4c80c3ac392b",
-            "nama_pse": "IDE INOVASI NUSANTARA",
-            "nama_se": "IDEKU",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20862",
-            "website": "ideku.id"
-        },
-        {
-            "id": "9d4bb495-d2ad-46c2-82ca-58e50b45226d",
-            "nama_pse": "NUSANODE CLOUD HOSTING",
-            "nama_se": "NUSANODE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20840",
-            "website": "nusanode.com"
-        },
-        {
-            "id": "9d45d92b-f7d4-4196-9234-aaed15808475",
-            "nama_pse": "WINNER DIGIPRENEUR INDONESIA",
-            "nama_se": "AI DATA FINDER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20831",
-            "website": "-"
-        },
-        {
-            "id": "9d4611d1-37b6-45e0-bc9a-c06f9c5856e8",
-            "nama_pse": "PURBOHADI UTOMO",
-            "nama_se": "TALKTOMYDOCUMENT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-10-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20833",
-            "website": "talktomydocument.com"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 0,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 31,
     "totalPages": 383

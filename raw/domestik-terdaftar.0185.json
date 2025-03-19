@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac0f-ec9a-40c2-96d0-1f1cbc268cc9",
+            "nama_pse": "GARUT DIGITAL MULTIMEDIA",
+            "nama_se": "MEDIA HARIAN GARUT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11213",
+            "website": "hariangarut.com"
+        },
+        {
+            "id": "9cb1ac01-2ba4-4eb9-8d96-34e1b5508ad9",
+            "nama_pse": "GARUT DIGITAL MULTIMEDIA",
+            "nama_se": "MEDIA LIPUTAN GARUT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11214",
+            "website": "liputangarut.com"
+        },
+        {
+            "id": "9cb1ac0f-effc-4048-b47f-548de8cd42d4",
+            "nama_pse": "GARUT DIGITAL MULTIMEDIA",
+            "nama_se": "JOURNAL GARUT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11215",
+            "website": "journalgarut.com"
+        },
+        {
+            "id": "9cb1ac0f-f4f2-436a-aa8d-58d3d14b103a",
+            "nama_pse": "GARUT DIGITAL MULTIMEDIA",
+            "nama_se": "GARUT HOSTING",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11216",
+            "website": "garuthosting.com"
+        },
+        {
+            "id": "9cb1ac01-2e5b-4d95-bfcd-6ce11e96e3f4",
+            "nama_pse": "GEO TEKNIK CONSULTANT",
+            "nama_se": "GARUT PROPERTI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11217",
+            "website": "garutproperti.biz.id"
+        },
+        {
+            "id": "9cb1aba4-d7e1-4e5f-aa8c-5b7d58aed1a1",
+            "nama_pse": "BANTUDESA KARYA INDONESIA",
+            "nama_se": "PAGARMERBAUTIGA-DESA.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5039",
+            "website": "pagarmerbautiga-desa.id"
+        },
+        {
+            "id": "9cb1abd3-8448-40b7-a4a9-148af4773379",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+            "nama_se": "LEAP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9791",
+            "website": "leap.digitalbisa.id"
+        },
+        {
+            "id": "9cb1abd3-882c-46fc-931e-45e782461067",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+            "nama_se": "MYTENS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9792",
+            "website": "mytens.co.id"
+        },
+        {
+            "id": "9cb1abfa-0f9d-4f8f-b18a-11bf3a3d9d80",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. TELEKOMUNIKASI INDONESIA",
+            "nama_se": "MYINDIHOME X",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9794",
+            "website": "myih.telkom.co.id"
+        },
+        {
+            "id": "9cb1abdb-8c43-4daf-aa51-138483539b02",
+            "nama_pse": "RUMAH SAKIT DAERAH K.R.M.T. WONGSONEGORO KOTA SEMARANG",
+            "nama_se": "MYRSWN",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-09-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11172",
+            "website": "rsud.semarangkota.go.id"
+        },
+        {
+            "id": "9cb1ac0f-c426-4460-8976-e3f3d51fa5f1",
+            "nama_pse": "JEJAK KASUS NEWS",
+            "nama_se": "PT. JEJAK KASUS NEWS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11182",
+            "website": "jejakkasus.id"
+        },
+        {
             "id": "9cb1ac01-0233-460e-b959-9c0b439a134b",
             "nama_pse": "JAMAN MEMBANGUN MANDIRI",
             "nama_se": "PT. JAMAN MEMBANGUN MANDIRI",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-09-13",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11179",
             "website": "tuntaz.com"
-        },
-        {
-            "id": "9cb1ac0f-bc86-4ea0-8d50-5e294961616f",
-            "nama_pse": "ADWA INFO MANDIRI",
-            "nama_se": "ICHA",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11180",
-            "website": "icha.co.id"
-        },
-        {
-            "id": "9cb1abdb-a6d8-43ad-9f14-b918bd89e320",
-            "nama_pse": "PUSAT LITERASI DUNIA",
-            "nama_se": "LITERATUR.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11181",
-            "website": "literatur.id"
-        },
-        {
-            "id": "9cb1abae-7086-4a09-a6f7-3d42823a511f",
-            "nama_pse": "TOKOFANS SMM INDONESIA",
-            "nama_se": "TOKOFANS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5002",
-            "website": "tokofans.co.id"
-        },
-        {
-            "id": "9cb1ac0b-54dc-4bd5-ad9a-a37107cfecdc",
-            "nama_pse": "ERA INDONESIA DIGITAL",
-            "nama_se": "ERA.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11153",
-            "website": "era.id"
-        },
-        {
-            "id": "9cb1ac0b-6ab0-41ac-9d19-d56abc4b98e8",
-            "nama_pse": "DIGITAL SIBER INDONESIA",
-            "nama_se": "PARAGRAM.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11152",
-            "website": "paragram.id"
-        },
-        {
-            "id": "9cb1abfc-f130-4b71-8242-3f8f7f5cd00d",
-            "nama_pse": "VOI MEDIA INFORMASI",
-            "nama_se": "VOI.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11151",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac0f-2950-473c-9755-bf8a4a8af766",
-            "nama_pse": "NINJA LOGISTICS INDONESIA",
-            "nama_se": "SISTIM APLIKASI MANAJEMEN LOGISTIK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11155",
-            "website": "ninjaxpress.co"
-        },
-        {
-            "id": "9cb1abdb-5f80-4c65-9eda-e537ac9a3638",
-            "nama_pse": "KARUNIA SEGAR KEDUA",
-            "nama_se": "MEATNFRESH.CO.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11150",
-            "website": "meatnfresh.co.id"
-        },
-        {
-            "id": "9cb1ac00-ca81-4ecd-a47d-677b54e7ad01",
-            "nama_pse": "KARUNIA SEGAR TIGA",
-            "nama_se": "MEATNFRESH.CO.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11148",
-            "website": "meatnfresh.co.id"
-        },
-        {
-            "id": "9cb1abdb-6647-4e44-ae84-b7e9956585ed",
-            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH AL MAKMUR",
-            "nama_se": "RURAL BANKING SISTEM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-09-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11137",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac0f-9310-4df4-854b-7c46f402c6b9",
-            "nama_pse": "KARUNIA SEGAR EMPAT",
-            "nama_se": "MEATNFRESH.CO.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11149",
-            "website": "meatnfresh.co.id"
         }
     ],
-    "processingTimeMs": 2,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 185,
     "totalPages": 383

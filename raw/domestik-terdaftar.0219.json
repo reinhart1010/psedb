@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abbe-7017-4dcd-9eb4-3d30a6fea4f1",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT NUSAMBA PLERED",
+            "nama_se": "PT BPR NUSAMBA PLERED",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9199",
+            "website": "bprnusamba-plered.co.id"
+        },
+        {
+            "id": "9cb1abbe-75f4-410f-a89c-bc47ccf3f0f0",
+            "nama_pse": "BANK PERKREDITAN RAKYAT HOSING JAYA",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9201",
+            "website": "bprhosingjaya.com"
+        },
+        {
+            "id": "9cb1abf5-5e85-4277-bcf7-ebe827ce47b6",
+            "nama_pse": "INTEGRAL DATA PRIMA",
+            "nama_se": "PAJAKEXPRESS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9204",
+            "website": "pajakexpress.com"
+        },
+        {
+            "id": "9cb1abcf-1201-48a3-9324-3c98ddcde509",
+            "nama_pse": "SENTRALWATCH PERKASA INTERNASIONAL",
+            "nama_se": "FOSSIL INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9213",
+            "website": "fossil.co.id"
+        },
+        {
+            "id": "9cb1abbe-96e3-482c-b331-898ada137d02",
+            "nama_pse": "AGUNG WIJAYA",
+            "nama_se": "RAOKIN LINUX",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9214",
+            "website": "raokin.my.id"
+        },
+        {
+            "id": "9cb1abbe-9d55-4aa5-891b-b536b9c153e0",
+            "nama_pse": "RUANG HALAL INDONESIA",
+            "nama_se": "KUYTALK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9216",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abcf-1b59-47b3-93f0-09b163345827",
+            "nama_pse": "RUANG HALAL INDONESIA",
+            "nama_se": "TELPON",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9217",
+            "website": "telpon.us"
+        },
+        {
+            "id": "9cb1abcf-27b9-45a0-9194-47f54c1b953f",
+            "nama_pse": "AGUNG WIJAYA",
+            "nama_se": "RAOKIN",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9218",
+            "website": "raokin.my.id"
+        },
+        {
+            "id": "9cb1abbe-2801-47ab-a67d-ac4cad821218",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT RAJADANA MENGANTI",
+            "nama_se": "PT BPR RAJADANA MENGANTI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9103",
+            "website": "rajadanamenganti.com"
+        },
+        {
+            "id": "9cb1ab9a-b5f0-48c8-92a6-e8cb3659e0ee",
+            "nama_pse": "MANDARIN MEDIA INDONESIA",
+            "nama_se": "WWW.ACCOMMCAN.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9030",
+            "website": "accommcan.com"
+        },
+        {
             "id": "9cb1ab9d-c654-4c8f-9d9c-27723ad6cfc1",
             "nama_pse": "BANK NAGARI",
             "nama_se": "MAIL SERVER BANK NAGARI",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9067",
             "website": "-"
-        },
-        {
-            "id": "9cb1abf4-4d00-4f49-9bac-43b75c07a340",
-            "nama_pse": "HONDA PROSPECT MOTOR",
-            "nama_se": "HONDA E-CARE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9068",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abce-51c1-45b2-86ba-592e68455d01",
-            "nama_pse": "MDS DIGITAL MEDIA",
-            "nama_se": "SKPR DIGITAL",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9069",
-            "website": "skprdigital.com"
-        },
-        {
-            "id": "9cb1abbd-f7e7-444a-b3c3-c7ead10d436d",
-            "nama_pse": "DAHUA VISION TECHNOLOGY INDONESIA",
-            "nama_se": "IMOULIFE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9073",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abce-54fd-4057-9efa-4836f7183e16",
-            "nama_pse": "MDS DIGITAL MEDIA",
-            "nama_se": "PANEL DIGITAL",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9070",
-            "website": "paneldigitalmedia.com"
-        },
-        {
-            "id": "9cb1abbd-fd28-4e72-8d90-ead856a0fb00",
-            "nama_pse": "MDS DIGITAL MEDIA",
-            "nama_se": "TOHA STORE",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9071",
-            "website": "tohastore09.com"
-        },
-        {
-            "id": "9cb1abbd-ff55-49b3-9921-e3e395c44a12",
-            "nama_pse": "EDUKASI REKANAN ANDA",
-            "nama_se": "EUREKA EDUTECH",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9072",
-            "website": "eurekaedutech.com"
-        },
-        {
-            "id": "9cb1abf4-5396-4aa7-8601-a082a5161f67",
-            "nama_pse": "KADENCE INTERNATIONAL",
-            "nama_se": "K-OINS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9075",
-            "website": "k-oins.com"
-        },
-        {
-            "id": "9cb1abbe-0166-4bb0-a311-60360351ca98",
-            "nama_pse": "MARSIGIT",
-            "nama_se": "GOGEZIT",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2022-07-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9074",
-            "website": "gogezit.wordpress.com"
-        },
-        {
-            "id": "9cb1abbe-03c5-43a1-b165-f31ede7d7b30",
-            "nama_pse": "GARASI BUANA UTAMA",
-            "nama_se": "PT. GARASI BUANA UTAMA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9076",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abf4-5ae0-4c8a-90df-63b2421cb14d",
-            "nama_pse": "IMUNI INDONESIA SEHAT",
-            "nama_se": "IMUNI",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9077",
-            "website": "imuni.id"
         }
     ],
     "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 219,
     "totalPages": 383

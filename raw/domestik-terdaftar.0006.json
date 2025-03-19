@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9e4927bb-cbee-4a31-a690-eddf508fd404",
+            "nama_pse": "KOKEK",
+            "nama_se": "SIPENDI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22467",
+            "website": "sipendi.id"
+        },
+        {
+            "id": "9e493be3-e17a-49e7-a2f7-09139c77e61b",
+            "nama_pse": "INTERAKTIF INTERNASIONAL",
+            "nama_se": "INTERACTIVE SOLUSI RETAIL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22468",
+            "website": "solusiretail.com"
+        },
+        {
+            "id": "9e4953fa-281f-40a3-bf00-1676497aba35",
+            "nama_pse": "INOVASI PEREMPUAN SEHATI",
+            "nama_se": "FILMORE MEDICAL CENTER",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2025-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22469",
+            "website": "emr.filmorepharma.com"
+        },
+        {
+            "id": "9e495496-efd0-40c4-8d7d-9e54dcffa951",
+            "nama_pse": "FLIK TEKNOLOGI INDONESIA",
+            "nama_se": "FLIK: SHOP AND GET REWARDS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-02-24",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22470",
+            "website": "-"
+        },
+        {
+            "id": "9e436763-c85d-40be-a091-1a388a93b192",
+            "nama_pse": "NETMEDIA DIGITAL INDONESIA",
+            "nama_se": "NETLEAD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22462",
+            "website": "netlead.id"
+        },
+        {
+            "id": "9e4162a0-eeac-4ffe-8ba9-7f2fc4eb5425",
+            "nama_pse": "SINERGITAS UNTUK NEGERI",
+            "nama_se": "JURNAL DIGITAL - JDCOOP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22461",
+            "website": "jurnaldigital.id"
+        },
+        {
+            "id": "9e43bc5e-8c9c-4b1d-b660-189d8f3ab932",
+            "nama_pse": "ALIF DENAWA TRANS",
+            "nama_se": "denawa trans",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2025-02-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22463",
+            "website": "-"
+        },
+        {
+            "id": "9e433070-09c0-47c1-bb59-d563a8a82b29",
+            "nama_pse": "TAUFIK",
+            "nama_se": "malut.my.id",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22460",
+            "website": "malut.my.id"
+        },
+        {
+            "id": "9e42e99a-c626-477b-9c44-88facfeab9ff",
+            "nama_pse": "MEDIA MANGGOPOH JAYA GROUP",
+            "nama_se": "BERKABARNUSA.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22459",
+            "website": "berkabarnusa.com"
+        },
+        {
+            "id": "9e40f5af-8096-4c7a-84fa-ad6625b4a28d",
+            "nama_pse": "SOLUSI DIGITAL KLIK",
+            "nama_se": "KLOUDIA AI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22449",
+            "website": "kloudia.ai"
+        },
+        {
             "id": "9e40dfb3-cf6d-447f-b9e3-627637469eda",
             "nama_pse": "HOBIMU JADI CUAN",
             "nama_se": "TAKO.ID",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2025-02-18",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22432",
             "website": "sukabumiviral.com"
-        },
-        {
-            "id": "9e3e1f1d-674a-407b-aada-25a92cd257e5",
-            "nama_pse": "PEDULY GOTONG ROYONG",
-            "nama_se": "peduly",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22433",
-            "website": "peduly.com"
-        },
-        {
-            "id": "9e3d3f23-62d2-4df2-ae84-7f6624ed7c7f",
-            "nama_pse": "REGIO NETWORK INDONESIA",
-            "nama_se": "REGIO TRACKING \u0026 MONITORING SYSTEM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22420",
-            "website": "tracking.regio.id"
-        },
-        {
-            "id": "9e3d4050-9b5c-413b-a0b3-9a291eefdb9a",
-            "nama_pse": "PAKUAN ALAM KARYA DIGITAL",
-            "nama_se": "SATURNNET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22421",
-            "website": "saturnnet.my.id"
-        },
-        {
-            "id": "9cb1ac58-d1d1-466c-a315-9d512c918ac3",
-            "nama_pse": "SURYA JAGAT MANDIRI",
-            "nama_se": "BOOKANDLINK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22422",
-            "website": "bookandlink.com"
-        },
-        {
-            "id": "9e3d06f4-4220-47ed-8659-ee929de8a36b",
-            "nama_pse": "REGIO NETWORK INDONESIA",
-            "nama_se": "TERKONEKSI.NET - DESA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22416",
-            "website": "desa.terkoneksi.net"
-        },
-        {
-            "id": "9e3b1e1f-b8f1-47a9-beb1-06401434d2f9",
-            "nama_pse": "REGIO NETWORK INDONESIA",
-            "nama_se": "REGIO PREDICTIVE AND ANALYTICAL DASHBOARD",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22407",
-            "website": "dashboard.regio.id"
-        },
-        {
-            "id": "9e3c0756-45dc-4fb9-9628-c727e64555e9",
-            "nama_pse": "MUH AQILA NAUFAL HAKIM",
-            "nama_se": "SENUSA APP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22411",
-            "website": "senusa.app"
-        },
-        {
-            "id": "9e3ad9aa-b959-484a-8b57-8fb35df22096",
-            "nama_pse": "CARI PENGACARA INDONESIA",
-            "nama_se": "CARILAWYER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22405",
-            "website": "carilawyer.id"
-        },
-        {
-            "id": "9e350cfd-15cc-4c61-a486-2053666695b1",
-            "nama_pse": "ZONA MEDIA INDONESIA",
-            "nama_se": "ZONA MAHASISWA: TEMUKAN FORHAT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22395",
-            "website": "zonamahasiswa.id"
-        },
-        {
-            "id": "9e3567ba-4775-4432-a94d-63f0c7e07eb9",
-            "nama_pse": "KODE DARI HATI",
-            "nama_se": "PENGEMBANGAN WEBSITE DAN APLIKASI BERBASIS WEB",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-02-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22403",
-            "website": "hypercodesolutions.com"
         }
     ],
-    "processingTimeMs": 0,
+    "processingTimeMs": 17,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 6,
     "totalPages": 383

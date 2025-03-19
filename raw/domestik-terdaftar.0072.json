@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac59-e52c-4619-a2ec-3859ad5251d6",
+            "nama_pse": "RAYA KUTA",
+            "nama_se": "ERMKRK",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18661",
+            "website": "ermkrk.com"
+        },
+        {
+            "id": "9cb1ac82-8316-4c47-9d63-bcef2fca451d",
+            "nama_pse": "DARI HATI JAYA",
+            "nama_se": "MEDISOLVE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18655",
+            "website": "medisolve.id"
+        },
+        {
+            "id": "9cb1ac83-6d31-46a4-8bb1-85cee898f627",
+            "nama_pse": "EFRIZAL",
+            "nama_se": "SIMRS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18650",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac83-93d3-46b4-966f-bf23ee762986",
+            "nama_pse": "SISTEM INFORMASI TRANSPORTASI OTOMATIS",
+            "nama_se": "TAXSEE DRIVER",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18647",
+            "website": "sito.id"
+        },
+        {
+            "id": "9cb1ac6e-91ba-4f52-b1db-ba7b67f05c27",
+            "nama_pse": "SSR DIGITAL INFORMATIKA",
+            "nama_se": "RADBOOX",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18646",
+            "website": "radboox.com"
+        },
+        {
+            "id": "9cb1ac83-90a7-405a-8e18-dd1af2a2189a",
+            "nama_pse": "FAZZ CAPITAL FINANCE",
+            "nama_se": "FAZZ CAPITAL FINANCE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18648",
+            "website": "fazzfinance.id"
+        },
+        {
+            "id": "9cb1ac83-9e71-4abe-bb38-b5e58c7f192b",
+            "nama_pse": "SISTEM INFORMASI TRANSPORTASI OTOMATIS",
+            "nama_se": "MAXIM",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18649",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6e-950d-46aa-9d52-10dd192edf8e",
+            "nama_pse": "INSPIRASI TEKNOLOGI BANGSA",
+            "nama_se": "WEBSITE LANDACK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18651",
+            "website": "Landack.id"
+        },
+        {
+            "id": "9cb1ac6e-981e-4c73-be85-d7e541ed5f80",
+            "nama_pse": "OPTIKAL PESSEL",
+            "nama_se": "SIMRS KLINIK UTAMA MATA PESSEL",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18652",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac83-a1c4-4980-a1aa-74fce4747537",
+            "nama_pse": "NEY MAKEUP ARTIST",
+            "nama_se": "NEY MAKEUP ARTIST",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18653",
+            "website": "neymakeup.id"
+        },
+        {
             "id": "9cb1ac83-bdf4-4bb5-bbbc-7b210bd9c3f9",
             "nama_pse": "TITAN BAGUS BRAMANTYO",
             "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-04-13",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18595",
             "website": "-"
-        },
-        {
-            "id": "9cb1ac6e-563a-43f9-bf27-5662e388a0b8",
-            "nama_pse": "HITAAKSATA NUSANTARA PERKASA",
-            "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18596",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac59-626d-493d-9ee4-030b3b823e54",
-            "nama_pse": "DIGITAL RELOAD CENTER",
-            "nama_se": "DRC MOBILE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-04-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18593",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac59-6707-4767-bf72-6be52644af20",
-            "nama_pse": "DIGITAL RELOAD CENTER",
-            "nama_se": "WIN WIN PULSA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-04-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18594",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac58-f8ba-4d99-919e-cca14c94295d",
-            "nama_pse": "LANDLORD DIGITAL INDONESIA",
-            "nama_se": "LANDI.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-04-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18592",
-            "website": "landi.id"
-        },
-        {
-            "id": "9cb1ac59-5b70-49ee-b605-ed591fd46e76",
-            "nama_pse": "MATAHARI BHAKTI HUSADA",
-            "nama_se": "SISTEM INFORMASI KLINIK MATAHARI BHAKTI HUSADA",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18590",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac83-3558-4fcb-b53b-68602dddbde7",
-            "nama_pse": "SAFA BAHTERA YAKSA",
-            "nama_se": "GOJO",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2024-04-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18589",
-            "website": "ridegojo.com"
-        },
-        {
-            "id": "9cb1ac83-28b2-40a7-b5a4-ecaa3d7ea950",
-            "nama_pse": "SANTIKA DIGITAL INDONESIA",
-            "nama_se": "SANTIKA CLINIC MANAGEMENT SYSTEM",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18584",
-            "website": "santika.biz.id"
-        },
-        {
-            "id": "9cb1ac6e-4f5b-4408-a26d-00563c0b9200",
-            "nama_pse": "ABIKAMA LANTAR INFORMATIKA",
-            "nama_se": "JASA LAYANAN PENYEDIA INTERNET LOKAL ( RT / RW NET )",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18585",
-            "website": "beenet.mra.my.id"
-        },
-        {
-            "id": "9cb1ac83-31e0-4102-bf90-71a1fc687d36",
-            "nama_pse": "INFINITY DIGITAL CREATIVE",
-            "nama_se": "VALEED.ID",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18587",
-            "website": "Valeed.id"
-        },
-        {
-            "id": "9cb1ac59-56d4-4720-91dc-82fd63ec77ea",
-            "nama_pse": "SANDS CAPITAL INDONESIA",
-            "nama_se": "METATRADER 5",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-04-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18588",
-            "website": "sandscapital.co.id"
         }
     ],
-    "processingTimeMs": 2,
+    "processingTimeMs": 7,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 72,
     "totalPages": 383

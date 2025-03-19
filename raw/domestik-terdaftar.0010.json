@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9e1fc19b-b738-4714-b9e7-5f7a72929a16",
+            "nama_pse": "YOSI UTAMA SEJAHTERA",
+            "nama_se": "PT YOSI UTAMA SEJAHTERA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22258",
+            "website": "jurnaldaerah.com"
+        },
+        {
+            "id": "9e1f71f4-597d-4b86-b954-6b826ef63bd8",
+            "nama_pse": "SARANA TRANSFORMASI DIGITAL",
+            "nama_se": "midnusa",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22256",
+            "website": "midnusa.com"
+        },
+        {
+            "id": "9e1e0131-6f4f-4b3b-b5d2-1909b79c06b7",
+            "nama_pse": "RISE GRAFIKA",
+            "nama_se": "RISE GRAFIKA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22242",
+            "website": "rfrise.com"
+        },
+        {
+            "id": "9e1e0122-731e-4ecc-8cee-1ca236e6aed6",
+            "nama_pse": "KARYA LAKON UTAMA",
+            "nama_se": "LAKON",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22241",
+            "website": "lakonesia.com"
+        },
+        {
+            "id": "9e1ee516-925a-40e8-a8c0-f141a8b8afa8",
+            "nama_pse": "FANRUAN SOFTWARE INDONESIA",
+            "nama_se": "PT FANRUAN SOFTWARE INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22247",
+            "website": "fanruan.com"
+        },
+        {
+            "id": "9e1ec6f0-41bb-421e-9a6b-88dd71e65106",
+            "nama_pse": "ROSITA",
+            "nama_se": "APIGAMEHUB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22246",
+            "website": "apigamehub.com"
+        },
+        {
+            "id": "9e1eadbf-e0ee-420f-a9fa-897e2f20706f",
+            "nama_pse": "INDONESIA DIGITAL EXCHANGE",
+            "nama_se": "DIGITALEXCHANGE.ID",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan",
+            "tanggal_terbit": "2025-02-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22244",
+            "website": "digitalexchange.id"
+        },
+        {
+            "id": "9e1ead69-776a-4636-be2b-91713f4e44e3",
+            "nama_pse": "PROTEMUS DANA BERSAMA",
+            "nama_se": "PRODANA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2025-02-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22243",
+            "website": "prodana.id"
+        },
+        {
+            "id": "9e1ec1b2-23a4-4927-a87e-b6292f1e3c3b",
+            "nama_pse": "ALDHITYA PRASETYA",
+            "nama_se": "WARUNG KODING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22245",
+            "website": "warungkoding.com"
+        },
+        {
+            "id": "9e1fc3fc-5c15-440b-a7f0-c4c4a5c7c393",
+            "nama_pse": "HERRU HARDIYANSAH",
+            "nama_se": "seibukm.com",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-02-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22259",
+            "website": "sribukm.com"
+        },
+        {
             "id": "9e1c5bde-9531-4e6a-ae99-bdeca49dfde0",
             "nama_pse": "CODEWEB KREATIF INDONESIA",
             "nama_se": "CODENOM.COM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2025-01-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22199",
             "website": "kuningansatu.com"
-        },
-        {
-            "id": "9e0eecdc-fb32-4190-966c-a32bb6b6a323",
-            "nama_pse": "IZZAN RIJAL MUSLIM",
-            "nama_se": "BERKOMPETEN.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22200",
-            "website": "berkompeten.id"
-        },
-        {
-            "id": "9e0d5784-1486-4e17-9d89-041cbe9246c1",
-            "nama_pse": "SEO MEDIA DIGITAL",
-            "nama_se": "JEMBER TERKINI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22198",
-            "website": "jemberterkini.id"
-        },
-        {
-            "id": "9e0b41d6-8a26-4a9e-887a-c0f00ad227b8",
-            "nama_pse": "SURYA INDO PLASTIC",
-            "nama_se": "SIP JEJUALAN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-01-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22196",
-            "website": "sip.jejualan.com"
-        },
-        {
-            "id": "9e0b024f-1428-4ec3-90b6-6966d8f21b5d",
-            "nama_pse": "DUA SAHABAT LANGIT",
-            "nama_se": "PT DUA SAHABAT LANGIT",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi",
-            "tanggal_terbit": "2025-01-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22193",
-            "website": "soulmateclouds.com"
-        },
-        {
-            "id": "9e0a8895-70f8-4083-a620-660978d92079",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
-            "nama_se": "BALE KORPORA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2025-01-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22192",
-            "website": "korpora.btn.co.id"
-        },
-        {
-            "id": "9e0b5738-6a0c-4947-8902-eb43044279de",
-            "nama_pse": "TRIA JAYA SUWITA",
-            "nama_se": "TRIAJA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-01-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22197",
-            "website": "triaja.biz.id"
-        },
-        {
-            "id": "9e0a104e-9ab0-4cb5-86bc-a6baccfc0dd4",
-            "nama_pse": "GAVITHA RANTAMA",
-            "nama_se": "GAVITHA WEB",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22190",
-            "website": "gavitha.web.id"
-        },
-        {
-            "id": "9e0b0976-f197-4498-ab0b-6a012c11563e",
-            "nama_pse": "SADAYA MEDIA UTAMA",
-            "nama_se": "DETAK JABAR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22194",
-            "website": "detakjabar.com"
-        },
-        {
-            "id": "9e0b2d55-f023-4563-bb5b-9c8c1603a797",
-            "nama_pse": "MAHAKARYA PERKASA INDONESIA",
-            "nama_se": "SYLVANIAN FAMILIES PREMIUM ONLINE SHOP",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-01-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22195",
-            "website": "id.sylvanianfamilies.com"
-        },
-        {
-            "id": "9e0a8861-61de-4bac-b709-cfa3aa8df595",
-            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK TABUNGAN NEGARA",
-            "nama_se": "bale bisnis",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2025-01-24",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22191",
-            "website": "balebisnis.btn.co.id"
         }
     ],
-    "processingTimeMs": 0,
+    "processingTimeMs": 18,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 10,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac85-b062-42b9-aa70-273c634fdea8",
+            "nama_pse": "TEKNOLOGI PAMADYA ANALITIKA",
+            "nama_se": "MEDITAP FOR PROVIDER",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18925",
+            "website": "provider.meditap.id"
+        },
+        {
+            "id": "9cb1ac70-032c-4610-b49b-13b9eb5dbf1c",
+            "nama_pse": "NASANUERA GLOBAL SYNERGY",
+            "nama_se": "NASANUERA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18927",
+            "website": "nasanuera.com"
+        },
+        {
+            "id": "9cb1ac5b-5645-42a2-980e-1fddea2735ca",
+            "nama_pse": "TEKNOLOGI PAMADYA ANALITIKA",
+            "nama_se": "MEDITAP MOBILE",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18926",
+            "website": "m.meditap.id"
+        },
+        {
+            "id": "9cb1ac70-07b8-4279-bd8f-6ca8e09ff017",
+            "nama_pse": "MULTIGUNA TUNAS ABADI",
+            "nama_se": "PT. MULTIGUNA TUNAS ABADI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18930",
+            "website": "multigunatunasabadi.com"
+        },
+        {
+            "id": "9cb1ac70-0b6f-4385-98a5-a992b1b5701c",
+            "nama_pse": "BIRU LINTAS NUSANTARA",
+            "nama_se": "NARATAMA RELOAD",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18931",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5b-5940-4d91-bdac-86246233cd15",
+            "nama_pse": "STARCOM TECHNOLOGY INDONESIA",
+            "nama_se": "STARCOM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18932",
+            "website": "starcomindo.com"
+        },
+        {
+            "id": "9cb1ac5b-5c85-45d1-971a-870eb92ac688",
+            "nama_pse": "EXXIS GLOBAL GROUP",
+            "nama_se": "MITRAKAMU",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18933",
+            "website": "mitrakamu.com"
+        },
+        {
+            "id": "9cb1ac85-bc0e-42a5-819e-405c86695e71",
+            "nama_pse": "GLOBAL PIRANTI TEKNOLOGI",
+            "nama_se": "VIDEA SYSTEM MONITORING SCHOOL",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18934",
+            "website": "videaclass.com"
+        },
+        {
+            "id": "9cb1ac54-c0df-4831-92eb-a4aaeca906eb",
+            "nama_pse": "SETIAWAN MOELJONO",
+            "nama_se": "MEDIA SOLUSINDO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18913",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6f-ed23-4528-a73a-eda5498020d5",
+            "nama_pse": "RISELL MITRA ASIA",
+            "nama_se": "BUYVELY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18914",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac6f-f095-450a-bb7e-ca98f53edaa9",
             "nama_pse": "INDO DIGITAL SEJAHTERA",
             "nama_se": "BEEZA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-05-10",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18886",
             "website": "wifiku.net"
-        },
-        {
-            "id": "9cb1ac6f-71bb-4aa1-978f-3f0c594a6a52",
-            "nama_pse": "LINGGA STORE JAYA",
-            "nama_se": "LINGGA STORE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18867",
-            "website": "lingga-store.com"
-        },
-        {
-            "id": "9cb1ac5a-fb2c-4829-b2b7-8aa7958ac697",
-            "nama_pse": "NAZEEFA INTER MEDIA",
-            "nama_se": "KUANTANXPRESS.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18868",
-            "website": "kuantanxpress.id"
-        },
-        {
-            "id": "9cb1ac5a-fe2e-47e6-97fa-0c39869fdbe4",
-            "nama_pse": "HAGA MENDHENA NUSANTARA",
-            "nama_se": "SISTEM INFORMASI MANAJEMEN PUSKESMAS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-05-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18871",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6f-bd14-40f2-b267-69abcaa63f79",
-            "nama_pse": "NAZEEFA INTER MEDIA",
-            "nama_se": "INEWS77.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18869",
-            "website": "inews77.id"
-        },
-        {
-            "id": "9cb1ac5b-0174-4ddd-a0c7-c1bc1747a1e5",
-            "nama_pse": "NAZEEFA INTER MEDIA",
-            "nama_se": "JEJAKKRIMINAL.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18870",
-            "website": "jejakkriminal.co.id"
-        },
-        {
-            "id": "9cb1ac85-636f-4629-b2ae-4cf0a9ecd0fa",
-            "nama_pse": "NAZEEFA INTER MEDIA",
-            "nama_se": "HARIANINFORMASI.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18872",
-            "website": "harianinformasi.com"
-        },
-        {
-            "id": "9cb1ac6f-c065-4f01-b871-8427f9c8a02d",
-            "nama_pse": "LAPAK SEJAHTERA ABADI",
-            "nama_se": "LAPAKSEA.ID",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18873",
-            "website": "lapaksea.id"
-        },
-        {
-            "id": "9cb1ac5b-04e3-41d6-8f45-a8bcb5bd673a",
-            "nama_pse": "MUHAMAD AFIFUDIN ALFARISI",
-            "nama_se": "GOODERS.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18874",
-            "website": "gooders.id"
-        },
-        {
-            "id": "9cb1ac5b-0969-45d4-bcfe-2fc0fd8bef4b",
-            "nama_pse": "MUHAMMAD AJI PANGESTU",
-            "nama_se": "SISTEM INFORMASI SENAT AKADEMIK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18875",
-            "website": "senat.polnes.ac.id"
-        },
-        {
-            "id": "9cb1ac85-6731-4fc8-b627-91d035eb4074",
-            "nama_pse": "MUHAMMAD AJI PANGESTU",
-            "nama_se": "SISTEM INFORMASI KERJASAMA POLITEKNIK NEGERI SAMARINDA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18876",
-            "website": "kerjasama.eminat.store"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 67,
     "totalPages": 383

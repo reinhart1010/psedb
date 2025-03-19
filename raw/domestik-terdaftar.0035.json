@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9d2f8eb2-09e6-445a-8125-6eadd40a0c79",
+            "nama_pse": "PEMUKASAKTI MANISINDAH",
+            "nama_se": "approval.psmi.co.id",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20665",
+            "website": "approval.psmi.co.id"
+        },
+        {
+            "id": "9d2fd566-8372-42fc-8077-a53a94706a62",
+            "nama_pse": "ASTRA KREASI DIGITAL",
+            "nama_se": "APLIKASI MOXA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-10-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20673",
+            "website": "-"
+        },
+        {
+            "id": "9d2fc265-d4e9-44c3-9642-80ba1e955616",
+            "nama_pse": "KOPERASI SIMPAN PINJAM DAN PEMBIAYAAN SYARIAH KSPPS BMT MITRA USAHA MANDIRI",
+            "nama_se": "BMT MUM MOBILE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20670",
+            "website": "-"
+        },
+        {
+            "id": "9d2fa278-70af-43da-8619-5f03f05ea1be",
+            "nama_pse": "RUMAH SAKIT BHAYANGKARA BANDA ACEH",
+            "nama_se": "SISTEM INFORMASI RUMAH SAKIT BHAYANGKARA BANDA ACEH",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-10-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20668",
+            "website": "-"
+        },
+        {
+            "id": "9d2fa5b9-34ca-4248-af18-cdfa88a32bff",
+            "nama_pse": "KSPPS SMNU",
+            "nama_se": "SMNU MOBILE ANGGOTA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20669",
+            "website": "-"
+        },
+        {
+            "id": "9d2fd40f-b38f-40d2-98fe-b6dc55e928a5",
+            "nama_pse": "MITRA JASA PRATAMA",
+            "nama_se": "QOALA PLUS",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-10-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20672",
+            "website": "qoalaplus.com"
+        },
+        {
+            "id": "9d2feda8-c344-4253-bcea-f9cc1db65310",
+            "nama_pse": "SANPAY DIGITAL INDONESIA",
+            "nama_se": "SANPAY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-10-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20675",
+            "website": "sanpayment.my.id"
+        },
+        {
+            "id": "9d30031c-779b-4cc1-b2c3-91dbdd410645",
+            "nama_pse": "DUNIA IZIN RIA KREATIF",
+            "nama_se": "DUNIA IZIN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-10-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20678",
+            "website": "duniaizin.web.id"
+        },
+        {
+            "id": "9d2f5746-4299-4a71-896a-0763f206a31e",
+            "nama_pse": "PEMUKASAKTI MANISINDAH",
+            "nama_se": "MOBILE TICKETING",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20661",
+            "website": "-"
+        },
+        {
+            "id": "9d2f9136-ba78-4dd3-bd9c-c1301d94eda8",
+            "nama_pse": "PERIKSA GIGI INDONESIA",
+            "nama_se": "GODENTIST",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-10-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20666",
+            "website": "godentist.co.id"
+        },
+        {
             "id": "9d2f5003-e1e1-4e79-b5ee-9f7d5f4ff0bf",
             "nama_pse": "KEN CARAKA BERDIKARI",
             "nama_se": "jaskum",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-10-03",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20613",
             "website": "artisanprofessionnel.com"
-        },
-        {
-            "id": "9d27bda0-88bf-45dc-bd33-fc1559648279",
-            "nama_pse": "KLIRING KOMODITI INDONESIA",
-            "nama_se": "SISTEM PELAPORAN TRANSAKSI KKI (EREPORTING)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-10-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20614",
-            "website": "kliringkomoditi.id"
-        },
-        {
-            "id": "9d27ce76-0e3f-4b69-a9f5-e571c155f57c",
-            "nama_pse": "KILAT BERKAH ABADI",
-            "nama_se": "KILAT STUDIO INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-10-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20618",
-            "website": "kilatgraphic.com"
-        },
-        {
-            "id": "9d27c97d-3d1b-4742-a6c8-5634812a7864",
-            "nama_pse": "CARAMEL TRAVEL INDONESIA",
-            "nama_se": "CARAMEL TRAVELMATE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-10-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20617",
-            "website": "carameltravelmate.com"
-        },
-        {
-            "id": "9d27d4bc-d55a-4f55-93cb-1e48d8135bf2",
-            "nama_pse": "VAST HORIZON INTERNATIONAL",
-            "nama_se": "SKEDUL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-10-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20619",
-            "website": "skedul.com"
-        },
-        {
-            "id": "9d27dfb4-6652-4d7b-8f87-d8c907eec12e",
-            "nama_pse": "EPEDIA PROJECT DIGITAL",
-            "nama_se": "EPEDIA PROJECT DIGITAL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-10-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20621",
-            "website": "member.epediaproject.my.id"
-        },
-        {
-            "id": "9d27e641-efe3-40fa-887c-b8ddab50fb00",
-            "nama_pse": "INDO ARTHA TEKNOLOGI",
-            "nama_se": "BPDN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-10-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20623",
-            "website": "bpdn.id"
-        },
-        {
-            "id": "9d27e639-c325-4c44-a548-ba6fd9f65e8f",
-            "nama_pse": "MITLA ITLABORATORY INDONESIA",
-            "nama_se": "PRESIMIL",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-10-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20622",
-            "website": "presimil.mitla.co.id"
-        },
-        {
-            "id": "9d281e60-7e69-4748-a974-f10ccac06ce7",
-            "nama_pse": "PAREWA KATERING",
-            "nama_se": "PT PAREWA KATERING",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-10-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20625",
-            "website": "parewa.net"
-        },
-        {
-            "id": "9d27f2fc-53b6-4661-90fa-d0fe327f152b",
-            "nama_pse": "HAPIHOME PEDULI LINGKUNGAN",
-            "nama_se": "HAPIHOME",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-10-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20624",
-            "website": "hapihome.id"
-        },
-        {
-            "id": "9d28327a-0ade-4c23-9d76-3947620676d3",
-            "nama_pse": "AFG VENTURA TEKNOLOGI",
-            "nama_se": "GOVISA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-10-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/20626",
-            "website": "govisa.id"
         }
     ],
     "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 35,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac6d-196d-4b95-8d4f-0947a84bb8d3",
+            "nama_pse": "SOLUPLUS KREASI INDONESIA",
+            "nama_se": "SISTEM INTEGRASI SATU SEHAT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-03-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18357",
+            "website": "soluplus.id"
+        },
+        {
+            "id": "9cb1ac81-dc31-4c97-a467-6413d27e3ee0",
+            "nama_pse": "SAMUDERA MEDIA GROUP",
+            "nama_se": "LINTASATLANTIK.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18360",
+            "website": "lintasatlantik.com"
+        },
+        {
+            "id": "9cb1ac6d-1ce5-4936-8ce3-4cffdeb8ffb8",
+            "nama_pse": "ALFA TARUNA INDONESIA",
+            "nama_se": "RIADEN STORE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-03-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18361",
+            "website": "riadenstore.com"
+        },
+        {
+            "id": "9cb1ac6d-1fc5-4458-9d2b-072df912f23a",
+            "nama_pse": "MALIBU DAMAI SEJAHTERA",
+            "nama_se": "SCARFIFY STORE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-03-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18362",
+            "website": "scarfifystore.com"
+        },
+        {
+            "id": "9cb1ac81-e033-4d19-8a09-9ba9e499f9f4",
+            "nama_pse": "MOSAIK SURYA RAFITA",
+            "nama_se": "DOBUJACK CLOTHES",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-03-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18363",
+            "website": "dobujackclothes.com"
+        },
+        {
+            "id": "9cb1ac58-20eb-4fbd-bb44-e4297ecb196f",
+            "nama_pse": "YOHANA MESTIKA ABADI",
+            "nama_se": "KIZARU WATCH",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-03-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18365",
+            "website": "kizaruwatch.com"
+        },
+        {
+            "id": "9cb1ac6d-22fc-461b-a99a-143c8d40def1",
+            "nama_pse": "PENA JURNALIS GROUP",
+            "nama_se": "BUSERPOLRI.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18366",
+            "website": "buserpolri.com"
+        },
+        {
+            "id": "9cb1ac81-e4ea-4e91-b282-945928003e3d",
+            "nama_pse": "ZIKA SENTRA NUSANTARA",
+            "nama_se": "TENDENCIES HOODIE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-03-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18367",
+            "website": "tendencieshoodie.com"
+        },
+        {
+            "id": "9cb1ac57-f623-4016-b461-f75ca2795d9b",
+            "nama_pse": "NANANG WAHYU SETIO WIMBADI",
+            "nama_se": "KITAHADIR.COM",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-03-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18341",
+            "website": "kitahadir.com"
+        },
+        {
+            "id": "9cb1ac57-eced-4e42-8915-bf7bdcf42657",
+            "nama_pse": "WAHANA GEMILANG TEKNOLOGI",
+            "nama_se": "WGT",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-03-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18337",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac57-de53-49f9-b341-1fb2a8ae6033",
             "nama_pse": "WEGO TRAVEL INDONESIA",
             "nama_se": "WEGO TRAVEL INDONESIA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-03-18",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18307",
             "website": "puskesmas-quantum.online"
-        },
-        {
-            "id": "9cb1ac57-b005-4f8d-9a55-75e603c7440a",
-            "nama_pse": "ALADDIN SARANA INDONESIA",
-            "nama_se": "ALADDIN COMMERCE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-03-18",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18302",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6c-cb5c-4647-91ed-d18df2a991e4",
-            "nama_pse": "TRIVINI SUKSES SEJAHTERA",
-            "nama_se": "RME SATUSEHAT TRIVINI MEDIKA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18292",
-            "website": "rme.trivinimedika.id"
-        },
-        {
-            "id": "9cb1ac6c-c82b-4b67-9416-eae436dfd230",
-            "nama_pse": "DIGITAL CIPTA NUSANTARA",
-            "nama_se": "LANGIT DIGITAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18291",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6c-a384-4881-bbdf-6ba7dd42403d",
-            "nama_pse": "ARNITA SURYA PERMATA KELUARGA",
-            "nama_se": "SISTEM INFORMASI KLINIK CITRA HUSADA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18280",
-            "website": "klinikcitrahusada.com"
-        },
-        {
-            "id": "9cb1ac81-6eb1-4b27-b691-6034e85ef731",
-            "nama_pse": "RISKI FEBRIANSYAH",
-            "nama_se": "BALAIWARGA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18284",
-            "website": "balaiwarga.com"
-        },
-        {
-            "id": "9cb1ac57-a811-406b-95a9-87477db96d78",
-            "nama_pse": "HAFSHAH FARAH FADHILAH",
-            "nama_se": "ELECTRONIC MEDICAL RECORD DENTALRECORD.ID",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18285",
-            "website": "dentalrecord.id"
-        },
-        {
-            "id": "9cb1ac6c-b815-4d59-b42d-dddcc5cd7a79",
-            "nama_pse": "DIGITAL CIPTA NUSANTARA",
-            "nama_se": "BAGIKPAPAN.NET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18287",
-            "website": "ptdigitalciptanusantara.com"
-        },
-        {
-            "id": "9cb1ac6c-b50a-47bc-a7b9-54e4e540da22",
-            "nama_pse": "AL MIZAN",
-            "nama_se": "MIZAN TOURS \u0026 TRAVEL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18286",
-            "website": "mizan-tours-travel.my.id"
-        },
-        {
-            "id": "9cb1ac57-93c5-431a-8ee5-0c02c7fb802e",
-            "nama_pse": "BANK MASPION INDONESIA",
-            "nama_se": "INTERNET BANKING | MASPION ELECTRONIC BANKING (MEB)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-03-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18274",
-            "website": "meb.bankmaspion.co.id"
-        },
-        {
-            "id": "9cb1ac6c-7a83-47c5-96ee-6d0fc3ce5d18",
-            "nama_pse": "AVRIST GENERAL INSURANCE",
-            "nama_se": "CALCULATOR PREMI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-03-15",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18266",
-            "website": "calculator.avristgeneral.com"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 45,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 77,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac52-c019-4d83-9305-f1358020c3ce",
+            "nama_pse": "ELSOFINAR ARCOM BITRISOFT",
+            "nama_se": "SIRME-BITRISOFT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-03",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17188",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac7a-11da-43ba-8cc4-774255229b4c",
+            "nama_pse": "ASRO DOT NET",
+            "nama_se": "YOI",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17146",
+            "website": "yoi.co.id"
+        },
+        {
+            "id": "9cb1ac52-2c84-4591-bdcb-a34ae39129be",
+            "nama_pse": "BANK NANO SYARIAH",
+            "nama_se": "AIRA MOBILE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-01-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17135",
+            "website": "aira.nanobank.id"
+        },
+        {
+            "id": "9cb1ac79-caa5-4930-b06b-7dcd9c08738c",
+            "nama_pse": "PERMATA SARANA HUSADA",
+            "nama_se": "SIMRS PSH",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17153",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac52-7f6c-4554-8a47-379ec723efa7",
+            "nama_pse": "DINAS KESEHATAN KOTA AMBON",
+            "nama_se": "SIMAV",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17130",
+            "website": "simav.klinikmataav.com"
+        },
+        {
+            "id": "9cb1ac7a-03be-450b-b452-c210a79d173e",
+            "nama_pse": "AMANAH SOLUSI BISNIS",
+            "nama_se": "AMANAH ELEKTRONIK MEDICAL SYSTEM",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-01-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17131",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac65-f805-4e3c-8f17-08201f70ce0b",
+            "nama_pse": "DNPAY SOLUSI DIGITAL",
+            "nama_se": "DNPAY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-01-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17132",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac52-8298-46f5-acc2-f67dc36f2ec8",
+            "nama_pse": "SEMESTA QUANTUM ETERNITI",
+            "nama_se": "S-QUANTUM ENGINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17133",
+            "website": "sqe.co.id"
+        },
+        {
+            "id": "9cb1ac52-856c-421d-a5a9-101f83ca3bed",
+            "nama_pse": "SANDY PARASAM PUTRA",
+            "nama_se": "SIRUMKIT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17144",
+            "website": "rsialombokduadua.com"
+        },
+        {
+            "id": "9cb1ac65-fa82-43a2-b82f-3e8a0eb7d649",
+            "nama_pse": "AGUS YASIN, S.KOM",
+            "nama_se": "SIMKLIK RME",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-01-02",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17134",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac7a-06be-413e-9215-5279e5f043f8",
             "nama_pse": "MILEZONE MEDIA NUSANTARA",
             "nama_se": "MILEZONE.ID",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2023-12-29",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17087",
             "website": "rs-syafira.com"
-        },
-        {
-            "id": "9cb1ac79-b8d4-4b4a-84f6-c9a4212f8b04",
-            "nama_pse": "TESENA INOVINDO",
-            "nama_se": "KLIK IN THIS",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17089",
-            "website": "klikinthis.id"
-        },
-        {
-            "id": "9cb1ac79-bc6d-488a-bd66-ecf3e53a5869",
-            "nama_pse": "KALS BERSAMA HAWA",
-            "nama_se": "GERAI HAWA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-12-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17093",
-            "website": "geraihawa.co.id"
-        },
-        {
-            "id": "9cb1ac65-c7c9-4b37-ace9-b90e8a6de664",
-            "nama_pse": "MINDSET DIGITAL CORP",
-            "nama_se": "MINDSET TECHNOLOGY",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17094",
-            "website": "mindsetdigital.id"
-        },
-        {
-            "id": "9cb1ac65-cb44-467f-a4b2-6af084b21537",
-            "nama_pse": "MEVIN GIGANTEA HANDOYO",
-            "nama_se": "SIMEDIK.NET",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17095",
-            "website": "simedik.net"
-        },
-        {
-            "id": "9cb1ac52-4bf0-49e7-8da7-84d5c453e368",
-            "nama_pse": "INOVATIF TUJUH DELAPAN",
-            "nama_se": "INOVATIF TUJUH DELAPAN",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17096",
-            "website": "inovatif78.com"
-        },
-        {
-            "id": "9cb1ac65-da0f-4d76-89d3-6375233bfe46",
-            "nama_pse": "FERI ADI BURHANI",
-            "nama_se": "DSS MEDIKA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17098",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac65-dda9-4327-80de-d217abf0b921",
-            "nama_pse": "HAMDAN BURHANUDDIN ST",
-            "nama_se": "SISMEDIS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17099",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac52-5014-45fd-aa59-ea16edec7d67",
-            "nama_pse": "TEKNOLOGI JARINGAN PRIMA",
-            "nama_se": "TUNNELKU",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17100",
-            "website": "tunnelku.com"
-        },
-        {
-            "id": "9cb1ac79-cd86-46a5-94ee-f92f9357e5f8",
-            "nama_pse": "DIAN NUR UTOMO",
-            "nama_se": "LAYANAN INTERNET LOKAL ( RT RW NET )",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17101",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac79-d07b-433c-a3fb-cf966a99e967",
-            "nama_pse": "DARWIS MARHOKOM HUTAGAOL",
-            "nama_se": "LAYANAN INTERNET LOKAL ( RT RW NET )",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-29",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/17102",
-            "website": "-"
         }
     ],
     "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 97,
     "totalPages": 383

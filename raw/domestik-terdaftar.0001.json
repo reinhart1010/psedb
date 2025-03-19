@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9e7564e2-b5f2-4d39-b711-3a0a4b105415",
+            "nama_pse": "DIGITAL NUSANTARA SINERGI",
+            "nama_se": "STIQR WEBSITE",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22736",
+            "website": "app.stiqr.id"
+        },
+        {
+            "id": "9e75a255-c2b8-4c82-9a52-397f202c0285",
+            "nama_pse": "CIPTADRA SOFTINDO",
+            "nama_se": "CIPTALIFE",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22737",
+            "website": "ciptalife.id"
+        },
+        {
+            "id": "9e753b67-df49-481b-8396-6c1904532ba9",
+            "nama_pse": "LEJOB SEA INDONESIA",
+            "nama_se": "PT LEJOB SEA INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22731",
+            "website": "-"
+        },
+        {
+            "id": "9e754234-8eda-4bee-9cfe-d555dc817f4e",
+            "nama_pse": "LEJOB SEA INDONESIA",
+            "nama_se": "LE JOB INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22732",
+            "website": "-"
+        },
+        {
+            "id": "9e5f7247-fa22-4005-b14c-279e8b6da2c2",
+            "nama_pse": "SIJITU REGTECH ASIA",
+            "nama_se": "SIJITU",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22733",
+            "website": "sijitu.co.id"
+        },
+        {
+            "id": "9e754456-1533-4f5e-add7-245382f6a5ff",
+            "nama_pse": "ZONA MEDIA INDONESIA",
+            "nama_se": "CLASS PROGRAM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-03-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22734",
+            "website": "classprogram.id"
+        },
+        {
+            "id": "9e754796-98dc-4529-8e18-6bdf4f384956",
+            "nama_pse": "SUB KREATIF INDONESIA",
+            "nama_se": "subkreatif.com",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22735",
+            "website": "subkreatif.com"
+        },
+        {
+            "id": "9e75b8e3-68bd-495f-9566-c8d1e7f8437f",
+            "nama_pse": "MEKARYA INDONESIA KREATIF",
+            "nama_se": "PT. MEKARYA INDONESIA KREATIF",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pangan",
+            "tanggal_terbit": "2025-03-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22738",
+            "website": "nusabatik.com"
+        },
+        {
+            "id": "9e75bb21-4146-483e-9df2-08c07c6b5bb6",
+            "nama_pse": "KYXRA GLOBAL TECHNOVATION",
+            "nama_se": "KYXRA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22739",
+            "website": "kyxra.com"
+        },
+        {
+            "id": "9e7636df-8790-4f0f-ae52-4c478173b26c",
+            "nama_pse": "KATALIS VISION MEDIA NETWORK",
+            "nama_se": "TANGSEL GIGS",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22740",
+            "website": "-"
+        },
+        {
+            "id": "9e76395a-4fe7-4196-910d-0e7127422295",
+            "nama_pse": "LEICESTER META MEDIKA",
+            "nama_se": "RENALDOCX MEDIKA APP",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-03-18",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22741",
+            "website": "renaldocx.com"
+        },
+        {
             "id": "9e6db739-149f-4a4a-ae12-d272a6f5c029",
             "nama_pse": "HOME CENTER INDONESIA RETAIL",
             "nama_se": "MOBILE APP INFORMA",
@@ -71,15 +170,6 @@
             "tanggal_terbit": "2025-03-14",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22726",
             "website": "-"
-        },
-        {
-            "id": "9e5f7248-19e7-40d9-9817-303b3f78de91",
-            "nama_pse": "BEAUTE HAUL INDONESIA",
-            "nama_se": "BEAUTYHAUL WEBSITE",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22722",
-            "website": "beautyhaul.com"
         },
         {
             "id": "9e6997ff-6e3b-4331-ae3c-a605ca467b1f",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2025-03-11",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22693",
             "website": "-"
-        },
-        {
-            "id": "9e67ea29-15c8-454e-882f-2bbf5387e038",
-            "nama_pse": "JOHAN HERMAWAN",
-            "nama_se": "AJP ENTERTAINMENT",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22695",
-            "website": "-"
-        },
-        {
-            "id": "9e67f510-2064-4f6a-a89d-a0cd100368d0",
-            "nama_pse": "GEMA BUDAYA SILA",
-            "nama_se": "GEMABULA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-03-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22696",
-            "website": "gemabula.biz.id"
-        },
-        {
-            "id": "9e67f53f-f2dd-4dda-9073-205f6d373095",
-            "nama_pse": "NEXA DIGITAL TEKNOLOGI",
-            "nama_se": "nexadigitek",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-03-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22697",
-            "website": "nexadigitek.biz.id"
-        },
-        {
-            "id": "9e67f5d3-6a64-4522-a87e-6757ec6b141a",
-            "nama_pse": "SERASI BERSAMA MANDIRI",
-            "nama_se": "SERMAND",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-03-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22698",
-            "website": "sermand.biz.id"
-        },
-        {
-            "id": "9e6815a2-f160-4b49-8f2c-29ba2d203aa7",
-            "nama_pse": "WAHANA BINTANG MEDIA",
-            "nama_se": "KLIKWARTA.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22699",
-            "website": "klikwarta.com"
-        },
-        {
-            "id": "9e682fe1-419b-46af-9a60-f73bfa2fc528",
-            "nama_pse": "SIKUMBANG JAYA MANDIRI",
-            "nama_se": "saungnews.co",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22700",
-            "website": "saungnews.co"
-        },
-        {
-            "id": "9e68578e-cf87-4483-899c-7c8f6faf32be",
-            "nama_pse": "DOLPHIN TEKNOLOGI KESEHATAN",
-            "nama_se": "DOLPHINHEALTHTECH",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22701",
-            "website": "dolphinhealthtech.co.id"
-        },
-        {
-            "id": "9e685cae-d874-440f-b739-e3d70084c6b1",
-            "nama_pse": "MUHAMMAD SYAFRIL HIDAYAYULLAH",
-            "nama_se": "akunmu.id",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22702",
-            "website": "akunmu.id"
-        },
-        {
-            "id": "9e69678c-cf46-4c7d-b734-b2aa67787215",
-            "nama_pse": "TEKNOLOGI AWAN SEJAHTERA",
-            "nama_se": "AWATECH",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2025-03-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22711",
-            "website": "awatech.biz.id"
-        },
-        {
-            "id": "9e6555ab-d02f-4e81-850d-1525d4f89a9d",
-            "nama_pse": "HYPER CLOUD HOST",
-            "nama_se": "HYPERCLOUDHOST",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-03-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22674",
-            "website": "hypercloudhost.com"
         }
     ],
-    "processingTimeMs": 26,
+    "processingTimeMs": 0,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 1,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac82-9bca-4942-adf7-ef677419bf24",
+            "nama_pse": "SELARAS KREATIF INOVASI",
+            "nama_se": "TOKOPRESSID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18724",
+            "website": "tokopress.id"
+        },
+        {
+            "id": "9cb1ac59-f1c6-4e6d-86f8-1c2c6e109c4f",
+            "nama_pse": "ANDRIANSYAH MADJID",
+            "nama_se": "MIKHAYLA.NET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18719",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac84-3104-42f9-8acd-e2f4008988d6",
+            "nama_pse": "PELANGI TERANG INDAH",
+            "nama_se": "MARIPESAN",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18717",
+            "website": "maripesan.id"
+        },
+        {
+            "id": "9cb1ac5a-2492-4ea1-960f-4d49bf494532",
+            "nama_pse": "DAKSA PANGUPAKARA LARAS",
+            "nama_se": "WEB DAKSA DPL",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18721",
+            "website": "daksapangupakara.id"
+        },
+        {
+            "id": "9cb1ac6f-0338-4ca1-82bc-a71331e9df13",
+            "nama_pse": "DYARASOFT MEDIA TEKNOLOGI",
+            "nama_se": "KIYOS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18718",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6f-07a1-4579-84bc-05c214cb5c27",
+            "nama_pse": "PESONA NATASHA GEMILANG",
+            "nama_se": "NAAVAGREEN.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18720",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6f-0f15-4f24-a7f7-087ce929f282",
+            "nama_pse": "FARA KREATIF SEJAHTERA",
+            "nama_se": "DEUTSCH LERNEN MIT FARA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18723",
+            "website": "mitfara.com"
+        },
+        {
+            "id": "9cb1ac5a-1582-41f6-aadd-51a6d4fd28a3",
+            "nama_pse": "INFORSYS INDONESIA",
+            "nama_se": "SOFICLOUD",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-04-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18711",
+            "website": "soficloud.com"
+        },
+        {
+            "id": "9cb1ac59-fbaa-46ea-8e22-4c354276f7e4",
+            "nama_pse": "BANK CENTRAL ASIA",
+            "nama_se": "OCEAN BY BCA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2024-04-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18701",
+            "website": "ocean.bca.co.id"
+        },
+        {
+            "id": "9cb1ac84-2dad-4835-9dd6-dda588e02de4",
+            "nama_pse": "LISTINGE ECOMMERCE PLATFORM",
+            "nama_se": "LISTINGE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-04-25",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18714",
+            "website": "listinge.com"
+        },
+        {
             "id": "9cb1ac5a-189f-4901-aa85-50d35fc4f989",
             "nama_pse": "BHUMI BINTANG BERSINAR BERSAMA",
             "nama_se": "CF",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-04-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18658",
             "website": "rs3mplus.com"
-        },
-        {
-            "id": "9cb1ac59-e52c-4619-a2ec-3859ad5251d6",
-            "nama_pse": "RAYA KUTA",
-            "nama_se": "ERMKRK",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18661",
-            "website": "ermkrk.com"
-        },
-        {
-            "id": "9cb1ac82-8316-4c47-9d63-bcef2fca451d",
-            "nama_pse": "DARI HATI JAYA",
-            "nama_se": "MEDISOLVE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18655",
-            "website": "medisolve.id"
-        },
-        {
-            "id": "9cb1ac83-6d31-46a4-8bb1-85cee898f627",
-            "nama_pse": "EFRIZAL",
-            "nama_se": "SIMRS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18650",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac83-93d3-46b4-966f-bf23ee762986",
-            "nama_pse": "SISTEM INFORMASI TRANSPORTASI OTOMATIS",
-            "nama_se": "TAXSEE DRIVER",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18647",
-            "website": "sito.id"
-        },
-        {
-            "id": "9cb1ac6e-91ba-4f52-b1db-ba7b67f05c27",
-            "nama_pse": "SSR DIGITAL INFORMATIKA",
-            "nama_se": "RADBOOX",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18646",
-            "website": "radboox.com"
-        },
-        {
-            "id": "9cb1ac83-90a7-405a-8e18-dd1af2a2189a",
-            "nama_pse": "FAZZ CAPITAL FINANCE",
-            "nama_se": "FAZZ CAPITAL FINANCE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18648",
-            "website": "fazzfinance.id"
-        },
-        {
-            "id": "9cb1ac83-9e71-4abe-bb38-b5e58c7f192b",
-            "nama_pse": "SISTEM INFORMASI TRANSPORTASI OTOMATIS",
-            "nama_se": "MAXIM",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18649",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6e-950d-46aa-9d52-10dd192edf8e",
-            "nama_pse": "INSPIRASI TEKNOLOGI BANGSA",
-            "nama_se": "WEBSITE LANDACK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18651",
-            "website": "Landack.id"
-        },
-        {
-            "id": "9cb1ac6e-981e-4c73-be85-d7e541ed5f80",
-            "nama_pse": "OPTIKAL PESSEL",
-            "nama_se": "SIMRS KLINIK UTAMA MATA PESSEL",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18652",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac83-a1c4-4980-a1aa-74fce4747537",
-            "nama_pse": "NEY MAKEUP ARTIST",
-            "nama_se": "NEY MAKEUP ARTIST",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18653",
-            "website": "neymakeup.id"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 71,
     "totalPages": 383

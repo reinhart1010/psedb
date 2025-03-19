@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abc9-b328-472a-8332-e55b6274c7d9",
+            "nama_pse": "BOSOWA ASURANSI",
+            "nama_se": "WEBSITE BOSOWA ASURANSI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8387",
+            "website": "bosowaasuransi.com"
+        },
+        {
+            "id": "9cb1abbb-71dc-4152-8a59-fa36f199c1f5",
+            "nama_pse": "CAHAYA PRESTASI INDONESIA",
+            "nama_se": "TUPPERKLIK.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8406",
+            "website": "tupperklik.com"
+        },
+        {
+            "id": "9cb1abef-b479-423b-9c17-d6a4bfe1781c",
+            "nama_pse": "INCORE SYSTEMS SOLUTIONS",
+            "nama_se": "RUANGAJAR",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8389",
+            "website": "ruangajar.com"
+        },
+        {
+            "id": "9cb1abef-b7bd-486f-928f-730a491cfe65",
+            "nama_pse": "BANK PERKREDITAN RAKYAT METRO ASIA MANDIRI",
+            "nama_se": "BPRMAM.COM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8392",
+            "website": "bprmetroasiamandiri.com"
+        },
+        {
+            "id": "9cb1abbb-73d5-4ec7-860c-47e38be31291",
+            "nama_pse": "USSI",
+            "nama_se": "DRC (DISASTER RECOVERY CENTER)",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8390",
+            "website": "ussi.co.id"
+        },
+        {
+            "id": "9cb1abc9-b646-4fec-bffb-d7ed0c051277",
+            "nama_pse": "BANK PERKREDITAN RAKYAT SENTRAL MITRA SEJAHTERA",
+            "nama_se": "WEBSITE BPT SENTRAL MITRA SEJAHTERA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8391",
+            "website": "bprsentralmitrasejahtera.com"
+        },
+        {
+            "id": "9cb1abef-bbad-49b0-b12b-a889b0388d86",
+            "nama_pse": "BANK PERKREDITAN RAKYAT GERBANG SERASAN KABUPATEN MUARA ENIM",
+            "nama_se": "WEBSITE BPR GERBANG SERASAN",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8393",
+            "website": "gerbangserasan.com"
+        },
+        {
+            "id": "9cb1abef-bede-429a-998a-764f5a5cf9b4",
+            "nama_pse": "PERUSAHAAN PERSEROAN (PERSERO) PT. BANK RAKYAT INDONESIA",
+            "nama_se": "PORTAL DPLK BRI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8394",
+            "website": "Dplk.bri.co.id"
+        },
+        {
+            "id": "9cb1abc9-ba4e-4e1b-9358-c99c106c4f98",
+            "nama_pse": "INCORE SYSTEMS SOLUTIONS",
+            "nama_se": "RAJAMISI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8395",
+            "website": "rajamisi.com"
+        },
+        {
+            "id": "9cb1abbb-75c0-4fa3-a68b-9214d28643c6",
+            "nama_pse": "BANK PERKREDITAN RAKYAT POLLUX",
+            "nama_se": "WEBSITE, INSTAGRAM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-21",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8397",
+            "website": "polluxbank.co.id"
+        },
+        {
             "id": "9cb1abc9-c06d-4eda-b3da-a31006dff67f",
             "nama_pse": "BANK PERKREDITAN RAKYAT CENTRAL ARTHA",
             "nama_se": "OFFICIAL WEBSITE BPR CENTRAL ARTHA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-21",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8438",
             "website": "-"
-        },
-        {
-            "id": "9cb1abf0-3525-4954-83dc-a14557bd97a0",
-            "nama_pse": "KASIR PINTAR INTERNASIONAL",
-            "nama_se": "KASIR PINTAR",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8514",
-            "website": "kasirpintar.co.id"
-        },
-        {
-            "id": "9cb1abca-2166-40f6-b6e5-a26f90f43944",
-            "nama_pse": "BANK PERKREDITAN RAKYAT BALI ARTHA ANUGRAH",
-            "nama_se": "BPRANUGRAH.COM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8439",
-            "website": "bpranugrah.com"
-        },
-        {
-            "id": "9cb1abbb-9da1-4b3e-9545-26d1579b787d",
-            "nama_pse": "SAMUEL SEKURITAS INDONESIA",
-            "nama_se": "SAHAM RAKYAT (SUR)",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8440",
-            "website": "sahamrakyat.com"
-        },
-        {
-            "id": "9cb1abf0-389f-4808-9723-f6ae9c50b035",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SARI SEDANA",
-            "nama_se": "IBS CORE BANKING SYSTEM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8442",
-            "website": "banksarisedana.com"
-        },
-        {
-            "id": "9cb1abf0-3ccd-49f6-b87b-1d8ae97e5ced",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SURYAJAYA KUBUTAMBAHAN",
-            "nama_se": "PT BPR SURYAJAYA KUBUTAMBAHAN",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8441",
-            "website": "bprsuryajaya.com"
-        },
-        {
-            "id": "9cb1abbb-9fba-4704-8b88-45dada72c92b",
-            "nama_pse": "BANK PERKREDITAN RAKYAT PRIMA MULTI MAKMUR",
-            "nama_se": "WEBSITE",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8443",
-            "website": "bprprimamultimakmur.blogspot.com"
-        },
-        {
-            "id": "9cb1abf0-4060-4944-8df3-89d94b326ad7",
-            "nama_pse": "QEON INTERACTIVE",
-            "nama_se": "RRQ",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8445",
-            "website": "teamrrq.com"
-        },
-        {
-            "id": "9cb1abca-3371-4356-a48e-c949a7eb8eff",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT LOPOKGANDA",
-            "nama_se": "PT. BANK PERKREDITAN RAKYAT LOPOK GANDA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8444",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abca-3be3-4f5a-bcbe-2e8234876e69",
-            "nama_pse": "VEXANIUM TEKNOLOGI NUSANTARA",
-            "nama_se": "VEXANIUM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8446",
-            "website": "vexanium.com"
-        },
-        {
-            "id": "9cb1abf0-4370-4773-9145-1472c0a9c823",
-            "nama_pse": "BANK PERKREDITAN RAKYAT CITRA DARMA WANGSA",
-            "nama_se": "BANK PERKREDITAN RAKYAT CITRA DARMA WANGSA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-21",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/8448",
-            "website": "bprcitradarmawangsa.com"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 227,
     "totalPages": 383

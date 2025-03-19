@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1aba0-a22f-4eed-a4e5-84d80c1b151d",
+            "nama_pse": "ZAFIYYA UTAMA INDONESIA",
+            "nama_se": "ZAFIYYA",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan, Sektor Pangan, Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2022-04-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3877",
+            "website": "tokodaring.lkpp.go.id"
+        },
+        {
+            "id": "9cb1abab-793a-4718-af47-159af649b3ed",
+            "nama_pse": "MOASIS ANTONIO",
+            "nama_se": "PARLIN SOLUTIONS",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-15",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3876",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba0-50c0-474f-a37e-1825726e68db",
+            "nama_pse": "BRICK TEKNOLOGI INDONESIA",
+            "nama_se": "BOIVA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3874",
+            "website": "boiva.id"
+        },
+        {
+            "id": "9cb1ab94-2ece-4cff-a14d-5718b233ecb7",
+            "nama_pse": "KINI TEKNOLOGI INDONESIA",
+            "nama_se": "KINI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3870",
+            "website": "kini.id"
+        },
+        {
+            "id": "9cb1aba0-de46-43f8-b629-869c33f66003",
+            "nama_pse": "WEB SUPER LITE",
+            "nama_se": "AUTHENTIC CODE , APLIKASI WEBSITE \u0026 PERCETAKAN",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3872",
+            "website": "websuperlite.co.id"
+        },
+        {
+            "id": "9cb1abab-4fd2-436a-91ec-0492494721c4",
+            "nama_pse": "SHANKA MANDALA GEMILANG",
+            "nama_se": "ELZIVA (ELZIVANETWORK.CO.ID)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3875",
+            "website": "elzivanetwork.co.id"
+        },
+        {
+            "id": "9cb1aba0-fc4c-4cb6-9c67-6cba61fcab29",
+            "nama_pse": "CYBERINDO ADITAMA",
+            "nama_se": "CBN.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3873",
+            "website": "cbn.id"
+        },
+        {
+            "id": "9cb1abad-8c8b-48bd-b001-0e1ef91e44b7",
+            "nama_pse": "LION EXPRESS",
+            "nama_se": "LION PARCEL",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/4597",
+            "website": "lionparcel.com"
+        },
+        {
+            "id": "9cb1ab94-5e19-4be8-8904-ec9e3f32ede0",
+            "nama_pse": "PENGGIAT EKOSISTEM KECERDASAN ARTIFISIAL DAN BLOCKCHAIN",
+            "nama_se": "IAIE - INDONESIA ARTIFICIAL INTELLIGENCE ECOSYSTEM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3859",
+            "website": "iaie-id.org"
+        },
+        {
+            "id": "9cb1ab93-a63f-4970-a3b7-a76a8729cac5",
+            "nama_pse": "TICKLED AUDIENCE PLATFORM",
+            "nama_se": "THE ASIANTPARENT",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-04-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3865",
+            "website": "id.theasianparent.com"
+        },
+        {
             "id": "9cb1abab-0bc5-40b2-a8cb-aba2a53c1249",
             "nama_pse": "ZAIRA ANUGRAH MANDIRI",
             "nama_se": "ANGGARAN",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-04-10",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3824",
             "website": "globermart.co.id"
-        },
-        {
-            "id": "9cb1ab93-bf3d-4f0f-8df4-a6a395bb55e4",
-            "nama_pse": "GLOBAL ORBIT BERSAMA",
-            "nama_se": "GLOBER FOOD",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Pangan",
-            "tanggal_terbit": "2022-04-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3825",
-            "website": "globerfood.co.id"
-        },
-        {
-            "id": "9cb1abaa-f66d-4d76-b19f-4830e28e84fc",
-            "nama_pse": "GLOBAL ORBIT BERSAMA",
-            "nama_se": "GLOBER JOB",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3826",
-            "website": "globerjob.co.id"
-        },
-        {
-            "id": "9cb1aba0-7c47-44eb-a281-a8c0dbc1aecb",
-            "nama_pse": "CAHAYA SILIWANGI GROUP",
-            "nama_se": "CAHAYA SILIWANGI GROUP",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi",
-            "tanggal_terbit": "2022-04-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3822",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba0-9c49-4d07-93f9-4266cc113a62",
-            "nama_pse": "CARA TANI DIGITAL",
-            "nama_se": "CARATANI",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3823",
-            "website": "caratani.id"
-        },
-        {
-            "id": "9cb1abab-233f-4124-9297-c216d8b94728",
-            "nama_pse": "YAYANG NURDIANSYAH",
-            "nama_se": "SPALK BUNGSU MANDIRI",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-04-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3820",
-            "website": "bungsu_mandirii.indonetwork.co.id"
-        },
-        {
-            "id": "9cb1aba0-d2fc-4bca-b191-dd22485cd014",
-            "nama_pse": "Muhammad Hanafi",
-            "nama_se": "VPN GAHAR",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3821",
-            "website": "vpngahar.com"
-        },
-        {
-            "id": "9cb1abab-7381-447c-a8b0-86260e160cb4",
-            "nama_pse": "MARS SOLUSI DIGITAL NUSANTARA",
-            "nama_se": "MARS SOLUSI DIGITAL NUSANTARA",
-            "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-04-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3819",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba0-4330-4ee2-8148-4511e58037c3",
-            "nama_pse": "JAYA ALAM SEMESTA",
-            "nama_se": "ANEKA SATWA",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3817",
-            "website": "anekasatwa.com"
-        },
-        {
-            "id": "9cb1aba0-609a-4f90-b529-dc590b9f14ca",
-            "nama_pse": "EWAN JAYA KASTARA",
-            "nama_se": "EJ MEDICAL",
-            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
-            "tanggal_terbit": "2022-04-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3816",
-            "website": "-"
-        },
-        {
-            "id": "9cb1aba0-b27e-4f38-9762-4715a4592641",
-            "nama_pse": "ZATECH GLOBAL INDONESIA",
-            "nama_se": "NANO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3815",
-            "website": "zatech.com"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 13,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 310,
     "totalPages": 383

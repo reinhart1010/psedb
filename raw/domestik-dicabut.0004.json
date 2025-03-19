@@ -1,6 +1,15 @@
 {
     "hits": [
         {
+            "id": "9cb1ac32-1833-4c88-bc0c-acb607de589e",
+            "nama_pse": "ASET INSTRUMEN DIGITAL",
+            "nama_se": "ASTAL",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-04-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/14427",
+            "website": "astal.id"
+        },
+        {
             "id": "9cb1ab94-be4a-4092-a802-dd47eb8a885e",
             "nama_pse": "VALBURY ASIA FUTURES",
             "nama_se": "APLIKASI GOTRADE INDONESIA US STOCKS",
@@ -440,20 +449,11 @@
             "tanggal_terbit": "2021-06-25",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1597",
             "website": "-"
-        },
-        {
-            "id": "9cb1ab6a-c6c5-4101-98ce-01a540939ad3",
-            "nama_pse": "INDO KOALA REMITTANCE",
-            "nama_se": "TRANSFEZ",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-06-09",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/1443",
-            "website": "transfez.com"
         }
     ],
-    "processingTimeMs": 0,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 247,
+    "totalHits": 248,
     "hitsPerPage": 50,
     "page": 4,
     "totalPages": 5

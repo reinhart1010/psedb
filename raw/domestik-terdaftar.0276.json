@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abb1-ce1b-4234-996d-bbf33e00568b",
+            "nama_pse": "MULTI KIRANA ABADI",
+            "nama_se": "OKA SYAHPUTRA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5997",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb1-d17c-4a07-b73b-5484f2f9bc28",
+            "nama_pse": "MULTI KIRANA ABADI",
+            "nama_se": "PT. MULTI KIRANA ABADI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5998",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abb1-d4d6-4c9a-bc1a-3ad9b65dfab0",
+            "nama_pse": "ACEH MULTI PAYMENT",
+            "nama_se": "ACEH MULTI PAYMENT",
+            "sektor": "Sektor Perdagangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5999",
+            "website": "ahafidstore.jualan.me"
+        },
+        {
+            "id": "9cb1abb1-d7e0-462c-abbe-45ff2f2166fa",
+            "nama_pse": "MULTI KIRANA ABADI",
+            "nama_se": "MULTI KIRANA ABADI",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6000",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba8-00be-4364-8a08-c0ca6b709d6c",
+            "nama_pse": "MUHAMMAD IRSYAD AZHAR",
+            "nama_se": "ASTOREPAY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6001",
+            "website": "astoree.my.id"
+        },
+        {
+            "id": "9cb1ab9d-28dd-4ab7-824c-2fecc4372a61",
+            "nama_pse": "CAHAYA MULTI SOLUTION",
+            "nama_se": "ISTANA RELOAD",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6002",
+            "website": "istanareload.id"
+        },
+        {
+            "id": "9cb1aba8-041f-4e51-b59f-031a4d43babf",
+            "nama_pse": "MUHAMMAD YUSUF RIFALDI",
+            "nama_se": "TOPUP STORE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6003",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab9d-2c12-4c23-bc31-124ad7b7995e",
+            "nama_pse": "CAHAYA MULTI SOLUTION",
+            "nama_se": "JELITA RELOAD",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6004",
+            "website": "jelitareload.id"
+        },
+        {
+            "id": "9cb1aba8-05f3-46f8-80b6-e20a00371e88",
+            "nama_pse": "CLASNET",
+            "nama_se": "SISTEM INFORMASI DESA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6005",
+            "website": "banjarnegara-desa.id"
+        },
+        {
+            "id": "9cb1aba8-080e-4d92-ac04-2b57dedf2f50",
+            "nama_pse": "FARID ARIS P",
+            "nama_se": "NURULPAY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-17",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/6006",
+            "website": "nurulpay.com"
+        },
+        {
             "id": "9cb1abb1-da97-48f4-8700-4867a6ddf80c",
             "nama_pse": "NOVYAN MOEZHAKY UMBARA",
             "nama_se": "RUGSTORE.ID",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-16",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5936",
             "website": "-"
-        },
-        {
-            "id": "9cb1ab9c-fb6a-4e72-8209-07f84363ed72",
-            "nama_pse": "I WAYAN PUTRAYANA,ST",
-            "nama_se": "PAKET KURSUS. COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5938",
-            "website": "paketkursus.com"
-        },
-        {
-            "id": "9cb1aba7-d6e4-4e60-9585-974f02bc3828",
-            "nama_pse": "GLOBAL OTOMAT DIGITAL",
-            "nama_se": "WISENOMIST",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5937",
-            "website": "wisenomist.com"
-        },
-        {
-            "id": "9cb1ab9c-fd2b-4165-8eb9-60467c4ec05c",
-            "nama_pse": "CREATIVE MULTIMEDIA INDONESIA",
-            "nama_se": "COATES INDONESIA TAKE5",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5939",
-            "website": "coatesapp.com"
-        },
-        {
-            "id": "9cb1abb1-8b1d-4d69-add6-897e585eb318",
-            "nama_pse": "MENARA PETSKITA INDONESIA",
-            "nama_se": "PT. MENARA PETSKITA INDONESIA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5940",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb1-8dda-45f1-bc8d-011f48043660",
-            "nama_pse": "CREATIVE MULTIMEDIA INDONESIA",
-            "nama_se": "COATES CONNECT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5941",
-            "website": "ptcoatesconnect.com"
-        },
-        {
-            "id": "9cb1abb1-9009-42a2-8b8f-6261fc7298d9",
-            "nama_pse": "CREATIVE MULTIMEDIA INDONESIA",
-            "nama_se": "C MOBILE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5942",
-            "website": "apps.creativemedia.id"
-        },
-        {
-            "id": "9cb1abb1-925d-4c1e-9711-d2a2f6b32c08",
-            "nama_pse": "DEWANTARA SANCAKA GUNDALA",
-            "nama_se": "DEWANTARA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5943",
-            "website": "dewantara.net"
-        },
-        {
-            "id": "9cb1abb1-94b1-45e5-a30d-6c2ea65249b0",
-            "nama_pse": "DEWANTARA SANCAKA GUNDALA",
-            "nama_se": "PETAPOLITIKA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5944",
-            "website": "petapolitika.com"
-        },
-        {
-            "id": "9cb1ab9c-ff09-4cb1-94ba-2c39243d6c26",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SURYA ARTHA UTAMA",
-            "nama_se": "WEBSITE BANKSURYAARTHAUTAMA.CO.ID",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5945",
-            "website": "banksuryaarthautama.co.id"
-        },
-        {
-            "id": "9cb1ab9d-00ce-442a-ac74-de1d7438b83e",
-            "nama_pse": "CREATIVE MULTIMEDIA INDONESIA",
-            "nama_se": "CREATIVE MULTIMEDIA INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5946",
-            "website": "creativemultimedia.id"
         }
     ],
-    "processingTimeMs": 4,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 276,
     "totalPages": 383

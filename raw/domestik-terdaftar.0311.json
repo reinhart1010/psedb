@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab93-bf3d-4f0f-8df4-a6a395bb55e4",
+            "nama_pse": "GLOBAL ORBIT BERSAMA",
+            "nama_se": "GLOBER FOOD",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Pangan",
+            "tanggal_terbit": "2022-04-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3825",
+            "website": "globerfood.co.id"
+        },
+        {
+            "id": "9cb1abaa-f66d-4d76-b19f-4830e28e84fc",
+            "nama_pse": "GLOBAL ORBIT BERSAMA",
+            "nama_se": "GLOBER JOB",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3826",
+            "website": "globerjob.co.id"
+        },
+        {
+            "id": "9cb1aba0-7c47-44eb-a281-a8c0dbc1aecb",
+            "nama_pse": "CAHAYA SILIWANGI GROUP",
+            "nama_se": "CAHAYA SILIWANGI GROUP",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi",
+            "tanggal_terbit": "2022-04-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3822",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba0-9c49-4d07-93f9-4266cc113a62",
+            "nama_pse": "CARA TANI DIGITAL",
+            "nama_se": "CARATANI",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-10",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3823",
+            "website": "caratani.id"
+        },
+        {
+            "id": "9cb1abab-233f-4124-9297-c216d8b94728",
+            "nama_pse": "YAYANG NURDIANSYAH",
+            "nama_se": "SPALK BUNGSU MANDIRI",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-04-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3820",
+            "website": "bungsu_mandirii.indonetwork.co.id"
+        },
+        {
+            "id": "9cb1aba0-d2fc-4bca-b191-dd22485cd014",
+            "nama_pse": "Muhammad Hanafi",
+            "nama_se": "VPN GAHAR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3821",
+            "website": "vpngahar.com"
+        },
+        {
+            "id": "9cb1abab-7381-447c-a8b0-86260e160cb4",
+            "nama_pse": "MARS SOLUSI DIGITAL NUSANTARA",
+            "nama_se": "MARS SOLUSI DIGITAL NUSANTARA",
+            "sektor": "Sektor Perdagangan, Sektor Energi dan Sumber Daya Mineral, Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2022-04-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3819",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba0-4330-4ee2-8148-4511e58037c3",
+            "nama_pse": "JAYA ALAM SEMESTA",
+            "nama_se": "ANEKA SATWA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3817",
+            "website": "anekasatwa.com"
+        },
+        {
+            "id": "9cb1aba0-609a-4f90-b529-dc590b9f14ca",
+            "nama_pse": "EWAN JAYA KASTARA",
+            "nama_se": "EJ MEDICAL",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+            "tanggal_terbit": "2022-04-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3816",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba0-b27e-4f38-9762-4715a4592641",
+            "nama_pse": "ZATECH GLOBAL INDONESIA",
+            "nama_se": "NANO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-04-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3815",
+            "website": "zatech.com"
+        },
+        {
             "id": "9cb1abab-3e31-4549-b5a9-d8074b0ec4f4",
             "nama_pse": "RETAIL KITA INDONESIA",
             "nama_se": "SISTEM ELEKTRONIK RETAIL KITA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-04-05",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3771",
             "website": "intara.id"
-        },
-        {
-            "id": "9cb1ab94-a8b8-48ed-9b3b-0ead74a135b5",
-            "nama_pse": "SAKTI PERKAKAS NUSANTARA",
-            "nama_se": "SAKTITOOLS.COM",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3779",
-            "website": "saktitools.com"
-        },
-        {
-            "id": "9cb1aba1-2a12-4340-a174-3ca8c5e4c66d",
-            "nama_pse": "DIMO PAY INDONESIA",
-            "nama_se": "VERIFICATION AND IDENTIFICATION AGGREGATOR SERVICE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3769",
-            "website": "dimo.co.id"
-        },
-        {
-            "id": "9cb1ab94-f88f-44c2-8b60-7989ddaaac8f",
-            "nama_pse": "JATI NEGARA TEKNOLOGI INDONESIA",
-            "nama_se": "PLATFORM ELECTRONIC PEER TO PEER OPERATIONAL",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3780",
-            "website": "peppo.co.id"
-        },
-        {
-            "id": "9cb1aba0-4975-4844-ba31-cee3dd9d0b42",
-            "nama_pse": "SUMBER INFORMASI TERPERINCI",
-            "nama_se": "SUMINTER.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-04-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3767",
-            "website": "suminter.id"
-        },
-        {
-            "id": "9cb1ab93-dfbb-4c86-91ee-e45ea7682cb8",
-            "nama_pse": "WIDIA EVA SARI",
-            "nama_se": "WIDIA EVA SARI",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-04-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3762",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab94-0317-40d1-9c18-9f333690531f",
-            "nama_pse": "MOTION CRYPTO TECHNOLOGY",
-            "nama_se": "MOTION CRYPTO",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-04-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3768",
-            "website": "motioncrypto.id"
-        },
-        {
-            "id": "9cb1ab94-0608-4191-b857-713dfa19d799",
-            "nama_pse": "TEKNOLOGI ASET DIGITAL",
-            "nama_se": "SISTEM ELEKTRONIK BLOCKNOM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3763",
-            "website": "blocknom.com"
-        },
-        {
-            "id": "9cb1ab94-08ac-40f3-ad52-2134daefd296",
-            "nama_pse": "GLOBAL CARS INDONESIA",
-            "nama_se": "CAR24.CO.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-04-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3764",
-            "website": "car24.co.id"
-        },
-        {
-            "id": "9cb1abab-3c79-46b9-8fb0-dd420901b267",
-            "nama_pse": "PLUANG EMAS SEJAHTERA",
-            "nama_se": "PLUANG",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-04-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3761",
-            "website": "pluang.com"
-        },
-        {
-            "id": "9cb1abab-5807-4db0-ac0e-3f811acdd0d3",
-            "nama_pse": "GOPAPUA CARSTENZ SISTEGRA",
-            "nama_se": "OPPA",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-04-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3765",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 13,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 311,
     "totalPages": 383

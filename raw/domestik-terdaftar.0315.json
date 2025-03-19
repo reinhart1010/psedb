@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab92-e11b-44dd-8036-38c105adf251",
+            "nama_pse": "SKORTECH KARYA INDONESIA",
+            "nama_se": "SKORLIFE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3604",
+            "website": "skor.life"
+        },
+        {
+            "id": "9cb1aba0-04d6-4633-94cd-99f28b7222d9",
+            "nama_pse": "SYARIAH SAHAM INDONESIA",
+            "nama_se": "SYARIAH SAHAM",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3609",
+            "website": "syariahsaham.id"
+        },
+        {
+            "id": "9cb1ab92-ec73-4dd3-aed8-61576d5c2935",
+            "nama_pse": "HABIBI",
+            "nama_se": "PT.YASMIN MEKAR MANDIRI",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Pertahanan dan Keamanan, Sektor Pertahanan dan Keamanan, Sektor Pertahanan dan Keamanan",
+            "tanggal_terbit": "2022-03-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3608",
+            "website": "yasminmekarmandiri.com"
+        },
+        {
+            "id": "9cb1aba0-18f4-435e-86d5-4c0a6dc4ac51",
+            "nama_pse": "PRIMA BUANA PERKASA RITEL",
+            "nama_se": "PULLANDBEAR.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3610",
+            "website": "pullandbear.com"
+        },
+        {
+            "id": "9cb1ab92-f48e-4a76-88bb-d39fe389becd",
+            "nama_pse": "SARIMODE FASHINDO ADIPERKASA RITEL",
+            "nama_se": "ZARA.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3607",
+            "website": "zara.com"
+        },
+        {
+            "id": "9cb1abaa-8775-446a-a102-53483218965d",
+            "nama_pse": "MITRAMODE DUTA FASHINDO RITEL",
+            "nama_se": "MASSIMODUTTI.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3612",
+            "website": "massimodutti.com"
+        },
+        {
+            "id": "9cb1abaa-89bd-4f9d-bb26-fd99c2ba60cc",
+            "nama_pse": "BERSAMA KARUNIA MANDIRI RITEL",
+            "nama_se": "BERSHKA.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3616",
+            "website": "bershka.com"
+        },
+        {
+            "id": "9cb1aba0-1c42-417b-9b95-09b6edd4cf46",
+            "nama_pse": "SUKSES DIVA MANDIRI RITEL",
+            "nama_se": "STRADIVARIUS.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3611",
+            "website": "stradivarius.com"
+        },
+        {
+            "id": "9cb1abaa-8c9e-47f7-8522-13f29c55d38a",
+            "nama_pse": "SARIMODE GRIYA RITEL",
+            "nama_se": "ZARAHOME.COM",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2022-03-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3613",
+            "website": "zarahome.com"
+        },
+        {
+            "id": "9cb1aba0-2f38-4b8a-bdf6-4c1ec1c1be1a",
+            "nama_pse": "KOKATTO TEKNOLOGI GLOBAL",
+            "nama_se": "KOALA APP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-03-22",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3606",
+            "website": "koalaapp.id"
+        },
+        {
             "id": "9cb1ab91-0226-4a36-92a0-9d90a658ca88",
             "nama_pse": "BEI INTERNATIONAL MARKETING",
             "nama_se": "HTTPS://WWW.BEINTL.CO.ID/",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-03-17",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3556",
             "website": "pass3.id"
-        },
-        {
-            "id": "9cb1ab90-1a51-4b81-a439-91956f3be6fb",
-            "nama_pse": "SMARTFREN TELECOM",
-            "nama_se": "WWW.SMARTFREN.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3561",
-            "website": "smartfren.com"
-        },
-        {
-            "id": "9cb1ab90-1dd7-48d9-973d-0bb23fa862c7",
-            "nama_pse": "SMARTFREN TELECOM",
-            "nama_se": "UANGKU",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-03-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3564",
-            "website": "uangku.co.id"
-        },
-        {
-            "id": "9cb1ab90-e967-4f31-8ebe-897d45671e19",
-            "nama_pse": "SMARTFREN TELECOM",
-            "nama_se": "MYLINK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3567",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab90-ed04-468e-9aee-3b8836ef5780",
-            "nama_pse": "SMARTFREN TELECOM",
-            "nama_se": "MYSF",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3568",
-            "website": "smartfren.com"
-        },
-        {
-            "id": "9cb1ab9e-637b-4313-a425-b07be7e846d2",
-            "nama_pse": "SMARTFREN TELECOM",
-            "nama_se": "SMARTFREN.BUSINESS",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3569",
-            "website": "smartfren.com"
-        },
-        {
-            "id": "9cb1ab90-efb7-434e-a0ca-d48453f09c62",
-            "nama_pse": "SMARTFREN TELECOM",
-            "nama_se": "SMARTFREN.SOCIAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3570",
-            "website": "smartfren.com"
-        },
-        {
-            "id": "9cb1aba8-e08b-4fcf-a7e2-ee036c742ebf",
-            "nama_pse": "JUJUR SETIA UTAMA",
-            "nama_se": "AYOOBLI.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan",
-            "tanggal_terbit": "2022-03-17",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3563",
-            "website": "Ayoobli.com"
-        },
-        {
-            "id": "9cb1ab86-c565-4559-b235-306fce48ec8f",
-            "nama_pse": "Lexgo Karya Indonesia",
-            "nama_se": "LEXDIGI",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3550",
-            "website": "lexdigi.id"
-        },
-        {
-            "id": "9cb1ab8e-50bb-4d8e-b5f3-316d64ec7ddb",
-            "nama_pse": "PRAWIRA BAHAGIA SELALU",
-            "nama_se": "HEYLAW",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3555",
-            "website": "heylaw.id"
-        },
-        {
-            "id": "9cb1ab86-ea95-4f21-b985-db3dc651de75",
-            "nama_pse": "POCKET USAHA BERSAMA",
-            "nama_se": "POCKET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-03-16",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/3554",
-            "website": "pocket.co.id"
         }
     ],
-    "processingTimeMs": 6,
+    "processingTimeMs": 7,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 315,
     "totalPages": 383

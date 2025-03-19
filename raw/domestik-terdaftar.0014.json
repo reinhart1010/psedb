@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9de8d53c-ccbe-4c07-8388-4fb3f5320d20",
+            "nama_pse": "RSU PKU MUHAMMADIYAH PEDAN",
+            "nama_se": "SIMRS PKU MUHAMMADIYAH PEDAN",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2025-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22038",
+            "website": "-"
+        },
+        {
+            "id": "9de8db33-e3b8-4de0-a526-ece460c88674",
+            "nama_pse": "KUSUMA SAMPURNA MULIA",
+            "nama_se": "KUSUMA STORE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22040",
+            "website": "kusumastore.id"
+        },
+        {
+            "id": "9de7b86b-5615-4abd-b57a-ed435123d4e5",
+            "nama_pse": "MITRA MOBILE PERSADA",
+            "nama_se": "SAHABAT MOBILE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22031",
+            "website": "sahabatmobile.com"
+        },
+        {
+            "id": "9de860f9-19e4-4e97-96fa-0aa911da176c",
+            "nama_pse": "URBAN MODA TECHNOLOGY",
+            "nama_se": "URBAN MODA TECHNOLOGY",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22034",
+            "website": "urbanmoda.id"
+        },
+        {
+            "id": "9de886c1-735b-466a-8498-1641b6f57128",
+            "nama_pse": "QPON DIGITAL INDONESIA",
+            "nama_se": "QPON",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2025-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22035",
+            "website": "qpon.id"
+        },
+        {
+            "id": "9de8a6c3-b9f0-4c0a-a052-b4ba343e1d3c",
+            "nama_pse": "SAMALA SEHAT MAKMUR",
+            "nama_se": "99 Virtual Race",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22037",
+            "website": "99virtualrace.com"
+        },
+        {
+            "id": "9de858aa-f707-4ee8-8ad9-8b2ad7e4d346",
+            "nama_pse": "APRILIA SUKSES ABADI",
+            "nama_se": "MULAICHAT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22033",
+            "website": "mulai.chat"
+        },
+        {
+            "id": "9de8dcdc-b397-45da-9f84-c1a430f356f7",
+            "nama_pse": "ALGO GAPURA INFORMASI",
+            "nama_se": "ALGO B2B",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22041",
+            "website": "b2b.algoku.tech"
+        },
+        {
+            "id": "9de91ef5-b6e6-4612-b908-6bb9fb45b7a0",
+            "nama_pse": "MEDIKO LEARNING INDONESIA",
+            "nama_se": "MEDIKO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22043",
+            "website": "mediko.id"
+        },
+        {
+            "id": "9de91667-cfa8-4d5c-8c61-e1b810ee25db",
+            "nama_pse": "SETYOVA INOVASI TEKNOLOGI",
+            "nama_se": "bimbing.me",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2025-01-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/22042",
+            "website": "bimbing.me"
+        },
+        {
             "id": "9de6c892-8930-4661-89ee-70b84fc8dabb",
             "nama_pse": "MEDIA SOLUSI INFORMASI",
             "nama_se": "MASIFA DIGITAL",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2025-01-03",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21987",
             "website": "amati.indoccom.co.id"
-        },
-        {
-            "id": "9de06363-e5dc-4154-be3f-0555242cf110",
-            "nama_pse": "BALABOOM TECHNOLOGY INDONESIA",
-            "nama_se": "www.bilibili.tv/id",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21983",
-            "website": "-"
-        },
-        {
-            "id": "9de0b5ca-0068-490a-bf73-8a6fadc78d6b",
-            "nama_pse": "CYDEV TECH SOLUTION",
-            "nama_se": "CYDEV SOFT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21988",
-            "website": "cydev.co.id"
-        },
-        {
-            "id": "9de085ba-bf8e-4af7-9f69-ce0f14db8fc7",
-            "nama_pse": "RIKI IRAWAN",
-            "nama_se": "JASA JUAL KEMBALI JASA TELEKOMONIKASI INTERNET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21986",
-            "website": "-"
-        },
-        {
-            "id": "9de04f68-75ce-4990-9a2c-ec0ffeb2f33b",
-            "nama_pse": "OXY TECHNOLOGY INDONESIA",
-            "nama_se": "cappucino app",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21981",
-            "website": "-"
-        },
-        {
-            "id": "9de08011-d209-4de7-b846-ec0c4e06515b",
-            "nama_pse": "MOTION PICTURE INDONESIA",
-            "nama_se": "MOPIC CINEMAS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21985",
-            "website": "mopic.co.id"
-        },
-        {
-            "id": "9de0c3fe-635c-433e-8b62-d7e924c98f98",
-            "nama_pse": "BISNIS DIGITAL EKONOMI",
-            "nama_se": "TOPLOKER.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21989",
-            "website": "toploker.com"
-        },
-        {
-            "id": "9de14b51-ca42-4bad-805f-32b95f3af888",
-            "nama_pse": "BUCHARI SEHAT BERSAMA",
-            "nama_se": "RME KLINIK BUCHARI",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21995",
-            "website": "-"
-        },
-        {
-            "id": "9de12235-cc31-4c60-a824-b639553b325d",
-            "nama_pse": "JURAGAN RESELLER GROUP",
-            "nama_se": "JURAGAN TOP UP",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21994",
-            "website": "juraganbigo.id"
-        },
-        {
-            "id": "9dded3eb-16ce-4472-b2be-8d4aa7a3ce27",
-            "nama_pse": "KONTEKS MEDIA GROUP",
-            "nama_se": "SIARAN BEKASI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21978",
-            "website": "siaranbekasi.com"
-        },
-        {
-            "id": "9dde89c2-dd1d-410c-91ab-19e141828d50",
-            "nama_pse": "AKTIF DIGITAL INDONESIA",
-            "nama_se": "SCALEOCEAN X",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2025-01-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/21974",
-            "website": "scaleocean.com"
         }
     ],
-    "processingTimeMs": 0,
+    "processingTimeMs": 48,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 14,
     "totalPages": 383

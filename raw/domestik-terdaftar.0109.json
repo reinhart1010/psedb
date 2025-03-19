@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac62-9c9c-449f-9b7e-6f5cc2fc1859",
+            "nama_pse": "PRATIWI MEDIKA UTAMA",
+            "nama_se": "EMEDICAL KASIH GROUP",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16525",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac62-9ff2-4b7e-9a8d-674079f68fe2",
+            "nama_pse": "SUMBER KASIH",
+            "nama_se": "EMEDICAL KASIH GROUP",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16526",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac62-ab44-4b8b-9739-ffda995a169b",
+            "nama_pse": "BAKTI GEMILANG ANAK SEJAHTERA",
+            "nama_se": "EMEDICAL RKI",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16527",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4f-6ad4-4100-81c2-a2ddd69448da",
+            "nama_pse": "KASIH ABDI DHARMA",
+            "nama_se": "EMEDICAL KASIH",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16528",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac76-a61d-4731-9513-9e7276600429",
+            "nama_pse": "DIGITAL KREASI MUSLIM",
+            "nama_se": "PAPERLESSHOSPITAL.ID",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16529",
+            "website": "paperlesshospital.id"
+        },
+        {
+            "id": "9cb1ac76-a8ab-4fed-b110-8cb8e531643b",
+            "nama_pse": "ANUGERAH TETAP ABADI",
+            "nama_se": "PERGIYUKS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16530",
+            "website": "PERGIYUKS.COM"
+        },
+        {
+            "id": "9cb1ac76-aba1-429a-88ca-0dcfc26ba619",
+            "nama_pse": "RESTU PURNA BHAKTI HUSADA",
+            "nama_se": "EMEDICAL KASIH",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16531",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac76-b17d-42fc-8f42-58803dbc7268",
+            "nama_pse": "MEDIA LINTAS INTI NUSANTARA",
+            "nama_se": "KBR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16532",
+            "website": "kbr.id"
+        },
+        {
+            "id": "9cb1ac62-b135-4eab-ac67-ebb2ea9efc3c",
+            "nama_pse": "DENBEINE PRIMA SOLUSI",
+            "nama_se": "PENYEDIA LAYANAN JASA RT/ RW NET",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16533",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4f-6e63-4f3e-a44e-5351470a7322",
+            "nama_pse": "GAMES KARYA NUSANTARA",
+            "nama_se": "GODS OF MYTH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16534",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac4f-74d4-4fcd-b68e-ae136323fdae",
+            "nama_pse": "INTER KREASI SEJAHTERA",
+            "nama_se": "INTER PROPERTY",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-11-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16535",
+            "website": "interproperty.co.id"
+        },
+        {
             "id": "9cb1ac62-b668-4540-834d-6f4246322213",
             "nama_pse": "GENERASI RUMAH PRODUKTIF",
             "nama_se": "TAKENOKO SISTEM",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-11-13",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16470",
             "website": "valuechain.ocbc.id"
-        },
-        {
-            "id": "9cb1ac76-4d12-4fb4-88f4-c559f7949ad5",
-            "nama_pse": "ARIF HIDAYAT",
-            "nama_se": "SISTEM INFORMASI MANAJEMEN KLINIK MONICA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-11-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16467",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac62-46f9-4408-ab00-b02fcd6da560",
-            "nama_pse": "KHANA AINUR UTAMA",
-            "nama_se": "KAHAN EXPOR",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-11-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16471",
-            "website": "khanaexpor.online"
-        },
-        {
-            "id": "9cb1ac62-49ab-4fbc-acac-06a872fb6be0",
-            "nama_pse": "TELMARK INTEGRASI INDONESIA",
-            "nama_se": "QONTACT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-11-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16472",
-            "website": "qontact-cloud.telmark.co.id"
-        },
-        {
-            "id": "9cb1ac76-50ec-4e7f-9d75-dc8c2bbaec98",
-            "nama_pse": "ADIKARA TECHNO PERKASA",
-            "nama_se": "SINGLE IDENTITY MANAGAMENT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-11-13",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16511",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac4f-304b-4e18-afd8-dd3a1dc79415",
-            "nama_pse": "HUKUM ABDURRAHMAN",
-            "nama_se": "ABDURRAHMANLAWFIRM.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-11-12",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16466",
-            "website": "abdurrahmanlawfirm.com"
-        },
-        {
-            "id": "9cb1ac4f-2d5d-41a8-941b-90efd855cc69",
-            "nama_pse": "CUTBOY INOVASI DIGITAL GROUP",
-            "nama_se": "PT. CUTBOY INOVASI DIGITAL GROUP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-11-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18663",
-            "website": "cutboy.id"
-        },
-        {
-            "id": "9cb1ac62-4302-4986-922a-8d63c6c65e1e",
-            "nama_pse": "RS MUHAMMADIYAH JOMBANG",
-            "nama_se": "SIMRS KHANZA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-11-11",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16465",
-            "website": "rsmjombang.id"
-        },
-        {
-            "id": "9cb1ac4e-ca8c-4b45-9048-fa1dbc358fab",
-            "nama_pse": "AL - IKHLAS MADINAH",
-            "nama_se": "SIRUS RSI MADINAH",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-11-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16459",
-            "website": "rsimadinah.com"
-        },
-        {
-            "id": "9cb1ac4f-29f3-4f53-b343-c3d2483a25b9",
-            "nama_pse": "WILMAR CONSULTANCY SERVICES",
-            "nama_se": "E-RECRUITMENT WILMAR GROUP",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-11-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16460",
-            "website": "e-recruitment.wilmar.co.id"
-        },
-        {
-            "id": "9cb1ac62-2e90-414b-bc48-d82812556142",
-            "nama_pse": "KRAKATAU MITRA HARMONI",
-            "nama_se": "MHDC MNET",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-11-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16461",
-            "website": "dashboard.mnet.web.id"
-        },
-        {
-            "id": "9cb1ac62-37cf-45c4-9fb7-f0ab3037487a",
-            "nama_pse": "GREENSOFT PUTRA SEJAHTERA",
-            "nama_se": "SIMRS GREENSOFT",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-11-10",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16462",
-            "website": "-"
         }
     ],
-    "processingTimeMs": 1,
+    "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 109,
     "totalPages": 383

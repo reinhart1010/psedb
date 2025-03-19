@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac84-b6d1-4097-9297-54767b0c1725",
+            "nama_pse": "POWER NETWORKING INDONESIA",
+            "nama_se": "PT POWER NETWORKING",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18771",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5a-5f50-4b98-8762-941cec4d69c0",
+            "nama_pse": "RANDY AL FIYAN",
+            "nama_se": "WEWESTORE.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18763",
+            "website": "wewestore.id"
+        },
+        {
+            "id": "9cb1ac6f-3fad-4bd1-a5de-8260ae1bdec9",
+            "nama_pse": "TRANS LINK INTERNASIONAL",
+            "nama_se": "MISBAH GROUP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18764",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6f-4874-4c9b-b406-ecf370b3e29f",
+            "nama_pse": "ZAN MICRO SYSTEM",
+            "nama_se": "FASTBOOK ONLINE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18765",
+            "website": "zmsweb.com"
+        },
+        {
+            "id": "9cb1ac5a-62b2-48b4-a2d7-c654134a8a2d",
+            "nama_pse": "PERORANGAN BINA USAHA",
+            "nama_se": "PERORANGAN.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18766",
+            "website": "Perorangan.co.id"
+        },
+        {
+            "id": "9cb1ac5a-65d6-4ed3-b540-7e2a6f1e3d0c",
+            "nama_pse": "OCEAN SHELL TRAVELERS",
+            "nama_se": "OSTREVELLERS.COM",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2024-05-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18767",
+            "website": "ostravelers.com"
+        },
+        {
+            "id": "9cb1ac6f-5231-4131-98a0-c022e09092af",
+            "nama_pse": "JGM MEETQUEST DIGITECH",
+            "nama_se": "QUESTERTWIT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18768",
+            "website": "questertwit.com"
+        },
+        {
+            "id": "9cb1ac6f-5526-4c19-a813-6eb4ee21c13c",
+            "nama_pse": "TRANS LINK INTERNASIONAL",
+            "nama_se": "TLI-MISBAH GROUP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18769",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6f-5893-4367-9ddb-9b6aaecef0e2",
+            "nama_pse": "POWER NETWORKING INDONESIA",
+            "nama_se": "PT POWER NETWORKING INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18770",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac84-be78-44ea-a443-7905b8186553",
+            "nama_pse": "GROUND HANDLING SERVICE",
+            "nama_se": "PT. GROUND HANDLING SERVICE",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2024-05-01",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18774",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac84-bab0-4397-ab59-236db369d8a8",
             "nama_pse": "POWER NETWORKING INDONESIA",
             "nama_se": "PT POWER NETWORKING INDONESIAA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-04-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18716",
             "website": "rsudaekkanopan.com"
-        },
-        {
-            "id": "9cb1ac82-9bca-4942-adf7-ef677419bf24",
-            "nama_pse": "SELARAS KREATIF INOVASI",
-            "nama_se": "TOKOPRESSID",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18724",
-            "website": "tokopress.id"
-        },
-        {
-            "id": "9cb1ac59-f1c6-4e6d-86f8-1c2c6e109c4f",
-            "nama_pse": "ANDRIANSYAH MADJID",
-            "nama_se": "MIKHAYLA.NET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18719",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac84-3104-42f9-8acd-e2f4008988d6",
-            "nama_pse": "PELANGI TERANG INDAH",
-            "nama_se": "MARIPESAN",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18717",
-            "website": "maripesan.id"
-        },
-        {
-            "id": "9cb1ac5a-2492-4ea1-960f-4d49bf494532",
-            "nama_pse": "DAKSA PANGUPAKARA LARAS",
-            "nama_se": "WEB DAKSA DPL",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18721",
-            "website": "daksapangupakara.id"
-        },
-        {
-            "id": "9cb1ac6f-0338-4ca1-82bc-a71331e9df13",
-            "nama_pse": "DYARASOFT MEDIA TEKNOLOGI",
-            "nama_se": "KIYOS",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18718",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6f-07a1-4579-84bc-05c214cb5c27",
-            "nama_pse": "PESONA NATASHA GEMILANG",
-            "nama_se": "NAAVAGREEN.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18720",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6f-0f15-4f24-a7f7-087ce929f282",
-            "nama_pse": "FARA KREATIF SEJAHTERA",
-            "nama_se": "DEUTSCH LERNEN MIT FARA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18723",
-            "website": "mitfara.com"
-        },
-        {
-            "id": "9cb1ac5a-1582-41f6-aadd-51a6d4fd28a3",
-            "nama_pse": "INFORSYS INDONESIA",
-            "nama_se": "SOFICLOUD",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-04-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18711",
-            "website": "soficloud.com"
-        },
-        {
-            "id": "9cb1ac59-fbaa-46ea-8e22-4c354276f7e4",
-            "nama_pse": "BANK CENTRAL ASIA",
-            "nama_se": "OCEAN BY BCA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2024-04-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18701",
-            "website": "ocean.bca.co.id"
-        },
-        {
-            "id": "9cb1ac84-2dad-4835-9dd6-dda588e02de4",
-            "nama_pse": "LISTINGE ECOMMERCE PLATFORM",
-            "nama_se": "LISTINGE",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-04-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18714",
-            "website": "listinge.com"
         }
     ],
-    "processingTimeMs": 2,
+    "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 70,
     "totalPages": 383

@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb7545d-671d-48a6-a9f0-411bbe23bc6c",
+            "nama_pse": "BAIHAQI KARYA SEJAHTERA",
+            "nama_se": "PT BAIHAQI KARYA SEJAHTERA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19830",
+            "website": "-"
+        },
+        {
+            "id": "9cb763c2-6ca9-4378-9c7d-3e54c8ab4081",
+            "nama_pse": "RIZKI SULTAN CIREBON",
+            "nama_se": "SIMKLINIKLMC",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-08-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19831",
+            "website": "luthfimedicalcenter.com"
+        },
+        {
+            "id": "9cb766a9-c8c2-4b78-80b5-dffacccd212d",
+            "nama_pse": "HARYANDI",
+            "nama_se": "PENYEDIA LAYANAN JASA INTERNET RT/RW NET \"HSEVEN.NET\"",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19832",
+            "website": "haryandi.com"
+        },
+        {
+            "id": "9cb7949b-121b-4377-9c8f-991e4baa156f",
+            "nama_pse": "ANUGERAH JASA OTORITA",
+            "nama_se": "AJPAR",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19833",
+            "website": "-"
+        },
+        {
+            "id": "9cb7989d-1743-4f5b-957e-c6821875ad8d",
+            "nama_pse": "APLIKASI KRIYA PRATAMA",
+            "nama_se": "APPSKEP INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19834",
+            "website": "appskep.id"
+        },
+        {
+            "id": "9cb7c745-3d05-4382-b54a-3f987ed375b9",
+            "nama_pse": "MUMASA GRUP DIGITAL",
+            "nama_se": "ZONAKERJA.ONLINE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19837",
+            "website": "zonakerja.online"
+        },
+        {
+            "id": "9cb1ac5e-b9b9-4577-9f83-7228ce4bef38",
+            "nama_pse": "RYAN MAJID",
+            "nama_se": "MUTIARARECORD.APP",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19797",
+            "website": "mutiararecord.app"
+        },
+        {
+            "id": "9cb3bdde-978e-4464-9ac4-022eaab2568e",
+            "nama_pse": "GASS MARKETING TEKNOLOGI",
+            "nama_se": "GASS",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-08-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19787",
+            "website": "gass.co.id"
+        },
+        {
+            "id": "9cb3bdde-bd91-4301-8c3f-4fd7e855ffda",
+            "nama_pse": "BALI DEV ACCESS",
+            "nama_se": "LOKETIN",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19789",
+            "website": "loketin.com"
+        },
+        {
+            "id": "9cb3bdde-c968-4fd7-838b-d000733fca87",
+            "nama_pse": "BALAI LELANG TRIBIK",
+            "nama_se": "BALAI LELANG TRIBIK",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-08-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19784",
+            "website": "tribikauction.co.id"
+        },
+        {
             "id": "9cb3bdde-d9b9-4544-bfe0-787d0819938a",
             "nama_pse": "XTB INDONESIA BERJANGKA",
             "nama_se": "XTB ONLINETRADING",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-08-05",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19747",
             "website": "octobiz.co.id"
-        },
-        {
-            "id": "9cb1ac74-da20-49c7-80ff-6ff7cf195554",
-            "nama_pse": "RIAM ANUGRAH SEMESTA",
-            "nama_se": "ONESQL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19741",
-            "website": "onesql.io"
-        },
-        {
-            "id": "9cb1ac5f-8dfc-401b-bc60-87f51c8e5c0f",
-            "nama_pse": "MAKAN BERGIZI GRATIS",
-            "nama_se": "MBG",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-08-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19756",
-            "website": "makanbergizigratis.co.id"
-        },
-        {
-            "id": "9cb1ac8b-8643-4375-a66e-0895d1500224",
-            "nama_pse": "GLOBAL LINTAS SOLUSI",
-            "nama_se": "GOFEE",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19755",
-            "website": "gpay.co.id"
-        },
-        {
-            "id": "9cb1ac8b-9f12-4890-bf58-2f3d49a771b5",
-            "nama_pse": "IDAGUNA CIPTA KARYA",
-            "nama_se": "IDA KONSULTAN",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19763",
-            "website": "konsultanbisnis.net"
-        },
-        {
-            "id": "9cb1ac74-dd7a-451a-9bbc-017d9f19bdd6",
-            "nama_pse": "APLIKASI LOOP HEALTH",
-            "nama_se": "LOOP HEALTH INDONESIA",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-08-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19758",
-            "website": "loophealth.id"
-        },
-        {
-            "id": "9cb1ac8b-95f4-40f2-8702-6bb51e1ede42",
-            "nama_pse": "APPLEDORE MGILANGJANUAR LAB",
-            "nama_se": "USEKIT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19759",
-            "website": "usekit.co"
-        },
-        {
-            "id": "9cb1ac74-ef0a-4ef2-aa4d-63ba06882dfe",
-            "nama_pse": "AKBAR TEKHNIK JAYA MANDIRI",
-            "nama_se": "PT. AKBAR TEKHNIK JAYA MANDIRI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19762",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac8b-9abb-433e-8483-93ff12d134e7",
-            "nama_pse": "KELOLAPRO MADANI INOVASI",
-            "nama_se": "KELOLAPRO",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19761",
-            "website": "kelolapro.web.app"
-        },
-        {
-            "id": "9cb1ac74-f67b-4996-8ef7-86f699ebe0b7",
-            "nama_pse": "OEXPRESS LOGISTIK INDONESIA",
-            "nama_se": "OEXPRESS.ID",
-            "sektor": "Sektor Transportasi",
-            "tanggal_terbit": "2024-08-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19764",
-            "website": "oexpress.id"
-        },
-        {
-            "id": "9cb1ac8b-b2c8-4f5e-97bf-c8971f45284b",
-            "nama_pse": "WAWAN SETIAWAN",
-            "nama_se": "SIMPENQU - SISTEM INFORMASI MANAJEMEN SMPIQU",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-08-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19770",
-            "website": "smpiqualbahjah.sch.id"
         }
     ],
-    "processingTimeMs": 19,
+    "processingTimeMs": 1,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 51,
     "totalPages": 383

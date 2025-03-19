@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abf5-7f0e-4bcc-82ea-7092697a9c2d",
+            "nama_pse": "SONY INDONESIA",
+            "nama_se": "OFFICIAL WEBSITE SONY INDONESIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9232",
+            "website": "sony.co.id"
+        },
+        {
+            "id": "9cb1abf5-82f0-40dd-a4a3-64ef2ad5ada9",
+            "nama_pse": "BIG DATA NUSANTARA",
+            "nama_se": "BERICHINDONESIA.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9224",
+            "website": "Berichindonesia.com"
+        },
+        {
+            "id": "9cb1abbe-a72d-4357-a8ee-162cc0c68e7b",
+            "nama_pse": "WAHANA TRANSFORMASI DIGITAL INDONESIA",
+            "nama_se": "SISEGI",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9225",
+            "website": "sisegi.id"
+        },
+        {
+            "id": "9cb1abf5-8e9e-4607-b1f2-44a66c6c4ee7",
+            "nama_pse": "DIGITAL MULTI INOVASI",
+            "nama_se": "OPAYKLIK.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9226",
+            "website": "opayklik.id"
+        },
+        {
+            "id": "9cb1abcf-3bf6-48f5-851e-d8dd7cdac980",
+            "nama_pse": "PHILLIP FUTURES",
+            "nama_se": "NOVA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9227",
+            "website": "888.mobpts.com"
+        },
+        {
+            "id": "9cb1abbe-aa9f-40a5-8987-4c9360a40583",
+            "nama_pse": "SISTEM SEKOLAH SUKSES",
+            "nama_se": "SOFTWARE SEKOLAH",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9228",
+            "website": "softwaresekolah.id"
+        },
+        {
+            "id": "9cb1abbe-ae2b-45f3-a485-1b72927f9438",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT DANAMAS PRATAMA",
+            "nama_se": "PT BPR DANAMAS PRATAMA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9229",
+            "website": "bprdanamas.co.id"
+        },
+        {
+            "id": "9cb1abf5-9234-4966-b075-7b0d6a48b22c",
+            "nama_pse": "ANS SOLUSI BERKAH",
+            "nama_se": "ANSKLIK.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9230",
+            "website": "ansklik.id"
+        },
+        {
+            "id": "9cb1abbe-b258-4b53-a460-cb66074fc358",
+            "nama_pse": "BFI FINANCE INDONESIA",
+            "nama_se": "BFI CONNECT (BFI FINANCE)",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9231",
+            "website": "connect.bfi.co.id"
+        },
+        {
+            "id": "9cb1abcf-454b-4f2a-92f4-cefaeb7478e9",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT ARTA TAMAN DAYU",
+            "nama_se": "PT BANK PERKREDITAN RAKYAT ARTA TAMAN DAYU",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-28",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9234",
+            "website": "-"
+        },
+        {
             "id": "9cb1abcf-4bfc-4e2e-a099-21c2e273e408",
             "nama_pse": "BANK PERKREDITAN RAKYAT DJOJO MANDIRI RAYA",
             "nama_se": "HTTP://BPRDJOJOMANDIRIRAYA.COM/",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-28",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9310",
             "website": "sinarmas.co.id"
-        },
-        {
-            "id": "9cb1abd0-9d1c-403f-9040-1aa87f160436",
-            "nama_pse": "OPTICAL PARTNERS INDONESIA",
-            "nama_se": "ESSILORPRO | YOUR DIGITAL PLATFORM",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9312",
-            "website": "essilor-order.com"
-        },
-        {
-            "id": "9cb1abf5-f510-43d5-a3c2-de280cd777c0",
-            "nama_pse": "UNIO INDONESIA MAJU",
-            "nama_se": "UNIO INDONESIA MAJU",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9327",
-            "website": "unio.id"
-        },
-        {
-            "id": "9cb1abd0-abe4-4722-83f3-222cd1148229",
-            "nama_pse": "EKA AKAR JATI",
-            "nama_se": "2\tNAMA SISTEM ELEKTRONIK (NAME OF ELECTRONIC SYSTEM)\tLANDING PAGE COMPROF PT EKA AKAR JATI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9313",
-            "website": "Ekaakarjati.id"
-        },
-        {
-            "id": "9cb1abd0-af39-4615-80fd-0dcc42be6047",
-            "nama_pse": "EKA AKAR JATI",
-            "nama_se": "ELEARNING PT EKA AKAR JATI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9314",
-            "website": "Elearning.ekaakarjati.id"
-        },
-        {
-            "id": "9cb1abf5-fc5b-474b-b334-75f04a5a46f7",
-            "nama_pse": "KREASI GEMILANG PERKASA",
-            "nama_se": "STYLES",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9315",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abcf-b940-46e2-8ecb-76f18d078224",
-            "nama_pse": "KITA MONSTER DIGITAL",
-            "nama_se": "D’KAPSTER",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9316",
-            "website": "dkapster.com"
-        },
-        {
-            "id": "9cb1abf5-ffcd-4223-9b99-d7254f410a35",
-            "nama_pse": "EKA AKAR JATI",
-            "nama_se": "REKRUTMEN PT EKA AKAR JATI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9317",
-            "website": "Karir.ekaakarjati.id"
-        },
-        {
-            "id": "9cb1abcf-bcae-44ce-a1c6-cdcea94267b2",
-            "nama_pse": "HASJRAT MULTIFINANCE",
-            "nama_se": "WEBSITE HMF",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9318",
-            "website": "hmf.co.id"
-        },
-        {
-            "id": "9cb1abf6-0347-4c2a-9dd5-18e7b67c0134",
-            "nama_pse": "PRODIA WIDYAHUSADA",
-            "nama_se": "PRODIA CHATBOT (TANIA)",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9321",
-            "website": "prodia.co.id"
-        },
-        {
-            "id": "9cb1abcf-c1dd-44c7-8fa6-838f12e5901b",
-            "nama_pse": "KITA MONSTER DIGITAL",
-            "nama_se": "LAKUGAN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-28",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9322",
-            "website": "lakugan.com"
         }
     ],
-    "processingTimeMs": 15,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 216,
     "totalPages": 383

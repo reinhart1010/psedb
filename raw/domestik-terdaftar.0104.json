@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac50-ca69-4ccd-ad89-ce9daa98a4b3",
+            "nama_pse": "GUDANG ECU INDONESIA",
+            "nama_se": "GUDANGECU.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-12-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16775",
+            "website": "gudangecu.com"
+        },
+        {
+            "id": "9cb1ac77-df92-42c8-a9a7-8c4c767de6b3",
+            "nama_pse": "FINNET INDONESIA",
+            "nama_se": "APLIKASI MITRA FINPAY",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2023-12-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16793",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac64-2916-4a12-a345-51881da54959",
+            "nama_pse": "RUMAH SAKIT ISLAM GARAM",
+            "nama_se": "SIMRS RSI GARAM KALIANGET",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2023-12-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16777",
+            "website": "rsigaramkalianget.com"
+        },
+        {
+            "id": "9cb1ac64-2c22-48c0-a931-0b6f9e88797b",
+            "nama_pse": "GAUTOMO TECH SOLUTIONS",
+            "nama_se": "QUERIESSOFT MEDIKA",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16778",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac64-2fb4-4dd7-851a-081a17f885e3",
+            "nama_pse": "DWI OPTIMA SELARAS",
+            "nama_se": "CHOOP",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16779",
+            "website": "choop.id"
+        },
+        {
+            "id": "9cb1ac50-cdba-4fb9-8aab-b3c2014dfc09",
+            "nama_pse": "EXPAT ROASTERS INDONESIA",
+            "nama_se": "EXPATROASTERS.COM",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-12-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16780",
+            "website": "expatroasters.com"
+        },
+        {
+            "id": "9cb1ac64-33c9-468d-84bf-30807035aad0",
+            "nama_pse": "PANCA BUMI INOVASI KONSULTAN",
+            "nama_se": "MEDICAL SOFT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16781",
+            "website": "pancabumi.com"
+        },
+        {
+            "id": "9cb1ac50-d120-4cd1-b1f9-4ac6121e75d1",
+            "nama_pse": "SEMESTA QUANTUM ETERNITI",
+            "nama_se": "SIMAS ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16785",
+            "website": "simas-id.com"
+        },
+        {
+            "id": "9cb1ac64-36d9-4ab6-8671-680bafd8442e",
+            "nama_pse": "GLOBAL TALENTLYTICA INDONESIA",
+            "nama_se": "ASSESSMENTCENTER.ID TALENTLYTICA ONLINE PLATFORM - ASSESSEE PLATFORM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16782",
+            "website": "assessmentcenter.id"
+        },
+        {
+            "id": "9cb1ac50-d5a0-4365-b970-5aff9da60bf3",
+            "nama_pse": "KONSULTASI PRIMA NUSANTARA",
+            "nama_se": "MYCLINICALPRO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2023-12-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16783",
+            "website": "MYCLINICALPRO.COM"
+        },
+        {
+            "id": "9cb1ac50-d9cf-4e92-810f-feae6ede0fe4",
+            "nama_pse": "DANISWARA TEKNOLOGI INDONESIA",
+            "nama_se": "GAMINGKU",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2023-12-07",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16784",
+            "website": "gamingku.net"
+        },
+        {
             "id": "9cb1ac64-3978-49a0-a043-3b1f49d4e973",
             "nama_pse": "ARMADA DIGITAL NUSANTARA",
             "nama_se": "ARMADAGAMER.",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2023-12-05",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16751",
             "website": "javagointiwisata.com"
-        },
-        {
-            "id": "9cb1ac77-c335-4a54-aa18-776d3690df32",
-            "nama_pse": "WARDA YOHANA",
-            "nama_se": "NONTON HEMAT",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16752",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac64-04c5-4966-9366-47fcf528f117",
-            "nama_pse": "KOZY PROPERTI MANAJEMEN INTERNASIONAL",
-            "nama_se": "KOZYSTAY",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-12-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16753",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac64-08de-49e7-bbcb-6100a3551dc0",
-            "nama_pse": "NADIFA GLOBAL SOLUSINDO",
-            "nama_se": "ULTRA MEDIS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2023-12-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16754",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac77-b63a-4609-a420-52afd7f3b6a8",
-            "nama_pse": "VISIONET INTERNASIONAL INOVASI",
-            "nama_se": "INSURANCE WIDGET PADA APLIKASI DAN WEBSITE GRAB",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-12-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16737",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac77-ba40-4df6-9b39-3513db0fcdaa",
-            "nama_pse": "INSAN CAHYA UTAMA",
-            "nama_se": "INSAN CAHYA UTAMA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-12-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16738",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac63-fa2b-4c7b-8bea-2313f166aea2",
-            "nama_pse": "MEGA ARTHA TEKNOLOGI",
-            "nama_se": "MEGATECH",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2023-12-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16739",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac50-9c89-4644-a37a-3c84b29e7f2d",
-            "nama_pse": "MEDIA SIBER KAMARU",
-            "nama_se": "PANDUANRAKYAT.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16740",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac50-95d9-43ed-9d67-d7198485e436",
-            "nama_pse": "MARKETPLACE NISA INTERNASIONAL MAJU",
-            "nama_se": "NISA PULSA AGEN PPOB TERMURAH",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16735",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac77-b3a8-4f0d-bd0c-9af72522bc56",
-            "nama_pse": "BAROKAH JAYA MULTIPAYMENT",
-            "nama_se": "AM RELOAD - PULSA \u0026 PPOB MURAH",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-03",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16736",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac63-f6ef-49b1-8a30-6d4584a88c18",
-            "nama_pse": "ACHMAD YALZAN",
-            "nama_se": "APLIKASI BLIIN INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16732",
-            "website": "bliin.id"
-        },
-        {
-            "id": "9cb1ac77-b088-474c-94f9-2d68f72066a6",
-            "nama_pse": "MUHAMMAD AJI PANGESTU",
-            "nama_se": "EAMPLANG (NAJWA)",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2023-12-02",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/16733",
-            "website": "najwa.minat.store"
         }
     ],
-    "processingTimeMs": 17,
+    "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 104,
     "totalPages": 383

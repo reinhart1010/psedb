@@ -1,6 +1,105 @@
 {
     "hits": [
         {
+            "id": "9cb1ac0f-bc86-4ea0-8d50-5e294961616f",
+            "nama_pse": "ADWA INFO MANDIRI",
+            "nama_se": "ICHA",
+            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11180",
+            "website": "icha.co.id"
+        },
+        {
+            "id": "9cb1abdb-a6d8-43ad-9f14-b918bd89e320",
+            "nama_pse": "PUSAT LITERASI DUNIA",
+            "nama_se": "LITERATUR.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11181",
+            "website": "literatur.id"
+        },
+        {
+            "id": "9cb1abae-7086-4a09-a6f7-3d42823a511f",
+            "nama_pse": "TOKOFANS SMM INDONESIA",
+            "nama_se": "TOKOFANS",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-13",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5002",
+            "website": "tokofans.co.id"
+        },
+        {
+            "id": "9cb1ac0b-54dc-4bd5-ad9a-a37107cfecdc",
+            "nama_pse": "ERA INDONESIA DIGITAL",
+            "nama_se": "ERA.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11153",
+            "website": "era.id"
+        },
+        {
+            "id": "9cb1ac0b-6ab0-41ac-9d19-d56abc4b98e8",
+            "nama_pse": "DIGITAL SIBER INDONESIA",
+            "nama_se": "PARAGRAM.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11152",
+            "website": "paragram.id"
+        },
+        {
+            "id": "9cb1abfc-f130-4b71-8242-3f8f7f5cd00d",
+            "nama_pse": "VOI MEDIA INFORMASI",
+            "nama_se": "VOI.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11151",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac0f-2950-473c-9755-bf8a4a8af766",
+            "nama_pse": "NINJA LOGISTICS INDONESIA",
+            "nama_se": "SISTIM APLIKASI MANAJEMEN LOGISTIK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11155",
+            "website": "ninjaxpress.co"
+        },
+        {
+            "id": "9cb1abdb-5f80-4c65-9eda-e537ac9a3638",
+            "nama_pse": "KARUNIA SEGAR KEDUA",
+            "nama_se": "MEATNFRESH.CO.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11150",
+            "website": "meatnfresh.co.id"
+        },
+        {
+            "id": "9cb1ac00-ca81-4ecd-a47d-677b54e7ad01",
+            "nama_pse": "KARUNIA SEGAR TIGA",
+            "nama_se": "MEATNFRESH.CO.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11148",
+            "website": "meatnfresh.co.id"
+        },
+        {
+            "id": "9cb1abdb-6647-4e44-ae84-b7e9956585ed",
+            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH AL MAKMUR",
+            "nama_se": "RURAL BANKING SISTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11137",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac0f-9310-4df4-854b-7c46f402c6b9",
+            "nama_pse": "KARUNIA SEGAR EMPAT",
+            "nama_se": "MEATNFRESH.CO.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-09-12",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11149",
+            "website": "meatnfresh.co.id"
+        },
+        {
             "id": "9cb1ac00-cd46-4679-891b-5fca8c4ebb6e",
             "nama_pse": "KOLTIVA",
             "nama_se": "KOLTITRACE SHOP",
@@ -350,110 +449,11 @@
             "tanggal_terbit": "2022-09-08",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11106",
             "website": "refina.ptsmi.co.id"
-        },
-        {
-            "id": "9cb1ac00-a32c-439d-b900-6a6b628d350e",
-            "nama_pse": "PASARPOLIS INSURANCE BROKER",
-            "nama_se": "WEBSITE PASARPOLIS INSURANCE BROKER",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-09-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11104",
-            "website": "pasarpolisinsurancebroker.com"
-        },
-        {
-            "id": "9cb1ac00-a640-4d05-b4d1-08cd04520bd2",
-            "nama_pse": "MINUM YUK KAKA",
-            "nama_se": "MINUM YUK KAKA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11105",
-            "website": "minumyukkaka.com"
-        },
-        {
-            "id": "9cb1ac0f-56d0-44ae-be8d-39d40bb70c4f",
-            "nama_pse": "BERKAH DIGITAL PEMBAYARAN",
-            "nama_se": "BDPAY",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-09-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11107",
-            "website": "bdpay.co.id"
-        },
-        {
-            "id": "9cb1abdb-1702-4052-99de-872673bbb4fc",
-            "nama_pse": "ANDROMEDA KARYA CEMERLANG",
-            "nama_se": "ANDIAGA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-08",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11108",
-            "website": "andiaga.com"
-        },
-        {
-            "id": "9cb1ac08-7542-4976-823f-9bcaa8a29846",
-            "nama_pse": "GANESHA PUTRA INDONESIA",
-            "nama_se": "HTTPS://WWW.NEOGANESH.CO.ID/",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9749",
-            "website": "neoganesh.co.id"
-        },
-        {
-            "id": "9cb1abda-a2df-4544-82be-e208702c83be",
-            "nama_pse": "NETWAVE MULTI MEDIA",
-            "nama_se": "INDOPEDIA.ID",
-            "sektor": "Sektor Perdagangan, Sektor Transportasi, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Pertahanan dan Keamanan",
-            "tanggal_terbit": "2022-09-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11013",
-            "website": "indopedia.id"
-        },
-        {
-            "id": "9cb1ac00-8077-4d2e-a9cd-1ca29f8f1e9b",
-            "nama_pse": "NIELSON EXA JAYA",
-            "nama_se": "SERBA SEPEDA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11073",
-            "website": "serbasepeda.com"
-        },
-        {
-            "id": "9cb1abda-dc19-487d-b99c-0299d88c2fd6",
-            "nama_pse": "TRANSITO ADIMAN JATI",
-            "nama_se": "MARKETSPACE.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11075",
-            "website": "marketspace.id"
-        },
-        {
-            "id": "9cb1abda-e142-4a12-9621-3945a78f3d53",
-            "nama_pse": "ERA DIGITAL MEDIA",
-            "nama_se": "TGAME",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11076",
-            "website": "tgame.id"
-        },
-        {
-            "id": "9cb1ac00-83b3-404b-9e5f-7fb713c88989",
-            "nama_pse": "ERA DIGITAL MEDIA",
-            "nama_se": "TQUIZ",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-09-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11077",
-            "website": "tquiz.id"
-        },
-        {
-            "id": "9cb1ac0f-381f-47b7-bca2-8f2869d12bef",
-            "nama_pse": "INDOTEKNO KARYA NUSANTARA",
-            "nama_se": "COINT SEA PAYMENT",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-09-07",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/11078",
-            "website": "cointsea.com"
         }
     ],
     "processingTimeMs": 3,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 186,
     "totalPages": 383

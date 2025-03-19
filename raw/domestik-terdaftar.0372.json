@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab6a-a2f6-48e6-9ec5-d300c7307969",
+            "nama_pse": "AMARTHA MIKRO FINTEK",
+            "nama_se": "CORE BANKING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/697",
+            "website": "NA (Private IP)"
+        },
+        {
+            "id": "9cb1ab6a-a793-439f-9e9b-2e7836de814c",
+            "nama_pse": "AMARTHA MIKRO FINTEK",
+            "nama_se": "BP APP",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/698",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab63-2f21-4066-a49b-4a525e1a9919",
+            "nama_pse": "AMARTHA MIKRO FINTEK",
+            "nama_se": "LENDER APP",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/700",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab63-3142-4c3b-8355-f537b0650bbc",
+            "nama_pse": "GLINTS INDONESIA GROUP",
+            "nama_se": "GLINTS INDONESIA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/676",
+            "website": "glints.com/id"
+        },
+        {
+            "id": "9cb1ab71-b291-45db-b40d-75316a1ba6e9",
+            "nama_pse": "INDOGOLD SOLUSI GADAI",
+            "nama_se": "INDOGOLD",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/703",
+            "website": "indogold.id"
+        },
+        {
+            "id": "9cb1ab71-b5b1-4f2e-ab4c-1fbc07fcabb8",
+            "nama_pse": "KOPERASI ALUMNI PENDUDUK GANESHA",
+            "nama_se": "APGAN",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/684",
+            "website": "apgan.id"
+        },
+        {
+            "id": "9cb1ab63-3e8e-484f-975c-5a7b9d2bf47b",
+            "nama_pse": "TRISNA YOGA PUTRA",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN RUMAH SAKIT (SIMRS) TRISNA MEDIKA",
+            "sektor": "Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/719",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab63-436e-4b8f-9465-9fdf886b9cea",
+            "nama_pse": "PUNGGAWA NUSANTARA ABADI",
+            "nama_se": "SANG FAJAR",
+            "sektor": "Sektor Transportasi, Sektor Transportasi",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/694",
+            "website": "sangfajar.com"
+        },
+        {
+            "id": "9cb1ab63-4b7f-45ae-912e-3859aa5de6d2",
+            "nama_pse": "EXRUSH DIGITAL NUSANTARA",
+            "nama_se": "ELOZA",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/699",
+            "website": "eloza.com"
+        },
+        {
+            "id": "9cb1ab6a-bfda-473a-bebf-d44ea07f745e",
+            "nama_pse": "CAZH TEKNOLOGI INOVASI",
+            "nama_se": "CARDS",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-04-26",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/704",
+            "website": "cards.co.id"
+        },
+        {
             "id": "9cb1ab7b-96cc-43aa-9024-9817c019bb67",
             "nama_pse": "PYRIDAM FARMA",
             "nama_se": "PYFAHEALTH.COM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-04-26",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/580",
             "website": "bukukas.co.id/"
-        },
-        {
-            "id": "9cb1ab91-1fb1-45fc-98cf-06ac8f499546",
-            "nama_pse": "BEEGROUP FINANCIAL INDONESIA",
-            "nama_se": "BUKUKAS",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/717",
-            "website": "bukukas.co.id/"
-        },
-        {
-            "id": "9cb1ab91-2229-4064-bebc-f451f8eb054e",
-            "nama_pse": "BRICK TEKNOLOGI INDONESIA",
-            "nama_se": "BRICK",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/594",
-            "website": "onebrick.id"
-        },
-        {
-            "id": "9cb1ab91-2590-4dec-b80d-cc228126b25d",
-            "nama_pse": "BRICK TEKNOLOGI INDONESIA",
-            "nama_se": "BRICK",
-            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/597",
-            "website": "onebrick.id"
-        },
-        {
-            "id": "9cb1ab91-2787-4a1b-b50a-5b3aca7b3977",
-            "nama_pse": "GAMERTOGAMER GLOBAL GROUP",
-            "nama_se": "G2G.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/596",
-            "website": "g2g.com"
-        },
-        {
-            "id": "9cb1aba8-f3d1-4240-8cf6-de73062d2e30",
-            "nama_pse": "TEKNOLOGI APLIKASI SEHAT",
-            "nama_se": "CONVATEX",
-            "sektor": "Sektor Kesehatan, Sektor Kesehatan",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/598",
-            "website": "convatex.com"
-        },
-        {
-            "id": "9cb1ab9e-9bb2-4593-b9f7-00cfe965c9c5",
-            "nama_pse": "AKEZ ADAPHAN HOSPITALITI",
-            "nama_se": "CARI TEMPAT",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Transportasi, Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/602",
-            "website": "caritempat.co.id"
-        },
-        {
-            "id": "9cb1ab9e-9ea7-43f0-b042-c38e0c4e661d",
-            "nama_pse": "KB VALBURY SEKURITAS",
-            "nama_se": "REGISTRASI ONLINE VOLT",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/605",
-            "website": "volt.valbury.co.id"
-        },
-        {
-            "id": "9cb1ab9e-a1c0-41f3-adf2-bddfe55035c8",
-            "nama_pse": "BILNA",
-            "nama_se": "ORAMI.CO.ID",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/606",
-            "website": "orami.co.id"
-        },
-        {
-            "id": "9cb1ab9e-a4a6-486c-97b9-6a86b5ced7ed",
-            "nama_pse": "DYNAMO MEDIA NETWORK",
-            "nama_se": "KUMPARAN.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/607",
-            "website": "kumparan.com"
-        },
-        {
-            "id": "9cb1aba8-f629-43e0-9726-8ec4792141a2",
-            "nama_pse": "DYNAMO MEDIA NETWORK",
-            "nama_se": "KUMPARAN.CO.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-04-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/609",
-            "website": "kumparan.co.id"
         }
     ],
-    "processingTimeMs": 17,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 372,
     "totalPages": 383

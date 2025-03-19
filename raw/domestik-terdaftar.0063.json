@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac5b-a9da-48eb-8a06-dc75a3b932ec",
+            "nama_pse": "SAMSUNG SDS GLOBAL SCL INDONESIA",
+            "nama_se": "CELLO SQUARE",
+            "sektor": "Sektor Transportasi",
+            "tanggal_terbit": "2024-06-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19134",
+            "website": "cello-square.com"
+        },
+        {
+            "id": "9cb1ac5c-4438-49c2-a8f7-55e0868b55e2",
+            "nama_pse": "ASIA SPORT RETAIL",
+            "nama_se": "BATIK SAMSARA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-06-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19140",
+            "website": "samsara.id"
+        },
+        {
+            "id": "9cb1ac5c-5abb-40a2-a37c-2485ba76ee59",
+            "nama_pse": "BANGKIT MEMBANGUN NEGERI",
+            "nama_se": "MY BAITULLAH",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-06-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19135",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5c-5e52-4b3d-ae7a-0ec4b8e23311",
+            "nama_pse": "DIGITAL EKUITAS PRIMER",
+            "nama_se": "LABA.ID",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-06-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19137",
+            "website": "laba.id"
+        },
+        {
+            "id": "9cb1ac5c-61db-44e0-a350-4d682838124a",
+            "nama_pse": "DIGITAL SAWIT PRO",
+            "nama_se": "SAWITPRO",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-06-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19138",
+            "website": "sawitpro.com"
+        },
+        {
+            "id": "9cb1ac71-403e-4589-82b5-bc52788e9c44",
+            "nama_pse": "USSI",
+            "nama_se": "EL FAIRUZ ONLINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-06-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19139",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac71-43f9-4119-afa3-1f111ab3a9d8",
+            "nama_pse": "SOVWAH JASA UTAMA",
+            "nama_se": "SOVWAH JASA UTAMA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-06-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19141",
+            "website": "sovwahjasa.com"
+        },
+        {
+            "id": "9cb1ac71-4821-4fb3-8589-495db8ca18ab",
+            "nama_pse": "BANU BANGUN NUSANTARA",
+            "nama_se": "BANU PAY",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-06-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19142",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac71-4be0-4131-bfca-027346b7d952",
+            "nama_pse": "ZAUVIK RIZALDI MA'RUF",
+            "nama_se": "AKADEVO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-06-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19143",
+            "website": "akadevo.com"
+        },
+        {
+            "id": "9cb1ac6e-be1a-48bd-a07a-466bd647051d",
+            "nama_pse": "MEGA MENARA MAS BERJANGKA",
+            "nama_se": "MEGA MENARA MAS BERJANGKA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-06-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19133",
+            "website": "megamenaramas.co.id"
+        },
+        {
             "id": "9cb1ac86-fde0-43fe-811e-a906f800ecc8",
             "nama_pse": "XANHSM GREEN AND SMART MOBILITY INDONESIA",
             "nama_se": "XANH SM ADMIN PORTAL",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-05-30",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19081",
             "website": "buyfishh.com"
-        },
-        {
-            "id": "9cb1ac5c-0ec5-49a2-960e-82ef1696de08",
-            "nama_pse": "AZRIFIRIZKI ANANDA",
-            "nama_se": "BUYFFISH",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19082",
-            "website": "buyyfish.id"
-        },
-        {
-            "id": "9cb1ac70-f87f-4021-9ded-563114626246",
-            "nama_pse": "YAMISOK PLATFORM INDONESIA",
-            "nama_se": "YAMIPAY",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19087",
-            "website": "YAMISOK.COM"
-        },
-        {
-            "id": "9cb1ac86-94ea-430a-8678-c56b0ec1fcc1",
-            "nama_pse": "LAWANG SEWU TEKNOLOGI",
-            "nama_se": "CARTU",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19084",
-            "website": "cartu.id"
-        },
-        {
-            "id": "9cb1ac5c-1807-4ccf-a703-34ed672e571d",
-            "nama_pse": "GLOBAL DIGITAL INDOKREASI",
-            "nama_se": "LAPAKGAMING APLIKASI",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19085",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5c-1bab-48bb-9527-98d28090e52b",
-            "nama_pse": "RIHLA INNOVATION INDONESIA",
-            "nama_se": "RIHLA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19088",
-            "website": "rihla.co.id"
-        },
-        {
-            "id": "9cb1ac86-a454-4f1f-a323-718051b1689c",
-            "nama_pse": "PANDUMU SUARSUA BARAKA",
-            "nama_se": "MUNAJAT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19089",
-            "website": "munajat.id"
-        },
-        {
-            "id": "9cb1ac86-a741-4876-8332-32baceb28e91",
-            "nama_pse": "TEUKU EDWARD",
-            "nama_se": "KURSUS ONLINE TAMANALQURAN.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19090",
-            "website": "tamanalquran.id"
-        },
-        {
-            "id": "9cb1ac71-0377-4856-97ba-c430cd98a77b",
-            "nama_pse": "SUPERNOVA PALAPA NUSANTARA",
-            "nama_se": "E-PUSKESMAS",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-05-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19091",
-            "website": "dev.epuskesmas.supernovacorp.ltd"
-        },
-        {
-            "id": "9cb1ac71-0731-4fa9-8ac1-a3b752248170",
-            "nama_pse": "JENOVAC MOUNTAIN CORP",
-            "nama_se": "INDOIZIN",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19092",
-            "website": "indoizin.id"
-        },
-        {
-            "id": "9cb1ac85-0cc9-4a48-9cb5-166de1d6acb7",
-            "nama_pse": "JGM MEETQUEST DIGITECH",
-            "nama_se": "MEETQUEST",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-30",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19083",
-            "website": "jgmmeetquest.com"
         }
     ],
     "processingTimeMs": 2,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 63,
     "totalPages": 383

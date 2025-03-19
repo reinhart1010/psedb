@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac5d-d1f8-4c83-b122-591a07ecd13d",
+            "nama_pse": "APRIYANTI MUSTIKA DEWI",
+            "nama_se": "APP.ATHREE.ID",
+            "sektor": "Sektor Perdagangan, Sektor Kesehatan",
+            "tanggal_terbit": "2024-07-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19425",
+            "website": "athree.id"
+        },
+        {
+            "id": "9cb1ac89-1025-474e-af5b-31b568de1f54",
+            "nama_pse": "PUTRA MEDIKA",
+            "nama_se": "KLINIK PUTRA MEDIKA 2",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19404",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac72-d7d4-418b-8a8f-a5c45d13919c",
+            "nama_pse": "AIR MAS PERKASA",
+            "nama_se": "AYOOSTORE",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19414",
+            "website": "ayoostore.id"
+        },
+        {
+            "id": "9cb1ac89-0751-4ee1-bb86-0f7c22c82283",
+            "nama_pse": "SECURE DATA DIGITAL CYBER",
+            "nama_se": "SECURE DATA DIGITAL CYBER",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19400",
+            "website": "ptsddc.com"
+        },
+        {
+            "id": "9cb1ac89-0baf-44b5-923d-de15a08434ab",
+            "nama_pse": "SMART EDUKASI INDONESIA",
+            "nama_se": "SMARTCPNS",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19401",
+            "website": "smartcpns.id"
+        },
+        {
+            "id": "9cb1ac5d-a788-4f04-8be5-3ef108bd4e35",
+            "nama_pse": "SMART EDUKASI INDONESIA",
+            "nama_se": "SMARTCPNS APP",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19402",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5d-aa54-4ad4-966e-8ba60ba9953c",
+            "nama_pse": "PUTRA MEDIKA",
+            "nama_se": "KLINIK PUTRA MEDIKA 1",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19403",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac89-14b0-452f-9a90-8fefde4a4d2e",
+            "nama_pse": "PUTRA MEDIKA",
+            "nama_se": "KLINIK PUTRA MEDIKA SUKAMAHI",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19406",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5d-acec-4629-815f-e4a0e9ba994e",
+            "nama_pse": "PUTRA MEDIKA",
+            "nama_se": "KLINIK PUTRA MEDIKA 3",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19405",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac5d-b287-46b9-a074-00d55a5af3b4",
+            "nama_pse": "PUTRA MEDIKA",
+            "nama_se": "KLINIK PUTRA MEDIKA CIBENDA",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-07-08",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19407",
+            "website": "-"
+        },
+        {
             "id": "9cb1ac5d-bc0b-447b-bedb-79f4ea27df48",
             "nama_pse": "RSU PKU MUHAMMADIYAH SRAGEN",
             "nama_se": "SIMRS KHANZA",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-07-05",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19385",
             "website": "hamimtechid.com"
-        },
-        {
-            "id": "9cb1ac72-7795-4632-9cde-5120b1dce82e",
-            "nama_pse": "PERSADA MAKMUR INDONESIA",
-            "nama_se": "VEEV-VAPE.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19363",
-            "website": "veev-vape.com"
-        },
-        {
-            "id": "9cb1ac88-8b78-4a85-b0f1-dec37a427d90",
-            "nama_pse": "ANAH NETWORK SOLUTION",
-            "nama_se": "LAYANAN INTERNET LOKAL(RT RW NET)",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19341",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac88-9abe-43a6-be83-bd445e41a574",
-            "nama_pse": "KAMARUDIN T TURUKI",
-            "nama_se": "LAYANAN INTERNET LOKAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19351",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac88-b2ef-409f-b31d-c70cceae0179",
-            "nama_pse": "NUSANTARA MULTI KREASI",
-            "nama_se": "AGUSTINOGEMSWORLD.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19369",
-            "website": "agustinogemsworld.com"
-        },
-        {
-            "id": "9cb1ac72-95f2-45a2-a8b6-b385983e396c",
-            "nama_pse": "BUNGAS DIGITAL GROUP",
-            "nama_se": "LAYANAN INTERNET LOKAL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19349",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac72-8069-4666-9274-f8b3b06e2d9e",
-            "nama_pse": "KREASI STARNOV CAKRAWALA",
-            "nama_se": "KREASI STARNOV CAKRAWALA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19340",
-            "website": "kreasistarnovcakrawala.com"
-        },
-        {
-            "id": "9cb1ac5d-58be-42e2-9ed6-54ab37683b7d",
-            "nama_pse": "DIGI GLOBAL PRATAMA",
-            "nama_se": "DIGI GLOBAL PRATAMA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19346",
-            "website": "digiglobalpratama.com"
-        },
-        {
-            "id": "9cb1ac88-8fcb-4e05-b288-c0938dc6e78c",
-            "nama_pse": "FAMINDO VIVIDAQUA AIR MINUM",
-            "nama_se": "VIVIDAQUA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19343",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5d-5b9a-4646-aaae-2f6215575fa3",
-            "nama_pse": "MEDIA PRESISI HUKUM NEWS",
-            "nama_se": "MPHNEWS.ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19342",
-            "website": "mphnews.id"
-        },
-        {
-            "id": "9cb1ac88-9368-4592-b9db-1017d860cee3",
-            "nama_pse": "HIKMAT PENUH BERKAT",
-            "nama_se": "MY LARITTA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-07-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/19348",
-            "website": "larittabakery.com"
         }
     ],
-    "processingTimeMs": 2,
+    "processingTimeMs": 44,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 58,
     "totalPages": 383

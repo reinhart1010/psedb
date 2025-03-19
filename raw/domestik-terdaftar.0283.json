@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab9b-c5e5-4fb7-948c-7c42b2eb1b5d",
+            "nama_pse": "VROMEDIA INFORMATIKA TEKNOLOGI",
+            "nama_se": "COVIT",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5564",
+            "website": "co.vit.co.id"
+        },
+        {
+            "id": "9cb1ab9b-c84f-4ab9-8e90-8a0a63ff6ded",
+            "nama_pse": "FRIARSO SETO",
+            "nama_se": "HJI AGENT/RENTAL",
+            "sektor": "Sektor Perdagangan, Sektor Transportasi",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5565",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ab9b-ca79-43bc-b920-45de4cdb855b",
+            "nama_pse": "SIAPA DIA INDONESIA",
+            "nama_se": "SIAPA DIA CRAWLER",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5568",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba6-9d38-424d-81cb-5b3ff56b622e",
+            "nama_pse": "ACHILLES ADVANCED SYSTEMS",
+            "nama_se": "ONLINEPAJAK",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5569",
+            "website": "online-pajak.id"
+        },
+        {
+            "id": "9cb1abb0-85c9-4462-8db0-82220e826bf0",
+            "nama_pse": "XTRA MENDAHULUKAN LAYANAN",
+            "nama_se": "XML MOBILE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5570",
+            "website": "xmltronik.com"
+        },
+        {
+            "id": "9cb1ab9b-cc7b-46ad-b743-f143f29c53f2",
+            "nama_pse": "AKADEMI META INTERNASIONAL",
+            "nama_se": "METASIGN SOFTWARE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5571",
+            "website": "signalpremium.co"
+        },
+        {
+            "id": "9cb1abb0-87e0-481a-bf37-2f8688305dc7",
+            "nama_pse": "BANK PERKREDITAN RAKYAT PALU LOKADANA UTAMA",
+            "nama_se": "WEBSITE RESMI PT. BPR PALU LOKAKADANA UTAMA",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5584",
+            "website": "bprpalu.com"
+        },
+        {
+            "id": "9cb1aba6-9f9a-4d7f-80cc-7c27ba937d8b",
+            "nama_pse": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN TBK (BANK BJB)",
+            "nama_se": "LMS BANK BJB",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5572",
+            "website": "-"
+        },
+        {
+            "id": "9cb1aba6-a1af-4c4f-92ff-f4b61851aa2b",
+            "nama_pse": "BANK PERKREDITAN RAKYAT VII KOTO",
+            "nama_se": "PT BPR VII KOTO",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5574",
+            "website": "ptbprviikoto.page.tl"
+        },
+        {
+            "id": "9cb1aba6-a36d-4ddb-aabd-d7a5eecbf82c",
+            "nama_pse": "BNI ASSET MANAGEMENT",
+            "nama_se": "WEBSITE PERUSAHAAN PT BNI ASSET MANAGEMENT",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-14",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5575",
+            "website": "bni-am.co.id"
+        },
+        {
             "id": "9cb1abb0-89c9-461d-86e7-df4dc2111402",
             "nama_pse": "BANK PEMBANGUNAN DAERAH SULAWESI SELATAN DAN SULAWESI BARAT",
             "nama_se": "INTERNET BANKING \u0026 MOBILE BANKING BANK SULSELBAR",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-14",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5629",
             "website": "-"
-        },
-        {
-            "id": "9cb1abb0-a034-4ed4-bce6-444632152fad",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH JAWA TIMUR",
-            "nama_se": "WEBSITE BANK JATIM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5631",
-            "website": "bankjatim.co.id"
-        },
-        {
-            "id": "9cb1ab9c-04fa-4ffd-9fce-b43cb67cba24",
-            "nama_pse": "PUNDI MAS BERJAYA",
-            "nama_se": "CLOUDBANK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5632",
-            "website": "Cloudbank.id"
-        },
-        {
-            "id": "9cb1aba6-c59d-4f70-95a0-b0db4c0919b8",
-            "nama_pse": "BANK PERKREDITAN RAKYAT BINARTA LUHUR",
-            "nama_se": "PT. BPR BINARTA LUHUR",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5630",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb0-a1d4-4345-87ad-4d71782b280c",
-            "nama_pse": "MEGA MULTI KREASI",
-            "nama_se": "PUSAT PARCEL",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5633",
-            "website": "pusatparcel.com"
-        },
-        {
-            "id": "9cb1abb0-a3a5-43f8-b547-f2600f76a292",
-            "nama_pse": "DUTA ABADIPRIMANTARA",
-            "nama_se": "SLEEP AND CO WEBSITE",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5634",
-            "website": "sleepandco.id"
-        },
-        {
-            "id": "9cb1abb0-a555-4925-9216-b7ae478ec2d4",
-            "nama_pse": "MEGA AUTO FINANCE",
-            "nama_se": "WEBSITE PORTAL MEGA AUTO FINANCE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5635",
-            "website": "maf.co.id"
-        },
-        {
-            "id": "9cb1aba6-c77d-4f03-83fe-da0f57332e06",
-            "nama_pse": "MEGA CAPITAL SEKURITAS",
-            "nama_se": "MEGA ONLINE TRADING",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5636",
-            "website": "megaonlinetrading.id"
-        },
-        {
-            "id": "9cb1ab9c-0800-492b-acd9-f4b51840e135",
-            "nama_pse": "ALENA NUSA CEMERLANG",
-            "nama_se": "WWW.ANC.CO.ID",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5641",
-            "website": "anc.co.id"
-        },
-        {
-            "id": "9cb1ab9c-0b1d-45a3-816d-3497ecf4783d",
-            "nama_pse": "YAMAHA INDONESIA MOTOR MANUFACTURING",
-            "nama_se": "WEBSITE YAMAHA RACING INDONESIA",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5638",
-            "website": "yamaharacingindonesia.co.id"
-        },
-        {
-            "id": "9cb1ab9c-0dfd-451e-b47a-d558d35209a0",
-            "nama_pse": "PUTRA INTI CEMERLANG",
-            "nama_se": "BERSIHCEMERLANG.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-14",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/5637",
-            "website": "bersihcemerlang.com"
         }
     ],
-    "processingTimeMs": 3,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 283,
     "totalPages": 383

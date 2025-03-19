@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abf4-b400-46ff-a21b-09e0c4a675e9",
+            "nama_pse": "ASKARA SOLUSI LEGAL",
+            "nama_se": "WEBSITE LEXGORITMA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9124",
+            "website": "lexgoritma.com"
+        },
+        {
+            "id": "9cb1abf4-bb61-490b-b18d-90b564e90c58",
+            "nama_pse": "MOBIL MOTOR NIAGA INDONESIA",
+            "nama_se": "MM ONLINE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9125",
+            "website": "mmonline.id"
+        },
+        {
+            "id": "9cb1abf4-cb36-4648-8eb7-083c1bd5200d",
+            "nama_pse": "LOYAL MEMBER INDONESIA",
+            "nama_se": "LOYAL.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9126",
+            "website": "loyal.id"
+        },
+        {
+            "id": "9cb1abf4-d195-4db1-b277-52785cce4dde",
+            "nama_pse": "BANK PERKREDITAN RAKYAT NUSAMBA NGUNUT",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9127",
+            "website": "bprnusamba-ngunut.com"
+        },
+        {
+            "id": "9cb1abbe-32d1-437b-815b-26b8fdd163db",
+            "nama_pse": "PRIMA MEDIX NUSANTARA",
+            "nama_se": "VIRTU DIGILAB",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9128",
+            "website": "virtudigilab.com"
+        },
+        {
+            "id": "9cb1abbe-34e1-4916-a8ac-1ee6aa2f77e6",
+            "nama_pse": "PRIMA MEDIX NUSANTARA",
+            "nama_se": "VIRTU HEALTH",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9135",
+            "website": "virtuhealth.id"
+        },
+        {
+            "id": "9cb1abf4-d4b8-4db4-aeb9-40f1b889e18a",
+            "nama_pse": "BIOSKOP DIGITAL INDONESIA",
+            "nama_se": "BIOSKOP ONLINE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9130",
+            "website": "bioskoponline.com"
+        },
+        {
+            "id": "9cb1abf4-dab6-4af2-8108-96a24d6d5e0e",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT HANEDA MITRA USAHA",
+            "nama_se": "WWW.BPRHANEDA.CO.ID",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9132",
+            "website": "bprhaneda.co.id"
+        },
+        {
+            "id": "9cb1abce-a1f3-4ae9-9d73-43c6d0e12836",
+            "nama_pse": "BILLION TECHNOLOGY",
+            "nama_se": "KANTOR KITA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9131",
+            "website": "kantorkita.co.id"
+        },
+        {
+            "id": "9cb1abf4-e042-412d-aa72-ecb517aea6e8",
+            "nama_pse": "DIGITAL HASANAH INDONESIA",
+            "nama_se": "HASAN DIGITAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-27",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9133",
+            "website": "hasandigital.id"
+        },
+        {
             "id": "9cb1abbe-36cc-476c-8747-acfa46964d19",
             "nama_pse": "PRIMA MEDIX NUSANTARA",
             "nama_se": "PRIMAMEDIX",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-27",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9198",
             "website": "cas.bankjogja.com"
-        },
-        {
-            "id": "9cb1abbe-7017-4dcd-9eb4-3d30a6fea4f1",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT NUSAMBA PLERED",
-            "nama_se": "PT BPR NUSAMBA PLERED",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9199",
-            "website": "bprnusamba-plered.co.id"
-        },
-        {
-            "id": "9cb1abbe-75f4-410f-a89c-bc47ccf3f0f0",
-            "nama_pse": "BANK PERKREDITAN RAKYAT HOSING JAYA",
-            "nama_se": "WEBSITE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9201",
-            "website": "bprhosingjaya.com"
-        },
-        {
-            "id": "9cb1abf5-5e85-4277-bcf7-ebe827ce47b6",
-            "nama_pse": "INTEGRAL DATA PRIMA",
-            "nama_se": "PAJAKEXPRESS",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9204",
-            "website": "pajakexpress.com"
-        },
-        {
-            "id": "9cb1abcf-1201-48a3-9324-3c98ddcde509",
-            "nama_pse": "SENTRALWATCH PERKASA INTERNASIONAL",
-            "nama_se": "FOSSIL INDONESIA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9213",
-            "website": "fossil.co.id"
-        },
-        {
-            "id": "9cb1abbe-96e3-482c-b331-898ada137d02",
-            "nama_pse": "AGUNG WIJAYA",
-            "nama_se": "RAOKIN LINUX",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9214",
-            "website": "raokin.my.id"
-        },
-        {
-            "id": "9cb1abbe-9d55-4aa5-891b-b536b9c153e0",
-            "nama_pse": "RUANG HALAL INDONESIA",
-            "nama_se": "KUYTALK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9216",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abcf-1b59-47b3-93f0-09b163345827",
-            "nama_pse": "RUANG HALAL INDONESIA",
-            "nama_se": "TELPON",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9217",
-            "website": "telpon.us"
-        },
-        {
-            "id": "9cb1abcf-27b9-45a0-9194-47f54c1b953f",
-            "nama_pse": "AGUNG WIJAYA",
-            "nama_se": "RAOKIN",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9218",
-            "website": "raokin.my.id"
-        },
-        {
-            "id": "9cb1abbe-2801-47ab-a67d-ac4cad821218",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT RAJADANA MENGANTI",
-            "nama_se": "PT BPR RAJADANA MENGANTI",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-27",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9103",
-            "website": "rajadanamenganti.com"
-        },
-        {
-            "id": "9cb1ab9a-b5f0-48c8-92a6-e8cb3659e0ee",
-            "nama_pse": "MANDARIN MEDIA INDONESIA",
-            "nama_se": "WWW.ACCOMMCAN.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-26",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/9030",
-            "website": "accommcan.com"
         }
     ],
-    "processingTimeMs": 5,
+    "processingTimeMs": 6,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 218,
     "totalPages": 383

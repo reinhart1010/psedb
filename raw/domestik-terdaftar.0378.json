@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ab66-3705-4cd3-a6cb-2d14fe18f5f7",
+            "nama_pse": "PERSAUDARAAN LINTAS MANDIRI JAYA",
+            "nama_se": "PLM STORE",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
+            "tanggal_terbit": "2021-03-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/316",
+            "website": "store.penawarlegendamaju.co.id"
+        },
+        {
+            "id": "9cb1ab66-3ab8-4b39-a951-f445dd87203d",
+            "nama_pse": "MYDOCTORS INDONESIA NUSANTARA TEKNOLOGI",
+            "nama_se": "MYDOCTORS",
+            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Kesehatan, Sektor Kesehatan",
+            "tanggal_terbit": "2021-03-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/315",
+            "website": "mydoctors.id"
+        },
+        {
+            "id": "9cb1ab64-99d8-4a92-b4c7-7341eed08e7d",
+            "nama_pse": "DANA INVESTASI BERSAMA",
+            "nama_se": "FUNDEX",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/320",
+            "website": "fundex.id"
+        },
+        {
+            "id": "9cb1ab69-c340-4d3c-baf9-daf40f4c4209",
+            "nama_pse": "INTER PROSPEK",
+            "nama_se": "KESATO \u0026 CO",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/323",
+            "website": "kesato.com"
+        },
+        {
+            "id": "9cb1ab83-43ec-4479-989d-6622b1965b07",
+            "nama_pse": "AXA FINANCIAL INDONESIA",
+            "nama_se": "AXA DIRECT",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-03-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/292",
+            "website": "axa.co.id/"
+        },
+        {
+            "id": "9cb1ab83-4dc3-4afa-bf57-4ef9bbb3cef1",
+            "nama_pse": "AXA FINANCIAL INDONESIA",
+            "nama_se": "AFI ONE",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-03-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/308",
+            "website": "axa.co.id/"
+        },
+        {
+            "id": "9cb1ab83-508d-4900-a548-e366e70a2dfd",
+            "nama_pse": "MNC TEKNOLOGI NUSANTARA",
+            "nama_se": "MOTIONPAY",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-03-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/306",
+            "website": "motionpay.id"
+        },
+        {
+            "id": "9cb1ab8b-a754-4a2e-822e-b70124629b66",
+            "nama_pse": "MIKRO KAPITAL INDONESIA",
+            "nama_se": "BEESFUNDING",
+            "sektor": "Sektor Keuangan, Sektor Keuangan",
+            "tanggal_terbit": "2021-03-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/303",
+            "website": "beesfunding.id"
+        },
+        {
+            "id": "9cb1ab8c-3bb3-4e9d-a564-def10f526105",
+            "nama_pse": "LABA KISAH KARUNIA",
+            "nama_se": "LABABOOK",
+            "sektor": "Sektor Keuangan, Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/294",
+            "website": "lababook.com"
+        },
+        {
+            "id": "9cb1ab7c-beac-48b4-837c-ba9da10971fd",
+            "nama_pse": "CLOUD COMPUTING INDONESIA",
+            "nama_se": "QINGCLOUD WEBSITE",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2021-03-04",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/302",
+            "website": "intl.qingcloud.com"
+        },
+        {
             "id": "9cb1ab8c-8066-47d5-9e22-7035ddb0c0e5",
             "nama_pse": "ABINITIO INOVASI TEKNOLOGI",
             "nama_se": "INITIO",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2021-02-25",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/192",
             "website": "pruworks.prudential.co.id"
-        },
-        {
-            "id": "9cb1ab8b-dc34-4969-a489-000c070f59ba",
-            "nama_pse": "PRUDENTIAL LIFE ASSURANCE",
-            "nama_se": "PRU MEDICAL NETWORK PORTAL",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-02-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/215",
-            "website": "prumedical.prudential.co.id"
-        },
-        {
-            "id": "9cb1ab83-fcc5-417d-ba28-aca8b8b8bee9",
-            "nama_pse": "PRUDENTIAL LIFE ASSURANCE",
-            "nama_se": "PRUACCESS",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-02-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/217",
-            "website": "pruaccess.prudential.co.id"
-        },
-        {
-            "id": "9cb1ab7c-2529-44cc-82c1-6fc7492b36e4",
-            "nama_pse": "PRUDENTIAL LIFE ASSURANCE",
-            "nama_se": "PRUFORCE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-02-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/218",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab83-ff85-418b-bfdc-c4ec260067f2",
-            "nama_pse": "PRUDENTIAL LIFE ASSURANCE",
-            "nama_se": "PRUFAST",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-02-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/220",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ab8b-de34-43be-901f-ac3c2e252be0",
-            "nama_pse": "PRUDENTIAL LIFE ASSURANCE",
-            "nama_se": "PRUDENTIAL CORPORATE WEBSITE",
-            "sektor": "Sektor Keuangan, Sektor Keuangan",
-            "tanggal_terbit": "2021-02-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/221",
-            "website": "prudential.co.id"
-        },
-        {
-            "id": "9cb1ab7c-3bee-490a-9452-d23f0b3d472f",
-            "nama_pse": "GENERASI NUSA KREATIF",
-            "nama_se": "BANTU LEGAL INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-02-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/245",
-            "website": "bantulegal.id"
-        },
-        {
-            "id": "9cb1ab84-01b4-4c2b-b988-138629b5a8c0",
-            "nama_pse": "MNC OTT NETWORK",
-            "nama_se": "VISION+",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-02-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/249",
-            "website": "visionplus.id"
-        },
-        {
-            "id": "9cb1ab7c-772a-4b1b-99af-884eab5132bb",
-            "nama_pse": "LEGAL BERKAT DIGITALINDO",
-            "nama_se": "KIOSHUKUM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-02-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/219",
-            "website": "kioshukum.id"
-        },
-        {
-            "id": "9cb1ab7c-ba1b-4368-b373-35f9c776184c",
-            "nama_pse": "BIRUNI DIGITAL KREATIF",
-            "nama_se": "BIRUCREATIVE.COM",
-            "sektor": "Sektor Perdagangan, Sektor Perdagangan",
-            "tanggal_terbit": "2021-02-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/191",
-            "website": "birucreative.com"
-        },
-        {
-            "id": "9cb1ab8c-6990-4e51-abc1-cdcb8b3a11de",
-            "nama_pse": "STRIPE PAYMENTS INDONESIA",
-            "nama_se": "STRIPE PAYMENTS INDONESIA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2021-02-25",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/194",
-            "website": "stripeindonesia.id"
         }
     ],
-    "processingTimeMs": 13,
+    "processingTimeMs": 9,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 378,
     "totalPages": 383

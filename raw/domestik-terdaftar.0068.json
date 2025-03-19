@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1ac6f-71bb-4aa1-978f-3f0c594a6a52",
+            "nama_pse": "LINGGA STORE JAYA",
+            "nama_se": "LINGGA STORE",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2024-05-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18867",
+            "website": "lingga-store.com"
+        },
+        {
+            "id": "9cb1ac5a-fb2c-4829-b2b7-8aa7958ac697",
+            "nama_pse": "NAZEEFA INTER MEDIA",
+            "nama_se": "KUANTANXPRESS.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18868",
+            "website": "kuantanxpress.id"
+        },
+        {
+            "id": "9cb1ac5a-fe2e-47e6-97fa-0c39869fdbe4",
+            "nama_pse": "HAGA MENDHENA NUSANTARA",
+            "nama_se": "SISTEM INFORMASI MANAJEMEN PUSKESMAS",
+            "sektor": "Sektor Kesehatan",
+            "tanggal_terbit": "2024-05-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18871",
+            "website": "-"
+        },
+        {
+            "id": "9cb1ac6f-bd14-40f2-b267-69abcaa63f79",
+            "nama_pse": "NAZEEFA INTER MEDIA",
+            "nama_se": "INEWS77.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18869",
+            "website": "inews77.id"
+        },
+        {
+            "id": "9cb1ac5b-0174-4ddd-a0c7-c1bc1747a1e5",
+            "nama_pse": "NAZEEFA INTER MEDIA",
+            "nama_se": "JEJAKKRIMINAL.CO.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18870",
+            "website": "jejakkriminal.co.id"
+        },
+        {
+            "id": "9cb1ac85-636f-4629-b2ae-4cf0a9ecd0fa",
+            "nama_pse": "NAZEEFA INTER MEDIA",
+            "nama_se": "HARIANINFORMASI.COM",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18872",
+            "website": "harianinformasi.com"
+        },
+        {
+            "id": "9cb1ac6f-c065-4f01-b871-8427f9c8a02d",
+            "nama_pse": "LAPAK SEJAHTERA ABADI",
+            "nama_se": "LAPAKSEA.ID",
+            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18873",
+            "website": "lapaksea.id"
+        },
+        {
+            "id": "9cb1ac5b-04e3-41d6-8f45-a8bcb5bd673a",
+            "nama_pse": "MUHAMAD AFIFUDIN ALFARISI",
+            "nama_se": "GOODERS.ID",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18874",
+            "website": "gooders.id"
+        },
+        {
+            "id": "9cb1ac5b-0969-45d4-bcfe-2fc0fd8bef4b",
+            "nama_pse": "MUHAMMAD AJI PANGESTU",
+            "nama_se": "SISTEM INFORMASI SENAT AKADEMIK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18875",
+            "website": "senat.polnes.ac.id"
+        },
+        {
+            "id": "9cb1ac85-6731-4fc8-b627-91d035eb4074",
+            "nama_pse": "MUHAMMAD AJI PANGESTU",
+            "nama_se": "SISTEM INFORMASI KERJASAMA POLITEKNIK NEGERI SAMARINDA",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2024-05-09",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18876",
+            "website": "kerjasama.eminat.store"
+        },
+        {
             "id": "9cb1ac5b-0ca4-4c48-8844-362dea58420a",
             "nama_pse": "PACUNEWS MEDIA GLOBAL",
             "nama_se": "PACUNEWS.COM",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2024-05-06",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18828",
             "website": "resulticks.com"
-        },
-        {
-            "id": "9cb1ac85-20fe-4a49-ade0-7d6a81383b20",
-            "nama_pse": "ABU BAKR ASSIDDIQ",
-            "nama_se": "SIMRS KHANZA RSKB HEART AND SURGERY",
-            "sektor": "Sektor Kesehatan",
-            "tanggal_terbit": "2024-05-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18829",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6f-8711-4cb6-a5e4-935cbfd5bbe6",
-            "nama_pse": "INTI OPTIMA TEKNOLOGI",
-            "nama_se": "SURVEI INTERAKTIF ELEKTRONIK",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18831",
-            "website": "intioptima.com"
-        },
-        {
-            "id": "9cb1ac5a-d13f-4885-ab18-a89bcdc7b1ad",
-            "nama_pse": "AMBIL GAJI DULUAN",
-            "nama_se": "ATOER",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18830",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6f-8a83-439e-b3f9-4c7c542e15aa",
-            "nama_pse": "NARENDRA ARGA MULYA",
-            "nama_se": "PT NARENDRA ARGA MULYA",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18832",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5a-d9f2-42a5-83f7-04c6d3a84c90",
-            "nama_pse": "ANTAREJA NUSANTARA RESOURCES",
-            "nama_se": "CREATIVE DIGITAL SHOP",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18833",
-            "website": "creativeds.shop"
-        },
-        {
-            "id": "9cb1ac6f-8dcc-43c7-bfe5-ed1f4a3b3fff",
-            "nama_pse": "AKTIVA MULTI INOVASI",
-            "nama_se": "TIGADIGIT",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-06",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18834",
-            "website": "tigadigit.id"
-        },
-        {
-            "id": "9cb1ac5a-bc23-4278-b394-4133b3a24475",
-            "nama_pse": "VISION PULSA MULTIPAYMENT",
-            "nama_se": "VISIONPULSA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2024-05-05",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18821",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac5a-b13c-44dc-8b01-4086e9478483",
-            "nama_pse": "BERANI DIGITAL INDONESIA",
-            "nama_se": "BERANI DIGITAL ID",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18817",
-            "website": "beranidigital.id"
-        },
-        {
-            "id": "9cb1ac5a-b4fa-4730-90db-454cf9dcc636",
-            "nama_pse": "BERKAT ADONAY NETWORK",
-            "nama_se": "ADONAY.NET",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18818",
-            "website": "-"
-        },
-        {
-            "id": "9cb1ac6f-77fa-4ad6-9417-0f10d5a53345",
-            "nama_pse": "LOKA DIGITAL NIAGA",
-            "nama_se": "ACARAKOO.COM",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2024-05-04",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/18819",
-            "website": "acarakoo.com"
         }
     ],
-    "processingTimeMs": 2,
+    "processingTimeMs": 29,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 68,
     "totalPages": 383

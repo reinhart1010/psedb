@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abc2-2471-4bd1-8868-3fb55aec8cc4",
+            "nama_pse": "STEFANUS HARTONO KURNIAWAN",
+            "nama_se": "RAJAWALI RELOAD",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7148",
+            "website": "Rajawalireload.com"
+        },
+        {
+            "id": "9cb1abe7-a112-45df-b812-ea4a84e8ff79",
+            "nama_pse": "CISCO TECHNOLOGIES INDONESIA",
+            "nama_se": "WEBEX",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7147",
+            "website": "webex.com"
+        },
+        {
+            "id": "9cb1abe7-a570-4ba9-96ec-c1f85b9fd43c",
+            "nama_pse": "Wawan Candra Dinata ",
+            "nama_se": "TRAVELDATA: AGEN PULSA \u0026 KUOTA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7136",
+            "website": "traveldata.id"
+        },
+        {
+            "id": "9cb1abe7-a906-478f-a66c-31b48d76d877",
+            "nama_pse": "BANK SMBC INDONESIA",
+            "nama_se": "AKSESBISNIS@BTPN",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7138",
+            "website": "aksesbisnis.btpn.com"
+        },
+        {
+            "id": "9cb1abe7-adfd-4150-b3a8-c2f14776991e",
+            "nama_pse": "STEFANUS HARTONO KURNIAWAN",
+            "nama_se": "RAJAWALI PULSA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7137",
+            "website": "Rajawalireload.com"
+        },
+        {
+            "id": "9cb1abe7-b38a-4ee6-ac98-dd71653d17ba",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH BALI",
+            "nama_se": "E-RETRIBUSI BANK BPD BALI",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7142",
+            "website": "eretribusi.bpdbali.co.id"
+        },
+        {
+            "id": "9cb1abc2-2788-4eed-93cb-50e80b956655",
+            "nama_pse": "MOHAMMAD TAUFIQURROHMAN",
+            "nama_se": "APLIKASI PENCATATAN INFORMASI KEUANGAN BLUD RSUD SULTAN FATAH KABUPATEN DEMAK",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7143",
+            "website": "blud.rsudsulfat.com"
+        },
+        {
+            "id": "9cb1abe7-b9c8-411d-b867-553ebf99ff90",
+            "nama_pse": "INTI CAKRAWALA CITRA",
+            "nama_se": "STOCK POINT INDOGROSIR (SPI)",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7144",
+            "website": "spi.klikindogrosir.com"
+        },
+        {
+            "id": "9cb1abc2-2cbc-4ad4-9787-ccba05d5e789",
+            "nama_pse": "BANK HSBC INDONESIA",
+            "nama_se": "CORPORATE INTERNET BANKING HSBCNET",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7145",
+            "website": "hsbcnet.com"
+        },
+        {
+            "id": "9cb1abc2-2f49-4ea9-9ad1-ac707349ae7d",
+            "nama_pse": "ENVIPEDIA HARMONI INDONESIA",
+            "nama_se": "ENVIPEDIA",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-19",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7146",
+            "website": "-"
+        },
+        {
             "id": "9cb1abe7-bf6d-4d75-aeac-92e5ee7b70d9",
             "nama_pse": "RELBI LIDIANI HUSADA",
             "nama_se": "WEBSITE OFFICIAL PT. BPR KARYA GUNA MANDIRI",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-19",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7183",
             "website": "Darrareload.com"
-        },
-        {
-            "id": "9cb1abb7-377f-4f5b-89cb-7a14d98843b4",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT NUSANTARA BONA PASOGIT DUA PULUH LIMA",
-            "nama_se": "PT. BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 25",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7184",
-            "website": "ptbprnbp25.co.id"
-        },
-        {
-            "id": "9cb1abc2-78a1-4878-bbe4-8a71fd5540f5",
-            "nama_pse": "SUKSES JABAR BANTEN",
-            "nama_se": "BIMA - BILLING MANAGEMENT ANDALAN",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7185",
-            "website": "sjb-tech.com"
-        },
-        {
-            "id": "9cb1abb7-3a77-4f1c-8997-26126731849c",
-            "nama_pse": "SINERGI BESTAMA INDONESIA",
-            "nama_se": "MVICALL",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7188",
-            "website": "mvicall.com"
-        },
-        {
-            "id": "9cb1abb7-3d0c-4a57-a582-dd9e88549226",
-            "nama_pse": "BANK DANAMON INDONESIA",
-            "nama_se": "DCARD MOBILE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7209",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abc2-83d7-4f99-a8de-bbe312d5425b",
-            "nama_pse": "BIMASAKTI MULTI SINERGI",
-            "nama_se": "MANDALIKATREN",
-            "sektor": "Sektor Perdagangan, Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7189",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abb7-3f25-485d-86d0-122bd2ad73b4",
-            "nama_pse": "INFOKES INDONESIA",
-            "nama_se": "EPOSKESTREN",
-            "sektor": "Sektor Kesehatan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7190",
-            "website": "eposkestren.id"
-        },
-        {
-            "id": "9cb1abc2-86d2-40de-afcb-b5677552d98a",
-            "nama_pse": "BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH PERSERODA",
-            "nama_se": "BRK QRIS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7191",
-            "website": "qris.bankriaukepri.co.id"
-        },
-        {
-            "id": "9cb1abc2-8bec-4652-90d7-ac553ffa484d",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT ARTHA PRIMA PERKASA",
-            "nama_se": "WEBSITE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7193",
-            "website": "bprarthaprimaperkasa.co.id"
-        },
-        {
-            "id": "9cb1abe8-01b3-4074-872d-44e5d87a636e",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT KARYAJATNIKA SADAYA",
-            "nama_se": "SALESTRAX BPRKS",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7194",
-            "website": "salestracking.bprks.co.id"
-        },
-        {
-            "id": "9cb1abc2-8fbd-43c0-9ca2-36a7d483c251",
-            "nama_pse": "Andri Mugiono",
-            "nama_se": "BOOPSULSA.COM",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-19",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7195",
-            "website": "boospulsa.com"
         }
     ],
-    "processingTimeMs": 12,
+    "processingTimeMs": 4,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 264,
     "totalPages": 383

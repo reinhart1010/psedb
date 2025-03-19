@@ -1,6 +1,96 @@
 {
     "hits": [
         {
+            "id": "9cb1abe9-00d4-4856-907e-8411b82e7153",
+            "nama_pse": "CHOIRI ARDI NUR ROHMAD",
+            "nama_se": "JADIG - JAJAN DIGITAL",
+            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7332",
+            "website": "jadigjajandigital.webtoko.net"
+        },
+        {
+            "id": "9cb1abe9-03ed-483d-842f-8b66854ad205",
+            "nama_pse": "BANK PEREKONOMIAN RAKYAT NUSANTARA BONA PASOGIT DUA PULUH TUJUH",
+            "nama_se": "WEBSITE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7333",
+            "website": "bprnbp27.com"
+        },
+        {
+            "id": "9cb1abb7-aeb5-424c-ac34-52acacde9954",
+            "nama_pse": "BURSA EFEK INDONESIA",
+            "nama_se": "IDX RECORD",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7335",
+            "website": "idxrecord.idx.co.id"
+        },
+        {
+            "id": "9cb1abb7-b0d9-474c-832e-b01dd08f1b6a",
+            "nama_pse": "HANWHA LIFE INSURANCE INDONESIA",
+            "nama_se": "SALES ILUSTRATION SYSTEM",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7336",
+            "website": "sis.hanwhalife.co.id"
+        },
+        {
+            "id": "9cb1abc3-25c4-4689-a6bd-dc2126e1dbd9",
+            "nama_pse": "BANK PEMBIAYAAN RAKYAT SYARIAH TAMAN INDAH DARUSSALAM",
+            "nama_se": "ISLAMIC BANKING APLICATION",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7337",
+            "website": "bprstamanindah.co.id"
+        },
+        {
+            "id": "9cb1abe9-06ab-4fbf-b916-9358d5a1caa7",
+            "nama_pse": "ANGKASA PRIMA SOLUSI",
+            "nama_se": "APS",
+            "sektor": "Sektor Transportasi, Sektor Teknologi Informasi dan Komunikasi",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7534",
+            "website": "apsolusi.com"
+        },
+        {
+            "id": "9cb1abc3-297a-400a-8806-ef480a88e842",
+            "nama_pse": "BANK PERKREDITAN RAKYAT NUSANTARA BONA PASOGIT 32",
+            "nama_se": "PT BPR NUSANTARA BONA PASOGIT 32",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7382",
+            "website": "bprnbp32.com"
+        },
+        {
+            "id": "9cb1abb7-b50e-40e6-a275-518facca0150",
+            "nama_pse": "BANK PERKREDITAN RAKYAT GURU JATENG",
+            "nama_se": "BANK GURU JATENG",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7338",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc3-2c02-4ed0-b68e-ac8ac59a2aa9",
+            "nama_pse": "BANK PEMBANGUNAN DAERAH KALIMANTAN TENGAH",
+            "nama_se": "APLIKASI PAJAK DAERAH ONLINE",
+            "sektor": "Sektor Keuangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7339",
+            "website": "-"
+        },
+        {
+            "id": "9cb1abc3-2ecd-4601-95da-3b57b677dd6b",
+            "nama_pse": "ADE NOVIT ROMADLON",
+            "nama_se": "KONTERGO",
+            "sektor": "Sektor Perdagangan",
+            "tanggal_terbit": "2022-07-20",
+            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7341",
+            "website": "kontergo.com"
+        },
+        {
             "id": "9cb1abc3-30dd-4061-bb6b-8417a697dd99",
             "nama_pse": "BANK PEREKONOMIAN RAKYAT SARASWATI EKA BUMI",
             "nama_se": "WEBSITE BPR SARASWATI",
@@ -359,101 +449,11 @@
             "tanggal_terbit": "2022-07-20",
             "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7378",
             "website": "bprkusumamandala.com"
-        },
-        {
-            "id": "9cb1abb7-d252-4b22-816e-88f7546d61a0",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT NUSANTARA BONA PASOGIT DUA PULUH SEMBILAN",
-            "nama_se": "BPR NBP 29",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7377",
-            "website": "bprnbp29.co.id"
-        },
-        {
-            "id": "9cb1abe9-5c41-4fa7-a5a4-a5a55b25ecf5",
-            "nama_pse": "NUGRAHA SANTOSA TEKNOLOGI INDONESIA",
-            "nama_se": "ESHAN APLIKASI KLINIK DAN APOTEK",
-            "sektor": "Sektor Perdagangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7379",
-            "website": "eshan.co.id"
-        },
-        {
-            "id": "9cb1abb7-d41c-477c-adc5-adffd48b0f28",
-            "nama_pse": "BARON BIONDI WILLIAM",
-            "nama_se": "BBW MOBILE BANKING",
-            "sektor": "Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7383",
-            "website": "bbw.co.id"
-        },
-        {
-            "id": "9cb1abc3-67ee-485c-9637-90328d208ecf",
-            "nama_pse": "PT. BPR DANA SELARAS SENTOSA",
-            "nama_se": "BANK PERKREDITAN RAKYAT",
-            "sektor": "Sektor Keuangan, Sektor Teknologi Informasi dan Komunikasi",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7380",
-            "website": "bprdarsa.co.id"
-        },
-        {
-            "id": "9cb1abe9-5f5b-4249-b169-bb59eb1ce183",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT BANGUN PERMATA KARSA",
-            "nama_se": "ASSIST-BPR.NE",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7385",
-            "website": "-"
-        },
-        {
-            "id": "9cb1abe9-62c1-4abe-90ea-678015abeb8d",
-            "nama_pse": "VOSTROPAY PARAMARTA NUSANTARA",
-            "nama_se": "VOSPAY",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7393",
-            "website": "vospay.co.id"
-        },
-        {
-            "id": "9cb1abe9-661a-4b02-8d98-cb28116888e9",
-            "nama_pse": "NIAGA MASA DEPAN",
-            "nama_se": "AVANA",
-            "sektor": "Sektor Perdagangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7387",
-            "website": "avana.id"
-        },
-        {
-            "id": "9cb1abc3-6b07-49ce-ba2e-fb089b8c55c0",
-            "nama_pse": "BANK PEREKONOMIAN RAKYAT LESTARI BALI",
-            "nama_se": "LANDING PAGE KREDIT MULTIGUNA PRIMA",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7386",
-            "website": "ringankancicilan.bprlestari.com"
-        },
-        {
-            "id": "9cb1abe9-6975-47e0-a08c-f3c21ce969ba",
-            "nama_pse": "BURSA EFEK INDONESIA",
-            "nama_se": "IDX INCUBATOR PORTAL",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7397",
-            "website": "idxincubator.co.id"
-        },
-        {
-            "id": "9cb1abb7-d614-4ea5-85c6-8ed4a357a0e1",
-            "nama_pse": "BANK PERKREDITAN RAKYAT SARI WIRA TAMA",
-            "nama_se": "BANKING SMART SYSTEM",
-            "sektor": "Sektor Keuangan",
-            "tanggal_terbit": "2022-07-20",
-            "url_tdpse_detail": "https://pse.komdigi.go.id/tdpse-detail/7395",
-            "website": "bprsariwiratama.co.id"
         }
     ],
     "processingTimeMs": 5,
     "query": "",
-    "totalHits": 19121,
+    "totalHits": 19131,
     "hitsPerPage": 50,
     "page": 234,
     "totalPages": 383
